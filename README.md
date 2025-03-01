@@ -47,25 +47,10 @@ To use the compiled binaries, you must own the game. The C&C Ultimate Collection
 2. Install CMake
 3. Copy DX8SDK into Dependencies folder
 4. Copy dbghelp.lib into DX8SDK
-5. Get https://github.com/electronicarts/CnC_Generals_Zero_Hour/commit/3b1a5d970f7c107b2173528458c037d309d49391
-6. Work through 3 errors
-	1. GeneralsMD\Code\Libraries\Source\profile
-		a. Get CMakeList.txt
-    b. Source: https://discord.com/channels/409121752921276426/409121752921276428/1345369460818706503
-	2. GeneralsMD\Code\Libraries\Source\WWVegas\WW3D2\ddsfile.cpp
-    a. Add these at Line 30
-      #define DDSCAPS2_CUBEMAP 0x00000200L
-      #define DDSCAPS2_VOLUME 0x00200000L
-    Source: https://discord.com/channels/409121752921276426/409121752921276428
-	3. MilesAudioManager.cpp
-		a. Comment out these cases
-          case DSSPEAKER_DIRECTOUT:
-          case DSSPEAKER_5POINT1: 
-          case DSSPEAKER_7POINT1:
-          Source: https://discord.com/channels/409121752921276426/409121752921276428/1345399631017938964
-7. cmake --preset vc6
-8. cd build\vc6
-9. nmake
+5. Clone code in this repo
+6. cmake --preset vc6
+7. cd build\vc6
+8. nmake
 
 When the workspace has finished building, the compiled binary will be called zerohour.exe
 
