@@ -22,10 +22,10 @@
 //////////////////////////////////////////////////////////////////////////////
 
 #include "Compression.h"
-#include "LZHCompress/NoxCompress.h"
-extern "C" {
-#include "ZLib/zlib.h"
-}
+//#include "LZHCompress/NoxCompress.h"
+//extern "C" {
+//#include "ZLib/zlib.h"
+//}
 #include "EAC/codex.h"
 #include "EAC/btreecodex.h"
 #include "EAC/huffcodex.h"
@@ -140,8 +140,8 @@ Int CompressionManager::getMaxCompressedSize( Int uncompressedLen, CompressionTy
 {
 	switch (compType)
 	{
-		case COMPRESSION_NOXLZH:
-			return CalcNewSize(uncompressedLen) + 8;
+		//case COMPRESSION_NOXLZH:
+		//	return CalcNewSize(uncompressedLen) + 8;
 
 		case COMPRESSION_BTREE:   // guessing here
 		case COMPRESSION_HUFF:    // guessing here
@@ -240,41 +240,41 @@ Int CompressionManager::compressData( CompressionType compType, void *srcVoid, I
 			return 0;
 	}
 
-	if (compType == COMPRESSION_NOXLZH)
-	{
-		memcpy(dest, "NOX\0", 4);
-		*(Int *)(dest+4) = 0;
-		Bool ret = CompressMemory(src, srcLen, dest+8, destLen);
-		if (ret)
-		{
-			*(Int *)(dest+4) = srcLen;
-			return destLen + 8;
-		}
-		else
-			return 0;
-	}
+	//if (compType == COMPRESSION_NOXLZH)
+	//{
+	//	memcpy(dest, "NOX\0", 4);
+	//	*(Int *)(dest+4) = 0;
+	//	Bool ret = CompressMemory(src, srcLen, dest+8, destLen);
+	//	if (ret)
+	//	{
+	//		*(Int *)(dest+4) = srcLen;
+	//		return destLen + 8;
+	//	}
+	//	else
+	//		return 0;
+	//}
 
-	if (compType >= COMPRESSION_ZLIB1 && compType <= COMPRESSION_ZLIB9)
-	{
-		Int level = compType - COMPRESSION_ZLIB1 + 1; // 1-9
-		memcpy(dest, "ZL0\0", 4);
-		dest[2] = '0' + level;
-		*(Int *)(dest+4) = 0;
+	//if (compType >= COMPRESSION_ZLIB1 && compType <= COMPRESSION_ZLIB9)
+	//{
+	//	Int level = compType - COMPRESSION_ZLIB1 + 1; // 1-9
+	//	memcpy(dest, "ZL0\0", 4);
+	//	dest[2] = '0' + level;
+	//	*(Int *)(dest+4) = 0;
 
-		unsigned long outLen = destLen;
-		Int err = z_compress2( dest+8, &outLen, src, srcLen, level );
+	//	unsigned long outLen = destLen;
+	//	Int err = z_compress2( dest+8, &outLen, src, srcLen, level );
 
-		if (err == Z_OK || err == Z_STREAM_END)
-		{
-			*(Int *)(dest+4) = srcLen;
-			return outLen + 8;
-		}
-		else
-		{
-			DEBUG_LOG(("ZLib compression error (level is %d, src len is %d) %d\n", level, srcLen, err));
-			return 0;
-		}
-	}
+	//	if (err == Z_OK || err == Z_STREAM_END)
+	//	{
+	//		*(Int *)(dest+4) = srcLen;
+	//		return outLen + 8;
+	//	}
+	//	else
+	//	{
+	//		DEBUG_LOG(("ZLib compression error (level is %d, src len is %d) %d\n", level, srcLen, err));
+	//		return 0;
+	//	}
+	//}
 
 	return 0;
 }
@@ -317,33 +317,33 @@ Int CompressionManager::decompressData( void *srcVoid, Int srcLen, void *destVoi
 			return 0;
 	}
 
-	if (compType == COMPRESSION_NOXLZH)
-	{
-		Bool ret = DecompressMemory(src+8, srcLen-8, dest, destLen);
-		if (ret)
-			return destLen;
-		else
-			return 0;
-	}
+	//if (compType == COMPRESSION_NOXLZH)
+	//{
+	//	Bool ret = DecompressMemory(src+8, srcLen-8, dest, destLen);
+	//	if (ret)
+	//		return destLen;
+	//	else
+	//		return 0;
+	//}
 
-	if (compType >= COMPRESSION_ZLIB1 && compType <= COMPRESSION_ZLIB9)
-	{
-#ifdef DEBUG_LOGGING
-		Int level = compType - COMPRESSION_ZLIB1 + 1; // 1-9
-#endif
-
-		unsigned long outLen = destLen;
-		Int err = z_uncompress(dest, &outLen, src+8, srcLen-8);
-		if (err == Z_OK || err == Z_STREAM_END)
-		{
-			return outLen;
-		}
-		else
-		{
-			DEBUG_LOG(("ZLib decompression error (src is level %d, %d bytes long) %d\n", level, srcLen, err));
-			return 0;
-		}
-	}
+	//if (compType >= COMPRESSION_ZLIB1 && compType <= COMPRESSION_ZLIB9)
+	//{
+//#ifdef DEBUG_LOGGING
+		//Int level = compType - COMPRESSION_ZLIB1 + 1; // 1-9
+//#endif
+//
+	//	unsigned long outLen = destLen;
+	//	Int err = z_uncompress(dest, &outLen, src+8, srcLen-8);
+	//	if (err == Z_OK || err == Z_STREAM_END)
+	//	{
+	//		return outLen;
+	//	}
+	//	else
+	//	{
+	//		DEBUG_LOG(("ZLib decompression error (src is level %d, %d bytes long) %d\n", level, srcLen, err));
+	//		return 0;
+	//	}
+	//}
 
 	return 0;
 }
