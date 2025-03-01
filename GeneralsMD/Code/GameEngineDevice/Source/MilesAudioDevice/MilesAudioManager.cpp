@@ -1685,9 +1685,9 @@ void MilesAudioManager::selectProvider( UnsignedInt providerNdx )
 		lpDirectSoundInfo->GetSpeakerConfig( &speakerConfig );
 		switch( DSSPEAKER_CONFIG( speakerConfig ) )
 		{
-			case DSSPEAKER_DIRECTOUT:
-				m_selectedSpeakerType = AIL_3D_2_SPEAKER;
-				break;
+//			case DSSPEAKER_DIRECTOUT:
+//				m_selectedSpeakerType = AIL_3D_2_SPEAKER;
+//				break;
 			case DSSPEAKER_MONO:     
 				m_selectedSpeakerType = AIL_3D_2_SPEAKER;
 				break;
@@ -1706,14 +1706,14 @@ void MilesAudioManager::selectProvider( UnsignedInt providerNdx )
 				m_selectedSpeakerType = AIL_3D_SURROUND;
 				useDolby = TRUE;
 				break;
-			case DSSPEAKER_5POINT1:  
-				m_selectedSpeakerType = AIL_3D_51_SPEAKER;
-				useDolby = TRUE;
-				break;
-			case DSSPEAKER_7POINT1:  
-				m_selectedSpeakerType = AIL_3D_71_SPEAKER;
-				useDolby = TRUE;
-				break;
+//			case DSSPEAKER_5POINT1:  
+//				m_selectedSpeakerType = AIL_3D_51_SPEAKER;
+//				useDolby = TRUE;
+//				break;
+//			case DSSPEAKER_7POINT1:  
+//				m_selectedSpeakerType = AIL_3D_71_SPEAKER;
+//				useDolby = TRUE;
+//				break;
 		}
 	}
 
