@@ -142,7 +142,7 @@ std::list<PeerResponse> TheLobbyQueuedUTMs;
 
 // Slash commands -------------------------------------------------------------------------
 extern "C" {
-int getQR2HostingStatus(void);
+	static int getQR2HostingStatus(void) { return 0; }
 }
 extern int isThreadHosting;
 

@@ -72,7 +72,6 @@
 #include "d3dx8tex.h"
 #include "dx8caps.h"
 #include "common/gamelod.h"
-#include "Benchmark.h"
 
 #ifdef _INTERNAL
 // for occasional debugging...
@@ -2843,7 +2842,11 @@ Bool W3DShaderManager::testMinimumRequirements(ChipsetType *videoChipType, CpuTy
 
 	if (intBenchIndex && floatBenchIndex && memBenchIndex)
 	{
-		RunBenchmark(0, NULL, floatBenchIndex, intBenchIndex, memBenchIndex);
+		// TODO, make sure these values are appropriate, otherwise I give myself 10 out of 10.
+		*intBenchIndex = 10.0f;
+		*floatBenchIndex = 10.0f;
+		*memBenchIndex = 10.0f;
+		//RunBenchmark(0, NULL, floatBenchIndex, intBenchIndex, memBenchIndex);
 	}
 
 	return TRUE;
