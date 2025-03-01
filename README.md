@@ -3,7 +3,7 @@
 
 This repository includes source code for Command & Conquer Generals, and its expansion pack Zero Hour. This release provides support to the Steam Workshop for both games ([C&C Generals](https://steamcommunity.com/workshop/browse/?appid=2229870) and [C&C Generals - Zero Hour](https://steamcommunity.com/workshop/browse/?appid=2732960)).
 
-This is a clean up of @Omniblade commit: https://github.com/electronicarts/CnC_Generals_Zero_Hour/commit/3b1a5d970f7c107b2173528458c037d309d49391
+This is a clean up of @Omniblade commit: https://github.com/electronicarts/CnC_Generals_Zero_Hour/commit/3b1a5d970f7c107b2173528458c037d309d49391 utilsing help from the AWESOME Thyme community @xezon @tomsons26 @disarray @hanfield @v @Irwon
 
 **Note: Only Zero Hour compiles**
 
@@ -11,7 +11,7 @@ This is a clean up of @Omniblade commit: https://github.com/electronicarts/CnC_G
 
 If you wish to rebuild the source code and tools successfully you will need to find or write new replacements (or remove the code using them entirely) for the following libraries;
 
-- DirectX SDK (Version 8.0 or higher) (expected path `\Code\Libraries\DirectX\`)
+- DirectX SDK (Version 8.0 or higher) (expected path `\Dependencies\`)
 
 No Longer Required
 
@@ -41,7 +41,7 @@ No Longer Required
 
 To use the compiled binaries, you must own the game. The C&C Ultimate Collection is available for purchase on [EA App](https://www.ea.com/en-gb/games/command-and-conquer/command-and-conquer-the-ultimate-collection/buy/pc) or [Steam](https://store.steampowered.com/bundle/39394/Command__Conquer_The_Ultimate_Collection/).
 
-### Before Building
+### Installation Instructions
 
 1. Install VS6 SP6
 2. Install CMake
