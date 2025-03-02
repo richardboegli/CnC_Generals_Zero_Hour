@@ -11,9 +11,10 @@ This is a clean up of @Omniblade commit: https://github.com/electronicarts/CnC_G
 
 If you wish to rebuild the source code and tools successfully you will need to find or write new replacements (or remove the code using them entirely) for the following libraries;
 
-- DirectX SDK (Version 8.0 or higher) (expected path `\Dependencies\`)
 
 No Longer Required
+
+~~-- DirectX SDK (Version 8.0 or higher) (expected path `\Dependencies\`) ~~
 
 ~~- STLport (4.5.3) - (expected path `\Code\Libraries\STLport-4.5.3`)~~
 
@@ -44,13 +45,12 @@ To use the compiled binaries, you must own the game. The C&C Ultimate Collection
 ### Installation Instructions
 
 1. Install VS6 SP6
-2. Install CMake
-3. Copy DX8SDK into Dependencies folder
-4. Copy dbghelp.lib into DX8SDK
-5. Clone code in this repo
-6. cmake --preset vc6
-7. cd build\vc6
-8. nmake
+2. Install CMake and git
+3. Clone this repo (requires olddx submodule) `git clone --recursive https://github.com/richardboegli/CnC_Generals_Zero_Hour`
+4. If using portable vc6 add it to working envrioment by calling `"PATH_TO_VC6/VCVARS32.BAT" VC6SP6`
+5. cmake --preset vc6
+6. cd build\vc6
+7. nmake
 
 When the workspace has finished building, the compiled binary will be called zerohour.exe
 
