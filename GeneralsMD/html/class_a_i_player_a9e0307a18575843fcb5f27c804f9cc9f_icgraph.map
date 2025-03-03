@@ -1,0 +1,58 @@
+<map id="AIPlayer::startTraining" name="AIPlayer::startTraining">
+<area shape="rect" id="Node000001" title="find a production building that can handle the order, and start building" alt="" coords="1627,324,1778,351"/>
+<area shape="rect" id="Node000002" href="$class_a_i_player.html#a979dcd54559e0bd4261d13c103587139" title=" " alt="" coords="1396,81,1545,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1676,315,1483,110,1487,106,1680,311"/>
+<area shape="rect" id="Node000014" href="$class_a_i_player.html#a66a8289f6d9e5b523bda6cca6fcc652b" title=" " alt="" coords="1377,349,1564,376"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="1612,350,1565,355,1564,350,1611,345"/>
+<area shape="rect" id="Node000015" href="$class_a_i_player.html#a8e1465c0aa461a30e3fde77cc3ad795c" title="Check the team build list, &amp; queue up units at any idle factories." alt="" coords="1142,400,1287,427"/>
+<area shape="poly" id="edge27_Node000001_Node000015" title=" " alt="" coords="1662,360,1623,377,1579,391,1502,405,1424,413,1288,418,1287,412,1424,408,1501,399,1578,385,1621,372,1660,355"/>
+<area shape="rect" id="Node000020" href="$class_a_i_player.html#a630754e6671e8f8704d17bce819d0908" title="determine the next team to reinforce" alt="" coords="1362,299,1579,325"/>
+<area shape="poly" id="edge28_Node000001_Node000020" title=" " alt="" coords="1611,330,1579,327,1579,321,1612,325"/>
+<area shape="rect" id="Node000003" href="$class_a_i_player.html#a80e4087caa7698b1963a236f3451312e" title=" " alt="" coords="1146,107,1282,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1381,106,1283,116,1282,111,1380,101"/>
+<area shape="rect" id="Node000012" href="$class_a_i_player.html#ab867f34c2bba53c089b58b3d0392dd01" title=" " alt="" coords="868,5,1061,32"/>
+<area shape="poly" id="edge17_Node000002_Node000012" title=" " alt="" coords="1420,78,1369,61,1314,47,1182,29,1061,22,1062,17,1183,24,1315,41,1370,56,1421,73"/>
+<area shape="rect" id="Node000013" href="$class_a_i_skirmish_player.html#acaa0a9935a06563ec7e068c0ba5774ea" title=" " alt="" coords="1114,56,1314,83"/>
+<area shape="poly" id="edge15_Node000002_Node000013" title=" " alt="" coords="1380,88,1315,82,1315,77,1381,83"/>
+<area shape="rect" id="Node000004" href="$class_a_i_player.html#af47e6e267d2e83458e839d719996b31c" title="Build a base buiding." alt="" coords="885,157,1044,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1140,140,1045,163,1044,157,1139,135"/>
+<area shape="rect" id="Node000005" href="$class_a_i_player.html#a8945c1bd927e9982464fead0bcd97f31" title="do base&#45;building behaviors" alt="" coords="613,195,815,221"/>
+<area shape="poly" id="edge12_Node000003_Node000005" title=" " alt="" coords="1188,145,1134,183,1102,201,1067,215,997,228,925,233,857,231,797,225,797,219,857,225,925,227,996,223,1065,209,1099,196,1132,179,1185,141"/>
+<area shape="rect" id="Node000011" href="$class_a_i_skirmish_player.html#a7c9d6b3c863585c472807a17d7d16f9f" title=" " alt="" coords="871,107,1058,133"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="1131,123,1058,123,1058,117,1131,117"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="1135,105,1113,97,1043,66,987,35,990,30,1046,61,1115,92,1137,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="869,192,816,199,815,194,869,187"/>
+<area shape="rect" id="Node000009" href="$class_a_i_skirmish_player.html#abb770e41edec31d70f0efda4d9a6253e" title="do base&#45;building behaviors" alt="" coords="626,99,802,141"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="869,159,802,143,803,138,871,154"/>
+<area shape="rect" id="Node000006" href="$class_a_i_player.html#a65af01d1afdba43aa7989b58475a5aaf" title=" " alt="" coords="392,195,562,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="598,211,562,211,562,205,598,205"/>
+<area shape="rect" id="Node000007" href="$class_a_i_player.html#a37a689ed5d72b91e9e1ea2465c9d9b33" title="simulates the behavior of a player" alt="" coords="223,195,341,221"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="377,211,341,211,341,205,377,205"/>
+<area shape="rect" id="Node000008" href="$class_a_i_skirmish_player.html#a0f31c70fc739b36317ce7fcbb51b3517" title="simulates the behavior of a player" alt="" coords="5,195,175,221"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="207,211,175,211,175,205,207,205"/>
+<area shape="rect" id="Node000010" href="$class_a_i_skirmish_player.html#aed88462e5350742335570f6e738be278" title=" " alt="" coords="390,99,564,141"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="610,123,565,123,565,117,610,117"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="855,123,803,123,803,117,855,117"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="852,12,750,11,631,19,569,29,507,44,447,63,390,89,357,112,330,142,293,196,288,193,325,138,354,108,388,84,445,58,505,39,568,24,630,14,749,5,852,6"/>
+<area shape="poly" id="edge16_Node000013_Node000009" title=" " alt="" coords="1098,77,984,85,863,97,803,106,802,101,862,92,984,80,1098,72"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="1385,382,1286,402,1285,397,1384,377"/>
+<area shape="rect" id="Node000016" href="$class_a_i_player.html#a75b30804af16ba254cafd0eb25253caa" title=" " alt="" coords="628,341,800,368"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="1126,410,1001,398,862,383,790,371,791,366,863,377,1001,393,1126,404"/>
+<area shape="rect" id="Node000017" href="$class_a_i_skirmish_player.html#a599912e5e6985bd72a196b306dfef71a" title=" " alt="" coords="389,456,565,499"/>
+<area shape="poly" id="edge22_Node000015_Node000017" title=" " alt="" coords="1132,433,1066,445,941,469,815,484,714,487,613,484,566,483,566,478,613,479,714,482,814,479,940,464,1066,440,1131,428"/>
+<area shape="rect" id="Node000018" href="$class_a_i_player.html#a3fb18183ccdf48c8748fece8b96109ab" title="do team&#45;building behaviors" alt="" coords="863,341,1066,368"/>
+<area shape="poly" id="edge23_Node000015_Node000018" title=" " alt="" coords="1139,399,1024,371,1025,366,1140,393"/>
+<area shape="rect" id="Node000019" href="$class_a_i_skirmish_player.html#ad2ebc58bcc549e113d954b381bae94a5" title="do team&#45;building behaviors" alt="" coords="626,427,802,469"/>
+<area shape="poly" id="edge25_Node000015_Node000019" title=" " alt="" coords="1126,422,1066,427,803,445,802,439,1066,421,1126,417"/>
+<area shape="poly" id="edge21_Node000016_Node000007" title=" " alt="" coords="657,338,323,224,325,219,658,333"/>
+<area shape="poly" id="edge24_Node000018_Node000016" title=" " alt="" coords="847,357,800,357,800,352,847,352"/>
+<area shape="poly" id="edge26_Node000019_Node000017" title=" " alt="" coords="611,463,566,469,565,464,610,458"/>
+<area shape="rect" id="Node000021" href="$class_a_i_player.html#ad4c457d439107b89257d2242390a45de" title="determine the next team to build" alt="" coords="1120,283,1309,309"/>
+<area shape="poly" id="edge29_Node000020_Node000021" title=" " alt="" coords="1347,307,1309,305,1310,299,1347,302"/>
+<area shape="rect" id="Node000023" href="$class_a_i_skirmish_player.html#af8a2636752a1c23f54e81fe52f382fcb" title="determine the next team to reinforce" alt="" coords="1132,333,1297,376"/>
+<area shape="poly" id="edge33_Node000020_Node000023" title=" " alt="" coords="1372,331,1298,344,1297,338,1371,326"/>
+<area shape="poly" id="edge30_Node000021_Node000018" title=" " alt="" coords="1140,316,1025,343,1024,338,1139,311"/>
+<area shape="rect" id="Node000022" href="$class_a_i_skirmish_player.html#af3d5d7877947a9b6ff83bef12d07a137" title="determine the next team to build" alt="" coords="882,275,1047,317"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="1104,299,1048,299,1048,293,1104,293"/>
+<area shape="poly" id="edge32_Node000022_Node000019" title=" " alt="" coords="872,327,864,332,849,343,840,355,816,382,753,428,750,424,813,378,836,352,846,340,861,327,870,322"/>
+</map>

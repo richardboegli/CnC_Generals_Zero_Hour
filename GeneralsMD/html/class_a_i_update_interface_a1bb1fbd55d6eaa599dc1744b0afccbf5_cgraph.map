@@ -1,0 +1,39 @@
+<map id="AIUpdateInterface::doPathfind" name="AIUpdateInterface::doPathfind">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,339,141,381"/>
+<area shape="rect" id="Node000002" href="$class_a_i_update_interface.html#ad2a34cb1d20040d0b936060fbb51882d" title="destroy the current path, setting it to NULL" alt="" coords="207,5,342,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,338,83,283,103,208,117,168,136,129,159,91,187,58,192,53,195,57,191,62,163,95,141,131,122,170,108,210,88,284,79,339"/>
+<area shape="rect" id="Node000004" href="$class_pathfind_services_interface.html#a0fda49168b15c3f46aa8c7ba9c67030e" title=" " alt="" coords="189,72,360,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="77,337,90,294,111,237,143,177,164,150,187,125,191,121,194,125,191,129,168,153,148,180,116,239,95,295,82,339"/>
+<area shape="rect" id="Node000005" href="$class_pathfind_services_interface.html#ab06b6270ac785ced4d9f6a25be76f25d" title=" " alt="" coords="189,139,360,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,337,121,267,151,227,187,191,192,188,195,192,190,195,155,230,126,270,86,340"/>
+<area shape="rect" id="Node000006" href="$class_a_i_update_interface.html#a9d1bacc674f8a0d6021504f594f8b096" title=" " alt="" coords="207,205,342,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="93,336,135,297,187,258,196,253,198,258,190,262,138,301,97,340"/>
+<area shape="rect" id="Node000007" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="426,523,591,549"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="86,380,101,411,124,446,154,481,190,508,243,530,300,542,357,546,410,546,411,551,357,552,300,547,242,535,187,513,150,485,120,450,97,413,81,383"/>
+<area shape="rect" id="Node000008" href="$class_a_i_update_interface.html#a12105c3a288637d202e027a55327b5a8" title="return the agent&#39;s current path" alt="" coords="207,339,342,381"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="141,357,191,357,191,363,141,363"/>
+<area shape="rect" id="Node000009" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="211,405,338,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="142,377,212,398,211,403,140,382"/>
+<area shape="rect" id="Node000010" href="$class_a_i_update_interface.html#a7dde26d049d8c78f78b953901836ad00" title="tell the pathfinder to ignore the given object as an obstacle" alt="" coords="207,272,342,315"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="139,336,192,318,194,323,140,341"/>
+<area shape="rect" id="Node000012" href="$class_a_i_update_interface.html#a434bf8fcc2bb15c3ccec02bf5b597cfd" title="True if moving along ground." alt="" coords="190,456,358,499"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="101,380,142,411,190,442,200,447,197,451,187,446,139,415,98,384"/>
+<area shape="rect" id="Node000015" href="$struct_coord3_d.html#a4d188032fca7ae843b1896603b9dbeec" title=" " alt="" coords="225,573,324,600"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="84,381,99,418,121,464,152,511,190,553,212,567,209,571,187,557,148,515,117,466,94,420,79,383"/>
+<area shape="rect" id="Node000016" href="$class_a_i_update_interface.html#a133c17d9a711bbd42552055677bac280" title=" " alt="" coords="207,624,342,667"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="81,381,93,428,114,489,146,554,167,583,191,610,195,614,192,618,187,614,162,587,141,556,109,491,88,429,76,382"/>
+<area shape="rect" id="Node000003" href="$class_a_i_update_interface.html#a04904287e58084fa3d934b326b2b6dbd" title=" " alt="" coords="430,5,588,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,24,414,24,414,29,342,29"/>
+<area shape="rect" id="Node000011" href="$class_object.html#a6c17829820a29ded73578abd29906943" title="this object&#39;s unique ID" alt="" coords="459,280,558,307"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="342,291,443,291,443,296,342,296"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="359,496,438,516,437,521,358,501"/>
+<area shape="rect" id="Node000013" href="$class_physics_behavior.html#a8091e905c0882c6ca2f3fb08891e3865" title=" " alt="" coords="420,456,597,499"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="359,475,404,475,404,480,359,480"/>
+<area shape="rect" id="Node000014" href="$class_object.html#a5f55b81f177f0aa42635aec0135790b7" title=" " alt="" coords="442,405,575,432"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="358,454,437,434,438,439,359,459"/>
+<area shape="poly" id="edge17_Node000016_Node000007" title=" " alt="" coords="332,621,359,610,468,555,470,560,361,614,334,626"/>
+<area shape="rect" id="Node000017" href="$class_update_module.html#a0ab35223ae09948cc20939d63d9179ac" title=" " alt="" coords="408,657,609,684"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="342,650,393,655,392,661,342,655"/>
+<area shape="rect" id="Node000018" href="$class_update_module.html#a8870d16e36db772af1a75f66deb1dc0e" title=" " alt="" coords="408,607,609,633"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="342,635,392,630,393,635,342,641"/>
+</map>

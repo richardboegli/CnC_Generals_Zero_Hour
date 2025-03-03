@@ -1,0 +1,94 @@
+<map id="ImagePacker::process" name="ImagePacker::process">
+<area shape="rect" id="Node000001" title="run the process" alt="" coords="5,528,158,554"/>
+<area shape="rect" id="Node000002" href="$class_image_packer.html#acb318faed5f66c17a1fc958e14bdb476" title="add all images from the specified directory" alt="" coords="221,157,402,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,526,131,431,165,367,203,304,241,253,278,210,282,213,245,257,208,307,170,369,136,433,91,528"/>
+<area shape="rect" id="Node000004" href="$class_image_packer.html#af731419e321f066d58b7f0afb42d30e5" title="set a status message" alt="" coords="760,13,956,40"/>
+<area shape="poly" id="edge30_Node000001_Node000004" title=" " alt="" coords="80,527,84,460,101,358,116,301,138,244,167,191,204,143,231,117,261,95,327,58,398,33,472,16,547,7,619,3,745,8,745,14,619,9,547,12,473,21,400,38,329,63,264,99,235,122,208,147,171,194,143,247,121,303,106,359,90,461,86,528"/>
+<area shape="rect" id="Node000006" href="$class_image_packer.html#a8adeecf7b7302f5724e65e7cb927a990" title="verify output directory is OK" alt="" coords="222,520,402,562"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="158,538,206,538,206,544,158,544"/>
+<area shape="rect" id="Node000007" href="$class_image_packer.html#a7a2da6413d1a83d63729e60127968d18" title="get create INI option" alt="" coords="221,586,402,613"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="134,552,206,572,238,580,236,585,205,577,132,558"/>
+<area shape="rect" id="Node000008" href="$class_image_packer.html#ad2bd8cc807cea0ae8658c208eedc5a67" title="generate the INI file for this image set" alt="" coords="490,621,685,648"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="111,525,171,501,251,481,294,477,338,478,380,487,419,506,433,517,440,530,446,556,450,583,457,595,468,607,477,614,474,618,464,611,452,599,445,585,441,557,435,531,429,520,417,510,378,492,337,483,294,482,252,487,172,506,113,530"/>
+<area shape="rect" id="Node000013" href="$class_image_packer.html#af2c5c23573eb7cc2be09a82bf45ae78c" title="do the packing" alt="" coords="223,317,400,344"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="92,526,139,471,204,404,275,350,278,355,207,408,143,474,96,529"/>
+<area shape="rect" id="Node000025" href="$class_image_packer.html#af225cb916beb8e5f1f906785fd0f6ab0" title="clear the image list" alt="" coords="216,637,408,664"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="100,553,146,588,207,623,224,630,222,634,205,628,143,592,97,557"/>
+<area shape="rect" id="Node000026" href="$class_image_packer.html#afc5cca83ec024034f99885e3e1432646" title="clear the texture page list" alt="" coords="219,688,405,714"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="94,553,137,612,170,646,207,674,218,679,215,684,204,678,166,650,133,616,89,557"/>
+<area shape="rect" id="Node000027" href="$class_image_packer.html#a6daaa3aa8d00fd3df83d3a6f7d0fa3ff" title="sort the image list" alt="" coords="219,738,404,765"/>
+<area shape="poly" id="edge29_Node000001_Node000027" title=" " alt="" coords="90,554,105,589,130,635,164,684,184,706,207,724,215,729,212,734,204,729,181,709,160,687,125,638,100,591,85,556"/>
+<area shape="rect" id="Node000028" href="$_preview_proc_8cpp.html#a1db7c354020eca46f6a88544ede33a1d" title=" " alt="" coords="233,789,390,816"/>
+<area shape="poly" id="edge31_Node000001_Node000028" title=" " alt="" coords="88,554,100,598,123,658,158,721,181,750,207,775,220,783,217,788,204,779,177,754,154,724,118,660,95,599,83,556"/>
+<area shape="rect" id="Node000029" href="$class_image_packer.html#ae5cec530557b3ae77adca22bb2ab5d20" title="write the packed textures" alt="" coords="206,418,418,445"/>
+<area shape="poly" id="edge32_Node000001_Node000029" title=" " alt="" coords="100,525,146,494,205,461,240,448,242,453,207,466,149,498,103,529"/>
+<area shape="rect" id="Node000003" href="$class_image_packer.html#a5b45d38360e20114a630c9fd95c1db9a" title="add image to image list" alt="" coords="506,64,669,90"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,154,465,107,511,92,513,97,467,112,358,159"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,61,768,41,769,46,663,66"/>
+<area shape="rect" id="Node000005" href="$class_image_packer.html#a88f21e1627360b49aa0e703fef897a79" title="get window handle for &#39;dialog&#39; app" alt="" coords="1008,13,1220,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="956,24,992,24,992,29,956,29"/>
+<area shape="rect" id="Node000009" href="$class_texture_page.html#ad2417e374f83f2fade39944bc2473b14" title="get the first image in the list" alt="" coords="767,672,949,698"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="663,646,769,666,768,671,662,651"/>
+<area shape="rect" id="Node000010" href="$class_texture_page.html#acb1c83abf1feec0906b34533d03ec1fb" title="get height of texture page" alt="" coords="779,621,937,648"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="685,632,763,632,763,637,685,637"/>
+<area shape="rect" id="Node000011" href="$class_texture_page.html#ad64afd33d53281d7902ab9e896482168" title="get page id" alt="" coords="791,520,925,546"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="681,618,707,607,722,595,730,582,739,569,755,556,775,547,777,551,758,561,743,573,735,585,725,599,710,611,683,623"/>
+<area shape="rect" id="Node000012" href="$class_texture_page.html#a4ceec84a60690465e504ca645a328767" title="get width of texture page" alt="" coords="781,570,935,597"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="662,618,768,598,769,603,663,623"/>
+<area shape="poly" id="edge22_Node000013_Node000004" title=" " alt="" coords="323,315,464,158,499,141,530,132,587,128,643,124,673,116,707,100,721,88,730,76,739,62,755,50,766,44,769,48,758,54,743,66,735,79,725,92,710,105,675,121,644,129,587,133,531,137,501,146,468,162,327,319"/>
+<area shape="rect" id="Node000014" href="$class_texture_page.html#a4e60d1667d63597a513bd9e18beb8308" title="try to add image to this page" alt="" coords="508,216,667,242"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="350,314,533,246,535,251,351,319"/>
+<area shape="rect" id="Node000019" href="$class_image_packer.html#a5261cb7ccbd4f501d8ea8ab7e636c203" title="create a new texture page" alt="" coords="466,368,708,394"/>
+<area shape="poly" id="edge18_Node000013_Node000019" title=" " alt="" coords="389,342,497,362,496,367,388,347"/>
+<area shape="rect" id="Node000023" href="$class_image_packer.html#a7ee4c65deeabf6775568240969025dfe" title="validate that the loaded images can all be processed" alt="" coords="490,317,684,344"/>
+<area shape="poly" id="edge23_Node000013_Node000023" title=" " alt="" coords="401,328,475,328,475,333,401,333"/>
+<area shape="rect" id="Node000015" href="$class_texture_page.html#a412c5e6c63a75f9c35bdf8e717d6abd1" title="build a region to try to fit given the position, size, and border options" alt="" coords="765,165,951,192"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="662,213,768,193,769,198,663,218"/>
+<area shape="rect" id="Node000016" href="$class_texture_page.html#a9fd18a52d894450ca41bb50adba78f4d" title="is any spot on the line used" alt="" coords="781,216,935,242"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="667,226,765,226,765,232,667,232"/>
+<area shape="rect" id="Node000017" href="$class_texture_page.html#a958c989e50fadf3c9f84a0dfc5304656" title="mark this region as used" alt="" coords="756,64,960,90"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="666,216,688,207,707,195,717,184,724,173,730,149,736,124,743,112,755,100,761,96,764,100,758,104,747,115,741,126,735,150,729,175,722,187,710,199,690,212,668,221"/>
+<area shape="rect" id="Node000018" href="$class_texture_page.html#a96217fde341657236c7e346bf1a371aa" title="is this spot used" alt="" coords="779,114,937,141"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="662,213,707,195,721,184,730,173,740,162,755,151,768,145,770,149,758,155,743,166,734,177,725,188,710,199,664,218"/>
+<area shape="rect" id="Node000020" href="$class_image_packer.html#a3ddc97773f3baa3a415a55debd9009de" title="bet target height" alt="" coords="759,368,957,394"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="709,378,743,378,743,384,709,384"/>
+<area shape="rect" id="Node000021" href="$class_image_packer.html#ae951bb2f7d7ac553260aa87d2dc504ff" title="get target width" alt="" coords="761,317,955,344"/>
+<area shape="poly" id="edge20_Node000019_Node000021" title=" " alt="" coords="662,365,768,345,769,350,663,370"/>
+<area shape="rect" id="Node000022" href="$class_texture_page.html#aab2fce14e782e0f6a6f7b6f8ffad7190" title="set page id" alt="" coords="791,418,925,445"/>
+<area shape="poly" id="edge21_Node000019_Node000022" title=" " alt="" coords="663,392,776,414,775,419,662,398"/>
+<area shape="poly" id="edge24_Node000023_Node000020" title=" " alt="" coords="663,342,769,362,768,367,662,347"/>
+<area shape="poly" id="edge25_Node000023_Node000021" title=" " alt="" coords="685,328,745,328,745,333,685,333"/>
+<area shape="rect" id="Node000024" href="$_image_error_proc_8cpp.html#a389f39103e5daed747c9b341924c4118" title=" " alt="" coords="802,266,914,293"/>
+<area shape="poly" id="edge26_Node000023_Node000024" title=" " alt="" coords="662,314,786,290,787,296,663,319"/>
+<area shape="poly" id="edge49_Node000029_Node000004" title=" " alt="" coords="340,416,380,390,399,373,416,354,427,334,433,314,435,276,439,238,448,220,464,202,495,181,526,173,556,173,586,177,616,182,645,182,676,176,707,158,718,146,725,133,730,106,735,78,742,63,755,50,760,46,763,50,758,54,747,66,740,79,735,107,730,135,723,149,710,162,678,181,646,188,615,187,585,183,556,179,527,179,498,186,468,206,453,223,444,240,440,276,438,315,432,336,420,357,403,377,383,394,343,420"/>
+<area shape="poly" id="edge44_Node000029_Node000011" title=" " alt="" coords="389,443,776,515,775,521,388,448"/>
+<area shape="rect" id="Node000030" href="$class_texture_page.html#a3833b8bb3f4d99e7346b6f4a3a97fba9" title="generate the final packed texture" alt="" coords="490,418,685,445"/>
+<area shape="poly" id="edge33_Node000029_Node000030" title=" " alt="" coords="419,429,474,429,474,434,419,434"/>
+<area shape="rect" id="Node000040" href="$_page_error_proc_8cpp.html#acf69d2c0b141eb2b2c9c7844645a7c26" title=" " alt="" coords="534,570,640,597"/>
+<area shape="poly" id="edge45_Node000029_Node000040" title=" " alt="" coords="388,443,420,462,431,474,438,486,444,511,450,535,457,546,468,556,492,570,520,578,518,583,490,575,464,561,453,549,445,537,439,512,433,488,427,477,416,466,385,448"/>
+<area shape="rect" id="Node000041" href="$class_texture_page.html#a07ef0240080371039d8587122784f077" title="write generated texture to file" alt="" coords="512,520,663,546"/>
+<area shape="poly" id="edge50_Node000029_Node000041" title=" " alt="" coords="373,443,419,461,444,480,467,499,502,512,500,517,465,503,440,485,417,466,371,448"/>
+<area shape="rect" id="Node000031" href="$class_texture_page.html#a0658b5e4f89b46c7320791fefdf8a82d" title="add the actual image data of &#39;image&#39; to the destination buffer" alt="" coords="764,469,952,496"/>
+<area shape="poly" id="edge34_Node000030_Node000031" title=" " alt="" coords="663,443,769,463,768,468,662,448"/>
+<area shape="rect" id="Node000032" href="$class_texture_page.html#aa4921c6362f303bcc7c2f92893869e55" title="extend edges of image outward into border if present" alt="" coords="1025,545,1202,588"/>
+<area shape="poly" id="edge35_Node000031_Node000032" title=" " alt="" coords="920,494,960,505,1047,536,1045,541,959,510,919,499"/>
+<area shape="rect" id="Node000034" href="$class_targa.html#a8c99b2b9a21f3a782540a0022345a303" title=" " alt="" coords="1055,418,1173,445"/>
+<area shape="poly" id="edge37_Node000031_Node000034" title=" " alt="" coords="929,466,1039,444,1040,449,930,471"/>
+<area shape="rect" id="Node000035" href="$class_targa.html#a72d9f2b7b99430cb89a7df1a34b44a7e" title=" " alt="" coords="1069,469,1158,496"/>
+<area shape="poly" id="edge38_Node000031_Node000035" title=" " alt="" coords="952,480,1054,480,1054,485,952,485"/>
+<area shape="rect" id="Node000033" href="$class_texture_page.html#ac6e87551f20315bf71539531d4b3f1f4" title="if the pixel at abolve/below row is open, extend pixel at src to its location" alt="" coords="1268,570,1450,613"/>
+<area shape="poly" id="edge36_Node000032_Node000033" title=" " alt="" coords="1203,573,1253,578,1252,583,1203,578"/>
+<area shape="rect" id="Node000036" href="$class_targa.html#a0cf72686b3406ca39bd1eed910be5e4d" title=" " alt="" coords="1498,393,1594,420"/>
+<area shape="poly" id="edge39_Node000035_Node000036" title=" " alt="" coords="1159,472,1482,415,1483,420,1160,477"/>
+<area shape="rect" id="Node000037" href="$class_targa.html#ae8f7bf7aea64e02e969571c439aa1c53" title=" " alt="" coords="1313,368,1405,394"/>
+<area shape="poly" id="edge40_Node000035_Node000037" title=" " alt="" coords="1158,474,1189,467,1219,455,1233,445,1242,434,1252,422,1267,411,1297,396,1299,401,1269,415,1255,426,1246,437,1237,449,1221,459,1190,472,1159,480"/>
+<area shape="rect" id="Node000038" href="$class_targa.html#a8cb0056418039670444ad4c38be23d28" title=" " alt="" coords="1314,469,1405,496"/>
+<area shape="poly" id="edge42_Node000035_Node000038" title=" " alt="" coords="1159,480,1298,480,1298,485,1159,485"/>
+<area shape="rect" id="Node000039" href="$class_targa.html#a699411a499344bee18399250d36e2a0a" title=" " alt="" coords="1314,520,1405,546"/>
+<area shape="poly" id="edge43_Node000035_Node000039" title=" " alt="" coords="1160,489,1299,518,1298,523,1159,494"/>
+<area shape="poly" id="edge41_Node000037_Node000036" title=" " alt="" coords="1406,385,1484,395,1483,401,1405,390"/>
+<area shape="poly" id="edge46_Node000040_Node000010" title=" " alt="" coords="641,591,769,615,768,620,640,596"/>
+<area shape="poly" id="edge47_Node000040_Node000011" title=" " alt="" coords="640,571,775,546,776,551,641,577"/>
+<area shape="poly" id="edge48_Node000040_Node000012" title=" " alt="" coords="641,581,766,581,766,586,641,586"/>
+<area shape="poly" id="edge51_Node000041_Node000011" title=" " alt="" coords="663,530,776,530,776,536,663,536"/>
+</map>

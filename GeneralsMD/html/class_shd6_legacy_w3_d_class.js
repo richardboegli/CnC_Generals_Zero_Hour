@@ -1,0 +1,28 @@
+var class_shd6_legacy_w3_d_class =
+[
+    [ "Shd6LegacyW3DClass", "class_shd6_legacy_w3_d_class.html#a3b19e8dfb133d8754616e687e2b1c2a9", null ],
+    [ "~Shd6LegacyW3DClass", "class_shd6_legacy_w3_d_class.html#a011f7a2f6462877de68f74b384902819", null ],
+    [ "Apply_Instance", "class_shd6_legacy_w3_d_class.html#a2f9ccbb125f28a6e7a4a1f916407ceb7", null ],
+    [ "Apply_Shared", "class_shd6_legacy_w3_d_class.html#a8b62f72ca4b9d6638a2bd629a7b5fa57", null ],
+    [ "Copy_Vertex_Stream", "class_shd6_legacy_w3_d_class.html#a13632789fea3d38c0a3b592d30f2beef", null ],
+    [ "Get_Material", "class_shd6_legacy_w3_d_class.html#abd8535948d76cdbb58a52d2d3e6b8a12", null ],
+    [ "Get_Pass_Count", "class_shd6_legacy_w3_d_class.html#aa231b983fdb619a4cd14f7df459afcaa", null ],
+    [ "Get_Shader", "class_shd6_legacy_w3_d_class.html#a16905112fc8bfc5a92e4d2a4d537f367", null ],
+    [ "Get_Texture_Count", "class_shd6_legacy_w3_d_class.html#afa0857922424e1e8fc1368278f8fa493", null ],
+    [ "Get_Vertex_Size", "class_shd6_legacy_w3_d_class.html#ad85c6f038dadf363ceb51cae834dd4c9", null ],
+    [ "Get_Vertex_Stream_Count", "class_shd6_legacy_w3_d_class.html#a728adaaa0508eda7d0a171a45f0b8080", null ],
+    [ "Greater_Than", "class_shd6_legacy_w3_d_class.html#a48803ca91e04117a97ceb392ff755257", null ],
+    [ "Is_Opaque", "class_shd6_legacy_w3_d_class.html#a060146c2fddd80b7af09fbc5ef23cbbe", null ],
+    [ "Peek_Texture", "class_shd6_legacy_w3_d_class.html#a3fe465f22762b341d25c1c84fecfb450", null ],
+    [ "Set_FVF", "class_shd6_legacy_w3_d_class.html#aef1faa64bc9aecf212a97f864b990560", null ],
+    [ "Set_Material", "class_shd6_legacy_w3_d_class.html#a7b8892781c88ff86a19cbec445355142", null ],
+    [ "Set_Pass_Count", "class_shd6_legacy_w3_d_class.html#a2caebda1d78775c2222d6f31088fd2a6", null ],
+    [ "Set_Shader", "class_shd6_legacy_w3_d_class.html#ac07a01d665a8a52e6f52994641116b5e", null ],
+    [ "Set_Texture", "class_shd6_legacy_w3_d_class.html#a7a48a306c8fd170438b987ccae184753", null ],
+    [ "Use_HW_Vertex_Processing", "class_shd6_legacy_w3_d_class.html#a021c033a2baea00ce95561784851f8f4", null ],
+    [ "FVF", "class_shd6_legacy_w3_d_class.html#a932b033fea5aa7ff133088433c4ce7af", null ],
+    [ "Materials", "class_shd6_legacy_w3_d_class.html#a5609c18238ba14ab1177d2ed2668331c", null ],
+    [ "PassCount", "class_shd6_legacy_w3_d_class.html#a7f4a540717cb0d38762c4a8307b204d4", null ],
+    [ "Shaders", "class_shd6_legacy_w3_d_class.html#a7315b66eb5ad3e7f7aacce815bfafdba", null ],
+    [ "Textures", "class_shd6_legacy_w3_d_class.html#ad204118b20eeb1af6c5bf39e665bdff4", null ]
+];

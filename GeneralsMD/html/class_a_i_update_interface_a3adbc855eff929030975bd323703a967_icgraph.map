@@ -1,0 +1,11 @@
+<map id="AIUpdateInterface::isQuickPathAvailable" name="AIUpdateInterface::isQuickPathAvailable">
+<area shape="rect" id="Node000001" title="does a path (using quick pathfind) exist between us and the destination" alt="" coords="672,39,818,81"/>
+<area shape="rect" id="Node000002" href="$class_command_translator.html#a857dc504ec2c02e0f914f6f475631849" title=" " alt="" coords="448,5,624,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,49,624,43,625,38,658,43"/>
+<area shape="rect" id="Node000003" href="$class_build_assistant.html#aad28ef5fc57800fa9936dfa76a1269c5" title="query if we can build at this location" alt="" coords="450,72,622,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="658,77,623,82,622,77,657,71"/>
+<area shape="rect" id="Node000004" href="$class_build_assistant.html#aacaf4f60db234675e7ca5940bd9a19b6" title="tiling wall object helper function, we can use this to &quot;tile&quot; walls when building" alt="" coords="232,72,400,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,96,401,96,401,91,434,91"/>
+<area shape="rect" id="Node000005" href="$class_build_assistant.html#a082f40fc2e577327b2015d30a71a1644" title="using the &quot;line placement&quot; for objects (like walls etc) create that line of objects line" alt="" coords="5,72,184,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,96,184,96,184,91,216,91"/>
+</map>

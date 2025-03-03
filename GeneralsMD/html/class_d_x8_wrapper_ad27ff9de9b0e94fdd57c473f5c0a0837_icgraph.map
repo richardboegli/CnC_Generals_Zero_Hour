@@ -1,0 +1,114 @@
+<map id="DX8Wrapper::Set_DX8_Light" name="DX8Wrapper::Set_DX8_Light">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1212,557,1368,600"/>
+<area shape="rect" id="Node000002" href="$class_d_x8_wrapper.html#a873c187a4390e54114313f360f95509a" title="Resets render device to default state." alt="" coords="979,88,1164,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1270,544,1080,132,1085,130,1275,542"/>
+<area shape="rect" id="Node000005" href="$class_d_x8_wrapper.html#ae0a5f12a53c600c1c519015b3c4d939d" title=" " alt="" coords="979,997,1164,1040"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1274,615,1086,998,1081,996,1269,613"/>
+<area shape="rect" id="Node000003" href="$class_shd_d_x8_renderer_node_class.html#a69197658f657d15fe4cc4a217ce803bd" title=" " alt="" coords="727,5,915,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="982,86,915,65,916,60,984,81"/>
+<area shape="rect" id="Node000004" href="$class_shd_d_x8_renderer_class.html#ad139adcf841a15f539e37501ddae81d9" title=" " alt="" coords="742,88,900,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="963,112,900,112,900,107,963,107"/>
+<area shape="poly" id="edge11_Node000005_Node000004" title=" " alt="" coords="1066,982,1058,808,1036,559,1018,432,994,314,965,217,948,180,929,151,915,138,899,129,901,124,918,134,933,148,952,177,970,216,999,313,1023,431,1041,559,1063,808,1072,982"/>
+<area shape="rect" id="Node000006" href="$class_w3_d_bridge_buffer.html#a9c1613081f003dae1b5ad283a93c0cf6" title="Draws the bridges. Uses camera for culling." alt="" coords="720,256,922,283"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1065,982,1054,832,1030,626,1012,522,989,426,962,349,946,319,929,297,914,285,917,281,933,293,950,316,966,346,994,425,1017,520,1035,625,1060,832,1071,981"/>
+<area shape="rect" id="Node000007" href="$class_w3_d_custom_edging.html#ade6ecc2a49132abddcc4443b11691b41" title="Draws the trees. Uses camera for culling." alt="" coords="714,307,928,333"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1065,982,1052,842,1027,651,1008,554,986,467,960,395,945,368,929,347,914,336,917,332,933,343,949,365,964,393,991,465,1014,553,1032,650,1057,841,1070,981"/>
+<area shape="rect" id="Node000008" href="$class_water_render_obj_class.html#a867d9b63fe4a773e4c08b70fca260746" title=" " alt="" coords="231,139,382,181"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1067,982,1061,814,1053,699,1041,577,1023,456,999,347,985,300,968,259,949,226,929,202,912,190,890,180,832,164,761,154,682,149,519,149,383,156,382,151,519,144,682,144,762,149,833,159,891,175,914,185,932,198,954,223,973,257,990,298,1004,346,1028,455,1046,576,1058,699,1066,813,1072,982"/>
+<area shape="rect" id="Node000009" href="$class_water_render_obj_class.html#a41560080a4239251b63879e4f350d5a2" title=" " alt="" coords="5,357,157,400"/>
+<area shape="poly" id="edge29_Node000005_Node000009" title=" " alt="" coords="1067,982,1060,821,1052,712,1039,597,1022,483,998,381,983,337,967,299,949,268,929,246,903,228,878,220,854,218,830,222,777,236,746,243,712,247,583,250,527,255,457,267,369,287,283,311,140,359,139,354,281,306,368,281,455,261,527,250,583,245,711,241,745,238,776,231,829,217,854,213,879,214,905,224,932,242,953,265,972,296,988,335,1003,379,1027,482,1045,596,1057,712,1065,821,1072,982"/>
+<area shape="rect" id="Node000010" href="$class_w3_d_tree_buffer.html#a9e5e1e9d8f3e3556c03c6ef15f6ee780" title="Draws the trees. Uses camera for culling." alt="" coords="731,499,911,525"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="1068,982,1065,892,1058,834,1047,772,1029,709,1005,647,971,589,929,539,910,527,913,522,932,535,976,586,1009,645,1034,707,1052,771,1063,834,1070,892,1074,982"/>
+<area shape="rect" id="Node000011" href="$class_water_tracks_render_system.html#a4c80683903cf74d3585b813e42676c8d" title="draw all tracks that were requested for rendering." alt="" coords="730,549,912,592"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="1065,982,1055,906,1033,807,1015,755,992,703,964,655,929,613,904,595,907,590,932,609,968,652,997,701,1020,753,1038,806,1061,905,1070,981"/>
+<area shape="rect" id="Node000012" href="$class_w3_d_projected_shadow_manager.html#aa9cf505c9fe58aaeb2c75230479ea69e" title="empty queue by rendering all decals with given texture" alt="" coords="719,357,923,400"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="1063,982,1047,857,1019,689,1001,604,979,527,955,464,929,420,906,402,909,398,933,417,960,462,984,526,1006,603,1024,688,1053,856,1069,982"/>
+<area shape="rect" id="Node000014" href="$class_w3_d_projected_shadow_manager.html#ac6b9e9b3138368b68ba6f1a7102e4fe8" title="iterate over each object and render its shadow onto affected objects." alt="" coords="205,373,408,416"/>
+<area shape="poly" id="edge32_Node000005_Node000014" title=" " alt="" coords="1064,982,1049,863,1022,706,1003,628,982,558,957,501,943,480,929,465,900,454,847,447,698,438,546,435,456,431,395,419,396,414,456,425,547,429,698,433,847,441,901,449,932,460,948,477,962,499,987,556,1009,626,1027,705,1054,862,1069,982"/>
+<area shape="rect" id="Node000016" href="$class_screen_b_w_filter_d_o_t3.html#adc739a781f3c319bd50e4c5bc2525cf3" title="Called after render. Only applies to screen filter shaders." alt="" coords="486,1380,634,1423"/>
+<area shape="poly" id="edge18_Node000005_Node000016" title=" " alt="" coords="1072,1056,1064,1130,1055,1176,1043,1225,1025,1273,1001,1319,971,1361,932,1395,898,1415,860,1429,820,1437,780,1440,702,1437,634,1425,635,1419,703,1431,780,1435,820,1432,858,1424,895,1411,929,1391,967,1357,997,1316,1020,1271,1038,1223,1050,1175,1059,1130,1066,1055"/>
+<area shape="rect" id="Node000017" href="$class_screen_motion_blur_filter.html#a653dead3b220a7baa8189ea5356f554a" title="Called after render. Only applies to screen filter shaders." alt="" coords="483,1464,636,1507"/>
+<area shape="poly" id="edge19_Node000005_Node000017" title=" " alt="" coords="1073,1055,1067,1137,1060,1189,1048,1244,1030,1300,1006,1354,973,1403,932,1445,910,1457,880,1467,803,1480,717,1487,637,1489,637,1483,716,1481,803,1475,879,1462,908,1452,929,1441,969,1400,1001,1351,1025,1298,1042,1243,1054,1188,1062,1137,1068,1055"/>
+<area shape="rect" id="Node000018" href="$class_draw_object.html#a9e6f2c42d43fdf30dfb26602537cdb12" title=" " alt="" coords="751,867,891,893"/>
+<area shape="poly" id="edge20_Node000005_Node000018" title=" " alt="" coords="1034,989,986,950,929,914,883,896,885,891,932,910,989,946,1037,985"/>
+<area shape="rect" id="Node000019" href="$class_d_x8_texture_category_class.html#afc9e0ddab44a28c5308eb8c430fae57e" title=" " alt="" coords="732,800,910,843"/>
+<area shape="poly" id="edge21_Node000005_Node000019" title=" " alt="" coords="1047,986,998,920,966,886,929,857,908,846,911,841,932,852,969,882,1002,917,1052,983"/>
+<area shape="rect" id="Node000021" href="$class_flat_height_map_render_obj_class.html#a4839346adbc14435b322a22225111c33" title=" " alt="" coords="458,909,661,952"/>
+<area shape="poly" id="edge23_Node000005_Node000021" title=" " alt="" coords="1017,992,975,973,930,959,861,945,791,936,661,931,661,925,791,931,862,940,931,953,977,968,1019,987"/>
+<area shape="rect" id="Node000023" href="$class_height_map_render_obj_class.html#a1cb2488b39d9d53ed7c427e59599f923" title=" " alt="" coords="470,976,650,1019"/>
+<area shape="poly" id="edge25_Node000005_Node000023" title=" " alt="" coords="963,1025,931,1025,821,1029,711,1025,650,1018,650,1012,712,1020,821,1024,931,1020,963,1019"/>
+<area shape="rect" id="Node000024" href="$class_render2_d_class.html#a243043267ecd698ae2872bc9add0f03c" title=" " alt="" coords="739,1085,903,1112"/>
+<area shape="poly" id="edge27_Node000005_Node000024" title=" " alt="" coords="994,1048,931,1069,872,1087,870,1082,930,1064,993,1043"/>
+<area shape="rect" id="Node000025" href="$class_w3_d_status_circle.html#a61fd6d55190d4ac1cb6473272a9fcb4d" title=" " alt="" coords="734,1136,908,1163"/>
+<area shape="poly" id="edge28_Node000005_Node000025" title=" " alt="" coords="1038,1053,990,1092,932,1126,901,1138,899,1133,930,1122,987,1087,1034,1049"/>
+<area shape="rect" id="Node000026" href="$class_w3_d_smudge_manager.html#a713b62eb8b4f5f3b7f7b49ff9c9233c0" title=" " alt="" coords="724,1187,918,1213"/>
+<area shape="poly" id="edge30_Node000005_Node000026" title=" " alt="" coords="1051,1055,1002,1118,969,1150,932,1177,907,1189,904,1184,929,1172,965,1146,998,1114,1046,1052"/>
+<area shape="rect" id="Node000027" href="$class_w3_d_snow_manager.html#a023ee46e6bfd8d0ef122f9c9d29b9af3" title=" " alt="" coords="732,1237,910,1264"/>
+<area shape="poly" id="edge31_Node000005_Node000027" title=" " alt="" coords="1058,1055,1039,1096,1011,1142,976,1189,932,1228,910,1239,908,1234,929,1223,972,1185,1007,1139,1034,1093,1054,1053"/>
+<area shape="rect" id="Node000028" href="$class_w3_d_volumetric_shadow_manager.html#a7f1498ba91a034037f36ca666298a77f" title=" " alt="" coords="716,1288,926,1331"/>
+<area shape="poly" id="edge33_Node000005_Node000028" title=" " alt="" coords="1062,1056,1045,1106,1018,1166,981,1226,958,1254,932,1278,915,1290,912,1285,929,1274,954,1250,977,1223,1013,1163,1040,1104,1057,1054"/>
+<area shape="rect" id="Node000029" href="$_w3_d_scene_8cpp.html#a6ee6352bb334c7dde470d84b95a15fb6" title=" " alt="" coords="731,1659,911,1685"/>
+<area shape="poly" id="edge34_Node000005_Node000029" title=" " alt="" coords="1070,1056,1055,1187,1029,1365,1011,1455,989,1536,963,1603,948,1629,932,1649,912,1663,909,1658,929,1645,944,1626,958,1601,983,1535,1005,1453,1024,1364,1050,1187,1064,1055"/>
+<area shape="rect" id="Node000033" href="$class_height_map_render_obj_class.html#ad388882cb61f81b076f49bac501bceb7" title="renders additional terrain pass." alt="" coords="731,968,911,1011"/>
+<area shape="poly" id="edge38_Node000005_Node000033" title=" " alt="" coords="963,1009,911,1003,912,997,963,1003"/>
+<area shape="rect" id="Node000034" href="$class_water_render_obj_class.html#a318df98d09c1f4563ae7b4c40843c4ed" title="draw the water surface mesh (deformed 3d mesh)." alt="" coords="484,600,635,643"/>
+<area shape="poly" id="edge40_Node000005_Node000034" title=" " alt="" coords="1065,982,1056,911,1034,821,1017,775,994,730,965,690,929,657,908,646,878,637,802,626,715,622,636,622,636,616,716,617,802,621,880,632,910,641,932,652,969,687,998,728,1022,773,1039,819,1062,910,1071,982"/>
+<area shape="rect" id="Node000035" href="$class_flat_terrain_shader2_stage.html#af9bfc5f6f14ce6d00bde212384e6e025" title="setup shader for the specified rendering pass." alt="" coords="726,1507,916,1533"/>
+<area shape="poly" id="edge42_Node000005_Node000035" title=" " alt="" coords="1073,1056,1068,1143,1060,1199,1048,1260,1030,1322,1006,1383,974,1440,932,1490,905,1508,902,1504,929,1486,969,1437,1001,1380,1025,1320,1043,1259,1055,1199,1062,1143,1068,1056"/>
+<area shape="rect" id="Node000036" href="$class_flat_terrain_shader_pixel_shader.html#a75a254919e5a239c1ee79b6268b311ec" title="setup shader for the specified rendering pass." alt="" coords="711,1557,931,1584"/>
+<area shape="poly" id="edge43_Node000005_Node000036" title=" " alt="" coords="1068,1055,1051,1168,1022,1315,1003,1389,982,1455,959,1510,933,1547,916,1559,913,1555,929,1543,954,1507,977,1454,998,1387,1017,1314,1045,1167,1063,1055"/>
+<area shape="rect" id="Node000037" href="$class_screen_b_w_filter.html#a7157b14d95a450a7d906d29a7804aa5f" title="setup shader for the specified rendering pass." alt="" coords="751,1709,891,1736"/>
+<area shape="poly" id="edge44_Node000005_Node000037" title=" " alt="" coords="1070,1056,1058,1197,1032,1390,1014,1487,992,1576,965,1649,949,1678,933,1699,914,1713,892,1721,890,1716,911,1708,929,1695,945,1675,960,1647,987,1575,1009,1486,1027,1389,1052,1196,1065,1055"/>
+<area shape="rect" id="Node000039" href="$class_screen_b_w_filter_d_o_t3.html#a8c835be8cec3c3ea30b62edf88191c1b" title="setup shader for the specified rendering pass." alt="" coords="734,1355,908,1381"/>
+<area shape="poly" id="edge46_Node000005_Node000039" title=" " alt="" coords="1068,1056,1055,1119,1030,1197,1012,1238,990,1277,964,1313,932,1345,910,1358,907,1354,929,1341,960,1310,986,1274,1007,1235,1025,1195,1049,1118,1062,1055"/>
+<area shape="rect" id="Node000040" href="$class_screen_cross_fade_filter.html#ad58b0f8e57c15ed89d849641e0ec3bf7" title="setup shader for the specified rendering pass." alt="" coords="730,1760,912,1787"/>
+<area shape="poly" id="edge48_Node000005_Node000040" title=" " alt="" coords="1071,1056,1060,1206,1036,1414,1018,1520,995,1617,967,1696,950,1726,933,1750,914,1764,911,1759,929,1746,946,1724,962,1694,990,1615,1012,1519,1030,1414,1054,1206,1065,1055"/>
+<area shape="rect" id="Node000042" href="$class_screen_default_filter.html#a2b2d643b8f784e6fad15132ecbc57ac3" title="setup shader for the specified rendering pass." alt="" coords="741,1811,901,1837"/>
+<area shape="poly" id="edge50_Node000005_Node000042" title=" " alt="" coords="1071,1056,1062,1216,1039,1439,1021,1553,998,1657,969,1742,951,1775,933,1801,918,1812,902,1820,900,1815,916,1807,929,1797,947,1772,964,1740,993,1655,1016,1552,1034,1438,1056,1215,1066,1056"/>
+<area shape="rect" id="Node000044" href="$class_screen_motion_blur_filter.html#a2ef482716fdea01187d71ca22f5989b0" title="setup shader for the specified rendering pass." alt="" coords="731,1608,911,1635"/>
+<area shape="poly" id="edge52_Node000005_Node000044" title=" " alt="" coords="1069,1056,1053,1178,1025,1340,1007,1422,985,1496,961,1557,933,1598,913,1612,910,1607,929,1594,956,1554,980,1494,1002,1421,1020,1339,1048,1177,1063,1055"/>
+<area shape="rect" id="Node000045" href="$class_terrain_shader2_stage.html#a0320a19aa9fe2436b9d796858d1940cb" title="setup shader for the specified rendering pass." alt="" coords="737,1861,905,1888"/>
+<area shape="poly" id="edge54_Node000005_Node000045" title=" " alt="" coords="1072,1055,1064,1224,1042,1463,1024,1585,1001,1697,971,1788,953,1824,933,1851,907,1868,904,1864,929,1847,948,1821,966,1786,996,1695,1019,1584,1037,1462,1058,1224,1066,1055"/>
+<area shape="rect" id="Node000046" href="$class_water_render_obj_class.html#ad743b3c2ed7f1c3fcfcead41156d4f14" title=" " alt="" coords="742,667,900,709"/>
+<area shape="poly" id="edge55_Node000005_Node000046" title=" " alt="" coords="1060,983,1045,925,1019,856,981,784,957,752,929,723,899,706,902,701,932,719,961,748,986,781,1024,853,1050,924,1065,981"/>
+<area shape="rect" id="Node000049" href="$class_water_render_obj_class.html#a6060a95c9efefd5503e442e2d86f1f05" title=" " alt="" coords="742,733,900,776"/>
+<area shape="poly" id="edge60_Node000005_Node000049" title=" " alt="" coords="1055,984,1037,939,1009,887,974,835,929,790,899,773,901,768,932,786,978,831,1014,884,1041,937,1060,982"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="223,191,206,202,168,240,136,283,94,358,90,356,132,280,164,236,203,198,220,187"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="865,486,850,480,821,477,795,479,780,484,777,489,783,497,779,500,771,490,777,480,793,474,821,472,851,475,867,481"/>
+<area shape="rect" id="Node000013" href="$class_w3_d_projected_shadow_manager.html#ade3a4ea97d575389a430c4066e9a14f3" title="add shadow decal to render list &#45; decal conforms to terrain." alt="" coords="458,373,661,416"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="704,388,662,391,662,386,704,383"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="719,353,710,347,695,334,686,320,677,307,662,297,607,278,561,274,514,281,457,297,420,312,386,332,332,375,329,371,383,328,418,307,455,292,513,276,561,268,608,273,665,292,681,304,690,317,699,331,713,343,721,348"/>
+<area shape="rect" id="Node000015" href="$class_w3_d_projected_shadow_manager.html#aa84947c80cb6c20e6f48c246346277bf" title="add shadow decal to render list &#45; decal floats on terrain." alt="" coords="458,307,661,349"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="704,359,661,350,662,345,705,353"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="442,397,408,397,408,392,442,392"/>
+<area shape="rect" id="Node000020" href="$class_d_x8_skin_f_v_f_category_container.html#ad66040a77c1166e64b209289c6cb5f8b" title=" " alt="" coords="456,800,663,843"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="717,824,664,824,664,819,717,819"/>
+<area shape="rect" id="Node000022" href="$class_w_b_height_map.html#ac8668e5f5ff00877f831ea95334c6259" title=" " alt="" coords="228,951,384,977"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="444,949,385,956,385,951,443,943"/>
+<area shape="poly" id="edge26_Node000023_Node000022" title=" " alt="" coords="454,986,385,977,385,972,454,981"/>
+<area shape="rect" id="Node000030" href="$class_r_t_s3_d_scene.html#a131c2540413d7b013bc34209efa599d9" title=" " alt="" coords="464,1639,656,1681"/>
+<area shape="poly" id="edge35_Node000029_Node000030" title=" " alt="" coords="716,1670,656,1667,656,1662,716,1665"/>
+<area shape="rect" id="Node000031" href="$class_r_t_s3_d_scene.html#ade710b07eaeb881e94aac2351fdf55f0" title=" " alt="" coords="236,1647,377,1673"/>
+<area shape="poly" id="edge36_Node000030_Node000031" title=" " alt="" coords="448,1663,378,1663,378,1657,448,1657"/>
+<area shape="rect" id="Node000032" href="$class_r_t_s3_d_scene.html#ab899000d5cc0ec10ad5373f90ac0a3ff" title=" " alt="" coords="5,1647,157,1673"/>
+<area shape="poly" id="edge37_Node000031_Node000032" title=" " alt="" coords="220,1663,157,1663,157,1657,220,1657"/>
+<area shape="poly" id="edge39_Node000033_Node000023" title=" " alt="" coords="716,995,650,997,650,992,715,990"/>
+<area shape="poly" id="edge41_Node000034_Node000009" title=" " alt="" coords="501,595,124,403,127,398,503,590"/>
+<area shape="rect" id="Node000038" href="$class_screen_b_w_filter.html#acd2f45cacc8a7a96165dbb64c4371aa7" title="Called after render. Only applies to screen filter shaders." alt="" coords="466,1705,654,1732"/>
+<area shape="poly" id="edge45_Node000037_Node000038" title=" " alt="" coords="736,1724,654,1723,654,1717,736,1719"/>
+<area shape="poly" id="edge47_Node000039_Node000016" title=" " alt="" coords="719,1384,635,1395,634,1389,718,1378"/>
+<area shape="rect" id="Node000041" href="$class_screen_cross_fade_filter.html#a8c6a99ab6019e8f99daca6f06a8fd2cb" title="Called after render. Only applies to screen filter shaders." alt="" coords="482,1756,637,1799"/>
+<area shape="poly" id="edge49_Node000040_Node000041" title=" " alt="" coords="715,1778,638,1779,638,1773,715,1772"/>
+<area shape="rect" id="Node000043" href="$class_screen_default_filter.html#a543cd9cd99173df6caa45403b654d2ee" title="Called after render. Only applies to screen filter shaders." alt="" coords="493,1823,626,1865"/>
+<area shape="poly" id="edge51_Node000042_Node000043" title=" " alt="" coords="726,1834,627,1842,626,1836,726,1829"/>
+<area shape="poly" id="edge53_Node000044_Node000017" title=" " alt="" coords="727,1605,710,1598,673,1578,638,1554,582,1509,586,1505,641,1550,676,1574,712,1594,729,1600"/>
+<area shape="poly" id="edge59_Node000046_Node000034" title=" " alt="" coords="726,667,635,643,637,638,727,661"/>
+<area shape="rect" id="Node000047" href="$class_water_render_obj_class.html#a600ecc59d8a26640796fb95b6e3f085f" title=" " alt="" coords="484,667,635,709"/>
+<area shape="poly" id="edge56_Node000046_Node000047" title=" " alt="" coords="726,691,636,691,636,685,726,685"/>
+<area shape="rect" id="Node000048" href="$class_water_render_obj_class.html#aa0d4eb6c1801caf2679eedf6ba15e624" title="allocate W3D resources needed to render water" alt="" coords="231,667,382,709"/>
+<area shape="poly" id="edge57_Node000047_Node000048" title=" " alt="" coords="468,691,383,691,383,685,468,685"/>
+<area shape="poly" id="edge58_Node000048_Node000009" title=" " alt="" coords="277,656,203,558,95,402,99,399,207,554,281,653"/>
+<area shape="rect" id="Node000050" href="$class_water_render_obj_class.html#ae60605d2427f62f6d4c5046bca30d0e8" title=" " alt="" coords="484,733,635,776"/>
+<area shape="poly" id="edge61_Node000049_Node000050" title=" " alt="" coords="726,757,636,757,636,752,726,752"/>
+<area shape="poly" id="edge62_Node000050_Node000048" title=" " alt="" coords="468,733,382,711,383,705,470,728"/>
+</map>

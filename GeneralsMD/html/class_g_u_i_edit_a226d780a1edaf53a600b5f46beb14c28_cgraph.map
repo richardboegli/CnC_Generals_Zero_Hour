@@ -1,0 +1,67 @@
+<map id="GUIEdit::menuSave" name="GUIEdit::menuSave">
+<area shape="rect" id="Node000001" title="hit save on menu" alt="" coords="5,360,144,387"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_edit.html#af9ee03a6999da8fe5fc5260e9d1bb416" title="hit save as on menu" alt="" coords="192,360,346,387"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,371,176,371,176,376,144,376"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_edit.html#ae9cd04eefb2de5d8c8659a7f6275f20b" title="save data to file in filePath" alt="" coords="406,296,539,323"/>
+<area shape="poly" id="edge37_Node000001_Node000004" title=" " alt="" coords="135,357,191,345,391,316,392,321,192,351,136,362"/>
+<area shape="rect" id="Node000027" href="$class_g_u_i_edit.html#adbe83692f700b0026f0f2ad45e778b8d" title="set unsaved flag to FALSE or TRUE" alt="" coords="400,448,546,475"/>
+<area shape="poly" id="edge38_Node000001_Node000027" title=" " alt="" coords="139,385,395,442,394,447,138,390"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_edit.html#ae83a4f468d30759efe41b7fa0e10cfd4" title="save as standard browser" alt="" coords="394,347,551,373"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,366,378,363,379,369,346,371"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="313,357,412,325,414,330,315,362"/>
+<area shape="rect" id="Node000026" href="$class_g_u_i_edit.html#a7ed06a095c1689fa425cf3e63d451478" title="set filename to use for saving" alt="" coords="400,397,545,424"/>
+<area shape="poly" id="edge35_Node000002_Node000026" title=" " alt="" coords="346,385,385,392,384,397,345,390"/>
+<area shape="poly" id="edge36_Node000002_Node000027" title=" " alt="" coords="296,385,395,434,412,440,410,445,393,438,294,390"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_edit.html#a813b466d2ebfe6b4bd892fa2218a36ec" title=" " alt="" coords="599,120,790,163"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="486,293,533,247,598,194,637,169,640,173,601,198,537,251,489,297"/>
+<area shape="rect" id="Node000014" href="$class_game_window.html#ab878c31dece0bc6481612b78cbbed31f" title="get next window in window list" alt="" coords="863,259,1043,285"/>
+<area shape="poly" id="edge27_Node000004_Node000014" title=" " alt="" coords="539,300,599,295,847,276,847,282,600,300,539,305"/>
+<area shape="rect" id="Node000016" href="$class_g_u_i_edit.html#aacec554c5600abc0a4a43fcfd65ef059" title=" " alt="" coords="613,333,776,360"/>
+<area shape="poly" id="edge18_Node000004_Node000016" title=" " alt="" coords="540,318,598,328,597,333,539,323"/>
+<area shape="rect" id="Node000021" href="$class_game_window.html#a3f767a0b2a4d30e6de23f6b3609cc489" title="get previous window in window list" alt="" coords="605,208,784,235"/>
+<area shape="poly" id="edge28_Node000004_Node000021" title=" " alt="" coords="502,293,598,251,634,238,636,243,600,256,504,298"/>
+<area shape="rect" id="Node000022" href="$class_g_u_i_edit.html#a4e44aee85eaca7cbb73967cec71e3cfe" title="write the configuration file" alt="" coords="613,461,776,488"/>
+<area shape="poly" id="edge30_Node000004_Node000022" title=" " alt="" coords="535,321,553,333,565,346,572,359,578,384,584,409,601,434,628,452,625,457,597,438,579,411,573,385,567,361,560,349,550,337,532,325"/>
+<area shape="rect" id="Node000025" href="$class_g_u_i_edit.html#ae6e4f2c0725e074f6058351c0c82544f" title="write all loaded fonts to a file" alt="" coords="619,397,770,424"/>
+<area shape="poly" id="edge33_Node000004_Node000025" title=" " alt="" coords="526,321,553,332,577,351,601,370,640,389,638,394,598,374,574,355,550,337,524,326"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="652,120,651,110,658,101,672,95,695,93,718,96,733,102,730,107,717,101,694,99,674,101,661,105,656,111,658,119"/>
+<area shape="rect" id="Node000006" href="$_gadget_radio_button_8cpp.html#a353a869ed6a64ae4bd10b4c080234aa3" title=" " alt="" coords="877,5,1029,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="723,117,774,82,837,48,874,34,876,39,839,53,777,87,726,122"/>
+<area shape="rect" id="Node000007" href="$class_game_window.html#af3ee089ca48c7bcd651cfef72d13cd13" title="get the window user data" alt="" coords="1116,31,1324,57"/>
+<area shape="poly" id="edge17_Node000005_Node000007" title=" " alt="" coords="753,117,837,92,973,67,1100,51,1101,57,974,72,838,97,755,122"/>
+<area shape="rect" id="Node000008" href="$class_game_window.html#a21518616830350dedf3024745464d37e" title="get the child window" alt="" coords="862,157,1044,184"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="791,150,847,156,846,161,790,155"/>
+<area shape="poly" id="edge14_Node000005_Node000014" title=" " alt="" coords="740,161,912,249,910,254,737,166"/>
+<area shape="rect" id="Node000015" href="$class_game_window.html#a1bc6f1b656638c8ad1884410915a75c4" title="get style bits" alt="" coords="862,107,1044,133"/>
+<area shape="poly" id="edge16_Node000005_Node000015" title=" " alt="" coords="790,131,846,126,847,131,791,136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1030,23,1101,30,1100,35,1029,29"/>
+<area shape="rect" id="Node000009" href="$class_game_window.html#a93e649f970860d38ea63276dd71741cd" title=" " alt="" coords="1124,208,1317,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1028,182,1132,202,1131,207,1027,187"/>
+<area shape="rect" id="Node000010" href="$class_game_window.html#ad57ae43a177a651a5585e64e827a64e0" title="set draw" alt="" coords="1379,132,1591,159"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1259,205,1372,168,1402,160,1403,165,1373,173,1260,210"/>
+<area shape="rect" id="Node000011" href="$class_game_window.html#ac8b8f3f0cf35809705e36fccecd51998" title="set input" alt="" coords="1380,183,1590,209"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="1317,209,1364,205,1365,210,1318,215"/>
+<area shape="rect" id="Node000012" href="$class_game_window.html#a8e067d532ff5136e003d9f5c6289475a" title="set system" alt="" coords="1372,233,1598,260"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="1318,228,1357,232,1357,237,1317,233"/>
+<area shape="rect" id="Node000013" href="$class_game_window.html#a485fecb44e7a91af0c1c974275911350" title="set tooltip" alt="" coords="1376,284,1594,311"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="1260,233,1373,269,1403,277,1402,282,1372,275,1259,238"/>
+<area shape="poly" id="edge15_Node000014_Node000009" title=" " alt="" coords="1027,255,1131,235,1132,241,1028,261"/>
+<area shape="poly" id="edge24_Node000016_Node000008" title=" " alt="" coords="713,331,836,244,917,190,920,195,839,249,717,335"/>
+<area shape="poly" id="edge26_Node000016_Node000014" title=" " alt="" coords="731,330,837,295,867,287,868,292,838,300,733,335"/>
+<area shape="poly" id="edge23_Node000016_Node000016" title=" " alt="" coords="657,334,650,325,655,315,670,309,695,307,721,309,735,316,733,320,719,314,694,312,671,314,659,319,656,324,661,331"/>
+<area shape="rect" id="Node000017" href="$class_ascii_string.html#abc398a1f1fdd4148c0a2815ffecbb84f" title=" " alt="" coords="878,360,1028,387"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="777,352,863,361,862,367,776,358"/>
+<area shape="rect" id="Node000019" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="899,411,1006,437"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="731,358,838,396,885,408,883,413,837,401,729,363"/>
+<area shape="rect" id="Node000020" href="$class_game_window.html#a5b2e35ab9d9e47fc11aa3ac448232ce4" title="get instance data" alt="" coords="838,309,1068,336"/>
+<area shape="poly" id="edge25_Node000016_Node000020" title=" " alt="" coords="776,336,822,332,822,337,777,342"/>
+<area shape="rect" id="Node000018" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1160,385,1280,412"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="1028,378,1145,389,1144,394,1028,383"/>
+<area shape="poly" id="edge22_Node000019_Node000018" title=" " alt="" coords="1007,416,1144,403,1145,408,1007,422"/>
+<area shape="poly" id="edge29_Node000021_Node000009" title=" " alt="" coords="785,219,1108,219,1108,224,785,224"/>
+<area shape="rect" id="Node000023" href="$class_g_u_i_edit.html#a405000ccafb2a2368bbadce3f725d8db" title=" " alt="" coords="845,512,1061,539"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="767,486,867,506,866,511,766,491"/>
+<area shape="rect" id="Node000024" href="$class_g_u_i_edit.html#abb83e544d46e31ccadee706a50393c5a" title=" " alt="" coords="841,461,1065,488"/>
+<area shape="poly" id="edge32_Node000022_Node000024" title=" " alt="" coords="777,472,825,472,825,477,777,477"/>
+<area shape="poly" id="edge34_Node000025_Node000019" title=" " alt="" coords="771,412,884,418,884,423,771,417"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="DynamicMemoryAllocator::reset" name="DynamicMemoryAllocator::reset">
+<area shape="rect" id="Node000001" title="destroy all allocations performed by this DMA." alt="" coords="5,137,177,180"/>
+<area shape="rect" id="Node000002" href="$class_dynamic_memory_allocator.html#a857a82beae58b58b02556ce617bfd605" title="free the bytes. (assumes allocated by this dma.)" alt="" coords="225,137,396,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,156,209,156,209,161,177,161"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool.html#a449f316afa8cab0d81577261e163e7e1" title="free the block. it is OK to pass null." alt="" coords="454,120,612,146"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,146,439,141,439,146,396,151"/>
+<area shape="rect" id="Node000005" href="$class_memory_pool_single_block.html#a794c521e0c769065b1781b0bfa24f73d" title=" " alt="" coords="935,74,1098,117"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="336,135,384,100,443,68,504,44,554,32,670,17,779,4,827,5,887,17,936,37,977,63,975,67,933,42,886,22,827,10,780,9,671,22,555,37,506,50,445,73,387,105,339,139"/>
+<area shape="rect" id="Node000008" href="$class_memory_pool_blob.html#ad12ffdd4c37b0c40bf7fbab7aeea98a3" title="accessor" alt="" coords="670,32,887,58"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="362,134,443,105,555,78,662,59,663,64,556,84,445,110,363,139"/>
+<area shape="rect" id="Node000009" href="$class_memory_pool_single_block.html#a34ed5533c3cf85d4067f981d892b36a9" title=" " alt="" coords="683,250,874,293"/>
+<area shape="poly" id="edge13_Node000002_Node000009" title=" " alt="" coords="397,161,506,176,566,189,623,207,648,221,672,236,686,242,684,247,669,241,645,225,621,212,564,194,505,181,396,166"/>
+<area shape="rect" id="Node000010" href="$_game_memory_8cpp.html#a282ff7f8b4053f86169f9a402eaf1440" title=" " alt="" coords="444,221,622,264"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="370,178,461,213,459,218,368,183"/>
+<area shape="rect" id="Node000011" href="$class_memory_pool_single_block.html#abb9ec92ccc38aaa56a2da41694438b37" title=" " alt="" coords="452,288,615,330"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="333,178,382,225,413,251,445,273,454,278,451,283,443,278,409,255,378,229,329,182"/>
+<area shape="rect" id="Node000004" href="$class_memory_pool_blob.html#a967a89b41668c9e36952f920f13ce238" title=" " alt="" coords="685,184,872,226"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="582,144,690,176,688,181,581,150"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="612,123,670,118,919,100,919,105,671,124,613,129"/>
+<area shape="rect" id="Node000007" href="$class_memory_pool.html#a2b6cfb27f235d15d61dfc5ecfb3ae831" title="return the block allocation size of this pool." alt="" coords="677,133,880,160"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="612,135,661,137,661,143,612,140"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="564,117,669,75,712,61,713,66,671,80,566,122"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="591,145,624,163,641,182,649,201,656,219,672,236,677,240,674,244,669,240,652,222,644,203,636,185,621,167,588,149"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="857,181,886,169,929,147,969,123,972,128,932,152,888,174,859,186"/>
+<area shape="rect" id="Node000006" href="$class_memory_pool_single_block.html#ae919b355e3eedafc54c99d774409b1ac" title=" " alt="" coords="935,184,1098,226"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="872,202,919,202,919,208,872,208"/>
+</map>

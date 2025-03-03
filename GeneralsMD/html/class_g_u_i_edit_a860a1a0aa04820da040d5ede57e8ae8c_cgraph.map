@@ -1,0 +1,87 @@
+<map id="GUIEdit::menuNew" name="GUIEdit::menuNew">
+<area shape="rect" id="Node000001" title="start a new layout process" alt="" coords="5,468,141,495"/>
+<area shape="rect" id="Node000002" href="$class_g_u_i_edit.html#a226d780a1edaf53a600b5f46beb14c28" title="hit save on menu" alt="" coords="189,417,328,444"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,465,192,446,193,451,125,470"/>
+<area shape="rect" id="Node000029" href="$class_g_u_i_edit.html#a3d4fd4418b73c5558ed217c5454da318" title="reset editor for new layout" alt="" coords="189,493,328,520"/>
+<area shape="poly" id="edge40_Node000001_Node000029" title=" " alt="" coords="142,488,174,492,173,498,141,493"/>
+<area shape="rect" id="Node000003" href="$class_g_u_i_edit.html#af9ee03a6999da8fe5fc5260e9d1bb416" title="hit save as on menu" alt="" coords="389,392,543,419"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,420,373,414,374,419,328,425"/>
+<area shape="rect" id="Node000005" href="$class_g_u_i_edit.html#ae9cd04eefb2de5d8c8659a7f6275f20b" title="save data to file in filePath" alt="" coords="617,291,750,317"/>
+<area shape="poly" id="edge38_Node000002_Node000005" title=" " alt="" coords="287,414,375,377,493,343,601,317,602,323,494,348,377,383,289,419"/>
+<area shape="rect" id="Node000028" href="$class_g_u_i_edit.html#adbe83692f700b0026f0f2ad45e778b8d" title="set unsaved flag to FALSE or TRUE" alt="" coords="845,619,991,645"/>
+<area shape="poly" id="edge39_Node000002_Node000028" title=" " alt="" coords="282,442,330,479,353,507,362,519,377,530,433,557,493,579,554,597,615,610,731,625,829,630,829,636,731,630,614,615,552,602,491,584,431,562,375,534,359,522,349,510,326,483,278,447"/>
+<area shape="rect" id="Node000004" href="$class_g_u_i_edit.html#ae83a4f468d30759efe41b7fa0e10cfd4" title="save as standard browser" alt="" coords="605,392,762,419"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="544,403,589,403,589,408,544,408"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="488,389,539,359,603,327,619,321,621,325,605,332,542,364,490,394"/>
+<area shape="rect" id="Node000027" href="$class_g_u_i_edit.html#a7ed06a095c1689fa425cf3e63d451478" title="set filename to use for saving" alt="" coords="611,341,756,368"/>
+<area shape="poly" id="edge36_Node000003_Node000027" title=" " alt="" coords="526,389,608,370,609,375,527,394"/>
+<area shape="poly" id="edge37_Node000003_Node000028" title=" " alt="" coords="526,417,581,433,643,457,706,489,764,530,781,550,788,569,796,587,812,605,831,615,829,620,809,609,792,590,783,571,776,553,761,534,704,494,641,462,579,438,525,422"/>
+<area shape="rect" id="Node000006" href="$class_g_u_i_edit.html#a813b466d2ebfe6b4bd892fa2218a36ec" title=" " alt="" coords="823,200,1013,243"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="717,288,810,252,829,245,831,251,812,257,719,293"/>
+<area shape="rect" id="Node000015" href="$class_game_window.html#ab878c31dece0bc6481612b78cbbed31f" title="get next window in window list" alt="" coords="1098,461,1278,488"/>
+<area shape="poly" id="edge28_Node000005_Node000015" title=" " alt="" coords="741,316,764,327,779,340,789,353,798,366,812,378,1074,447,1108,455,1107,460,1072,452,809,382,794,370,784,356,776,344,761,332,738,320"/>
+<area shape="rect" id="Node000017" href="$class_g_u_i_edit.html#aacec554c5600abc0a4a43fcfd65ef059" title=" " alt="" coords="836,341,1000,368"/>
+<area shape="poly" id="edge19_Node000005_Node000017" title=" " alt="" coords="749,315,839,335,837,340,748,321"/>
+<area shape="rect" id="Node000022" href="$class_game_window.html#a3f767a0b2a4d30e6de23f6b3609cc489" title="get previous window in window list" alt="" coords="828,493,1008,520"/>
+<area shape="poly" id="edge29_Node000005_Node000022" title=" " alt="" coords="746,316,764,327,783,351,791,374,798,397,813,422,847,456,883,483,880,487,843,460,809,426,793,399,786,375,779,353,761,331,743,320"/>
+<area shape="rect" id="Node000023" href="$class_g_u_i_edit.html#a4e44aee85eaca7cbb73967cec71e3cfe" title="write the configuration file" alt="" coords="836,56,1000,83"/>
+<area shape="poly" id="edge31_Node000005_Node000023" title=" " alt="" coords="694,288,743,232,809,162,887,91,891,95,813,166,747,236,699,292"/>
+<area shape="rect" id="Node000026" href="$class_g_u_i_edit.html#ae6e4f2c0725e074f6058351c0c82544f" title="write all loaded fonts to a file" alt="" coords="842,267,994,293"/>
+<area shape="poly" id="edge34_Node000005_Node000026" title=" " alt="" coords="750,295,826,287,827,292,750,300"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="873,200,872,190,879,181,895,175,918,173,943,176,958,182,956,187,942,181,918,179,896,181,882,185,877,191,879,199"/>
+<area shape="rect" id="Node000007" href="$_gadget_radio_button_8cpp.html#a353a869ed6a64ae4bd10b4c080234aa3" title=" " alt="" coords="1112,157,1264,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1013,201,1098,185,1099,190,1014,206"/>
+<area shape="rect" id="Node000008" href="$class_game_window.html#af3ee089ca48c7bcd651cfef72d13cd13" title="get the window user data" alt="" coords="1351,132,1560,159"/>
+<area shape="poly" id="edge18_Node000006_Node000008" title=" " alt="" coords="951,197,1006,167,1039,153,1072,143,1140,131,1208,126,1336,129,1336,134,1208,132,1140,137,1074,148,1041,158,1008,172,954,202"/>
+<area shape="rect" id="Node000009" href="$class_game_window.html#a21518616830350dedf3024745464d37e" title="get the child window" alt="" coords="1097,411,1279,437"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="1012,241,1027,253,1041,271,1048,290,1051,327,1054,363,1061,380,1075,397,1085,404,1081,408,1071,401,1056,383,1049,364,1046,328,1043,291,1036,274,1023,257,1009,245"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="1013,241,1027,253,1044,278,1052,303,1053,328,1051,353,1049,378,1050,401,1058,425,1075,447,1086,456,1083,460,1071,451,1053,427,1045,402,1043,377,1045,353,1048,328,1047,304,1040,280,1023,256,1010,245"/>
+<area shape="rect" id="Node000016" href="$class_game_window.html#a1bc6f1b656638c8ad1884410915a75c4" title="get style bits" alt="" coords="1097,208,1279,235"/>
+<area shape="poly" id="edge17_Node000006_Node000016" title=" " alt="" coords="1014,219,1081,219,1081,224,1014,224"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1265,161,1335,154,1336,159,1265,166"/>
+<area shape="rect" id="Node000010" href="$class_game_window.html#a93e649f970860d38ea63276dd71741cd" title=" " alt="" coords="1359,461,1552,488"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1263,435,1367,455,1366,461,1262,441"/>
+<area shape="rect" id="Node000011" href="$class_game_window.html#ad57ae43a177a651a5585e64e827a64e0" title="set draw" alt="" coords="1615,385,1826,412"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1494,458,1607,421,1637,414,1639,419,1608,427,1496,463"/>
+<area shape="rect" id="Node000012" href="$class_game_window.html#ac8b8f3f0cf35809705e36fccecd51998" title="set input" alt="" coords="1616,436,1825,463"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1552,463,1600,458,1600,463,1553,468"/>
+<area shape="rect" id="Node000013" href="$class_game_window.html#a8e067d532ff5136e003d9f5c6289475a" title="set system" alt="" coords="1608,487,1833,513"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="1553,481,1592,485,1592,490,1552,487"/>
+<area shape="rect" id="Node000014" href="$class_game_window.html#a485fecb44e7a91af0c1c974275911350" title="set tooltip" alt="" coords="1611,537,1830,564"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="1496,486,1608,523,1639,531,1637,536,1607,528,1494,491"/>
+<area shape="poly" id="edge16_Node000015_Node000010" title=" " alt="" coords="1279,472,1344,472,1344,477,1279,477"/>
+<area shape="poly" id="edge25_Node000017_Node000009" title=" " alt="" coords="966,366,1074,396,1107,404,1106,409,1072,401,964,371"/>
+<area shape="poly" id="edge27_Node000017_Node000015" title=" " alt="" coords="989,366,1027,384,1043,401,1051,417,1059,433,1075,447,1085,453,1082,458,1071,451,1055,436,1046,420,1038,404,1023,389,986,371"/>
+<area shape="poly" id="edge24_Node000017_Node000017" title=" " alt="" coords="878,343,871,333,876,323,892,317,918,315,946,317,961,324,959,329,945,322,918,320,893,322,880,327,877,332,883,339"/>
+<area shape="rect" id="Node000018" href="$class_ascii_string.html#abc398a1f1fdd4148c0a2815ffecbb84f" title=" " alt="" coords="1114,309,1263,336"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="1000,342,1098,331,1098,336,1000,348"/>
+<area shape="rect" id="Node000020" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="1134,259,1242,285"/>
+<area shape="poly" id="edge22_Node000017_Node000020" title=" " alt="" coords="951,338,1072,295,1119,283,1120,288,1074,300,953,343"/>
+<area shape="rect" id="Node000021" href="$class_game_window.html#a5b2e35ab9d9e47fc11aa3ac448232ce4" title="get instance data" alt="" coords="1073,360,1303,387"/>
+<area shape="poly" id="edge26_Node000017_Node000021" title=" " alt="" coords="1000,358,1058,362,1058,367,1000,363"/>
+<area shape="rect" id="Node000019" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1395,284,1516,311"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="1263,313,1380,302,1380,307,1263,318"/>
+<area shape="poly" id="edge23_Node000020_Node000019" title=" " alt="" coords="1243,274,1380,288,1380,293,1242,280"/>
+<area shape="poly" id="edge30_Node000022_Node000010" title=" " alt="" coords="1008,506,1147,506,1303,497,1369,489,1370,494,1304,503,1147,511,1008,512"/>
+<area shape="rect" id="Node000024" href="$class_g_u_i_edit.html#a405000ccafb2a2368bbadce3f725d8db" title=" " alt="" coords="1080,5,1296,32"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="993,53,1098,33,1099,38,994,58"/>
+<area shape="rect" id="Node000025" href="$class_g_u_i_edit.html#abb83e544d46e31ccadee706a50393c5a" title=" " alt="" coords="1076,56,1300,83"/>
+<area shape="poly" id="edge33_Node000023_Node000025" title=" " alt="" coords="1000,67,1061,67,1061,72,1000,72"/>
+<area shape="poly" id="edge35_Node000026_Node000020" title=" " alt="" coords="994,275,1119,271,1119,277,994,280"/>
+<area shape="poly" id="edge51_Node000029_Node000028" title=" " alt="" coords="270,519,311,573,341,602,377,624,437,645,499,658,563,665,626,668,744,661,841,646,842,651,745,666,626,673,562,671,498,664,435,650,375,629,338,607,307,577,266,522"/>
+<area shape="rect" id="Node000030" href="$class_g_u_i_edit.html#a5655acf8466603bb729e98ebd6efd512" title="delete all windows in the editor" alt="" coords="376,493,556,520"/>
+<area shape="poly" id="edge41_Node000029_Node000030" title=" " alt="" coords="329,504,360,504,360,509,329,509"/>
+<area shape="poly" id="edge50_Node000030_Node000015" title=" " alt="" coords="556,496,811,479,1082,472,1082,478,811,484,557,501"/>
+<area shape="rect" id="Node000031" href="$class_g_u_i_edit.html#ac89531530f321677fde74528a2b62b37" title="delete a game window" alt="" coords="604,544,763,571"/>
+<area shape="poly" id="edge42_Node000030_Node000031" title=" " alt="" coords="527,518,609,537,608,542,526,523"/>
+<area shape="poly" id="edge49_Node000031_Node000028" title=" " alt="" coords="720,569,812,604,838,612,837,617,810,609,718,574"/>
+<area shape="rect" id="Node000032" href="$class_g_u_i_edit.html#af30eea7c240badc4b37527e44b309932" title="to cleanup before delete" alt="" coords="811,568,1025,595"/>
+<area shape="poly" id="edge43_Node000031_Node000032" title=" " alt="" coords="764,563,795,566,795,571,763,568"/>
+<area shape="poly" id="edge47_Node000032_Node000009" title=" " alt="" coords="963,565,994,550,1023,530,1039,509,1045,488,1053,467,1071,447,1081,441,1084,445,1075,451,1058,470,1050,490,1043,512,1027,534,997,555,965,570"/>
+<area shape="poly" id="edge48_Node000032_Node000015" title=" " alt="" coords="953,565,1137,492,1139,497,955,570"/>
+<area shape="poly" id="edge44_Node000032_Node000032" title=" " alt="" coords="878,569,871,559,876,549,892,543,918,541,946,544,961,551,959,556,945,549,918,547,893,549,880,553,877,559,883,566"/>
+<area shape="rect" id="Node000033" href="$class_g_u_i_edit.html#ae2c5987b90444c29105bd98a4536d609" title="remove from selection list" alt="" coords="1101,568,1275,595"/>
+<area shape="poly" id="edge45_Node000032_Node000033" title=" " alt="" coords="1025,579,1086,579,1086,584,1025,584"/>
+<area shape="rect" id="Node000034" href="$class_g_u_i_edit.html#aeee99e6c8629beedceffc0631385a0a2" title="find selection entry associated with this window" alt="" coords="1364,568,1547,595"/>
+<area shape="poly" id="edge46_Node000033_Node000034" title=" " alt="" coords="1276,579,1349,579,1349,584,1276,584"/>
+</map>

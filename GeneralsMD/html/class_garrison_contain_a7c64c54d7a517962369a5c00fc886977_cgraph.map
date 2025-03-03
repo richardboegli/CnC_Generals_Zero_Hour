@@ -1,0 +1,116 @@
+<map id="GarrisonContain::attemptBestFirePointPosition" name="GarrisonContain::attemptBestFirePointPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,809,173,852"/>
+<area shape="rect" id="Node000002" href="$class_garrison_contain.html#a40833f4904bb58ef85426bee0ccf2cb4" title="get the garrison point index object is at (if present)" alt="" coords="480,696,660,739"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,808,465,739,466,744,174,814"/>
+<area shape="rect" id="Node000003" href="$class_weapon.html#a6da7f6ad978fdfbc78f9d475e029c10f" title=" " alt="" coords="221,493,420,520"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,807,298,532,303,535,108,810"/>
+<area shape="rect" id="Node000270" href="$class_garrison_contain.html#a0162a309ec58a30a542a735af79814da" title="place object at position of the best garrison point to use for its target" alt="" coords="231,897,410,940"/>
+<area shape="poly" id="edge27_Node000001_Node000270" title=" " alt="" coords="148,850,249,889,247,894,146,855"/>
+<area shape="rect" id="Node000286" href="$class_garrison_contain.html#af80db478921bc8d222cba95f688f0baa" title="remove object from the garrison point placement" alt="" coords="468,1235,672,1277"/>
+<area shape="poly" id="edge61_Node000001_Node000286" title=" " alt="" coords="115,850,222,950,534,1222,530,1226,219,954,111,854"/>
+<area shape="rect" id="Node000004" href="$class_object_iterator.html#a4ebc1ade34b0b3bc75235fa5638cd7fb" title="reset iterator and return first item (or null if iter is empty)" alt="" coords="505,443,635,469"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="389,490,489,470,490,475,390,495"/>
+<area shape="rect" id="Node000005" href="$class_weapon.html#a6e60fdd7d4cdd28a6d03149190d64457" title=" " alt="" coords="485,341,655,368"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="333,491,388,440,426,410,467,384,496,371,499,376,469,389,429,415,392,444,337,495"/>
+<area shape="rect" id="Node000038" href="$class_thing.html#a7978985fe2e1e1b1b91bb822f62df5e9" title=" " alt="" coords="1551,392,1662,419"/>
+<area shape="poly" id="edge24_Node000003_Node000038" title=" " alt="" coords="341,490,396,458,431,441,467,428,563,406,639,400,814,403,1089,403,1535,403,1535,408,1089,408,814,408,639,405,563,412,469,433,433,446,398,462,343,495"/>
+<area shape="rect" id="Node000237" href="$class_object.html#a479266462a8ceb0be975d351f259bfa4" title=" " alt="" coords="488,493,652,520"/>
+<area shape="poly" id="edge21_Node000003_Node000237" title=" " alt="" coords="420,504,473,504,473,509,420,509"/>
+<area shape="rect" id="Node000084" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="1543,932,1670,959"/>
+<area shape="poly" id="edge22_Node000003_Node000084" title=" " alt="" coords="334,519,388,576,426,607,469,631,518,649,561,660,600,665,637,666,715,660,814,656,1089,656,1130,658,1170,664,1248,687,1323,721,1392,761,1454,805,1508,848,1584,919,1580,923,1505,853,1451,809,1389,766,1320,726,1246,692,1169,670,1129,663,1089,661,814,661,715,666,637,671,599,670,560,665,517,654,467,636,423,611,384,580,330,522"/>
+<area shape="rect" id="Node000267" href="$class_weapon.html#a186532c0e1fdce0a414fc346e7be748b" title=" " alt="" coords="480,595,660,621"/>
+<area shape="poly" id="edge23_Node000003_Node000267" title=" " alt="" coords="349,518,404,545,469,574,507,587,505,592,467,578,402,550,347,523"/>
+<area shape="rect" id="Node000268" href="$class_object_iterator.html#ad7acec5d0ff53e519ebff25feeff9131" title="advance and return next item (or null if no more to iterate)" alt="" coords="504,291,637,317"/>
+<area shape="poly" id="edge25_Node000003_Node000268" title=" " alt="" coords="327,492,346,458,377,413,418,367,467,327,488,317,490,321,469,332,422,370,382,417,351,461,331,494"/>
+<area shape="rect" id="Node000269" href="$_base_type_8h.html#a14225aed20ec8648b7e87b04aa650d04" title=" " alt="" coords="1068,569,1108,596"/>
+<area shape="poly" id="edge26_Node000003_Node000269" title=" " alt="" coords="395,518,468,529,640,548,809,563,1053,578,1053,584,809,568,640,554,468,535,394,523"/>
+<area shape="rect" id="Node000006" href="$class_weapon.html#ab3f80367a1d093b08b3fd4ea7cce99d8" title=" " alt="" coords="734,199,897,225"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="642,338,671,327,706,306,738,282,789,235,793,239,741,286,709,311,674,332,644,343"/>
+<area shape="rect" id="Node000007" href="$class_weapon_bonus_set.html#a17b2e02446a4afb3ecb663f255e4b76d" title=" " alt="" coords="975,123,1201,149"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="850,196,958,159,991,151,993,156,959,164,852,201"/>
+<area shape="rect" id="Node000008" href="$class_weapon_bonus.html#ae8a10124978a114e0d998e115fc3b8f0" title=" " alt="" coords="1017,173,1158,200"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="897,202,1001,192,1002,197,898,207"/>
+<area shape="rect" id="Node000009" href="$class_object.html#a5a7c9f53403774cfcf387920e501b596" title=" " alt="" coords="1023,224,1153,251"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="898,217,1008,227,1007,233,897,222"/>
+<area shape="rect" id="Node000010" href="$class_object.html#a5f155a8199d3f2fc7b178d593a59d6d4" title=" " alt="" coords="1008,5,1168,32"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="822,197,841,165,871,122,910,78,957,42,991,27,994,32,960,46,914,82,875,125,845,168,826,200"/>
+<area shape="rect" id="Node000264" href="$class_object.html#a2fb774f32989e304a4a48aad8d8303a8" title=" " alt="" coords="976,275,1200,301"/>
+<area shape="poly" id="edge18_Node000006_Node000264" title=" " alt="" coords="852,223,959,260,993,268,991,273,958,265,850,228"/>
+<area shape="rect" id="Node000265" href="$class_contain_module_interface.html#abd4526ad9c1e7a41c0a80a4bcc86663a" title=" " alt="" coords="959,325,1217,368"/>
+<area shape="poly" id="edge19_Node000006_Node000265" title=" " alt="" coords="834,224,887,267,923,291,960,311,974,317,972,322,958,316,920,295,884,271,831,228"/>
+<area shape="rect" id="Node000266" href="$class_contain_module_interface.html#a981e447c86e71a21eda619ddbf220e91" title=" " alt="" coords="963,56,1213,99"/>
+<area shape="poly" id="edge20_Node000006_Node000266" title=" " alt="" coords="831,196,884,153,920,129,958,108,972,102,974,107,960,113,923,133,887,157,834,200"/>
+<area shape="rect" id="Node000011" href="$class_object.html#af473746c591d058fba3fa9b66c0162fb" title="destructor is non&#45;public in order to require the use of TheGameLogic&#45;&gt;destroyObject()" alt="" coords="1307,316,1412,343"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1169,20,1195,28,1219,42,1249,70,1275,102,1297,138,1315,174,1341,245,1356,300,1350,302,1336,246,1310,177,1292,140,1271,105,1245,73,1215,46,1193,33,1168,25"/>
+<area shape="rect" id="Node000037" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="1775,392,1907,419"/>
+<area shape="poly" id="edge11_Node000011_Node000037" title=" " alt="" coords="1413,333,1711,377,1759,386,1759,391,1710,383,1412,339"/>
+<area shape="poly" id="edge12_Node000011_Node000038" title=" " alt="" coords="1407,341,1546,384,1545,389,1405,346"/>
+<area shape="rect" id="Node000039" href="$class_thing_template.html#a3a76269a04cb28565f44d77af2cecebd" title="return true iff the template has the specified kindOf flag set." alt="" coords="1759,316,1923,343"/>
+<area shape="poly" id="edge17_Node000011_Node000039" title=" " alt="" coords="1413,327,1743,327,1743,332,1413,332"/>
+<area shape="poly" id="edge13_Node000038_Node000037" title=" " alt="" coords="1663,403,1759,403,1759,408,1663,408"/>
+<area shape="poly" id="edge14_Node000038_Node000039" title=" " alt="" coords="1649,389,1782,346,1783,351,1651,394"/>
+<area shape="rect" id="Node000040" href="$_kind_of_8h.html#aaed3b7597902c6142ee9b7ad53f5bd50" title=" " alt="" coords="1971,316,2122,343"/>
+<area shape="poly" id="edge15_Node000039_Node000040" title=" " alt="" coords="1924,327,1955,327,1955,332,1924,332"/>
+<area shape="rect" id="Node000041" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="2170,316,2270,343"/>
+<area shape="poly" id="edge16_Node000040_Node000041" title=" " alt="" coords="2123,327,2155,327,2155,332,2123,332"/>
+<area shape="poly" id="edge37_Node000270_Node000002" title=" " alt="" coords="336,895,401,815,437,775,466,749,474,744,477,748,470,753,441,778,405,818,340,899"/>
+<area shape="poly" id="edge39_Node000270_Node000037" title=" " alt="" coords="373,894,419,878,467,865,564,848,640,841,814,840,1361,840,1406,836,1449,826,1490,811,1529,790,1566,764,1602,736,1666,671,1721,602,1766,535,1824,431,1829,434,1771,538,1725,605,1670,675,1605,740,1570,769,1532,794,1492,815,1450,831,1406,842,1361,845,814,845,640,846,564,854,469,871,420,883,375,899"/>
+<area shape="poly" id="edge38_Node000270_Node000084" title=" " alt="" coords="410,916,911,916,1064,914,1183,910,1302,910,1455,919,1528,928,1527,933,1454,924,1302,915,1183,916,1064,919,911,921,410,921"/>
+<area shape="rect" id="Node000271" href="$class_garrison_contain.html#a8000711fe2ccdeef3d684cd20b43d780" title="find closest free garrison point to the target location" alt="" coords="476,763,665,805"/>
+<area shape="poly" id="edge28_Node000270_Node000271" title=" " alt="" coords="350,895,403,859,467,822,493,809,495,814,469,826,406,863,353,899"/>
+<area shape="rect" id="Node000273" href="$class_garrison_contain.html#accf7b7e11c11540dedbf2a0ed77c03b9" title="find the condition index to use given the current object body state" alt="" coords="470,1339,670,1381"/>
+<area shape="poly" id="edge31_Node000270_Node000273" title=" " alt="" coords="328,940,343,1004,370,1094,412,1194,439,1243,470,1288,491,1310,516,1328,513,1332,488,1314,466,1291,434,1246,407,1197,365,1096,338,1005,323,941"/>
+<area shape="rect" id="Node000275" href="$class_object.html#a6c17829820a29ded73578abd29906943" title="this object&#39;s unique ID" alt="" coords="520,880,620,907"/>
+<area shape="poly" id="edge35_Node000270_Node000275" title=" " alt="" coords="410,907,505,897,506,903,411,912"/>
+<area shape="rect" id="Node000172" href="$class_thing_template.html#a508419e7bb9bdce6140782f2c241b6aa" title="return the name of this template" alt="" coords="486,981,654,1008"/>
+<area shape="poly" id="edge36_Node000270_Node000172" title=" " alt="" coords="394,938,510,974,508,979,392,943"/>
+<area shape="rect" id="Node000276" href="$class_garrison_contain.html#af6f066118fc686235387dfe4f3ecdfa6" title="place object at the specified garrison point index" alt="" coords="480,1081,660,1124"/>
+<area shape="poly" id="edge40_Node000270_Node000276" title=" " alt="" coords="353,938,529,1070,526,1074,349,943"/>
+<area shape="rect" id="Node000211" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="516,1481,624,1508"/>
+<area shape="poly" id="edge59_Node000270_Node000211" title=" " alt="" coords="327,940,341,1018,367,1133,410,1265,437,1330,470,1392,504,1435,541,1470,537,1473,500,1439,466,1395,433,1333,405,1267,362,1135,335,1019,322,941"/>
+<area shape="rect" id="Node000272" href="$_garrison_contain_8cpp.html#aae080bcf3af5b746e6abf6b1c1a90d77" title=" " alt="" coords="771,733,860,760"/>
+<area shape="poly" id="edge29_Node000271_Node000272" title=" " alt="" coords="665,767,755,753,756,758,666,772"/>
+<area shape="poly" id="edge30_Node000272_Node000269" title=" " alt="" coords="838,730,1053,600,1056,604,841,735"/>
+<area shape="rect" id="Node000117" href="$class_object.html#a171f31aa0e16919882799fa3932124b4" title=" " alt="" coords="737,1451,894,1477"/>
+<area shape="poly" id="edge32_Node000273_Node000117" title=" " alt="" coords="608,1379,661,1408,721,1436,741,1443,739,1448,719,1441,658,1413,606,1384"/>
+<area shape="rect" id="Node000274" href="$class_body_module_interface.html#a576246479a1ce13c0a8c2e9fff35979c" title=" " alt="" coords="743,1384,888,1427"/>
+<area shape="poly" id="edge33_Node000273_Node000274" title=" " alt="" coords="671,1376,728,1387,728,1392,670,1381"/>
+<area shape="rect" id="Node000122" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="733,1283,898,1309"/>
+<area shape="poly" id="edge34_Node000273_Node000122" title=" " alt="" coords="654,1335,746,1311,747,1316,655,1341"/>
+<area shape="poly" id="edge43_Node000276_Node000122" title=" " alt="" coords="592,1123,664,1208,722,1269,731,1274,729,1278,719,1273,660,1212,587,1126"/>
+<area shape="rect" id="Node000067" href="$class_object.html#a1d1b6d9787b5fd41324930b71427fc95" title="drawable (if any) bound to obj" alt="" coords="745,1064,886,1091"/>
+<area shape="poly" id="edge41_Node000276_Node000067" title=" " alt="" coords="660,1091,730,1083,730,1089,661,1096"/>
+<area shape="rect" id="Node000277" href="$class_drawable.html#ad9173b7ad96b127cc2c858875e5790af" title=" " alt="" coords="722,997,909,1040"/>
+<area shape="poly" id="edge42_Node000276_Node000277" title=" " alt="" coords="634,1078,736,1043,738,1048,635,1083"/>
+<area shape="rect" id="Node000278" href="$class_garrison_contain.html#a75f2fbb061fcae35c5de8b2e8a34ec59" title="Does this type of Contain Visibly enclose its contents?" alt="" coords="720,1216,911,1259"/>
+<area shape="poly" id="edge44_Node000276_Node000278" title=" " alt="" coords="600,1122,655,1162,722,1202,733,1207,731,1212,719,1206,652,1166,597,1127"/>
+<area shape="rect" id="Node000279" href="$class_drawable.html#ab79228ebffe85af7450ab9ee2e51fae8" title=" " alt="" coords="722,931,909,973"/>
+<area shape="poly" id="edge45_Node000276_Node000279" title=" " alt="" coords="597,1079,719,983,729,978,732,982,722,988,600,1083"/>
+<area shape="rect" id="Node000280" href="$class_drawable.html#a62758e4f60d2612fa42e925412499fe7" title=" " alt="" coords="741,1165,890,1192"/>
+<area shape="poly" id="edge48_Node000276_Node000280" title=" " alt="" coords="642,1122,756,1158,754,1163,641,1127"/>
+<area shape="rect" id="Node000281" href="$class_thing.html#a9fcbcf27ec45b3aa4883a03a56663bd9" title=" " alt="" coords="1025,1125,1151,1152"/>
+<area shape="poly" id="edge58_Node000276_Node000281" title=" " alt="" coords="660,1106,1009,1131,1009,1136,660,1112"/>
+<area shape="rect" id="Node000061" href="$class_drawable.html#aab821e254f31cf382517d16fbe3f08cd" title=" " alt="" coords="997,937,1179,964"/>
+<area shape="poly" id="edge46_Node000279_Node000061" title=" " alt="" coords="909,949,981,949,981,954,909,954"/>
+<area shape="rect" id="Node000062" href="$class_drawable.html#a88cc11f568a32687ceb341d5c13570b6" title=" " alt="" coords="1277,933,1442,960"/>
+<area shape="poly" id="edge47_Node000061_Node000062" title=" " alt="" coords="1180,947,1261,945,1261,951,1180,952"/>
+<area shape="poly" id="edge49_Node000280_Node000281" title=" " alt="" coords="890,1165,1009,1147,1010,1153,891,1170"/>
+<area shape="poly" id="edge51_Node000281_Node000084" title=" " alt="" coords="1104,1123,1171,1073,1216,1044,1264,1020,1313,1004,1381,987,1527,957,1528,962,1383,992,1315,1009,1266,1025,1219,1049,1174,1077,1107,1127"/>
+<area shape="rect" id="Node000131" href="$class_thing.html#af2c6688c2a7aad6f77d340925bf8537c" title=" " alt="" coords="1288,1035,1431,1061"/>
+<area shape="poly" id="edge50_Node000281_Node000131" title=" " alt="" coords="1123,1122,1264,1071,1288,1063,1290,1069,1266,1076,1125,1127"/>
+<area shape="rect" id="Node000282" href="$class_thing.html#a07b868efabdef9eeef03ca85887d30a2" title=" " alt="" coords="1502,1187,1711,1213"/>
+<area shape="poly" id="edge52_Node000281_Node000282" title=" " alt="" coords="1148,1150,1265,1172,1379,1185,1487,1192,1487,1198,1379,1190,1265,1177,1147,1155"/>
+<area shape="rect" id="Node000283" href="$class_matrix3_d.html#a0ee27f01493ca399b9d1ffb67b998187" title=" " alt="" coords="1265,1085,1454,1112"/>
+<area shape="poly" id="edge53_Node000281_Node000283" title=" " alt="" coords="1151,1127,1249,1112,1250,1117,1152,1132"/>
+<area shape="rect" id="Node000284" href="$class_thing.html#ad3a915f04d797a95168b90685988375c" title="set the world transformation matrix" alt="" coords="1272,1136,1447,1163"/>
+<area shape="poly" id="edge54_Node000281_Node000284" title=" " alt="" coords="1152,1138,1257,1143,1257,1148,1151,1144"/>
+<area shape="poly" id="edge56_Node000284_Node000084" title=" " alt="" coords="1430,1133,1453,1122,1497,1087,1535,1046,1565,1005,1588,970,1592,973,1570,1008,1539,1049,1500,1091,1456,1126,1432,1138"/>
+<area shape="poly" id="edge57_Node000284_Node000282" title=" " alt="" coords="1429,1161,1524,1180,1523,1186,1428,1166"/>
+<area shape="rect" id="Node000285" href="$class_matrix3_d.html#ac8456b4a8e225157d6c8b8b2098385ee" title=" " alt="" coords="1511,1136,1702,1163"/>
+<area shape="poly" id="edge55_Node000284_Node000285" title=" " alt="" coords="1447,1147,1496,1147,1496,1152,1447,1152"/>
+<area shape="rect" id="Node000044" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="755,1501,876,1528"/>
+<area shape="poly" id="edge60_Node000211_Node000044" title=" " alt="" coords="624,1496,740,1506,740,1511,624,1502"/>
+<area shape="poly" id="edge62_Node000286_Node000122" title=" " alt="" coords="673,1270,718,1277,717,1283,672,1275"/>
+<area shape="poly" id="edge63_Node000286_Node000278" title=" " alt="" coords="672,1246,705,1243,705,1248,673,1251"/>
+<area shape="poly" id="edge64_Node000286_Node000281" title=" " alt="" coords="612,1275,671,1302,747,1326,788,1333,830,1335,870,1331,910,1319,937,1305,962,1287,1007,1245,1043,1201,1069,1164,1073,1166,1048,1204,1011,1249,965,1291,939,1309,912,1324,871,1336,830,1340,787,1338,746,1331,670,1307,610,1280"/>
+</map>

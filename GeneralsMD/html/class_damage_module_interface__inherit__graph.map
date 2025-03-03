@@ -1,0 +1,57 @@
+<map id="DamageModuleInterface" name="DamageModuleInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,309,169,336"/>
+<area shape="rect" id="Node000002" href="$class_auto_heal_behavior.html" title=" " alt="" coords="269,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,293,103,239,126,171,142,136,162,101,187,69,215,42,240,27,268,19,270,25,242,32,218,46,191,73,167,104,147,138,131,173,108,241,96,295"/>
+<area shape="rect" id="Node000003" href="$class_base_regenerate_update.html" title=" " alt="" coords="252,56,412,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,293,109,249,134,194,169,139,190,114,215,92,250,75,253,80,218,97,194,118,173,142,138,197,114,251,99,295"/>
+<area shape="rect" id="Node000004" href="$class_bridge_behavior.html" title=" " alt="" coords="278,107,387,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,294,116,259,142,218,175,177,215,143,245,129,277,121,278,126,247,134,218,148,179,181,146,221,121,262,103,296"/>
+<area shape="rect" id="Node000005" href="$class_bridge_tower_behavior.html" title=" " alt="" coords="260,157,404,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="105,295,151,243,182,216,215,194,259,177,261,182,218,198,185,220,155,247,109,298"/>
+<area shape="rect" id="Node000006" href="$class_damage_module.html" title=" " alt="" coords="276,208,388,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,298,163,270,216,244,275,227,277,232,218,249,166,275,121,303"/>
+<area shape="rect" id="Node000009" href="$class_fire_weapon_when_damaged_behavior.html" title=" " alt="" coords="217,259,448,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="169,303,264,283,265,289,171,308"/>
+<area shape="rect" id="Node000010" href="$class_flammable_update.html" title=" " alt="" coords="269,309,396,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="184,320,268,320,268,325,184,325"/>
+<area shape="rect" id="Node000011" href="$class_minefield_behavior.html" title=" " alt="" coords="270,360,394,387"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="170,337,270,358,269,363,169,342"/>
+<area shape="rect" id="Node000012" href="$class_open_contain.html" title=" " alt="" coords="284,411,381,437"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="121,343,166,371,218,396,284,414,283,419,216,401,163,375,118,347"/>
+<area shape="rect" id="Node000025" href="$class_overcharge_behavior.html" title=" " alt="" coords="263,461,402,488"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="109,347,155,399,185,425,218,447,263,463,261,468,215,452,182,429,151,402,105,350"/>
+<area shape="rect" id="Node000026" href="$class_poisoned_behavior.html" title=" " alt="" coords="269,512,396,539"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="103,349,121,384,146,424,179,464,218,498,243,510,270,517,268,523,241,515,215,502,175,468,142,427,116,386,98,352"/>
+<area shape="rect" id="Node000027" href="$class_spawn_behavior.html" title=" " alt="" coords="276,563,388,589"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="99,350,114,395,138,449,173,503,194,528,218,548,246,563,277,571,275,576,244,568,215,553,190,531,169,506,134,451,109,397,93,352"/>
+<area shape="rect" id="Node000028" href="$class_supply_warehouse_crippling_behavior.html" title=" " alt="" coords="244,613,421,656"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="96,350,109,403,132,471,168,540,191,572,218,599,245,615,242,620,215,603,187,575,163,543,127,473,104,405,91,351"/>
+<area shape="rect" id="Node000007" href="$class_bone_f_x_damage.html" title=" " alt="" coords="510,157,627,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="403,203,509,181,510,186,404,209"/>
+<area shape="rect" id="Node000008" href="$class_transition_damage_f_x.html" title=" " alt="" coords="496,208,640,235"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="404,219,496,219,496,224,404,224"/>
+<area shape="rect" id="Node000013" href="$class_cave_contain.html" title=" " alt="" coords="520,259,617,285"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="395,418,422,410,446,397,458,385,464,373,470,348,476,322,483,309,494,295,518,281,520,286,498,299,487,312,481,324,475,349,469,375,462,388,450,401,424,415,397,423"/>
+<area shape="rect" id="Node000014" href="$class_garrison_contain.html" title=" " alt="" coords="510,309,626,336"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="396,414,422,407,447,396,461,385,470,372,479,359,494,346,517,334,519,339,498,350,483,363,475,375,465,389,449,401,424,412,397,420"/>
+<area shape="rect" id="Node000015" href="$class_heal_contain.html" title=" " alt="" coords="522,360,615,387"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="395,408,521,381,522,386,397,413"/>
+<area shape="rect" id="Node000016" href="$class_mob_nexus_contain.html" title=" " alt="" coords="504,411,633,437"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="397,421,503,421,503,427,397,427"/>
+<area shape="rect" id="Node000017" href="$class_parachute_contain.html" title=" " alt="" coords="506,461,631,488"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="397,435,506,459,504,464,396,440"/>
+<area shape="rect" id="Node000018" href="$class_transport_contain.html" title=" " alt="" coords="508,512,629,539"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="397,428,424,436,449,447,465,459,475,473,483,485,498,498,519,509,517,514,494,502,479,489,470,476,461,463,447,452,422,441,396,434"/>
+<area shape="rect" id="Node000024" href="$class_tunnel_contain.html" title=" " alt="" coords="516,563,621,589"/>
+<area shape="poly" id="edge23_Node000012_Node000024" title=" " alt="" coords="397,425,424,433,450,447,462,460,469,473,475,499,481,524,487,536,498,549,516,561,514,565,494,553,483,539,476,526,470,500,464,475,458,463,446,451,422,438,395,430"/>
+<area shape="rect" id="Node000019" href="$class_helix_contain.html" title=" " alt="" coords="719,411,816,437"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="631,503,639,498,653,485,662,473,671,460,687,447,718,433,720,438,690,452,675,464,666,476,657,489,642,502,633,507"/>
+<area shape="rect" id="Node000020" href="$class_internet_hack_contain.html" title=" " alt="" coords="697,461,838,488"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="638,505,711,486,713,491,639,510"/>
+<area shape="rect" id="Node000021" href="$class_overlord_contain.html" title=" " alt="" coords="710,512,825,539"/>
+<area shape="poly" id="edge20_Node000018_Node000021" title=" " alt="" coords="644,523,709,523,709,528,644,528"/>
+<area shape="rect" id="Node000022" href="$class_railed_transport_contain.html" title=" " alt="" coords="688,563,847,589"/>
+<area shape="poly" id="edge21_Node000018_Node000022" title=" " alt="" coords="639,541,713,559,711,565,638,546"/>
+<area shape="rect" id="Node000023" href="$class_rider_change_contain.html" title=" " alt="" coords="696,613,839,640"/>
+<area shape="poly" id="edge22_Node000018_Node000023" title=" " alt="" coords="633,543,642,548,657,562,666,575,675,587,690,599,713,610,710,615,687,604,671,591,662,578,653,565,639,553,631,548"/>
+</map>

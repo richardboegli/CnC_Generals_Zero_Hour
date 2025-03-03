@@ -1,0 +1,110 @@
+<map id="Object::attemptDamage" name="Object::attemptDamage">
+<area shape="rect" id="Node000001" title="damage object as specified by the info" alt="" coords="806,1067,967,1093"/>
+<area shape="rect" id="Node000002" href="$class_hive_structure_body.html#a2baae63a244ea62273bc044f70e1ad51" title="try to damage this object" alt="" coords="577,24,716,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="883,1051,882,858,877,719,868,567,853,415,830,275,815,213,798,159,779,114,756,80,738,65,716,56,718,51,741,61,760,77,783,112,803,157,821,212,835,274,858,414,873,566,883,719,887,858,888,1051"/>
+<area shape="rect" id="Node000003" href="$class_physics_behavior.html#af69dbb5cd494a9c1e05850723a2f7ced" title=" " alt="" coords="556,91,737,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="883,1051,880,869,874,739,864,598,849,457,826,327,812,270,796,220,777,178,756,147,736,131,740,127,760,144,782,176,801,218,817,268,832,326,854,456,870,597,880,739,885,869,888,1051"/>
+<area shape="rect" id="Node000005" href="$class_pathfinder.html#a9b714451d84b68c0f70672cf9e6696e6" title=" " alt="" coords="561,157,732,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="881,1051,869,895,844,665,828,545,807,434,783,340,756,272,741,251,724,232,685,203,688,198,727,229,746,248,761,269,788,338,812,433,833,544,850,665,874,895,886,1051"/>
+<area shape="rect" id="Node000009" href="$class_weapon_template.html#a1894c91601adaa34471d1952d43024aa" title=" " alt="" coords="546,283,748,325"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="880,1051,865,917,839,724,822,624,802,531,780,453,756,397,741,376,723,358,684,328,687,324,726,354,745,373,761,395,785,452,807,530,827,623,844,723,870,916,885,1051"/>
+<area shape="rect" id="Node000011" href="$class_dumb_projectile_behavior.html#a1cc9e024f24d448ac47d30c15868c902" title=" " alt="" coords="566,408,727,451"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="880,1051,868,928,843,754,826,666,806,585,783,518,756,472,743,460,726,450,729,446,746,456,760,469,788,516,812,583,832,665,849,754,873,927,885,1051"/>
+<area shape="rect" id="Node000014" href="$class_missile_a_i_update.html#a911d667cfc7b93aa4534d57abbf9dd7a" title=" " alt="" coords="559,483,734,509"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="879,1052,865,940,840,786,823,708,803,636,781,578,756,538,739,523,717,512,720,508,742,518,760,534,786,575,808,635,828,706,845,785,870,939,885,1051"/>
+<area shape="rect" id="Node000017" href="$class_sticky_bomb_update.html#a6d053e001284f0fa0d64fb7b29407692" title=" " alt="" coords="272,541,464,568"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="880,1052,866,947,841,806,824,735,805,672,782,620,757,587,719,562,678,545,633,535,588,530,500,532,426,543,425,538,499,527,588,524,634,529,679,540,722,558,760,583,787,618,810,670,829,734,846,805,871,946,885,1051"/>
+<area shape="rect" id="Node000032" href="$class_minefield_behavior.html#a8a09fe8d2310cff9f182d86fae02b3bf" title=" " alt="" coords="580,896,713,939"/>
+<area shape="poly" id="edge18_Node000001_Node000032" title=" " alt="" coords="864,1056,819,1003,789,976,757,953,712,934,714,929,760,948,793,972,823,1000,868,1052"/>
+<area shape="rect" id="Node000033" href="$class_flammable_update.html#a87c5a77ae462757b7298c8a73a89b0bc" title=" " alt="" coords="552,963,742,1005"/>
+<area shape="poly" id="edge19_Node000001_Node000033" title=" " alt="" coords="845,1061,757,1020,725,1008,727,1003,759,1015,848,1056"/>
+<area shape="rect" id="Node000035" href="$class_neutron_missile_slow_death_behavior.html#adbda3ff46649f1aafdea582c3770de0b" title="do blast" alt="" coords="535,1029,758,1072"/>
+<area shape="poly" id="edge21_Node000001_Node000035" title=" " alt="" coords="791,1071,758,1067,759,1062,792,1066"/>
+<area shape="rect" id="Node000037" href="$class_wave_guide_update.html#a060e8f49d13a2323a15c9de56ddabe13" title="do damage to things that have crossed our path" alt="" coords="546,1096,747,1123"/>
+<area shape="poly" id="edge23_Node000001_Node000037" title=" " alt="" coords="791,1094,748,1100,747,1094,791,1089"/>
+<area shape="rect" id="Node000039" href="$class_firestorm_dynamic_geometry_info_update.html#a13fe6c3afb2e2ee065162e45cdd72cce" title=" " alt="" coords="554,1147,740,1189"/>
+<area shape="poly" id="edge25_Node000001_Node000039" title=" " alt="" coords="843,1103,759,1137,725,1149,723,1144,757,1132,841,1098"/>
+<area shape="rect" id="Node000041" href="$class_script_actions.html#a870fa92d1f756c88f62804c8a92a703e" title=" " alt="" coords="540,1213,753,1240"/>
+<area shape="poly" id="edge27_Node000001_Node000041" title=" " alt="" coords="868,1107,822,1157,792,1182,760,1204,732,1215,730,1210,757,1199,789,1178,818,1153,864,1104"/>
+<area shape="rect" id="Node000043" href="$class_generic_object_creation_nugget.html#aa4375d5d6fd11b5c7f85ac8ddb2010ac" title=" " alt="" coords="270,592,466,635"/>
+<area shape="poly" id="edge29_Node000001_Node000043" title=" " alt="" coords="879,1052,864,955,838,828,821,764,802,707,780,662,757,633,723,611,685,596,646,586,605,581,524,583,453,594,452,589,524,578,605,576,647,581,687,591,725,606,760,629,785,659,807,705,826,763,843,826,869,954,884,1051"/>
+<area shape="rect" id="Node000047" href="$class_sabotage_fake_building_crate_collide.html#a6f9dbaf81685419bce6fe26e6b4f5086" title="This is the game logic execution function that all real CrateCollides will implement." alt="" coords="548,1264,746,1307"/>
+<area shape="poly" id="edge31_Node000001_Node000047" title=" " alt="" coords="874,1109,830,1181,798,1221,760,1254,740,1266,737,1261,757,1250,794,1217,826,1178,870,1106"/>
+<area shape="rect" id="Node000048" href="$class_open_contain.html#acdfe3941a5ed4e6815603358d0978af9" title=" " alt="" coords="552,1331,742,1373"/>
+<area shape="poly" id="edge32_Node000001_Node000048" title=" " alt="" coords="880,1109,865,1155,841,1212,806,1271,785,1297,760,1321,743,1332,740,1328,757,1317,781,1294,802,1268,836,1210,860,1154,875,1108"/>
+<area shape="rect" id="Node000049" href="$class_tunnel_contain.html#ac9e2ad270a806dec0866108d37d6e40d" title=" " alt="" coords="548,1397,746,1440"/>
+<area shape="poly" id="edge33_Node000001_Node000049" title=" " alt="" coords="884,1110,873,1168,850,1242,834,1282,814,1320,789,1356,760,1387,744,1399,741,1395,757,1383,785,1352,809,1317,829,1279,845,1241,867,1166,879,1109"/>
+<area shape="rect" id="Node000050" href="$class_object.html#ad9ca96f5c7d6340412ec3133745b2f95" title="kill the object with an optional type of damage and death." alt="" coords="605,643,688,669"/>
+<area shape="poly" id="edge34_Node000001_Node000050" title=" " alt="" coords="882,1051,876,979,857,881,841,830,820,779,792,731,756,690,742,679,724,670,688,661,690,656,726,665,744,674,760,686,796,728,824,776,846,828,862,880,881,978,887,1051"/>
+<area shape="rect" id="Node000074" href="$class_game_logic.html#afb2f8a3fd6bb7d9fa507d0f8a5cd23ea" title="Logic command list processing." alt="" coords="249,725,487,752"/>
+<area shape="poly" id="edge45_Node000001_Node000074" title=" " alt="" coords="880,1051,871,991,850,915,834,876,813,839,788,805,757,777,721,755,681,739,639,728,597,722,514,721,442,727,442,722,514,715,597,717,640,723,683,734,723,750,760,773,792,802,818,836,839,874,855,914,876,990,885,1050"/>
+<area shape="rect" id="Node000081" href="$class_railroad_behavior.html#a825769e7bc172c432b5919cd46e9baff" title=" " alt="" coords="277,776,459,803"/>
+<area shape="poly" id="edge46_Node000001_Node000081" title=" " alt="" coords="878,1052,866,1000,843,936,827,904,808,873,784,845,757,822,720,801,679,787,637,777,594,771,511,771,440,778,439,773,511,765,595,766,638,772,681,781,722,797,760,818,788,842,812,870,832,901,848,934,871,999,883,1051"/>
+<area shape="rect" id="Node000086" href="$class_parachute_contain.html#a6438825cfa49a2b0947a6c2f8606692d" title="object no longer contains &#39;obj&#39;" alt="" coords="265,827,471,853"/>
+<area shape="poly" id="edge51_Node000001_Node000086" title=" " alt="" coords="877,1053,863,1007,840,951,805,896,783,872,757,853,736,844,707,838,634,831,552,831,472,834,471,829,551,825,635,826,708,832,738,839,760,848,786,868,809,892,844,948,868,1005,882,1051"/>
+<area shape="rect" id="Node000207" href="$class_physics_behavior.html#a3be28cba8a1efe4065f2d012089fd2c4" title=" " alt="" coords="285,901,451,928"/>
+<area shape="poly" id="edge56_Node000001_Node000207" title=" " alt="" coords="874,1053,858,1013,834,966,800,921,780,902,757,886,711,868,662,858,612,857,563,861,471,880,403,903,401,898,470,875,562,855,612,851,663,853,713,863,760,882,783,898,804,917,839,963,863,1010,879,1051"/>
+<area shape="rect" id="Node000653" href="$class_squish_collide.html#ad5c26aa4269d67d334261b253a05dee5" title="This collide method gets called when collision occur." alt="" coords="565,1464,728,1491"/>
+<area shape="poly" id="edge47_Node000001_Node000653" title=" " alt="" coords="887,1109,880,1179,861,1272,845,1322,823,1370,795,1415,760,1454,730,1471,727,1467,757,1450,791,1412,819,1368,840,1320,856,1271,875,1178,882,1108"/>
+<area shape="rect" id="Node000743" href="$class_bridge_behavior.html#a82b6c0387113b97cd2390f8ce8a8d53b" title="damage callback" alt="" coords="556,1515,737,1541"/>
+<area shape="poly" id="edge48_Node000001_Node000743" title=" " alt="" coords="888,1109,885,1188,878,1239,868,1294,852,1351,829,1407,799,1459,760,1505,739,1519,736,1514,757,1501,795,1456,825,1405,847,1350,863,1293,873,1238,879,1187,883,1109"/>
+<area shape="rect" id="Node000744" href="$class_bridge_tower_behavior.html#a5726334482deb1f8b7b094ea12dfc920" title="damage callback" alt="" coords="574,1565,719,1608"/>
+<area shape="poly" id="edge49_Node000001_Node000744" title=" " alt="" coords="884,1109,868,1208,841,1342,824,1409,805,1470,784,1520,760,1555,742,1569,720,1579,718,1574,739,1565,756,1552,779,1518,800,1468,819,1407,836,1340,863,1207,879,1108"/>
+<area shape="rect" id="Node000406" href="$class_parachute_contain.html#a691278ae9394206afe95b392d1b3f8e5" title="the die callback" alt="" coords="563,1632,730,1659"/>
+<area shape="poly" id="edge50_Node000001_Node000406" title=" " alt="" coords="885,1109,872,1221,847,1375,830,1453,810,1524,787,1582,760,1622,732,1640,729,1635,756,1618,782,1580,805,1522,825,1452,842,1374,866,1220,880,1108"/>
+<area shape="rect" id="Node000745" href="$class_terrain_logic.html#a9f86084fd7a0154ce3c21ef5201d2777" title="set height of water table" alt="" coords="552,1683,741,1709"/>
+<area shape="poly" id="edge52_Node000001_Node000745" title=" " alt="" coords="886,1109,874,1230,850,1400,834,1486,813,1564,789,1629,775,1654,760,1673,744,1685,740,1681,756,1669,771,1651,784,1626,808,1563,828,1485,845,1399,869,1230,880,1108"/>
+<area shape="rect" id="Node000686" href="$class_jet_or_heli_circling_dead_airfield_state.html#a9a9214cf06196b506319cbb7630fb59f" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="551,1733,742,1776"/>
+<area shape="poly" id="edge53_Node000001_Node000686" title=" " alt="" coords="886,1109,875,1240,852,1423,835,1517,815,1603,790,1674,776,1702,760,1723,744,1736,741,1732,756,1720,771,1699,785,1672,810,1602,830,1516,847,1422,870,1239,881,1109"/>
+<area shape="rect" id="Node000748" href="$class_minefield_behavior.html#aea847d1b6df1355aa9a538548d9f4205" title=" " alt="" coords="580,1800,713,1843"/>
+<area shape="poly" id="edge54_Node000001_Node000748" title=" " alt="" coords="887,1109,878,1251,856,1454,840,1559,819,1656,792,1735,777,1766,760,1790,739,1806,714,1817,712,1812,736,1802,756,1786,773,1763,787,1733,813,1654,834,1558,851,1454,872,1250,881,1108"/>
+<area shape="rect" id="Node000749" href="$class_overcharge_behavior.html#a6a435d9a0d7717ba6aab88e80bc3f9f1" title=" " alt="" coords="577,1867,716,1909"/>
+<area shape="poly" id="edge55_Node000001_Node000749" title=" " alt="" coords="887,1109,880,1263,860,1486,844,1602,822,1708,795,1796,779,1830,760,1856,741,1872,718,1882,716,1877,738,1868,756,1853,774,1827,790,1794,817,1707,839,1601,855,1486,875,1262,882,1109"/>
+<area shape="rect" id="Node000750" href="$class_poisoned_behavior.html#af102703c2bea04ad40154ec2b5efbc93" title=" " alt="" coords="560,1933,733,1960"/>
+<area shape="poly" id="edge57_Node000001_Node000750" title=" " alt="" coords="888,1109,883,1275,877,1393,866,1520,850,1646,828,1762,799,1858,781,1895,760,1923,735,1940,732,1936,756,1919,776,1892,794,1856,823,1761,845,1646,861,1519,871,1392,878,1275,882,1109"/>
+<area shape="rect" id="Node000604" href="$class_bridge.html#a29b7fcad7fe9befe8f2881edc3ea8107" title="Updates a bridge&#39;s damage info." alt="" coords="554,1984,739,2011"/>
+<area shape="poly" id="edge58_Node000001_Node000604" title=" " alt="" coords="888,1109,885,1284,879,1409,869,1544,854,1679,831,1802,817,1857,801,1904,782,1944,760,1974,741,1988,738,1984,756,1970,777,1941,796,1902,812,1855,826,1801,848,1678,864,1543,874,1408,880,1284,883,1109"/>
+<area shape="rect" id="Node000004" href="$class_physics_behavior.html#aa20eab58c02331f4fb6f582720aad2a4" title=" " alt="" coords="277,5,458,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="547,87,534,81,510,63,486,46,453,35,455,30,488,42,513,59,536,76,549,82"/>
+<area shape="rect" id="Node000006" href="$class_pathfinder.html#aec0a803faa10e58868cc75ae0883df2d" title="Classify the given object&#39;s cells in the map." alt="" coords="251,56,485,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="546,154,533,148,518,134,509,121,500,109,486,97,460,86,462,81,488,92,504,105,513,118,522,131,537,143,548,150"/>
+<area shape="rect" id="Node000007" href="$class_pathfinder.html#a133cc0e9fdd680c6ab80e22457c89f1b" title=" " alt="" coords="299,107,436,133"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="545,160,434,137,435,131,546,155"/>
+<area shape="rect" id="Node000008" href="$class_pathfinder.html#a1ebe329cb72b88a90a7f100db94ac3e6" title="De&#45;classify the given object&#39;s cells in the map." alt="" coords="283,157,452,200"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="545,181,453,181,453,176,545,176"/>
+<area shape="rect" id="Node000010" href="$class_weapon_template.html#afd0f4e8fe1ce4accdecb4b56604feff8" title=" " alt="" coords="271,224,465,267"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="530,282,465,268,466,263,531,277"/>
+<area shape="rect" id="Node000012" href="$class_dumb_projectile_behavior.html#a081594d5428b63f9d917fff19c86f6ec" title=" " alt="" coords="282,408,454,451"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="550,432,455,432,455,427,550,427"/>
+<area shape="rect" id="Node000013" href="$class_dumb_projectile_behavior.html#a1646fa05af498315cbbe75f450e728a2" title=" " alt="" coords="287,291,448,333"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="595,402,543,374,486,348,448,334,449,329,488,343,546,369,598,398"/>
+<area shape="rect" id="Node000015" href="$class_missile_a_i_update.html#a6ac25f2ea1b523ea1deb6394a42754ed" title=" " alt="" coords="279,475,456,517"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="544,499,457,499,457,493,544,493"/>
+<area shape="rect" id="Node000016" href="$class_missile_a_i_update.html#ab0c075168709219a90a7197784f2c8e4" title=" " alt="" coords="286,357,450,384"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="559,479,533,465,517,448,509,430,501,413,486,398,449,382,451,377,488,394,505,410,514,428,521,445,537,461,562,474"/>
+<area shape="rect" id="Node000018" href="$class_object.html#a7d0c476d61445896a25082c639f73fae" title=" " alt="" coords="14,529,192,572"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="256,556,193,555,193,549,256,550"/>
+<area shape="rect" id="Node000034" href="$class_flammable_update.html#ace1609b865562c3f8c0441f672159a83" title=" " alt="" coords="281,971,455,997"/>
+<area shape="poly" id="edge20_Node000033_Node000034" title=" " alt="" coords="536,987,456,987,456,981,536,981"/>
+<area shape="rect" id="Node000036" href="$class_neutron_missile_slow_death_behavior.html#af19c1a8309325bddcbc2fc89aebcdd89" title="the update call" alt="" coords="256,1029,480,1072"/>
+<area shape="poly" id="edge22_Node000035_Node000036" title=" " alt="" coords="519,1053,480,1053,480,1048,519,1048"/>
+<area shape="rect" id="Node000038" href="$class_wave_guide_update.html#a5b90c518602b4ec3d5057c351818a258" title="the update implementation" alt="" coords="279,1096,456,1123"/>
+<area shape="poly" id="edge24_Node000037_Node000038" title=" " alt="" coords="530,1112,457,1112,457,1107,530,1107"/>
+<area shape="rect" id="Node000040" href="$class_firestorm_dynamic_geometry_info_update.html#aadbaea4560dfb8bb7dd84d0c871217b0" title=" " alt="" coords="275,1147,460,1189"/>
+<area shape="poly" id="edge26_Node000039_Node000040" title=" " alt="" coords="538,1171,461,1171,461,1165,538,1165"/>
+<area shape="rect" id="Node000042" href="$class_script_actions.html#a6247ad9436e3ae17fc2839a41caee6a9" title=" " alt="" coords="273,1213,463,1240"/>
+<area shape="poly" id="edge28_Node000041_Node000042" title=" " alt="" coords="525,1229,464,1229,464,1224,525,1224"/>
+<area shape="rect" id="Node000044" href="$class_generic_object_creation_nugget.html#a9397b6262a3341e121e9dc1e0a25e8a3" title=" " alt="" coords="5,596,201,639"/>
+<area shape="poly" id="edge30_Node000043_Node000044" title=" " alt="" coords="255,618,201,619,201,613,255,612"/>
+<area shape="poly" id="edge41_Node000050_Node000012" title=" " alt="" coords="622,632,533,523,511,491,501,478,486,465,453,449,455,444,488,460,505,474,516,488,537,520,626,629"/>
+<area shape="poly" id="edge42_Node000050_Node000015" title=" " alt="" coords="619,633,561,582,525,555,486,532,456,519,458,514,488,527,528,551,565,578,623,629"/>
+<area shape="poly" id="edge36_Node000050_Node000017" title=" " alt="" coords="606,637,550,609,486,583,446,571,447,566,488,577,553,604,609,632"/>
+<area shape="poly" id="edge37_Node000050_Node000043" title=" " alt="" coords="589,650,465,631,466,626,590,645"/>
+<area shape="rect" id="Node000051" href="$class_topple_update.html#a727f245dd1c95d8072f93d0f2aadc725" title="&lt; Start the toppling process by giving a force vector" alt="" coords="274,659,462,701"/>
+<area shape="poly" id="edge35_Node000050_Node000051" title=" " alt="" coords="590,663,462,675,462,669,589,658"/>
+<area shape="poly" id="edge38_Node000050_Node000074" title=" " alt="" coords="591,672,536,690,512,703,488,716,449,727,448,722,486,711,510,699,534,686,589,667"/>
+<area shape="poly" id="edge39_Node000050_Node000081" title=" " alt="" coords="616,681,548,730,488,766,454,778,453,773,486,762,545,726,613,677"/>
+<area shape="poly" id="edge40_Node000050_Node000086" title=" " alt="" coords="629,684,572,751,533,787,488,817,461,829,459,824,486,812,529,783,568,747,625,680"/>
+<area shape="poly" id="edge43_Node000050_Node000207" title=" " alt="" coords="634,684,610,724,577,773,536,823,489,867,455,888,419,903,417,898,452,884,485,863,532,819,573,769,606,721,629,681"/>
+<area shape="poly" id="edge44_Node000207_Node000207" title=" " alt="" coords="414,889,398,883,368,880,340,882,324,887,321,892,328,899,324,903,316,893,321,883,339,877,368,875,400,877,416,884"/>
+</map>

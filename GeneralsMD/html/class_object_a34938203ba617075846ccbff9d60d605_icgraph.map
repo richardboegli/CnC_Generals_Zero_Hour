@@ -1,0 +1,116 @@
+<map id="Object::getProductionUpdateInterface" name="Object::getProductionUpdateInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1074,1188,1263,1231"/>
+<area shape="rect" id="Node000002" href="$class_a_i_player.html#a2e8b234fd0d046be53511d3a8e04ecc9" title=" " alt="" coords="832,163,987,189"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1165,1172,1161,972,1155,831,1144,680,1127,530,1102,392,1086,332,1068,279,1047,236,1024,203,1007,190,986,182,988,177,1009,186,1028,199,1052,233,1073,277,1091,330,1107,391,1132,529,1150,680,1161,831,1167,972,1170,1172"/>
+<area shape="rect" id="Node000003" href="$class_build_assistant.html#a88b8eeef6002256e47db51f5aabb7f86" title="are all the requirements for making this unit satisfied" alt="" coords="814,213,1005,240"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1164,1172,1160,981,1153,847,1141,704,1124,562,1099,432,1083,375,1066,325,1046,285,1024,254,1004,239,1007,235,1028,250,1051,282,1071,323,1089,373,1104,431,1129,561,1146,703,1158,847,1165,980,1170,1172"/>
+<area shape="rect" id="Node000004" href="$class_object.html#a7dc6eb6b6f4e30d8d9dc57ed2e37d922" title=" " alt="" coords="858,331,961,357"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1159,1173,1112,930,1072,765,1023,600,996,527,965,458,916,359,921,357,970,456,1001,525,1028,598,1077,764,1117,929,1164,1172"/>
+<area shape="rect" id="Node000020" href="$class_object.html#a83bb5030473def9ab64e31979e4c5bfe" title=" " alt="" coords="820,611,999,637"/>
+<area shape="poly" id="edge12_Node000001_Node000020" title=" " alt="" coords="1158,1174,1141,1096,1114,992,1075,875,1051,818,1023,763,1000,725,972,691,924,640,928,636,976,688,1004,722,1028,760,1056,815,1080,873,1119,990,1147,1095,1163,1172"/>
+<area shape="rect" id="Node000026" href="$class_a_i_player.html#a543715cb67306929a7ebdcfb4670149e" title="Find a factory to build a unit. If force is true, may return a busy factory." alt="" coords="837,843,982,869"/>
+<area shape="poly" id="edge16_Node000001_Node000026" title=" " alt="" coords="1152,1175,1132,1125,1104,1064,1067,1000,1024,940,979,901,935,872,938,868,983,897,1028,937,1072,997,1109,1062,1137,1123,1157,1173"/>
+<area shape="rect" id="Node000054" href="$class_a_i_player.html#a9e0307a18575843fcb5f27c804f9cc9f" title="find a production building that can handle the order, and start building" alt="" coords="550,741,702,768"/>
+<area shape="poly" id="edge58_Node000001_Node000054" title=" " alt="" coords="1162,1173,1152,1100,1130,1007,1112,959,1089,912,1060,870,1024,833,988,807,948,787,906,773,862,762,777,752,702,751,702,746,777,747,863,757,907,768,950,783,991,803,1027,829,1064,866,1093,910,1117,957,1135,1006,1158,1099,1167,1172"/>
+<area shape="rect" id="Node000055" href="$class_a_i_skirmish_player.html#a39b3e84172e74d2ff2ebf380c6fd7307" title="find a production building that can handle the order, and start building" alt="" coords="525,944,727,971"/>
+<area shape="poly" id="edge59_Node000001_Node000055" title=" " alt="" coords="1153,1174,1135,1130,1107,1079,1071,1030,1049,1009,1024,992,987,973,948,959,866,944,785,941,714,946,714,941,785,936,866,939,950,954,990,968,1027,987,1052,1005,1075,1027,1112,1076,1139,1127,1158,1172"/>
+<area shape="rect" id="Node000056" href="$class_control_bar.html#a1ef35c4afc4a19f0a680c14eb925a9bc" title=" " alt="" coords="793,1196,1026,1223"/>
+<area shape="poly" id="edge28_Node000001_Node000056" title=" " alt="" coords="1058,1212,1026,1212,1026,1207,1058,1207"/>
+<area shape="rect" id="Node000057" href="$class_control_bar.html#a061034fb77ef6413d12e6b7d4257ad74" title=" " alt="" coords="9,1063,185,1105"/>
+<area shape="poly" id="edge64_Node000001_Node000057" title=" " alt="" coords="1147,1176,1127,1142,1099,1105,1065,1071,1024,1045,993,1034,955,1026,860,1016,748,1016,626,1022,382,1046,186,1073,185,1067,381,1041,626,1017,748,1011,861,1011,956,1020,995,1029,1027,1040,1068,1067,1103,1102,1131,1139,1152,1173"/>
+<area shape="rect" id="Node000077" href="$class_game_logic.html#afb2f8a3fd6bb7d9fa507d0f8a5cd23ea" title="Logic command list processing." alt="" coords="507,1381,745,1408"/>
+<area shape="poly" id="edge33_Node000001_Node000077" title=" " alt="" coords="1116,1241,1027,1281,962,1300,910,1309,858,1318,794,1338,771,1352,746,1365,690,1383,689,1378,744,1360,768,1347,792,1334,857,1313,909,1304,961,1295,1025,1276,1114,1236"/>
+<area shape="rect" id="Node000080" href="$class_a_i_player.html#a9db3b5cb223a94c7ee687eff2d6d648a" title="New map loaded call." alt="" coords="845,1399,974,1425"/>
+<area shape="poly" id="edge35_Node000001_Node000080" title=" " alt="" coords="1151,1246,1130,1281,1102,1319,1067,1357,1027,1389,1002,1401,975,1409,973,1403,1000,1396,1024,1384,1064,1353,1098,1316,1125,1278,1146,1243"/>
+<area shape="rect" id="Node000081" href="$class_in_game_u_i.html#a7d17078f588fdee27fbe705819d1eabd" title="built thing being placed" alt="" coords="808,1473,1011,1500"/>
+<area shape="poly" id="edge36_Node000001_Node000081" title=" " alt="" coords="1155,1246,1135,1290,1107,1341,1071,1393,1027,1439,995,1461,961,1475,959,1470,993,1456,1024,1435,1067,1390,1103,1338,1131,1287,1151,1244"/>
+<area shape="rect" id="Node000085" href="$class_control_bar.html#a576efe4188881aa3cb0c27fe7d147465" title=" " alt="" coords="825,1055,994,1097"/>
+<area shape="poly" id="edge40_Node000001_Node000085" title=" " alt="" coords="1125,1181,1078,1149,1024,1118,981,1100,983,1095,1027,1114,1081,1144,1128,1176"/>
+<area shape="rect" id="Node000059" href="$class_control_bar.html#aa4ccf45167734b8acaca9e6f5ce2c16e" title="switch the interface context to the new mode and populate as needed" alt="" coords="532,1096,721,1123"/>
+<area shape="poly" id="edge60_Node000001_Node000059" title=" " alt="" coords="1098,1185,1025,1163,946,1146,865,1134,721,1118,722,1113,866,1129,947,1141,1026,1157,1100,1180"/>
+<area shape="rect" id="Node000068" href="$class_control_bar.html#a671e7234894ebf3a9b681430032a93af" title=" " alt="" coords="242,1264,454,1291"/>
+<area shape="poly" id="edge50_Node000001_Node000068" title=" " alt="" coords="1059,1233,898,1265,794,1290,781,1298,771,1306,761,1315,746,1321,680,1336,627,1338,507,1321,445,1309,389,1294,391,1289,446,1304,507,1316,628,1332,680,1330,744,1316,758,1310,768,1302,778,1294,792,1286,896,1260,1058,1228"/>
+<area shape="rect" id="Node000086" href="$class_control_bar.html#a5c8a9499bac0d61cf8cfefef2c668aa6" title=" " alt="" coords="825,1524,994,1567"/>
+<area shape="poly" id="edge47_Node000001_Node000086" title=" " alt="" coords="1163,1247,1148,1305,1121,1377,1082,1451,1057,1484,1027,1514,996,1532,993,1528,1024,1510,1053,1481,1078,1448,1117,1375,1142,1304,1158,1245"/>
+<area shape="rect" id="Node000094" href="$class_a_i_group.html#a25aa5f3745773f42a4b319754c65c048" title="queue an upgrade" alt="" coords="829,1348,990,1375"/>
+<area shape="poly" id="edge51_Node000001_Node000094" title=" " alt="" coords="1138,1244,1089,1289,1059,1312,1027,1332,980,1350,979,1345,1024,1327,1056,1308,1085,1285,1135,1240"/>
+<area shape="rect" id="Node000095" href="$class_parking_place_behavior.html#a5884ec494b292e6f813916f0fdb5d598" title=" " alt="" coords="835,264,984,307"/>
+<area shape="poly" id="edge53_Node000001_Node000095" title=" " alt="" coords="1164,1172,1156,993,1148,870,1135,737,1117,606,1093,486,1062,387,1044,349,1024,320,1006,306,984,296,986,291,1008,301,1028,317,1048,347,1067,385,1098,485,1122,605,1140,737,1153,869,1161,993,1169,1172"/>
+<area shape="rect" id="Node000096" href="$class_parking_place_behavior.html#ade4de5eedfa494bf27e52a8a30dbdbb0" title=" " alt="" coords="835,1591,984,1633"/>
+<area shape="poly" id="edge55_Node000001_Node000096" title=" " alt="" coords="1166,1246,1155,1317,1131,1407,1113,1454,1090,1500,1062,1543,1027,1581,1008,1594,986,1604,984,1599,1005,1590,1024,1577,1058,1540,1085,1497,1108,1452,1126,1405,1150,1316,1161,1246"/>
+<area shape="rect" id="Node000098" href="$class_build_assistant.html#a91e86e948bcc7e7b98ed95db23b33499" title="sell an object" alt="" coords="824,1657,995,1684"/>
+<area shape="poly" id="edge57_Node000001_Node000098" title=" " alt="" coords="1169,1246,1163,1329,1155,1381,1142,1438,1124,1495,1100,1551,1068,1602,1027,1647,997,1665,994,1660,1024,1643,1063,1599,1095,1548,1119,1493,1137,1436,1149,1380,1157,1328,1164,1246"/>
+<area shape="rect" id="Node000099" href="$class_place_event_translator.html#a67532773f42bb708208a581fee4e9342" title=" " alt="" coords="826,1708,993,1751"/>
+<area shape="poly" id="edge61_Node000001_Node000099" title=" " alt="" coords="1170,1246,1166,1337,1158,1395,1147,1458,1129,1522,1104,1586,1070,1645,1028,1698,1012,1710,995,1719,992,1714,1009,1705,1024,1694,1066,1642,1099,1584,1124,1521,1141,1457,1153,1394,1160,1336,1165,1246"/>
+<area shape="rect" id="Node000100" href="$class_build_assistant.html#a20e747aa52363c02a3126c4765138b72" title="for subsytem" alt="" coords="833,1775,986,1801"/>
+<area shape="poly" id="edge62_Node000001_Node000100" title=" " alt="" coords="1165,1246,1149,1364,1120,1519,1101,1597,1080,1668,1055,1725,1028,1765,1008,1778,987,1786,985,1781,1006,1773,1024,1761,1050,1723,1075,1666,1096,1596,1115,1518,1143,1363,1160,1245"/>
+<area shape="rect" id="Node000101" href="$class_flight_deck_behavior.html#a3e6136bca4fcfdd08e13caf6fc8674a7" title="update this object&#39;s AI" alt="" coords="842,1825,977,1868"/>
+<area shape="poly" id="edge63_Node000001_Node000101" title=" " alt="" coords="1166,1246,1150,1373,1122,1543,1103,1629,1081,1707,1056,1771,1028,1815,1005,1832,978,1842,976,1837,1002,1827,1024,1812,1051,1769,1076,1705,1098,1628,1117,1542,1145,1372,1161,1246"/>
+<area shape="rect" id="Node000005" href="$class_cave_contain.html#ad7823f3e6e5b069dfb6dd9be8eba7dd9" title="When one gets captured, all connected ones get captured. DistributedGarrison." alt="" coords="528,123,724,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="842,344,815,336,792,321,777,303,769,285,766,249,764,213,757,196,744,179,723,165,726,160,747,175,761,193,769,212,771,248,774,284,781,300,795,317,818,331,843,339"/>
+<area shape="rect" id="Node000009" href="$class_flight_deck_behavior.html#a25d5f232bad79f99d6664781ea3432f3" title=" " alt="" coords="550,189,702,232"/>
+<area shape="poly" id="edge5_Node000004_Node000009" title=" " alt="" coords="842,341,816,333,792,321,774,302,767,283,759,264,744,246,724,234,702,226,704,221,726,230,747,242,764,261,772,281,779,299,795,317,818,329,843,336"/>
+<area shape="rect" id="Node000010" href="$class_parking_place_behavior.html#a8aae50823f861e18204d04e72a3610ca" title=" " alt="" coords="550,5,702,48"/>
+<area shape="poly" id="edge6_Node000004_Node000010" title=" " alt="" coords="842,345,815,337,791,321,769,288,760,255,761,222,766,190,771,157,772,125,764,94,743,62,725,47,702,37,704,32,727,42,747,58,769,91,777,125,776,158,771,191,766,223,765,255,774,286,795,317,817,332,843,340"/>
+<area shape="rect" id="Node000011" href="$class_defector_special_power.html#ac912f029c1f215b5e0cba1b6b41c8bcd" title=" " alt="" coords="539,256,713,299"/>
+<area shape="poly" id="edge7_Node000004_Node000011" title=" " alt="" coords="842,332,793,321,713,302,714,297,794,316,843,327"/>
+<area shape="rect" id="Node000012" href="$class_convert_to_car_bomb_crate_collide.html#aed8ab8ee6ce476b3136ae3e0b01f2033" title="This is the game logic execution function that all real CrateCollides will implement." alt="" coords="522,323,730,365"/>
+<area shape="poly" id="edge8_Node000004_Node000012" title=" " alt="" coords="842,347,731,347,731,341,842,341"/>
+<area shape="rect" id="Node000013" href="$class_physics_behavior.html#aa20eab58c02331f4fb6f582720aad2a4" title=" " alt="" coords="536,389,717,416"/>
+<area shape="poly" id="edge9_Node000004_Node000013" title=" " alt="" coords="843,360,695,391,694,386,842,355"/>
+<area shape="rect" id="Node000014" href="$class_special_ability_update.html#a774dc6210caa027bf5ba6b91b11e2ce0" title=" " alt="" coords="555,440,697,483"/>
+<area shape="poly" id="edge10_Node000004_Node000014" title=" " alt="" coords="873,368,815,399,746,430,698,447,697,442,744,426,812,395,871,363"/>
+<area shape="rect" id="Node000019" href="$class_slaved_update.html#aa84fa8d047b68932f8818e6d46c3a47d" title="Deciding whether or not to make new guys." alt="" coords="551,72,701,99"/>
+<area shape="poly" id="edge11_Node000004_Node000019" title=" " alt="" coords="842,345,815,336,791,321,772,294,764,268,764,241,767,214,770,188,769,162,762,137,743,113,724,99,701,91,703,86,726,94,747,109,766,135,775,161,775,188,772,215,769,241,770,267,777,292,795,317,817,331,843,340"/>
+<area shape="rect" id="Node000021" href="$class_script_actions.html#ab6c57c3e986172588904104f80dd103f" title=" " alt="" coords="532,507,720,549"/>
+<area shape="poly" id="edge13_Node000020_Node000021" title=" " alt="" coords="860,607,744,564,708,553,710,547,746,559,862,602"/>
+<area shape="rect" id="Node000023" href="$class_script_actions.html#a693d8f5ba845187bd05dd612ee8dd1a2" title=" " alt="" coords="531,573,721,616"/>
+<area shape="poly" id="edge14_Node000020_Node000023" title=" " alt="" coords="804,616,721,607,722,602,804,610"/>
+<area shape="rect" id="Node000024" href="$class_a_i_group.html#a2f9f551c6c2258bf2c9a4da569d42ed5" title=" " alt="" coords="514,640,738,667"/>
+<area shape="poly" id="edge15_Node000020_Node000024" title=" " alt="" coords="804,638,739,644,739,639,804,632"/>
+<area shape="rect" id="Node000027" href="$class_a_i_player.html#a0db1b547ef7cd939aded8309c1c5cce3" title="return true if team can be considered for building" alt="" coords="519,792,733,819"/>
+<area shape="poly" id="edge17_Node000026_Node000027" title=" " alt="" coords="821,843,705,822,705,817,822,838"/>
+<area shape="rect" id="Node000040" href="$class_a_i_player.html#a979dcd54559e0bd4261d13c103587139" title=" " alt="" coords="273,868,422,895"/>
+<area shape="poly" id="edge18_Node000026_Node000040" title=" " alt="" coords="822,870,746,877,572,884,423,885,423,880,572,879,745,872,822,865"/>
+<area shape="rect" id="Node000050" href="$class_a_i_player.html#a66a8289f6d9e5b523bda6cca6fcc652b" title=" " alt="" coords="254,792,442,819"/>
+<area shape="poly" id="edge19_Node000026_Node000050" title=" " alt="" coords="822,856,674,848,507,833,426,822,427,817,507,828,675,842,822,850"/>
+<area shape="rect" id="Node000052" href="$class_a_i_player.html#a630754e6671e8f8704d17bce819d0908" title="determine the next team to reinforce" alt="" coords="240,691,456,717"/>
+<area shape="poly" id="edge21_Node000026_Node000052" title=" " alt="" coords="884,833,825,779,786,753,744,732,672,711,597,700,523,696,457,697,457,691,523,690,597,695,673,706,746,727,789,748,828,775,888,829"/>
+<area shape="poly" id="edge22_Node000026_Node000054" title=" " alt="" coords="866,838,744,783,702,771,703,766,746,777,868,833"/>
+<area shape="poly" id="edge27_Node000026_Node000055" title=" " alt="" coords="866,879,746,928,686,946,684,941,744,923,864,874"/>
+<area shape="rect" id="Node000051" href="$class_a_i_player.html#a8e1465c0aa461a30e3fde77cc3ad795c" title="Check the team build list, &amp; queue up units at any idle factories." alt="" coords="24,767,170,793"/>
+<area shape="poly" id="edge20_Node000050_Node000051" title=" " alt="" coords="238,797,170,790,170,785,239,792"/>
+<area shape="poly" id="edge23_Node000054_Node000040" title=" " alt="" coords="536,770,508,782,494,794,484,806,475,819,461,833,425,854,390,870,388,865,423,849,457,829,471,816,480,803,490,790,506,778,534,765"/>
+<area shape="poly" id="edge24_Node000054_Node000050" title=" " alt="" coords="535,774,426,794,425,789,534,769"/>
+<area shape="poly" id="edge25_Node000054_Node000051" title=" " alt="" coords="535,762,170,779,170,774,535,756"/>
+<area shape="poly" id="edge26_Node000054_Node000052" title=" " alt="" coords="534,741,425,721,426,715,535,736"/>
+<area shape="poly" id="edge29_Node000056_Node000056" title=" " alt="" coords="955,1184,939,1177,909,1175,882,1177,867,1182,864,1187,870,1194,866,1197,858,1187,864,1177,881,1171,910,1169,941,1172,957,1179"/>
+<area shape="poly" id="edge30_Node000056_Node000057" title=" " alt="" coords="804,1196,745,1188,602,1175,489,1171,378,1163,312,1153,236,1137,190,1124,148,1108,150,1103,192,1119,237,1132,313,1148,378,1157,490,1166,602,1170,746,1183,804,1191"/>
+<area shape="rect" id="Node000073" href="$class_control_bar.html#aca7340cad674551721e8cd9928243c88" title=" " alt="" coords="538,1264,714,1307"/>
+<area shape="poly" id="edge31_Node000056_Node000073" title=" " alt="" coords="843,1230,709,1266,708,1261,841,1225"/>
+<area shape="rect" id="Node000074" href="$class_control_bar.html#ab4813712c5d158bcbaf0f63badc9a5ce" title=" " alt="" coords="540,1197,713,1240"/>
+<area shape="poly" id="edge32_Node000056_Node000074" title=" " alt="" coords="778,1216,713,1218,713,1213,778,1211"/>
+<area shape="rect" id="Node000078" href="$class_game_logic.html#aeed023c2695b71c013b20e9f15472faa" title="process the command list" alt="" coords="237,1381,459,1408"/>
+<area shape="poly" id="edge34_Node000077_Node000078" title=" " alt="" coords="492,1397,460,1397,460,1392,492,1392"/>
+<area shape="poly" id="edge37_Node000081_Node000081" title=" " alt="" coords="955,1461,939,1454,909,1452,882,1454,867,1459,864,1464,870,1471,866,1475,858,1465,864,1455,881,1449,910,1447,941,1449,957,1456"/>
+<area shape="rect" id="Node000082" href="$class_in_game_u_i.html#a3bc65b934d1be624facff91b28eedae8" title="Reset." alt="" coords="567,1432,685,1459"/>
+<area shape="poly" id="edge38_Node000081_Node000082" title=" " alt="" coords="798,1473,685,1457,686,1451,798,1468"/>
+<area shape="rect" id="Node000084" href="$class_in_game_u_i.html#ab12b38fc1a4db0eaa7ef5c777e814517" title=" " alt="" coords="548,1483,705,1509"/>
+<area shape="poly" id="edge39_Node000081_Node000084" title=" " alt="" coords="793,1493,705,1496,705,1491,793,1488"/>
+<area shape="poly" id="edge46_Node000085_Node000057" title=" " alt="" coords="809,1080,186,1086,186,1080,809,1074"/>
+<area shape="poly" id="edge41_Node000085_Node000059" title=" " alt="" coords="810,1090,722,1101,721,1096,809,1085"/>
+<area shape="rect" id="Node000060" href="$class_control_bar.html#a04ab434d0158b115687d61ac1471580d" title="evaluate what the user should see based on what selected drawables we have in our UI" alt="" coords="248,1096,448,1123"/>
+<area shape="poly" id="edge42_Node000059_Node000060" title=" " alt="" coords="516,1112,448,1112,448,1107,516,1107"/>
+<area shape="poly" id="edge44_Node000059_Node000068" title=" " alt="" coords="591,1133,373,1266,371,1261,588,1129"/>
+<area shape="poly" id="edge43_Node000060_Node000057" title=" " alt="" coords="232,1100,185,1096,186,1090,233,1095"/>
+<area shape="rect" id="Node000069" href="$class_control_bar.html#ac9418afa8bbb90d0dbfec3e0cebcee3b" title=" " alt="" coords="5,1256,189,1299"/>
+<area shape="poly" id="edge45_Node000068_Node000069" title=" " alt="" coords="226,1280,189,1280,189,1275,226,1275"/>
+<area shape="rect" id="Node000087" href="$class_control_bar.html#ab1e06092ac8982d008e8cd4c9d295db8" title=" " alt="" coords="536,1533,716,1576"/>
+<area shape="poly" id="edge48_Node000086_Node000087" title=" " alt="" coords="809,1551,717,1554,717,1549,809,1546"/>
+<area shape="rect" id="Node000093" href="$class_control_bar.html#a3b3d4e9b845b609633a0c9e94a996a45" title=" " alt="" coords="532,1600,721,1643"/>
+<area shape="poly" id="edge49_Node000086_Node000093" title=" " alt="" coords="813,1574,709,1602,708,1597,812,1569"/>
+<area shape="poly" id="edge52_Node000094_Node000077" title=" " alt="" coords="814,1375,745,1383,745,1378,813,1370"/>
+<area shape="poly" id="edge54_Node000095_Node000010" title=" " alt="" coords="819,273,791,254,774,229,766,205,765,180,767,156,769,132,767,108,760,85,743,62,724,47,701,38,703,33,727,43,747,58,765,83,773,107,774,132,772,156,770,180,771,204,779,227,795,250,822,268"/>
+<area shape="rect" id="Node000097" href="$class_parking_place_behavior.html#a85105c6a867f2c9f46dbbd4a99911a18" title="Here is the object for you to exit to the world in your own special way." alt="" coords="552,1667,701,1709"/>
+<area shape="poly" id="edge56_Node000096_Node000097" title=" " alt="" coords="821,1638,702,1671,701,1665,819,1633"/>
+</map>

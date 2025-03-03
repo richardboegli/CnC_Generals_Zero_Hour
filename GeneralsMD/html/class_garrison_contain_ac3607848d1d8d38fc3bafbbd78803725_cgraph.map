@@ -1,0 +1,81 @@
+<map id="GarrisonContain::addValidObjectsToGarrisonPoints" name="GarrisonContain::addValidObjectsToGarrisonPoints">
+<area shape="rect" id="Node000001" title="add any objects with targets to a garrison point" alt="" coords="5,107,178,149"/>
+<area shape="rect" id="Node000002" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="226,5,417,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,104,168,72,225,42,242,35,244,40,227,46,170,77,123,109"/>
+<area shape="rect" id="Node000003" href="$class_open_contain.html#a749b723ff0218e2f619b893555927ab7" title=" " alt="" coords="227,56,416,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,104,251,85,252,90,178,109"/>
+<area shape="rect" id="Node000004" href="$class_a_i_update_interface.html#a109f874325d4407572f7505426305c5e" title=" " alt="" coords="254,107,389,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,125,238,125,238,131,178,131"/>
+<area shape="rect" id="Node000005" href="$class_a_i_update_interface.html#a36550b8ba71b6a2991bc643959fabcc8" title=" " alt="" coords="250,173,392,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,147,236,167,235,172,166,152"/>
+<area shape="rect" id="Node000009" href="$class_garrison_contain.html#a0162a309ec58a30a542a735af79814da" title="place object at position of the best garrison point to use for its target" alt="" coords="232,496,411,539"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="108,148,302,481,297,484,103,151"/>
+<area shape="rect" id="Node000006" href="$class_state_machine.html#a197abf295c63321a0272caaee75df944" title=" " alt="" coords="465,27,666,53"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="392,175,415,159,432,136,438,112,444,88,452,75,463,63,469,59,472,63,467,67,456,78,449,90,443,113,437,138,419,163,394,179"/>
+<area shape="rect" id="Node000007" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="727,244,892,271"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="357,214,407,241,466,263,528,273,593,276,655,275,711,270,712,275,655,280,593,282,528,278,464,268,405,246,354,219"/>
+<area shape="rect" id="Node000008" href="$class_a_i_update_interface.html#a7106f23471df9d9e37f5d8b4d11513b4" title=" " alt="" coords="498,77,633,120"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="389,170,416,159,440,144,464,130,483,122,485,126,466,134,442,149,418,164,391,175"/>
+<area shape="rect" id="Node000010" href="$class_garrison_contain.html#a8000711fe2ccdeef3d684cd20b43d780" title="find closest free garrison point to the target location" alt="" coords="471,144,660,187"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="324,495,337,436,362,356,381,313,403,271,431,232,463,197,467,193,470,198,467,201,435,235,408,274,386,316,367,358,342,438,329,496"/>
+<area shape="rect" id="Node000013" href="$class_garrison_contain.html#accf7b7e11c11540dedbf2a0ed77c03b9" title="find the condition index to use given the current object body state" alt="" coords="466,211,665,253"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="339,494,534,264,538,267,343,497"/>
+<area shape="rect" id="Node000016" href="$class_object.html#a6c17829820a29ded73578abd29906943" title="this object&#39;s unique ID" alt="" coords="516,479,615,505"/>
+<area shape="poly" id="edge16_Node000009_Node000016" title=" " alt="" coords="411,505,500,496,501,501,412,511"/>
+<area shape="rect" id="Node000017" href="$class_thing_template.html#a508419e7bb9bdce6140782f2c241b6aa" title="return the name of this template" alt="" coords="482,529,649,556"/>
+<area shape="poly" id="edge17_Node000009_Node000017" title=" " alt="" coords="412,524,467,530,466,535,411,529"/>
+<area shape="rect" id="Node000018" href="$class_garrison_contain.html#a40833f4904bb58ef85426bee0ccf2cb4" title="get the garrison point index object is at (if present)" alt="" coords="476,580,655,623"/>
+<area shape="poly" id="edge18_Node000009_Node000018" title=" " alt="" coords="384,537,466,565,485,572,483,577,464,571,383,542"/>
+<area shape="rect" id="Node000019" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="1464,596,1591,623"/>
+<area shape="poly" id="edge19_Node000009_Node000019" title=" " alt="" coords="343,537,394,587,429,613,466,632,515,650,557,660,596,665,632,666,710,661,808,657,1045,657,1155,654,1265,644,1449,620,1450,625,1266,650,1156,659,1045,663,808,663,710,667,633,671,595,670,556,665,513,655,464,637,426,617,391,591,339,541"/>
+<area shape="rect" id="Node000020" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="500,697,632,724"/>
+<area shape="poly" id="edge20_Node000009_Node000020" title=" " alt="" coords="338,537,389,606,425,644,466,676,491,689,489,694,464,681,422,648,385,609,334,541"/>
+<area shape="rect" id="Node000021" href="$class_garrison_contain.html#af6f066118fc686235387dfe4f3ecdfa6" title="place object at the specified garrison point index" alt="" coords="476,412,655,455"/>
+<area shape="poly" id="edge21_Node000009_Node000021" title=" " alt="" coords="383,493,464,464,483,458,485,463,466,469,384,498"/>
+<area shape="rect" id="Node000036" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="512,748,619,775"/>
+<area shape="poly" id="edge41_Node000009_Node000036" title=" " alt="" coords="333,538,351,580,379,633,418,688,441,713,466,734,498,749,496,754,464,738,437,716,414,691,375,636,346,583,328,540"/>
+<area shape="rect" id="Node000011" href="$_garrison_contain_8cpp.html#aae080bcf3af5b746e6abf6b1c1a90d77" title=" " alt="" coords="765,76,854,103"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="632,141,665,129,714,112,749,102,751,107,715,117,667,135,634,146"/>
+<area shape="rect" id="Node000012" href="$_base_type_8h.html#a14225aed20ec8648b7e87b04aa650d04" title=" " alt="" coords="1024,76,1064,103"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="854,87,1009,87,1009,92,854,92"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="666,240,712,245,711,250,666,245"/>
+<area shape="rect" id="Node000014" href="$class_object.html#a171f31aa0e16919882799fa3932124b4" title=" " alt="" coords="731,193,888,220"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="666,219,715,214,715,219,666,224"/>
+<area shape="rect" id="Node000015" href="$class_body_module_interface.html#a576246479a1ce13c0a8c2e9fff35979c" title=" " alt="" coords="737,127,882,169"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="632,208,665,196,713,179,731,172,733,177,715,184,667,201,634,213"/>
+<area shape="poly" id="edge24_Node000021_Node000007" title=" " alt="" coords="580,410,634,346,671,310,713,280,724,275,726,279,716,285,674,315,637,349,584,414"/>
+<area shape="rect" id="Node000022" href="$class_object.html#a1d1b6d9787b5fd41324930b71427fc95" title="drawable (if any) bound to obj" alt="" coords="739,596,880,623"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="652,453,668,465,680,479,687,493,693,521,698,549,705,562,716,575,732,586,728,591,713,579,700,565,693,551,688,522,682,495,676,482,665,469,649,457"/>
+<area shape="rect" id="Node000023" href="$class_drawable.html#ad9173b7ad96b127cc2c858875e5790af" title=" " alt="" coords="716,295,903,337"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="600,409,652,378,713,347,727,341,729,346,715,352,655,383,603,414"/>
+<area shape="rect" id="Node000024" href="$class_garrison_contain.html#a75f2fbb061fcae35c5de8b2e8a34ec59" title="Does this type of Contain Visibly enclose its contents?" alt="" coords="714,361,905,404"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="655,412,698,403,700,408,656,417"/>
+<area shape="rect" id="Node000025" href="$class_drawable.html#ab79228ebffe85af7450ab9ee2e51fae8" title=" " alt="" coords="716,428,903,471"/>
+<area shape="poly" id="edge26_Node000021_Node000025" title=" " alt="" coords="656,437,701,440,701,445,656,442"/>
+<area shape="rect" id="Node000029" href="$class_drawable.html#a62758e4f60d2612fa42e925412499fe7" title=" " alt="" coords="735,495,884,521"/>
+<area shape="poly" id="edge30_Node000021_Node000029" title=" " alt="" coords="633,453,715,480,741,488,739,493,714,485,631,458"/>
+<area shape="rect" id="Node000030" href="$class_thing.html#a9fcbcf27ec45b3aa4883a03a56663bd9" title=" " alt="" coords="981,495,1107,521"/>
+<area shape="poly" id="edge40_Node000021_Node000030" title=" " alt="" coords="649,453,668,465,684,482,692,501,699,517,716,531,750,545,787,552,825,555,862,553,934,541,993,524,995,529,935,547,863,559,825,560,786,558,749,550,713,536,695,521,687,503,679,485,665,469,646,458"/>
+<area shape="rect" id="Node000026" href="$class_drawable.html#aab821e254f31cf382517d16fbe3f08cd" title=" " alt="" coords="953,335,1135,361"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="875,425,904,414,1002,366,1004,371,906,418,877,430"/>
+<area shape="rect" id="Node000027" href="$class_drawable.html#a88cc11f568a32687ceb341d5c13570b6" title=" " alt="" coords="1196,276,1362,303"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="1100,332,1207,304,1209,310,1101,337"/>
+<area shape="rect" id="Node000028" href="$class_object_draw_interface.html#a8aaa29297677b72c69b82719b276d280" title=" " alt="" coords="1183,327,1375,369"/>
+<area shape="poly" id="edge29_Node000026_Node000028" title=" " alt="" coords="1135,345,1167,345,1167,351,1135,351"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="885,505,965,505,965,511,885,511"/>
+<area shape="poly" id="edge33_Node000030_Node000019" title=" " alt="" coords="1065,520,1117,552,1150,569,1184,581,1252,597,1323,606,1449,610,1449,616,1323,611,1252,602,1182,587,1148,574,1115,557,1063,524"/>
+<area shape="rect" id="Node000031" href="$class_thing.html#af2c6688c2a7aad6f77d340925bf8537c" title=" " alt="" coords="1208,393,1350,420"/>
+<area shape="poly" id="edge32_Node000030_Node000031" title=" " alt="" coords="1065,492,1117,461,1182,430,1201,423,1203,428,1184,434,1120,466,1068,496"/>
+<area shape="rect" id="Node000032" href="$class_thing.html#a07b868efabdef9eeef03ca85887d30a2" title=" " alt="" coords="1423,495,1632,521"/>
+<area shape="poly" id="edge34_Node000030_Node000032" title=" " alt="" coords="1108,505,1408,505,1408,511,1108,511"/>
+<area shape="rect" id="Node000033" href="$class_matrix3_d.html#a0ee27f01493ca399b9d1ffb67b998187" title=" " alt="" coords="1184,444,1374,471"/>
+<area shape="poly" id="edge35_Node000030_Node000033" title=" " alt="" coords="1107,492,1198,472,1199,477,1108,497"/>
+<area shape="rect" id="Node000034" href="$class_thing.html#ad3a915f04d797a95168b90685988375c" title="set the world transformation matrix" alt="" coords="1192,545,1366,572"/>
+<area shape="poly" id="edge36_Node000030_Node000034" title=" " alt="" coords="1108,519,1199,539,1198,544,1107,524"/>
+<area shape="poly" id="edge38_Node000034_Node000019" title=" " alt="" coords="1349,570,1450,591,1449,596,1348,575"/>
+<area shape="poly" id="edge39_Node000034_Node000032" title=" " alt="" coords="1348,542,1443,522,1444,528,1349,547"/>
+<area shape="rect" id="Node000035" href="$class_matrix3_d.html#ac8456b4a8e225157d6c8b8b2098385ee" title=" " alt="" coords="1432,545,1623,572"/>
+<area shape="poly" id="edge37_Node000034_Node000035" title=" " alt="" coords="1367,556,1417,556,1417,561,1367,561"/>
+<area shape="rect" id="Node000037" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="749,748,870,775"/>
+<area shape="poly" id="edge42_Node000036_Node000037" title=" " alt="" coords="620,759,734,759,734,764,620,764"/>
+</map>

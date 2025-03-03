@@ -1,0 +1,96 @@
+<map id="LListNode::next" name="LListNode::next">
+<area shape="rect" id="Node000001" title="Returns next node in list." alt="" coords="1640,397,1753,424"/>
+<area shape="rect" id="Node000002" href="$class_l_list.html#ae995615cdacb956728d905d0d3e4745e" title="Adds new node to list sorted by priority." alt="" coords="1464,5,1542,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1693,382,1690,313,1676,223,1663,175,1645,128,1621,84,1590,46,1568,31,1542,24,1543,19,1570,27,1593,42,1625,81,1650,126,1669,174,1682,222,1695,313,1698,382"/>
+<area shape="rect" id="Node000004" href="$class_l_list.html#a244afed5435a532c48dda9081f88ca97" title="Returns the LListNode that references item." alt="" coords="1451,56,1555,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1691,382,1684,324,1667,250,1654,210,1637,172,1616,135,1590,103,1573,91,1554,82,1557,77,1576,86,1594,99,1620,132,1642,169,1659,208,1672,248,1689,323,1696,381"/>
+<area shape="rect" id="Node000006" href="$class_speaker.html#a5ff2ae93705681de6b02c00e115ee1a0" title=" " alt="" coords="1440,347,1566,373"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1628,395,1556,377,1557,371,1629,390"/>
+<area shape="rect" id="Node000014" href="$class_speech_manager.html#acee566c7533ae6861a9f04983a6c3fd0" title="Attempts to add a speech to the speach queue." alt="" coords="476,309,620,336"/>
+<area shape="poly" id="edge50_Node000001_Node000014" title=" " alt="" coords="1669,388,1634,360,1591,337,1506,319,1393,307,1259,302,1116,301,834,309,621,321,621,315,834,304,1115,296,1259,297,1393,302,1507,313,1593,332,1637,355,1673,384"/>
+<area shape="rect" id="Node000024" href="$class_speech_manager.html#af0371cc339013b061a7bac298b210a61" title="Stops all speech that&#39;s currently playing." alt="" coords="705,107,853,133"/>
+<area shape="poly" id="edge51_Node000001_Node000024" title=" " alt="" coords="1691,382,1683,330,1667,267,1654,235,1637,204,1616,177,1590,154,1565,140,1533,128,1451,111,1353,102,1245,98,1027,104,853,116,853,110,1027,98,1245,93,1353,97,1452,106,1534,123,1567,135,1593,150,1620,173,1641,201,1658,233,1672,265,1689,329,1696,381"/>
+<area shape="rect" id="Node000029" href="$class_speech_manager.html#a9a5cd6b3d5af53186218031d38776e82" title="Services speech tasks. Called by AudioInterface." alt="" coords="467,157,629,184"/>
+<area shape="poly" id="edge52_Node000001_Node000029" title=" " alt="" coords="1673,387,1637,346,1590,305,1507,245,1436,204,1400,191,1361,181,1315,175,1260,173,1015,173,630,173,630,168,1015,168,1261,168,1315,170,1361,176,1402,185,1438,200,1509,241,1593,301,1640,342,1677,383"/>
+<area shape="rect" id="Node000031" href="$class_speech_manager.html#a571bf85c1025be0dbcd4999fc08aa6d1" title="Pauses all speech." alt="" coords="937,512,1096,539"/>
+<area shape="poly" id="edge43_Node000001_Node000031" title=" " alt="" coords="1629,431,1415,489,1367,503,1224,520,1096,527,1096,521,1223,515,1366,497,1414,484,1628,426"/>
+<area shape="rect" id="Node000033" href="$class_speech_manager.html#ae11e949d0eea9100a53ed558c8623ab1" title="Resumes all paused speech." alt="" coords="933,575,1100,601"/>
+<area shape="poly" id="edge49_Node000001_Node000033" title=" " alt="" coords="1691,440,1678,476,1659,518,1631,559,1613,576,1593,590,1554,605,1500,614,1437,618,1367,619,1223,612,1100,600,1100,595,1224,606,1367,613,1437,613,1500,609,1552,600,1590,586,1610,572,1627,555,1654,516,1673,474,1685,438"/>
+<area shape="rect" id="Node000034" href="$class_l_list.html#affdd284d711f388ca4dedacc6d942c10" title="Returns node in list addressed by the zero&#45;based index passed." alt="" coords="1450,499,1556,525"/>
+<area shape="poly" id="edge36_Node000001_Node000034" title=" " alt="" coords="1667,436,1632,460,1593,482,1550,501,1548,496,1590,478,1629,455,1664,431"/>
+<area shape="rect" id="Node000035" href="$class_l_list_node.html#a268adebd0c0729332fa7b5be23f8984f" title="Returns next node in list, warpping round to start of list if nessecary." alt="" coords="1433,549,1573,576"/>
+<area shape="poly" id="edge37_Node000001_Node000035" title=" " alt="" coords="1682,439,1646,490,1621,517,1593,540,1570,551,1568,546,1590,535,1618,513,1642,487,1678,436"/>
+<area shape="rect" id="Node000036" href="$class_speaker.html#a7ea6d31d28141b756edee8dafc28a487" title=" " alt="" coords="1439,397,1567,424"/>
+<area shape="poly" id="edge38_Node000001_Node000036" title=" " alt="" coords="1624,413,1568,413,1568,408,1624,408"/>
+<area shape="rect" id="Node000037" href="$class_l_list.html#abb359fe54849eaea66c4356c254affcc" title="Returns number of nodes currently in list." alt="" coords="1443,651,1563,677"/>
+<area shape="poly" id="edge42_Node000001_Node000037" title=" " alt="" coords="1692,440,1680,482,1660,534,1632,587,1614,612,1593,634,1563,652,1561,648,1590,630,1610,609,1628,584,1656,532,1675,481,1687,438"/>
+<area shape="rect" id="Node000038" href="$class_c_d_manager.html#a48e223db70c46af03acab98dd83e4627" title="Refresh drive info." alt="" coords="1414,701,1592,728"/>
+<area shape="poly" id="edge44_Node000001_Node000038" title=" " alt="" coords="1695,440,1687,494,1670,561,1640,631,1619,663,1593,691,1576,703,1573,699,1590,687,1615,660,1635,628,1665,559,1682,493,1690,439"/>
+<area shape="rect" id="Node000003" href="$class_l_list.html#a5f8cd10e3dcb6f42196df1665032caf0" title="Adds new item to list sorted by priority." alt="" coords="1207,5,1311,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1449,21,1312,21,1312,16,1449,16"/>
+<area shape="rect" id="Node000005" href="$class_l_list.html#a147ed9dc7ff21fb77384550275b4d691" title="Tests if list has the specified item." alt="" coords="1207,56,1311,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1436,72,1312,72,1312,67,1436,67"/>
+<area shape="rect" id="Node000007" href="$class_speaker.html#acf3b385f7bd22d723c4e9660473be30f" title=" " alt="" coords="1197,360,1321,387"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1425,367,1322,373,1322,367,1425,362"/>
+<area shape="rect" id="Node000017" href="$class_speaker.html#ad6b98e150ddbd60692ea76221571035f" title=" " alt="" coords="1206,208,1312,235"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="1463,341,1283,238,1286,233,1466,336"/>
+<area shape="rect" id="Node000028" href="$class_speaker.html#a2ba7fbe6546f2b2db0a1cd1d8ddfe9c0" title="Service speaker." alt="" coords="721,208,837,235"/>
+<area shape="poly" id="edge35_Node000006_Node000028" title=" " alt="" coords="1425,348,837,235,838,230,1426,343"/>
+<area shape="rect" id="Node000030" href="$class_speaker.html#ab755677dbd7732dcc2ea65bfce79425d" title="pause speaker" alt="" coords="1203,411,1315,437"/>
+<area shape="poly" id="edge31_Node000006_Node000030" title=" " alt="" coords="1440,381,1367,401,1316,414,1315,409,1366,396,1438,376"/>
+<area shape="rect" id="Node000032" href="$class_speaker.html#ad2a5e7ad8945e56ba5db6fcaa1288cab" title="resume speaking" alt="" coords="1199,461,1319,488"/>
+<area shape="poly" id="edge33_Node000006_Node000032" title=" " alt="" coords="1427,381,1416,387,1401,403,1393,419,1384,436,1368,452,1345,463,1320,471,1319,465,1343,458,1365,447,1380,432,1388,416,1397,400,1413,383,1424,376"/>
+<area shape="rect" id="Node000008" href="$class_speaker.html#abe7cf7c8616b56ce5c7311c90d9ec719" title="cancel pending line of dialog" alt="" coords="959,411,1074,437"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1182,392,1075,415,1074,409,1181,387"/>
+<area shape="rect" id="Node000010" href="$class_speaker.html#a13f8db808ad0a58b8938cd518534b14f" title="is line of dialog no longer pending" alt="" coords="954,461,1078,488"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="1183,388,1153,401,1139,413,1130,425,1121,439,1105,452,1080,464,1078,459,1103,447,1117,435,1126,422,1135,409,1151,396,1181,383"/>
+<area shape="rect" id="Node000011" href="$class_speaker.html#a3e77d662d20dec62cda38a9d63ec6ce3" title="check in line of dialog is pending" alt="" coords="937,360,1096,387"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="1181,376,1096,376,1096,371,1181,371"/>
+<area shape="rect" id="Node000009" href="$class_speech_manager.html#ad4138abd2310eef80ef61140a14ce5e7" title="remove an event, eventToUse shouldn&#39;t be NULL." alt="" coords="677,411,881,453"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="943,429,881,431,881,426,943,424"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="945,394,869,413,867,407,944,388"/>
+<area shape="rect" id="Node000012" href="$class_speaker.html#a1e1320c2052deefb2f25393176889296" title="Submits speech to play." alt="" coords="730,360,828,387"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="922,376,829,376,829,371,922,371"/>
+<area shape="rect" id="Node000013" href="$class_speaker.html#aed2b7d5cebbfaade252f770b8eba4e3e" title=" " alt="" coords="499,360,597,387"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="714,376,598,376,598,371,714,371"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="714,362,612,339,613,334,715,357"/>
+<area shape="rect" id="Node000015" href="$class_speech_manager.html#a51f920d5cc73a084aab4e59d4048a304" title="Add an event. speech can be NULL." alt="" coords="216,279,397,321"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="461,317,397,311,398,306,461,312"/>
+<area shape="rect" id="Node000016" href="$class_speech_manager.html#a4bebe33ae11843c7aa1c03dca556c23c" title="Attempts to find and add a speech to the speech queue." alt="" coords="234,345,378,372"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="461,338,379,351,379,345,460,333"/>
+<area shape="rect" id="Node000018" href="$class_speaker.html#aa4ea66b4f4bb20324d053cf72f3a5853" title="stop speaking (flushes queue)" alt="" coords="965,208,1068,235"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1191,224,1068,224,1068,219,1191,219"/>
+<area shape="rect" id="Node000019" href="$class_speaker.html#a0f0fb3c1141e909b23057c233269c2ff" title=" " alt="" coords="725,259,833,285"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="951,238,834,263,833,258,949,233"/>
+<area shape="poly" id="edge24_Node000018_Node000024" title=" " alt="" coords="968,204,811,136,814,131,970,199"/>
+<area shape="poly" id="edge29_Node000018_Node000028" title=" " alt="" coords="950,224,838,224,838,219,950,219"/>
+<area shape="rect" id="Node000020" href="$class_speaker.html#aa6a5868bab27916af0c0dc1df6d09066" title="initialized speaker for use" alt="" coords="501,259,595,285"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="709,275,596,275,596,269,709,269"/>
+<area shape="rect" id="Node000023" href="$class_speaker.html#a4fbf603df58d79c0db48cf1a672a5acb" title=" " alt="" coords="482,208,615,235"/>
+<area shape="poly" id="edge23_Node000019_Node000023" title=" " alt="" coords="709,259,612,238,613,233,710,254"/>
+<area shape="rect" id="Node000021" href="$class_speech_manager.html#a3c0d9e7932443632d155ab74f875281c" title="Speaker factory." alt="" coords="203,181,410,208"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="488,256,466,249,349,211,351,206,468,244,489,251"/>
+<area shape="rect" id="Node000022" href="$class_speech_manager.html#ad1cd127a18b9849d7bb9e9b5345532cf" title="Initlaizes the speech system." alt="" coords="5,108,146,135"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="246,179,119,138,121,133,248,174"/>
+<area shape="rect" id="Node000025" href="$class_speech_manager.html#ad7c64f49a7e02d01e57afa8b8dd97e23" title="De&#45;initlaizes the speech system." alt="" coords="471,56,625,83"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="700,105,612,86,613,81,701,100"/>
+<area shape="rect" id="Node000027" href="$class_speech_manager.html#ab7f3fd5dfff566cfcf37cc2b530fbce9" title="Turns off all speech. No more speech will play." alt="" coords="467,107,629,133"/>
+<area shape="poly" id="edge28_Node000024_Node000027" title=" " alt="" coords="689,123,630,123,630,117,689,117"/>
+<area shape="poly" id="edge26_Node000025_Node000022" title=" " alt="" coords="455,75,331,82,194,97,131,110,129,105,193,92,330,77,455,69"/>
+<area shape="rect" id="Node000026" href="$class_speech_manager.html#a473b5a5d90f5486c0306278220d8138c" title=" " alt="" coords="194,107,419,133"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="466,89,374,109,373,103,465,84"/>
+<area shape="poly" id="edge30_Node000028_Node000029" title=" " alt="" coords="705,208,612,187,613,182,706,203"/>
+<area shape="poly" id="edge32_Node000030_Node000031" title=" " alt="" coords="1189,437,1153,452,1139,463,1130,476,1121,489,1105,502,1081,514,1079,509,1103,498,1117,486,1126,473,1135,460,1151,447,1187,432"/>
+<area shape="poly" id="edge34_Node000032_Node000033" title=" " alt="" coords="1218,498,1105,553,1052,576,1050,572,1103,548,1216,493"/>
+<area shape="poly" id="edge39_Node000036_Node000007" title=" " alt="" coords="1423,401,1321,385,1322,380,1424,396"/>
+<area shape="poly" id="edge40_Node000036_Node000030" title=" " alt="" coords="1423,418,1316,424,1316,418,1423,412"/>
+<area shape="poly" id="edge41_Node000036_Node000032" title=" " alt="" coords="1441,431,1367,452,1321,464,1319,458,1366,447,1439,426"/>
+<area shape="rect" id="Node000039" href="$class_win32_c_d_manager.html#a0e7c97242b465c53ef13e6ef9ea9534d" title="Refresh drive info." alt="" coords="1152,676,1366,703"/>
+<area shape="poly" id="edge45_Node000038_Node000039" title=" " alt="" coords="1399,707,1366,703,1367,698,1399,701"/>
+<area shape="rect" id="Node000041" href="$class_c_d_manager.html#a9a2d2bcc461ebade2a36eb86381ec58f" title=" " alt="" coords="1190,727,1328,753"/>
+<area shape="poly" id="edge47_Node000038_Node000041" title=" " alt="" coords="1399,728,1329,735,1329,730,1399,723"/>
+<area shape="rect" id="Node000040" href="$class_win32_c_d_manager.html#a84a39b601fa2cf1f416fed9ccb1298c8" title=" " alt="" coords="940,676,1093,703"/>
+<area shape="poly" id="edge46_Node000039_Node000040" title=" " alt="" coords="1136,692,1093,692,1093,687,1136,687"/>
+<area shape="rect" id="Node000042" href="$class_win32_c_d_manager.html#a21511032382d41d1ef62ed668f1ec0e5" title=" " alt="" coords="929,727,1104,753"/>
+<area shape="poly" id="edge48_Node000041_Node000042" title=" " alt="" coords="1174,743,1104,743,1104,737,1174,737"/>
+</map>

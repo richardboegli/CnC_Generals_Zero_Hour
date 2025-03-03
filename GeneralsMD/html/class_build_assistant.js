@@ -1,0 +1,38 @@
+var class_build_assistant =
+[
+    [ "TileBuildInfo", "struct_build_assistant_1_1_tile_build_info.html", "struct_build_assistant_1_1_tile_build_info" ],
+    [ "LocalLegalToBuildOptions", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8", [
+      [ "TERRAIN_RESTRICTIONS", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8ab8094ac79574c6e44af61febffeb416a", null ],
+      [ "CLEAR_PATH", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8a0f7738a2bf047a9a423cb464eb1acb7a", null ],
+      [ "NO_OBJECT_OVERLAP", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8ae061cac279ee8b94ad80c8e978e98fff", null ],
+      [ "USE_QUICK_PATHFIND", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8a5e572d0d8092c80ad20bc56d85da4251", null ],
+      [ "SHROUD_REVEALED", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8a6ee57960f095c16b2b0907a5c8f8ca27", null ],
+      [ "NO_ENEMY_OBJECT_OVERLAP", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8aa5e20e9dfd6fcc944d315fdc4b45c52c", null ],
+      [ "IGNORE_STEALTHED", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8a17dd75313cd0f6d1c01b6d88bccee6f4", null ],
+      [ "FAIL_STEALTHED_WITHOUT_FEEDBACK", "class_build_assistant.html#a482b186d4aaf38686cdee036a94155e8a50b4b7699f77ed05e6b4a38cd18bd54b", null ]
+    ] ],
+    [ "BuildAssistant", "class_build_assistant.html#aa6ed7e80415bb1c6b6bc244f3e182f5e", null ],
+    [ "~BuildAssistant", "class_build_assistant.html#ab1039a07d2c7a5450fe3e9d1b55d5b8c", null ],
+    [ "addBibs", "class_build_assistant.html#ac7d95f958c81377135ca0dbff1691f7b", null ],
+    [ "buildObjectLineNow", "class_build_assistant.html#a082f40fc2e577327b2015d30a71a1644", null ],
+    [ "buildObjectNow", "class_build_assistant.html#a2be8331088a9aca9ea92fea1681363b0", null ],
+    [ "buildTiledLocations", "class_build_assistant.html#aacaf4f60db234675e7ca5940bd9a19b6", null ],
+    [ "canMakeUnit", "class_build_assistant.html#a88b8eeef6002256e47db51f5aabb7f86", null ],
+    [ "clearRemovableForConstruction", "class_build_assistant.html#a5ad82b7eef49d6e1cf0db5b07b032994", null ],
+    [ "getBuildLocations", "class_build_assistant.html#a30e3a210510311b6070ed51699d01ea6", null ],
+    [ "init", "class_build_assistant.html#a6edd97ae59863a50bbf85a00a3d75a6f", null ],
+    [ "isLineBuildTemplate", "class_build_assistant.html#a61c2621be6d9f18d36ffe8ba29536c67", null ],
+    [ "isLocationClearOfObjects", "class_build_assistant.html#a4bd1e0c7de2dd5b688d120c0eb98ea07", null ],
+    [ "isLocationLegalToBuild", "class_build_assistant.html#aad28ef5fc57800fa9936dfa76a1269c5", null ],
+    [ "isPossibleToMakeUnit", "class_build_assistant.html#a4c5fd2e0d445d9dd66465a6cb702f6ca", null ],
+    [ "isRemovableForConstruction", "class_build_assistant.html#ae29afc9e482fe9c026b98788a33c1249", null ],
+    [ "iterateFootprint", "class_build_assistant.html#a462f56f954ce1e58dae64395d499c68e", null ],
+    [ "moveObjectsForConstruction", "class_build_assistant.html#a62447488a933becccf4842a97b25a815", null ],
+    [ "reset", "class_build_assistant.html#af480a8cbc2590992331e8a2bcf3ddf83", null ],
+    [ "sellObject", "class_build_assistant.html#a91e86e948bcc7e7b98ed95db23b33499", null ],
+    [ "update", "class_build_assistant.html#a20e747aa52363c02a3126c4765138b72", null ],
+    [ "xferTheSellList", "class_build_assistant.html#aa3277b948967e817e1d4fb9c95687686", null ],
+    [ "m_buildPositions", "class_build_assistant.html#a0e47f3f0af1f1ea821564ade67e0c189", null ],
+    [ "m_buildPositionSize", "class_build_assistant.html#a91195220fa60b16052b84bfaab8a4ac3", null ],
+    [ "m_sellList", "class_build_assistant.html#af3537248fbf76a394db0b84bf003023c", null ]
+];

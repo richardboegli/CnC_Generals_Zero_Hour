@@ -1,0 +1,19 @@
+<map id="MemoryPoolSingleBlock::getOwningBlob" name="MemoryPoolSingleBlock::getOwningBlob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1356,25,1520,68"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool.html#a449f316afa8cab0d81577261e163e7e1" title="free the block. it is OK to pass null." alt="" coords="917,33,1074,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1350,24,1308,16,1215,8,1122,16,1079,24,1039,35,1037,30,1078,19,1122,11,1215,3,1309,11,1351,19"/>
+<area shape="rect" id="Node000003" href="$class_dynamic_memory_allocator.html#a857a82beae58b58b02556ce617bfd605" title="free the bytes. (assumes allocated by this dma.)" alt="" coords="697,55,869,97"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="1351,75,1309,83,1190,93,1070,95,960,92,869,86,869,81,960,86,1070,89,1189,87,1308,77,1350,70"/>
+<area shape="rect" id="Node000008" href="$class_memory_pool_blob.html#a967a89b41668c9e36952f920f13ce238" title=" " alt="" coords="1122,25,1308,68"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1341,49,1309,49,1309,44,1341,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="902,62,870,67,869,61,901,57"/>
+<area shape="rect" id="Node000004" href="$class_dynamic_memory_allocator.html#a6b6ebe8626de99317b90090ef7bb91b0" title="destroy all allocations performed by this DMA." alt="" coords="470,21,641,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="681,64,641,58,642,53,682,59"/>
+<area shape="rect" id="Node000005" href="$class_dynamic_memory_allocator.html#ade1e367cd8973d6bf0227cd5c79bba02" title=" " alt="" coords="462,88,649,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="682,93,650,98,650,93,681,88"/>
+<area shape="rect" id="Node000006" href="$class_memory_pool_factory.html#aee5d6365320c07db699ed5e1ecb368e5" title="destroy the given DynamicMemoryAllocator." alt="" coords="200,88,414,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="446,112,414,112,414,107,446,107"/>
+<area shape="rect" id="Node000007" href="$class_memory_pool_factory.html#a73b467cb58471e2b9376aae692cd0ef6" title=" " alt="" coords="5,88,152,131"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="184,112,152,112,152,107,184,107"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="1107,49,1075,49,1075,44,1107,44"/>
+</map>

@@ -1,0 +1,26 @@
+var class_shd_gloss_mask_def_class =
+[
+    [ "ShdGlossMaskDefClass", "class_shd_gloss_mask_def_class.html#a0170d7da4bd9424f2ad7662ebda76148", null ],
+    [ "ShdGlossMaskDefClass", "class_shd_gloss_mask_def_class.html#a94e85ce7e31c350126691eb3b9e890cf", null ],
+    [ "~ShdGlossMaskDefClass", "class_shd_gloss_mask_def_class.html#a20218a4064ad5adb51a11e9a778e0801", null ],
+    [ "Clone", "class_shd_gloss_mask_def_class.html#a9e506a229402f7a0a978fbdae2c44491", null ],
+    [ "Create", "class_shd_gloss_mask_def_class.html#a89f37c491cbbad5d27216366ba500ba1", null ],
+    [ "DECLARE_EDITABLE", "class_shd_gloss_mask_def_class.html#abebba24740a21d4880551725d8814228", null ],
+    [ "Get_Ambient", "class_shd_gloss_mask_def_class.html#a04576cbf7ca99293f31283b02e4907c6", null ],
+    [ "Get_Diffuse", "class_shd_gloss_mask_def_class.html#a2ed626a752148f765c4af1dc92c3e9be", null ],
+    [ "Get_Specular", "class_shd_gloss_mask_def_class.html#afd0814c1fdef4ac2f475b9cc3313ab73", null ],
+    [ "Get_Texture_Name", "class_shd_gloss_mask_def_class.html#ad6ebef8b8cc1af7f4640ffa5d79b4266", null ],
+    [ "Init", "class_shd_gloss_mask_def_class.html#a95adcde9568ce67830e525525bc73868", null ],
+    [ "Is_Valid_Config", "class_shd_gloss_mask_def_class.html#a55cf7cefb56cd44e075aafd5654f5304", null ],
+    [ "Load", "class_shd_gloss_mask_def_class.html#ae271070693fcf6e2533e18a16e97aeb2", null ],
+    [ "Requires_Normals", "class_shd_gloss_mask_def_class.html#a80eb380b2b9b67b02566435cd5c938d9", null ],
+    [ "Requires_Sorting", "class_shd_gloss_mask_def_class.html#ab8bfb06f0b59e45eddee1828bca7d690", null ],
+    [ "Requires_Tangent_Space_Vectors", "class_shd_gloss_mask_def_class.html#ac776914210436f746747c86973cd1018", null ],
+    [ "Save", "class_shd_gloss_mask_def_class.html#acacecc6113afe3748e3e63def03a5b0a", null ],
+    [ "Set_Ambient", "class_shd_gloss_mask_def_class.html#a23d9c6be6cd58a9582050ab053e74f99", null ],
+    [ "Set_Diffuse", "class_shd_gloss_mask_def_class.html#aead352929baf18ab033fe74be28c5f9b", null ],
+    [ "Set_Specular", "class_shd_gloss_mask_def_class.html#a65fde4eea32a5b74e7b740cb7e295976", null ],
+    [ "Set_Texture_Name", "class_shd_gloss_mask_def_class.html#a459da3d5d547ea4a6e90b5af86b54cce", null ],
+    [ "Shutdown", "class_shd_gloss_mask_def_class.html#a07e2e86aa2012d01e7e11a76da4a9773", null ],
+    [ "Static_Sort_Index", "class_shd_gloss_mask_def_class.html#a971ae792ca3b1b0b8f51c2d57b0f97e4", null ]
+];

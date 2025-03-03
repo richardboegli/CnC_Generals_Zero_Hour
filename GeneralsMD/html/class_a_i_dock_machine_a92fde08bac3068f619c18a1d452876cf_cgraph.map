@@ -1,0 +1,28 @@
+<map id="AIDockMachine::ableToAdvance" name="AIDockMachine::ableToAdvance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,217,235"/>
+<area shape="rect" id="Node000002" href="$class_a_i_dock_machine.html#a3c75116d97cab43e829dd11472ceecc8" title=" " alt="" coords="265,107,480,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,205,205,180,264,155,330,135,332,141,266,160,207,185,155,210"/>
+<area shape="rect" id="Node000009" href="$class_object.html#a26a4f770370ddd98088dc36451460400" title=" " alt="" coords="268,157,477,184"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="183,205,285,185,286,190,184,210"/>
+<area shape="rect" id="Node000010" href="$class_state.html#abf4a7f10f97bb05f57a3d30d8c0bf0d8" title="return the machine this state is part of" alt="" coords="309,208,436,235"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="217,219,293,219,293,224,217,224"/>
+<area shape="rect" id="Node000011" href="$class_state.html#abc86e24cb8f2a8fa417331999fcccddb" title="return the machine this state is part of" alt="" coords="276,259,468,285"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="184,233,286,253,285,258,183,238"/>
+<area shape="rect" id="Node000012" href="$class_state.html#abd7940ecb1e1df8d9218e2e03d204fc0" title=" " alt="" coords="290,309,455,336"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="137,233,195,264,266,295,289,302,287,307,264,300,192,268,135,238"/>
+<area shape="rect" id="Node000013" href="$class_dock_update_interface.html#ae9280136841fb6b2b2e0f06d8c79749e" title=" " alt="" coords="300,360,445,403"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="127,233,184,287,223,319,266,346,286,355,284,360,263,350,220,323,181,291,123,237"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="265,136,195,167,138,201,135,196,193,162,263,131"/>
+<area shape="rect" id="Node000003" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="535,81,710,108"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="480,106,519,102,520,108,481,112"/>
+<area shape="rect" id="Node000008" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="528,132,717,159"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="481,128,513,132,512,137,480,134"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="765,5,934,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="660,78,764,41,786,35,787,40,766,47,662,83"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="773,56,926,83"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="710,82,757,77,758,82,711,88"/>
+<area shape="rect" id="Node000006" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="767,107,932,133"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="711,102,752,106,751,112,710,107"/>
+<area shape="rect" id="Node000007" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="784,157,915,184"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="684,106,718,118,766,143,784,150,782,155,764,148,716,122,682,111"/>
+</map>

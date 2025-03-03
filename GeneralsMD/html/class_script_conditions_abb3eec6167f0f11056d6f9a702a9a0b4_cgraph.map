@@ -1,0 +1,21 @@
+<map id="ScriptConditions::evaluateSkirmishSupplySourceAttacked" name="ScriptConditions::evaluateSkirmishSupplySourceAttacked">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,211,137"/>
+<area shape="rect" id="Node000002" href="$class_player.html#a1708b107147da4371e6f7fb40f20d008" title="Is a supply source attacked?" alt="" coords="259,73,468,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,102,243,98,243,103,211,107"/>
+<area shape="rect" id="Node000003" href="$class_script_conditions.html#a91e653a920a5f0a6b3e0a4813ea49394" title=" " alt="" coords="283,124,444,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,125,268,132,267,137,211,130"/>
+<area shape="rect" id="Node000004" href="$class_parameter.html#ab09aeb9f5f22b15353d214f1ef1adf8b" title=" " alt="" coords="533,5,694,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,123,466,110,482,94,489,77,498,59,514,42,523,37,526,41,518,46,502,62,494,79,486,97,470,114,445,128"/>
+<area shape="rect" id="Node000005" href="$class_parameter.html#acd26380275dd5bcba94f8906c35191fe" title=" " alt="" coords="552,56,675,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="433,121,467,109,515,92,541,85,542,90,517,97,469,115,435,126"/>
+<area shape="rect" id="Node000006" href="$class_parameter.html#a13984a5a5f45f477486c3c043b484275" title=" " alt="" coords="516,107,711,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="444,135,500,129,501,134,444,140"/>
+<area shape="rect" id="Node000007" href="$class_player.html#abc2ed87b6c05581e558b847857b6765d" title="return a bitmask that is unique to this player." alt="" coords="537,157,690,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="444,151,522,159,521,164,444,156"/>
+<area shape="rect" id="Node000008" href="$class_parameter.html#a6ca451cc7e76779d0a48fb2591f21074" title=" " alt="" coords="543,208,684,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="428,165,517,193,543,201,541,206,515,199,426,170"/>
+<area shape="rect" id="Node000009" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="560,259,667,285"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="393,165,448,205,517,244,546,255,544,260,515,249,445,210,389,169"/>
+<area shape="rect" id="Node000010" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="759,259,880,285"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="668,269,744,269,744,275,668,275"/>
+</map>

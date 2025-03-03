@@ -1,0 +1,16 @@
+<map id="AIUpdateInterface::getCurrentVictimPos" name="AIUpdateInterface::getCurrentVictimPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="721,64,864,107"/>
+<area shape="rect" id="Node000002" href="$class_garrison_contain.html#ac3607848d1d8d38fc3bafbbd78803725" title="add any objects with targets to a garrison point" alt="" coords="490,5,662,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="706,65,656,51,658,46,707,60"/>
+<area shape="rect" id="Node000006" href="$class_garrison_contain.html#ae228dbf2f2f48620d9b568f4982c29fc" title="keep attackers at the closest garrison point to their active target" alt="" coords="478,72,673,99"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="706,88,674,88,674,83,706,83"/>
+<area shape="rect" id="Node000007" href="$class_deploy_style_a_i_update.html#ace304f724c99403da34512df2bea254a" title="update this object&#39;s AI" alt="" coords="502,123,649,165"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="707,111,651,127,649,121,706,106"/>
+<area shape="rect" id="Node000003" href="$class_garrison_contain.html#a348fc204b4aae2b8772670b1dd6f965d" title="Every frame, and whenever anyone enters or leaves." alt="" coords="226,35,430,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,41,431,47,430,41,474,36"/>
+<area shape="rect" id="Node000004" href="$class_garrison_contain.html#ae4a2e7522c44c16e41b4ec20e042e8a3" title="redeploy the occupants of us at all available garrison points" alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="210,44,178,40,178,35,210,39"/>
+<area shape="rect" id="Node000005" href="$class_garrison_contain.html#ad15825e284a8796b3e919ed506591d0c" title="called once per frame" alt="" coords="10,72,173,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="210,73,173,78,173,73,210,68"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="462,75,430,71,431,65,463,69"/>
+</map>

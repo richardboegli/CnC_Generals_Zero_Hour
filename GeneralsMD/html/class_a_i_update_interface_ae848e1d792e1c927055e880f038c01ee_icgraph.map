@@ -1,0 +1,64 @@
+<map id="AIUpdateInterface::getAIStateType" name="AIUpdateInterface::getAIStateType">
+<area shape="rect" id="Node000001" title="What general state is the AIState Machine in?" alt="" coords="984,339,1119,381"/>
+<area shape="rect" id="Node000002" href="$class_a_i_update_interface.html#abc33d5bcfa27264d01f3d56ac7ffd01f" title=" " alt="" coords="723,5,936,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1044,324,1034,266,1014,196,982,124,960,91,934,62,919,51,922,46,937,58,964,88,986,121,1019,194,1039,265,1049,323"/>
+<area shape="rect" id="Node000004" href="$class_chinook_a_i_update.html#a58a234dcfcbb5d57a097374002065269" title=" " alt="" coords="731,72,928,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1039,324,1026,279,1004,227,974,174,955,150,934,129,917,117,921,113,937,125,959,146,978,171,1009,224,1031,277,1044,323"/>
+<area shape="rect" id="Node000005" href="$class_a_i_update_interface.html#a0e34db2de826ecc7398e20ace284a964" title="if we are trying to enter something (see enter() above), what is the thing in question?..." alt="" coords="762,139,897,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1032,326,993,259,966,225,934,196,897,176,899,172,937,191,970,221,998,256,1037,323"/>
+<area shape="rect" id="Node000008" href="$class_supply_truck_state_machine.html#a9a416676a558e9aea0b713d745f286fd" title=" " alt="" coords="742,272,917,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="968,338,902,318,904,313,969,333"/>
+<area shape="rect" id="Node000010" href="$class_supply_truck_state_machine.html#ad65f78fc02de85471131444de68c9038" title=" " alt="" coords="742,205,917,248"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1018,330,980,294,934,262,910,251,912,246,937,258,983,290,1022,326"/>
+<area shape="rect" id="Node000011" href="$class_a_i_update_interface.html#a55df01a0a155082d5882b45f83daed20" title=" " alt="" coords="745,339,914,381"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="968,363,915,363,915,357,968,357"/>
+<area shape="rect" id="Node000023" href="$class_assault_transport_a_i_update.html#aa9e36c0cb4f8eaa79841500b4b770991" title=" " alt="" coords="742,405,917,448"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="969,387,904,407,902,402,968,382"/>
+<area shape="rect" id="Node000024" href="$class_assault_transport_a_i_update.html#aca2216403589a7cbc1bcbe3f4e4bc3a8" title="update this object&#39;s AI" alt="" coords="482,464,658,507"/>
+<area shape="poly" id="edge32_Node000001_Node000024" title=" " alt="" coords="1025,395,986,432,962,449,937,462,866,484,792,495,721,499,658,497,658,492,721,494,792,490,865,479,935,458,960,444,983,428,1021,391"/>
+<area shape="rect" id="Node000025" href="$class_worker_state_machine.html#ae0a479052ee8f5f5daa486710ad4cc94" title=" " alt="" coords="725,523,934,581"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="1032,396,992,451,966,480,937,506,909,524,906,520,934,502,962,476,988,448,1027,393"/>
+<area shape="rect" id="Node000028" href="$class_approach_state.html#a66faabe5a8ce5c7d2260f76220c0ec4f" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="752,605,907,632"/>
+<area shape="poly" id="edge31_Node000001_Node000028" title=" " alt="" coords="1045,397,1032,443,1010,497,979,550,960,574,937,595,909,611,906,606,934,591,956,571,975,547,1006,494,1027,441,1040,396"/>
+<area shape="rect" id="Node000029" href="$class_consider_new_approach_state.html#a972d48cea91679c29723e1cf24fdd894" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="736,656,923,699"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="1048,397,1037,452,1017,519,984,587,963,618,937,646,921,658,918,653,934,642,959,615,980,584,1012,517,1032,451,1043,396"/>
+<area shape="rect" id="Node000003" href="$class_w3_d_waypoint_buffer.html#a8f03229b2f03743c5aa07802632e08d7" title=" " alt="" coords="496,5,644,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="708,29,644,29,644,24,708,24"/>
+<area shape="rect" id="Node000006" href="$class_open_contain.html#af721dce14f750d43071ccbadd0768d3a" title=" " alt="" coords="490,100,650,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="746,148,648,130,649,125,747,143"/>
+<area shape="rect" id="Node000007" href="$class_railroad_behavior.html#a825769e7bc172c432b5919cd46e9baff" title=" " alt="" coords="479,151,661,177"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="746,164,662,165,662,160,746,159"/>
+<area shape="rect" id="Node000009" href="$class_supply_truck_state_machine.html#a6eefbb8cb7f34f5d6d62b0604b2c193f" title=" " alt="" coords="479,205,661,248"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="728,270,655,251,657,246,730,265"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="727,229,662,229,662,224,727,224"/>
+<area shape="rect" id="Node000012" href="$class_a_i_update_interface.html#a256fb7cc6245a5db6d3ea5b6ea8b1984" title=" " alt="" coords="502,272,638,315"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="729,337,638,313,639,308,730,332"/>
+<area shape="rect" id="Node000021" href="$class_jet_a_i_update.html#ae97b55a06b7910ad462d098777ff2b91" title=" " alt="" coords="480,343,660,385"/>
+<area shape="poly" id="edge21_Node000011_Node000021" title=" " alt="" coords="730,364,660,365,660,360,730,359"/>
+<area shape="rect" id="Node000013" href="$class_assault_transport_a_i_update.html#a52f297613c8c6bbc9420335bed1ea86f" title=" " alt="" coords="223,464,398,507"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="490,316,467,333,455,347,448,362,444,392,439,423,432,439,419,454,400,467,397,463,415,450,427,436,434,421,439,391,443,360,450,344,463,329,487,312"/>
+<area shape="rect" id="Node000014" href="$class_deploy_style_a_i_update.html#a4ffb5c61af98c3f92044e31599f5e507" title=" " alt="" coords="237,213,384,256"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="487,277,384,254,386,249,488,272"/>
+<area shape="rect" id="Node000015" href="$class_dozer_a_i_update.html#abcc00d5d61b55f3969265101b23d208d" title=" " alt="" coords="208,280,414,307"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="487,296,414,296,414,291,487,291"/>
+<area shape="rect" id="Node000016" href="$class_hack_internet_a_i_update.html#a5766c37f5b0b335c3d37d4ec7c89917c" title=" " alt="" coords="235,331,386,373"/>
+<area shape="poly" id="edge16_Node000012_Node000016" title=" " alt="" coords="488,315,387,338,386,332,487,309"/>
+<area shape="rect" id="Node000018" href="$class_jet_a_i_update.html#a2036eec00c5b046cf183038c2c6d889a" title=" " alt="" coords="216,45,406,72"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="487,279,463,262,447,239,439,216,439,171,439,128,431,107,415,86,400,75,403,70,419,82,436,104,444,127,444,171,445,215,452,237,467,258,490,275"/>
+<area shape="rect" id="Node000019" href="$class_railed_transport_a_i_update.html#aae26b876eb8e762ce62aded198f97fb9" title=" " alt="" coords="227,96,395,139"/>
+<area shape="poly" id="edge19_Node000012_Node000019" title=" " alt="" coords="487,278,463,262,451,248,444,234,438,206,433,179,427,166,415,153,394,138,397,134,419,149,431,163,438,177,444,205,449,232,455,245,467,258,490,273"/>
+<area shape="rect" id="Node000020" href="$class_worker_a_i_update.html#a7ae7006c4dbc539d367b7c214fe5ef67" title=" " alt="" coords="205,163,417,189"/>
+<area shape="poly" id="edge20_Node000012_Node000020" title=" " alt="" coords="487,275,463,262,448,247,439,232,431,217,416,204,392,192,394,188,418,199,435,214,444,229,452,244,467,258,489,270"/>
+<area shape="rect" id="Node000017" href="$class_hack_internet_a_i_update.html#ad22bd0415a87e9605214c76f7667e229" title="update this object&#39;s AI" alt="" coords="5,331,157,373"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="220,355,157,355,157,349,220,349"/>
+<area shape="rect" id="Node000022" href="$class_jet_a_i_update.html#ae46a130739606577c243d1b80e647f5b" title=" " alt="" coords="225,397,396,440"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="466,389,398,403,396,398,465,383"/>
+<area shape="poly" id="edge24_Node000023_Node000013" title=" " alt="" coords="726,432,601,440,465,455,400,467,399,461,465,449,601,435,726,427"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="727,452,659,468,658,463,726,447"/>
+<area shape="rect" id="Node000026" href="$class_worker_state_machine.html#a0553063c1f7f62fa63061dc18aa91df7" title=" " alt="" coords="465,585,675,644"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="710,583,677,592,675,587,709,578"/>
+<area shape="rect" id="Node000027" href="$class_worker_state_machine.html#ac07fdb5ff243660c43114c628af6f09e" title=" " alt="" coords="236,573,386,616"/>
+<area shape="poly" id="edge30_Node000025_Node000027" title=" " alt="" coords="709,559,465,576,387,586,386,580,465,571,709,554"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="449,608,386,603,387,598,450,603"/>
+<area shape="poly" id="edge29_Node000027_Node000027" title=" " alt="" coords="348,560,334,554,311,552,289,554,276,559,271,565,272,572,267,573,265,563,273,554,288,549,311,547,335,549,350,555"/>
+</map>

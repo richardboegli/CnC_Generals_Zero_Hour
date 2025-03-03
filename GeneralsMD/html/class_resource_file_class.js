@@ -1,0 +1,26 @@
+var class_resource_file_class =
+[
+    [ "ResourceFileClass", "class_resource_file_class.html#a6625ec56e83993a691ded0c0f6e4c435", null ],
+    [ "~ResourceFileClass", "class_resource_file_class.html#addd7b593ccca6a862a94dd80f96fa9e0", null ],
+    [ "Bias", "class_resource_file_class.html#a5cc3d9ebb3f0a27569a9afb8645245ac", null ],
+    [ "Close", "class_resource_file_class.html#a9b92132ca1f11f5433f4b0ae5033cd18", null ],
+    [ "Create", "class_resource_file_class.html#af3fcee185114a6f3bb3bebb09d9b20af", null ],
+    [ "Delete", "class_resource_file_class.html#a70229298305de9108eef8c73a34acea0", null ],
+    [ "Error", "class_resource_file_class.html#af978d733c8d60aeec190be7c63c5e478", null ],
+    [ "File_Name", "class_resource_file_class.html#a5d20b07f2a902cfb9793f7c8aab043b5", null ],
+    [ "Is_Available", "class_resource_file_class.html#aff205f8de54886a5d35bd7469eb5e64c", null ],
+    [ "Is_Open", "class_resource_file_class.html#adbf6f19d177143b01cc70889fd30403f", null ],
+    [ "Open", "class_resource_file_class.html#aae55dd0f80df4d0346c98077e0c9f4ca", null ],
+    [ "Open", "class_resource_file_class.html#ad9a939c9dbabef67f8fa5561373dc6dd", null ],
+    [ "Peek_Data", "class_resource_file_class.html#a03ec1972f58c00ac52b264f0c05a410e", null ],
+    [ "Read", "class_resource_file_class.html#ad57b84927929a11814b3f43ff9ed1397", null ],
+    [ "Seek", "class_resource_file_class.html#af2c2f799a5b4de2e1ce57d68f322f7c8", null ],
+    [ "Set_Name", "class_resource_file_class.html#a3e8485aed9c618a53177f5137f10ad5f", null ],
+    [ "Size", "class_resource_file_class.html#a1e8d72a5a5c35887ac7a5b45579f0b8c", null ],
+    [ "Write", "class_resource_file_class.html#a3ccc1fbcf761f7f4085e8a17bec99ef4", null ],
+    [ "EndOfFile", "class_resource_file_class.html#acd3b73c4e70902049cecc905f3f251a3", null ],
+    [ "FileBytes", "class_resource_file_class.html#a7d589ac415bb95640afdfaebef51bd34", null ],
+    [ "FilePtr", "class_resource_file_class.html#abab88175fb603f31a094029a372df8cc", null ],
+    [ "hModule", "class_resource_file_class.html#a47010f5c96fb1598c94e260548c00770", null ],
+    [ "ResourceName", "class_resource_file_class.html#adaa8dac1210ae919f9e5afde50f8436e", null ]
+];

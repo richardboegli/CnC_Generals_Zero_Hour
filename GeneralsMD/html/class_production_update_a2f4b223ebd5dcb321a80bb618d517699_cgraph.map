@@ -1,0 +1,77 @@
+<map id="ProductionUpdate::cancelUpgrade" name="ProductionUpdate::cancelUpgrade">
+<area shape="rect" id="Node000001" title="cancel upgrade &quot;research&quot;" alt="" coords="5,257,177,300"/>
+<area shape="rect" id="Node000002" href="$class_upgrade_template.html#afa3c1badee6cc452b940b2f8903ceebe" title="calc the cost to build this upgrade" alt="" coords="246,5,430,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,256,114,214,140,160,176,105,198,80,223,58,231,52,234,57,226,62,202,84,180,109,144,163,118,216,102,258"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="250,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,256,151,191,184,155,223,124,235,118,237,122,226,129,188,159,155,194,107,259"/>
+<area shape="rect" id="Node000005" href="$class_money.html#ad478a7ffdbd4af368ac36f319e0f422b" title=" " alt="" coords="283,139,393,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,255,161,214,191,193,224,175,266,160,268,165,226,180,194,197,164,218,116,259"/>
+<area shape="rect" id="Node000008" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="246,189,430,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="144,254,224,225,253,218,254,223,225,231,145,259"/>
+<area shape="rect" id="Node000011" href="$class_player.html#a05f9352f343ef20780081915e32825f7" title="return the Player&#39;s Money sub&#45;object" alt="" coords="276,240,400,267"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="177,267,260,259,261,264,177,273"/>
+<area shape="rect" id="Node000012" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="532,291,697,317"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="177,280,516,297,516,302,177,285"/>
+<area shape="rect" id="Node000013" href="$class_upgrade_template.html#a7f8a3ff924db8e7d559efc4d050517e3" title=" " alt="" coords="225,341,451,368"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="157,298,225,320,273,334,271,339,224,325,156,303"/>
+<area shape="rect" id="Node000014" href="$class_player.html#a6e41a22bf427264078c720998c3acd3c" title="does player have this upgrade in progress right now" alt="" coords="233,627,442,653"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="109,299,321,612,316,615,105,302"/>
+<area shape="rect" id="Node000017" href="$class_production_update.html#a88cb95eda63fd2a8c228cac28818eefc" title="remove production from the queue list" alt="" coords="250,392,426,435"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="117,299,165,339,226,378,238,383,236,388,223,382,162,343,114,303"/>
+<area shape="rect" id="Node000025" href="$class_player.html#a3f87652211070014d53a51202ef302ee" title="remove thsi upgrade from us" alt="" coords="259,855,417,881"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="101,300,148,454,185,559,227,664,277,762,322,840,318,843,272,765,222,666,180,561,143,456,96,301"/>
+<area shape="rect" id="Node000004" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="544,21,684,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="426,75,528,56,529,61,427,80"/>
+<area shape="rect" id="Node000006" href="$class_player.html#a3ab30a7496588add236bd9f5fe2bac4d" title=" " alt="" coords="529,139,699,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="393,149,513,149,513,155,393,155"/>
+<area shape="rect" id="Node000007" href="$class_academy_stats.html#aa9b761dbc4a83753fbfc54fc167248cf" title=" " alt="" coords="517,88,711,115"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="393,139,522,115,523,121,394,145"/>
+<area shape="rect" id="Node000009" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="525,240,703,267"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="415,214,523,234,522,239,414,219"/>
+<area shape="rect" id="Node000010" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="556,189,673,216"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="430,200,540,200,540,205,430,205"/>
+<area shape="rect" id="Node000015" href="$class_upgrade_template.html#a83361af6a12606ca968df1ec60076c70" title=" " alt="" coords="499,677,729,704"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="415,651,523,671,522,677,414,657"/>
+<area shape="rect" id="Node000016" href="$class_bit_flags.html#aa15a8bca1f9eb03c640c5ec354c388e7" title=" " alt="" coords="548,627,681,653"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="443,637,532,637,532,643,443,643"/>
+<area shape="poly" id="edge19_Node000017_Node000012" title=" " alt="" coords="425,390,450,378,464,366,473,353,482,340,498,327,515,319,518,323,500,332,486,343,477,356,468,369,452,382,428,395"/>
+<area shape="rect" id="Node000018" href="$class_object.html#a1d1b6d9787b5fd41324930b71427fc95" title="drawable (if any) bound to obj" alt="" coords="544,509,684,536"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="375,433,433,465,500,495,529,504,528,509,498,500,430,470,373,437"/>
+<area shape="rect" id="Node000019" href="$class_drawable.html#a49101a8c1e576c03af1486ab4e33894c" title=" " alt="" coords="518,560,710,603"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="361,433,420,489,459,520,500,546,511,551,509,556,498,550,456,524,417,493,357,437"/>
+<area shape="rect" id="Node000020" href="$class_object.html#a506f54ff7edb77f8e197baef14802c5d" title="get exit interface is present" alt="" coords="516,341,713,368"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="426,392,532,369,533,374,427,397"/>
+<area shape="rect" id="Node000023" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="564,392,664,419"/>
+<area shape="poly" id="edge23_Node000017_Node000023" title=" " alt="" coords="426,408,549,405,549,410,427,413"/>
+<area shape="rect" id="Node000024" href="$class_exit_interface.html#abfbe58ea48450a5bd989b20dab6e46bf" title="if you get permission to exit, but then don&#39;t/can&#39;t call exitObjectViaDoor, you should call this to &quot;..." alt="" coords="534,443,694,485"/>
+<area shape="poly" id="edge24_Node000017_Node000024" title=" " alt="" coords="427,427,519,444,518,449,426,432"/>
+<area shape="rect" id="Node000021" href="$class_object.html#a5a7c9f53403774cfcf387920e501b596" title=" " alt="" coords="795,371,926,397"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="714,364,780,372,780,377,713,369"/>
+<area shape="rect" id="Node000022" href="$class_contain_module_interface.html#ab2667aa2bef552b31cde325488938e0b" title=" " alt="" coords="777,304,944,347"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="713,340,761,334,762,340,714,346"/>
+<area shape="poly" id="edge39_Node000025_Node000015" title=" " alt="" coords="348,852,408,789,450,752,498,720,528,707,530,712,500,725,454,756,411,793,352,856"/>
+<area shape="rect" id="Node000026" href="$class_bit_flags.html#ac2aa6f31e3e6c5d10e77b71e7ba215de" title=" " alt="" coords="562,981,667,1008"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="358,880,419,923,458,947,500,967,547,981,546,986,498,972,456,951,416,927,355,884"/>
+<area shape="rect" id="Node000027" href="$class_player.html#adfdbf54b822e74e060c83469180f4e4e" title=" " alt="" coords="546,1032,682,1059"/>
+<area shape="poly" id="edge27_Node000025_Node000027" title=" " alt="" coords="351,880,410,947,452,985,500,1018,532,1030,530,1035,498,1022,449,990,406,951,347,884"/>
+<area shape="rect" id="Node000028" href="$class_upgrade.html#a92aa9434ec141d8b159bc79c54da82be" title=" " alt="" coords="779,829,942,856"/>
+<area shape="poly" id="edge31_Node000025_Node000028" title=" " alt="" coords="417,862,763,845,764,850,418,867"/>
+<area shape="rect" id="Node000031" href="$class_upgrade.html#ab54e1f4f3da778846bfeb33b6e5e4804" title=" " alt="" coords="779,1083,942,1109"/>
+<area shape="poly" id="edge32_Node000025_Node000031" title=" " alt="" coords="347,880,367,920,400,972,444,1026,471,1049,500,1068,532,1083,565,1093,634,1106,702,1109,764,1107,764,1112,702,1115,633,1111,563,1098,530,1087,498,1073,468,1054,441,1030,395,975,362,922,343,883"/>
+<area shape="rect" id="Node000032" href="$class_upgrade.html#a050f77baff8b16b4701dddf1bb15b345" title=" " alt="" coords="779,728,942,755"/>
+<area shape="poly" id="edge34_Node000025_Node000032" title=" " alt="" coords="366,852,426,826,498,800,636,769,763,749,764,755,637,774,500,805,428,830,368,857"/>
+<area shape="rect" id="Node000033" href="$class_upgrade.html#ad3b4f5ca682bb47fda2904df4dc23d16" title=" " alt="" coords="779,779,942,805"/>
+<area shape="poly" id="edge36_Node000025_Node000033" title=" " alt="" coords="403,851,499,833,637,814,763,799,764,804,638,819,499,839,404,857"/>
+<area shape="rect" id="Node000034" href="$class_upgrade.html#ae2777b65e91126638d3218bf5125f818" title="get status" alt="" coords="547,880,681,907"/>
+<area shape="poly" id="edge38_Node000025_Node000034" title=" " alt="" coords="418,873,532,883,531,888,417,878"/>
+<area shape="rect" id="Node000035" href="$class_player.html#a694aa57d883fe547173bd3491ca6b1c6" title="An upgrade just got removed, this doesn&#39;t do anything now." alt="" coords="522,931,707,957"/>
+<area shape="poly" id="edge40_Node000025_Node000035" title=" " alt="" coords="380,879,500,916,532,924,530,929,498,921,379,884"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="682,1036,706,1029,728,1018,767,984,800,944,826,904,845,869,849,872,831,906,805,947,771,988,731,1022,708,1034,683,1041"/>
+<area shape="rect" id="Node000030" href="$class_upgrade.html#a2583ef72c2422ba5e39efddfed0bc61b" title="get the upgrade template for this instance" alt="" coords="786,1032,935,1059"/>
+<area shape="poly" id="edge30_Node000027_Node000030" title=" " alt="" coords="683,1043,770,1043,770,1048,683,1048"/>
+<area shape="rect" id="Node000029" href="$class_upgrade.html#ab71b72aa79f00470a25ed9697a60bf2a" title=" " alt="" coords="992,804,1119,831"/>
+<area shape="poly" id="edge29_Node000028_Node000029" title=" " alt="" coords="942,829,976,825,976,830,943,835"/>
+<area shape="poly" id="edge33_Node000031_Node000029" title=" " alt="" coords="925,1080,942,1069,965,1044,985,1016,1016,954,1036,894,1047,846,1052,847,1041,896,1021,956,990,1019,969,1047,945,1073,928,1084"/>
+<area shape="poly" id="edge35_Node000032_Node000029" title=" " alt="" coords="912,753,945,764,1014,794,1012,799,943,769,910,758"/>
+<area shape="poly" id="edge37_Node000033_Node000029" title=" " alt="" coords="943,800,977,804,976,810,942,805"/>
+</map>

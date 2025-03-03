@@ -1,0 +1,15 @@
+<map id="AIGuardRetaliateMachine::AIGuardRetaliateMachine" name="AIGuardRetaliateMachine::AIGuardRetaliateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,184,141"/>
+<area shape="rect" id="Node000002" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="239,81,414,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,108,223,103,223,109,184,113"/>
+<area shape="rect" id="Node000007" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="232,132,421,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="184,127,216,131,216,136,183,132"/>
+<area shape="rect" id="Node000003" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="469,5,637,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,78,468,41,489,35,491,40,470,47,366,83"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="477,56,629,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,82,461,77,461,82,415,88"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="471,107,635,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="415,102,456,106,455,112,414,107"/>
+<area shape="rect" id="Node000006" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="488,157,619,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="387,106,422,118,470,143,488,150,486,155,468,148,420,122,386,111"/>
+</map>

@@ -1,0 +1,43 @@
+<map id="StateMachine" name="StateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="186,335,287,361"/>
+<area shape="rect" id="Node000004" href="$class_a_i_attack_move_state_machine.html" title=" " alt="" coords="344,5,528,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,319,241,261,255,186,268,147,284,109,306,73,333,42,350,30,353,35,337,46,310,76,289,111,273,149,260,188,246,261,241,319"/>
+<area shape="rect" id="Node000005" href="$class_a_i_attack_then_idle_state_machine.html" title=" " alt="" coords="335,56,537,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="238,319,246,270,262,209,290,146,310,118,333,93,351,81,354,85,337,97,314,121,295,149,267,211,251,271,243,320"/>
+<area shape="rect" id="Node000006" href="$class_a_i_dock_machine.html" title=" " alt="" coords="379,107,493,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="241,319,252,279,270,232,297,184,314,162,333,143,355,131,378,123,379,128,357,135,337,147,318,166,301,187,275,234,257,281,246,320"/>
+<area shape="rect" id="Node000007" href="$class_a_i_guard_machine.html" title=" " alt="" coords="377,157,495,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="246,319,278,256,303,222,333,194,354,183,376,175,378,180,356,187,337,198,307,226,283,258,250,321"/>
+<area shape="rect" id="Node000008" href="$class_a_i_guard_retaliate_machine.html" title=" " alt="" coords="351,208,521,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="254,320,288,281,310,261,334,244,359,233,362,238,336,249,313,265,292,285,258,324"/>
+<area shape="rect" id="Node000009" href="$class_a_i_state_machine.html" title=" " alt="" coords="379,259,493,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="273,324,334,295,378,281,379,286,336,300,275,329"/>
+<area shape="rect" id="Node000014" href="$class_a_i_t_n_guard_machine.html" title=" " alt="" coords="368,309,504,336"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="302,337,367,329,368,334,303,342"/>
+<area shape="rect" id="Node000015" href="$class_attack_state_machine.html" title=" " alt="" coords="366,360,506,387"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="303,354,366,362,366,367,302,359"/>
+<area shape="rect" id="Node000016" href="$class_deliver_payload_state_machine.html" title=" " alt="" coords="342,411,531,437"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="275,367,336,396,372,408,370,413,334,401,273,372"/>
+<area shape="rect" id="Node000017" href="$class_dozer_action_state_machine.html" title=" " alt="" coords="350,461,523,488"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="258,372,292,411,313,431,336,447,362,458,359,463,334,452,310,435,288,415,254,376"/>
+<area shape="rect" id="Node000018" href="$class_dozer_primary_state_machine.html" title=" " alt="" coords="346,512,527,539"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="250,375,283,438,307,470,337,498,357,509,355,514,333,502,303,474,278,440,246,377"/>
+<area shape="rect" id="Node000019" href="$class_supply_truck_state_machine.html" title=" " alt="" coords="349,563,523,589"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="246,376,257,415,275,462,301,509,318,530,337,549,355,560,352,564,333,553,314,534,297,512,270,464,252,417,241,377"/>
+<area shape="rect" id="Node000020" href="$class_turret_state_machine.html" title=" " alt="" coords="368,613,504,640"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="243,376,251,425,267,485,295,547,314,575,337,599,352,610,369,617,367,622,349,614,333,603,310,578,290,550,262,487,246,426,238,377"/>
+<area shape="rect" id="Node000021" href="$class_worker_state_machine.html" title=" " alt="" coords="365,664,507,691"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="241,377,246,435,260,508,273,547,289,585,310,620,337,650,366,667,363,671,333,654,306,623,284,587,268,549,255,510,241,435,235,377"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool_object.html" title=" " alt="" coords="5,309,138,336"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,333,186,338,185,343,153,338"/>
+<area shape="rect" id="Node000003" href="$class_snapshot.html" title=" " alt="" coords="33,360,110,387"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,363,185,353,185,358,125,368"/>
+<area shape="rect" id="Node000010" href="$class_chinook_a_i_state_machine.html" title=" " alt="" coords="592,183,755,209"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="508,254,536,244,560,232,584,219,617,207,619,212,586,224,563,237,538,249,509,259"/>
+<area shape="rect" id="Node000011" href="$class_hack_internet_state_machine.html" title=" " alt="" coords="585,233,762,260"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="509,262,585,253,585,259,509,267"/>
+<area shape="rect" id="Node000012" href="$class_heli_a_i_state_machine.html" title=" " alt="" coords="605,284,742,311"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="509,277,605,287,604,293,508,282"/>
+<area shape="rect" id="Node000013" href="$class_jet_a_i_state_machine.html" title=" " alt="" coords="607,335,740,361"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="509,285,538,295,563,307,586,320,619,332,617,337,584,325,560,312,536,300,508,290"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="AIUpdateInterface::setCanPathThroughUnits" name="AIUpdateInterface::setCanPathThroughUnits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="920,356,1088,399"/>
+<area shape="rect" id="Node000002" href="$class_a_i_move_out_of_the_way_state.html#a18acc25d8f956b7e6bfc62ad7b2257f7" title="compute the path" alt="" coords="688,5,868,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="995,341,982,281,958,206,922,129,898,93,870,62,855,51,858,46,873,58,902,90,927,126,963,204,987,279,1000,340"/>
+<area shape="rect" id="Node000003" href="$class_a_i_follow_path_state.html#adef0dcc87608fb20d20a6f2b66e7f2c5" title=" " alt="" coords="709,72,847,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="990,342,974,294,949,237,914,179,893,152,870,129,846,114,849,109,873,125,897,149,919,176,954,234,979,292,995,340"/>
+<area shape="rect" id="Node000005" href="$class_a_i_follow_waypoint_path_exact_state.html#a51a8ed3d85a6cd9f5c1ab2de522fc8c6" title=" " alt="" coords="684,139,872,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="984,344,939,269,907,230,870,195,852,184,854,180,873,191,911,226,943,266,988,341"/>
+<area shape="rect" id="Node000006" href="$class_jet_or_heli_taxi_state.html#a7404205efc84d07ab3ed946d3dbc0df7" title=" " alt="" coords="712,205,844,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="971,346,926,303,870,262,843,249,845,244,873,258,929,299,975,342"/>
+<area shape="rect" id="Node000007" href="$class_a_i_dock_state.html#ab631b78c20b5fb457eca05841f3de90a" title=" " alt="" coords="707,272,849,299"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="950,351,871,313,836,302,838,297,873,308,952,346"/>
+<area shape="rect" id="Node000008" href="$class_a_i_follow_path_state.html#a10f008386ed54bc164cb4d6be2f284c5" title=" " alt="" coords="709,323,847,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="904,365,847,357,848,352,905,360"/>
+<area shape="rect" id="Node000010" href="$class_a_i_follow_waypoint_path_exact_state.html#a160847e8ca36a1998dad8a8fbfa73ff9" title=" " alt="" coords="684,389,872,432"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="905,395,873,399,872,394,904,389"/>
+<area shape="rect" id="Node000011" href="$class_a_i_move_out_of_the_way_state.html#a5dc6393ab2abc687acbb76c95a124dd1" title=" " alt="" coords="688,456,868,499"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="951,409,873,446,844,458,842,453,871,442,949,404"/>
+<area shape="rect" id="Node000012" href="$class_jet_or_heli_taxi_state.html#a51bfe5998ca7d074e0d12c2049cbe217" title=" " alt="" coords="485,481,616,524"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="983,413,938,468,907,494,873,513,840,524,807,531,738,536,673,531,616,522,617,517,673,526,738,531,806,526,839,519,871,508,904,489,934,464,979,410"/>
+<area shape="rect" id="Node000013" href="$class_a_i_update_interface.html#ad831f451f999070c38b0dfb7a8dbccc2" title="Move out of the way of a unit." alt="" coords="688,573,868,616"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="986,414,940,485,909,523,873,557,843,575,841,571,870,553,905,519,936,482,982,411"/>
+<area shape="rect" id="Node000023" href="$class_a_i_dock_state.html#ab089bdfd9a8ba9ea85d398115fe76171" title=" " alt="" coords="706,640,850,667"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="996,415,980,464,955,522,920,580,898,607,873,630,851,643,849,638,870,626,894,603,916,577,950,519,975,462,991,413"/>
+<area shape="rect" id="Node000024" href="$class_a_i_follow_waypoint_path_exact_state.html#acfe2325de9583c6b9fa070e3d7f4181f" title=" " alt="" coords="684,691,872,733"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="999,415,985,472,961,543,925,617,901,650,873,681,858,692,855,688,870,677,897,647,920,614,956,541,980,471,994,414"/>
+<area shape="rect" id="Node000004" href="$class_jet_takeoff_or_landing_state.html#a008156262dbb32181264daf91e991391" title=" " alt="" coords="465,72,636,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,96,637,96,637,91,693,91"/>
+<area shape="rect" id="Node000009" href="$class_jet_takeoff_or_landing_state.html#a4705b5ae44bbe370380b43927ab04141" title=" " alt="" coords="465,323,636,365"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="693,347,637,347,637,341,693,341"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="673,492,617,498,617,493,672,486"/>
+<area shape="rect" id="Node000014" href="$class_a_i_update_interface.html#a256fb7cc6245a5db6d3ea5b6ea8b1984" title=" " alt="" coords="483,573,618,616"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="673,597,619,597,619,592,673,592"/>
+<area shape="rect" id="Node000015" href="$class_assault_transport_a_i_update.html#a52f297613c8c6bbc9420335bed1ea86f" title=" " alt="" coords="223,389,398,432"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="496,566,463,538,447,512,440,489,433,467,415,446,397,434,400,430,419,442,437,465,445,487,452,510,467,534,499,562"/>
+<area shape="rect" id="Node000016" href="$class_deploy_style_a_i_update.html#a4ffb5c61af98c3f92044e31599f5e507" title=" " alt="" coords="237,456,384,499"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="506,567,463,539,416,513,384,500,386,495,418,508,466,534,509,562"/>
+<area shape="rect" id="Node000017" href="$class_dozer_a_i_update.html#abcc00d5d61b55f3969265101b23d208d" title=" " alt="" coords="208,523,414,549"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="467,577,416,564,370,553,371,547,418,559,469,571"/>
+<area shape="rect" id="Node000018" href="$class_hack_internet_a_i_update.html#a5766c37f5b0b335c3d37d4ec7c89917c" title=" " alt="" coords="235,573,386,616"/>
+<area shape="poly" id="edge18_Node000014_Node000018" title=" " alt="" coords="468,597,387,597,387,592,468,592"/>
+<area shape="rect" id="Node000020" href="$class_jet_a_i_update.html#a2036eec00c5b046cf183038c2c6d889a" title=" " alt="" coords="216,640,406,667"/>
+<area shape="poly" id="edge20_Node000014_Node000020" title=" " alt="" coords="469,618,418,631,371,642,370,637,416,625,467,613"/>
+<area shape="rect" id="Node000021" href="$class_railed_transport_a_i_update.html#aae26b876eb8e762ce62aded198f97fb9" title=" " alt="" coords="227,691,395,733"/>
+<area shape="poly" id="edge21_Node000014_Node000021" title=" " alt="" coords="509,627,466,655,418,681,390,693,388,688,416,676,463,651,506,623"/>
+<area shape="rect" id="Node000022" href="$class_worker_a_i_update.html#a7ae7006c4dbc539d367b7c214fe5ef67" title=" " alt="" coords="205,757,417,784"/>
+<area shape="poly" id="edge22_Node000014_Node000022" title=" " alt="" coords="530,631,484,691,453,722,418,748,394,759,392,754,416,743,450,718,480,688,526,628"/>
+<area shape="rect" id="Node000019" href="$class_hack_internet_a_i_update.html#ad22bd0415a87e9605214c76f7667e229" title="update this object&#39;s AI" alt="" coords="5,573,157,616"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="220,597,157,597,157,592,220,592"/>
+</map>

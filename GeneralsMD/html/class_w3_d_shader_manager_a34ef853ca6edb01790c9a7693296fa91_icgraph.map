@@ -1,0 +1,42 @@
+<map id="W3DShaderManager::setShader" name="W3DShaderManager::setShader">
+<area shape="rect" id="Node000001" title="enable specific shader pass." alt="" coords="910,349,1119,376"/>
+<area shape="rect" id="Node000002" href="$class_w3_d_bridge_buffer.html#a9c1613081f003dae1b5ad283a93c0cf6" title="Draws the bridges. Uses camera for culling." alt="" coords="659,5,862,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1005,335,989,276,961,200,941,160,918,121,891,85,860,53,829,35,832,30,863,49,895,81,923,118,946,157,965,198,994,274,1010,334"/>
+<area shape="rect" id="Node000003" href="$class_water_render_obj_class.html#ae60605d2427f62f6d4c5046bca30d0e8" title=" " alt="" coords="434,435,586,477"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="989,389,934,430,899,450,862,465,790,480,717,484,647,480,586,473,587,468,647,475,717,478,790,474,861,460,897,446,931,426,986,384"/>
+<area shape="rect" id="Node000006" href="$class_w3_d_road_buffer.html#ac727471b2708b822ba7aab54a7e1e0a9" title="Draws the roads. Uses terrain bounds for culling." alt="" coords="665,107,856,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="999,336,979,294,948,243,909,191,885,168,860,148,839,136,841,132,863,143,889,164,913,187,953,240,983,291,1004,334"/>
+<area shape="rect" id="Node000007" href="$class_water_render_obj_class.html#a867d9b63fe4a773e4c08b70fca260746" title=" " alt="" coords="207,668,358,711"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1011,392,997,453,970,531,951,571,927,609,898,643,863,672,802,704,735,725,666,736,597,740,529,738,465,732,358,712,359,707,466,726,529,733,596,735,665,731,734,720,800,699,860,667,894,639,923,606,946,568,965,529,992,452,1006,391"/>
+<area shape="rect" id="Node000008" href="$class_water_render_obj_class.html#a600ecc59d8a26640796fb95b6e3f085f" title=" " alt="" coords="434,220,586,263"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="985,341,930,300,897,280,861,265,790,248,717,239,647,236,586,238,586,232,647,231,717,233,791,242,863,260,899,276,933,296,988,337"/>
+<area shape="rect" id="Node000009" href="$class_water_tracks_render_system.html#a4c80683903cf74d3585b813e42676c8d" title="draw all tracks that were requested for rendering." alt="" coords="669,275,852,317"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="945,347,844,321,845,315,946,342"/>
+<area shape="rect" id="Node000010" href="$class_w3_d_mask_material_pass_class.html#ae9fc6d3b3bdd9a82b4fcc7ed13f5e14b" title="Set render states required to draw shroud pass." alt="" coords="664,341,857,384"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="894,365,858,365,858,360,894,360"/>
+<area shape="rect" id="Node000011" href="$class_w3_d_shroud_material_pass_class.html#a2337b9ea549cd666c3b0b6d0ddaf8bbd" title="Set render states required to draw shroud pass." alt="" coords="659,408,862,451"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="946,383,845,410,844,405,945,378"/>
+<area shape="rect" id="Node000012" href="$class_flat_height_map_render_obj_class.html#a4839346adbc14435b322a22225111c33" title=" " alt="" coords="409,627,611,669"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="1008,392,991,443,962,506,942,538,920,569,893,597,863,620,834,635,803,647,737,662,672,667,612,665,612,660,672,662,737,657,801,642,832,630,860,615,890,593,915,566,938,535,957,503,986,441,1003,390"/>
+<area shape="rect" id="Node000014" href="$class_height_map_render_obj_class.html#a1cb2488b39d9d53ed7c427e59599f923" title=" " alt="" coords="420,560,600,603"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1006,391,987,436,957,490,916,542,891,564,863,582,831,596,798,606,729,615,661,613,600,605,601,600,662,608,729,609,797,601,829,591,860,578,888,560,912,538,953,487,982,434,1001,389"/>
+<area shape="rect" id="Node000015" href="$class_height_map_render_obj_class.html#a57b8ebf8dca7fcc5c39b7a37b8b474f6" title="render 3&#45;way blend tiles that have blend of 3 textures." alt="" coords="670,525,851,568"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="994,390,938,448,902,480,863,509,828,527,826,522,860,504,899,476,934,445,990,386"/>
+<area shape="rect" id="Node000016" href="$class_water_render_obj_class.html#a318df98d09c1f4563ae7b4c40843c4ed" title="draw the water surface mesh (deformed 3d mesh)." alt="" coords="434,153,586,196"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="1004,335,988,280,960,214,941,180,918,148,891,120,860,97,833,83,809,75,786,72,764,72,717,82,660,97,627,108,596,123,543,155,540,150,593,118,625,103,659,92,716,76,764,67,787,66,810,70,835,78,863,92,895,116,922,144,946,177,965,211,993,279,1009,333"/>
+<area shape="rect" id="Node000017" href="$class_water_render_obj_class.html#ad743b3c2ed7f1c3fcfcead41156d4f14" title=" " alt="" coords="681,157,840,200"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="990,339,934,281,899,249,860,221,826,203,828,198,863,216,902,245,938,277,994,336"/>
+<area shape="rect" id="Node000004" href="$class_water_render_obj_class.html#aa0d4eb6c1801caf2679eedf6ba15e624" title="allocate W3D resources needed to render water" alt="" coords="207,313,358,356"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,429,323,359,326,354,456,425"/>
+<area shape="rect" id="Node000005" href="$class_water_render_obj_class.html#a41560080a4239251b63879e4f350d5a2" title=" " alt="" coords="5,313,157,356"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="192,337,157,337,157,332,192,332"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="236,660,203,624,159,552,125,476,100,408,85,357,91,356,105,406,130,474,164,550,207,621,240,656"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="443,271,338,315,336,310,441,267"/>
+<area shape="rect" id="Node000013" href="$class_w_b_height_map.html#ac8668e5f5ff00877f831ea95334c6259" title=" " alt="" coords="205,584,361,611"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="396,625,345,614,346,609,397,620"/>
+<area shape="poly" id="edge16_Node000014_Node000013" title=" " alt="" coords="405,591,362,594,361,589,404,586"/>
+<area shape="poly" id="edge18_Node000015_Node000014" title=" " alt="" coords="655,564,601,571,600,566,654,559"/>
+<area shape="poly" id="edge20_Node000016_Node000005" title=" " alt="" coords="428,204,410,211,137,315,135,310,408,205,426,199"/>
+<area shape="poly" id="edge22_Node000017_Node000008" title=" " alt="" coords="667,205,587,225,586,220,665,200"/>
+<area shape="poly" id="edge23_Node000017_Node000016" title=" " alt="" coords="666,180,586,179,586,173,666,174"/>
+</map>

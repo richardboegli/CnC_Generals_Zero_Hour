@@ -1,0 +1,16 @@
+<map id="DozerActionStateMachine::DozerActionStateMachine" name="DozerActionStateMachine::DozerActionStateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,187,141"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="52,99,50,89,57,80,73,74,96,72,121,74,136,81,134,86,120,80,96,77,74,79,60,84,55,90,57,98"/>
+<area shape="rect" id="Node000002" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="242,81,417,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,107,226,103,226,109,187,113"/>
+<area shape="rect" id="Node000007" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="235,132,424,159"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="187,127,219,131,219,136,187,133"/>
+<area shape="rect" id="Node000003" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="472,5,640,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,78,471,41,492,35,494,40,473,47,369,83"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="480,56,632,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="417,82,464,77,464,82,418,88"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="474,107,638,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="418,102,459,106,458,112,417,107"/>
+<area shape="rect" id="Node000006" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="490,157,622,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="390,106,425,118,473,143,491,150,489,155,471,148,423,122,389,111"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MemoryPoolBlob::getNextInList" name="MemoryPoolBlob::getNextInList">
+<area shape="rect" id="Node000001" title="accessor" alt="" coords="812,105,1019,132"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool.html#ab0117d33de8bf491d5a5363732bea765" title="same as allocateBlockImplementation, but memory returned is not zeroed" alt="" coords="572,39,752,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="839,104,752,84,754,78,841,99"/>
+<area shape="rect" id="Node000006" href="$class_memory_pool.html#a73de210392c43e878522412b4e97d035" title=" " alt="" coords="560,105,764,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="797,121,765,121,765,116,797,116"/>
+<area shape="rect" id="Node000007" href="$class_memory_pool.html#a348f3b8fd6ee13fc2d2e21f623a0a88a" title="if this pool has any empty blobs, return them to the system." alt="" coords="566,156,758,183"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="831,138,733,158,732,153,830,133"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool.html#a0b68136eb5d4006ecb68c83bcdafbbd4" title="allocate a block from this pool. (don&#39;t call directly; use allocateBlock() macro)" alt="" coords="291,5,472,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="556,50,471,40,472,35,557,45"/>
+<area shape="rect" id="Node000004" href="$class_dynamic_memory_allocator.html#a64550b2a90103730a04337d931db2e2b" title="like allocateBytesImplementation, but zeroes the memory before returning" alt="" coords="251,72,512,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="557,75,513,80,512,75,556,70"/>
+<area shape="rect" id="Node000005" href="$class_dynamic_memory_allocator.html#a498372b9be38e727646a45e8dfd766c5" title="allocate bytes from this pool. (don&#39;t call directly; use allocateBytes() macro)" alt="" coords="5,72,203,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,96,203,96,203,91,235,91"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="TerrainRoadType::friend_getNext" name="TerrainRoadType::friend_getNext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="597,72,757,115"/>
+<area shape="rect" id="Node000002" href="$class_terrain_road_collection.html#a507ac6b6c291fc6a2d6871e5071d1a5f" title="get next bridge" alt="" coords="400,39,549,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,80,549,75,550,70,582,75"/>
+<area shape="rect" id="Node000006" href="$class_terrain_road_collection.html#ae4a6c11052e0dcf2a135dfe0506d2d30" title="get next road" alt="" coords="400,105,549,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="582,112,550,117,549,112,581,106"/>
+<area shape="rect" id="Node000003" href="$class_terrain_road_collection.html#a2ed002ab51e2027a25db3734b5050f78" title="find bridge with matching name" alt="" coords="203,39,352,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,63,352,63,352,57,385,57"/>
+<area shape="rect" id="Node000004" href="$class_terrain_road_collection.html#ad4e0469e2a80affcc1dabee04c9ae394" title="search roads and bridges" alt="" coords="5,72,155,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,78,155,83,155,78,187,73"/>
+<area shape="rect" id="Node000005" href="$class_terrain_road_collection.html#a1120981f3181f255fe987aa132f3966d" title="allocate new bridge, assign name, and link" alt="" coords="5,5,155,48"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,47,155,42,155,37,188,42"/>
+<area shape="rect" id="Node000007" href="$class_terrain_road_collection.html#a2cba051d9c7c95919a8bea32c9270a80" title="find road with matching name" alt="" coords="203,105,352,148"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="385,129,352,129,352,124,385,124"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="187,114,155,109,155,103,188,109"/>
+<area shape="rect" id="Node000008" href="$class_terrain_road_collection.html#aa3d574ee257ba7b3fc815f6af0dd241e" title="allocate new road, assing name, and link to list" alt="" coords="5,139,155,181"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="188,144,155,150,155,145,187,139"/>
+</map>

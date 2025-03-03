@@ -1,0 +1,26 @@
+var class_tag_block_file =
+[
+    [ "BlockHeader", "struct_tag_block_file_1_1_block_header.html", "struct_tag_block_file_1_1_block_header" ],
+    [ "FileHeader", "struct_tag_block_file_1_1_file_header.html", "struct_tag_block_file_1_1_file_header" ],
+    [ "TagBlockFile", "class_tag_block_file.html#af7c7ef69032129b145004c4e774cdfe1", null ],
+    [ "~TagBlockFile", "class_tag_block_file.html#a3d07ab2d2fc1b821a415fe7ba38bef8c", null ],
+    [ "Close_Tag", "class_tag_block_file.html#a1cc5c2e420091e6a7cb24b4256d18e56", null ],
+    [ "Create_Index", "class_tag_block_file.html#acbaa0da401a2f72e2fcd02a3ea89af80", null ],
+    [ "Create_Tag", "class_tag_block_file.html#a25f957eac4f2d7de7d9bceaa2ea195e4", null ],
+    [ "Destroy_Handle", "class_tag_block_file.html#ae41af8977fed08b1a44e5b3798447132", null ],
+    [ "Does_Tag_Exist", "class_tag_block_file.html#ade83e472cd21101b90918aecf4b78f41", null ],
+    [ "Empty_Index_List", "class_tag_block_file.html#a81bb18eea629a296363f50b6667dc7bc", null ],
+    [ "End_Write_Access", "class_tag_block_file.html#aa94d5a6196b722386e7f528105ffbd48", null ],
+    [ "Find_Block", "class_tag_block_file.html#a5ba06f343089a1736f35df2790fac8a8", null ],
+    [ "Get_Date_Time", "class_tag_block_file.html#a20d3c01d3245e9a7583b97545a81bb63", null ],
+    [ "Handle_Can_Write", "class_tag_block_file.html#a587ad6a7b3ca01ee6fe952b24d951eef", null ],
+    [ "Open_Tag", "class_tag_block_file.html#ac7569589651a219d85e6ef8e99157c70", null ],
+    [ "Reset_File", "class_tag_block_file.html#a0b779f1f5d3269b17457d1cbe9437759", null ],
+    [ "Save_Header", "class_tag_block_file.html#accdf2d202a70f5da8d58dcff93f0c8aa", null ],
+    [ "TagBlockHandle", "class_tag_block_file.html#ae8c37d25d0d9c8f18709b525959fcfbd", null ],
+    [ "CreateHandle", "class_tag_block_file.html#a77e7b3a36a4d76834ee6f58cc3e85e8b", null ],
+    [ "FileTime", "class_tag_block_file.html#ad1897210106693b349c3ff3d54d0baf6", null ],
+    [ "Header", "class_tag_block_file.html#a156aa0d35ebd83cef37b357c35940d1b", null ],
+    [ "IndexList", "class_tag_block_file.html#a21e94b83ae6c4fd1ba487d592d55c24e", null ],
+    [ "NumOpenHandles", "class_tag_block_file.html#acdfaac6e6b5012558676d8d2911ffe09", null ]
+];

@@ -1,0 +1,87 @@
+<map id="ConnectionManager::processPlayerLeave" name="ConnectionManager::processPlayerLeave">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,392,151,435"/>
+<area shape="rect" id="Node000002" href="$class_connection_manager.html#af24cdd489299ca924ef19275ad5ff783" title="Disconnect this player immediately. This should only be called by the disconnect manager." alt="" coords="213,140,358,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,390,255,193,259,196,99,393"/>
+<area shape="rect" id="Node000009" href="$_diplomacy_8cpp.html#a4cd2ecf34c3741b85a49547426c7aac5" title=" " alt="" coords="421,400,638,427"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="151,411,406,411,406,416,151,416"/>
+<area shape="rect" id="Node000026" href="$class_connection_manager.html#acc11757ad0288170c0f761f3c5853b46" title="Resend the pending commands to the packet router." alt="" coords="199,747,373,789"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="94,434,267,732,262,734,90,436"/>
+<area shape="rect" id="Node000003" href="$class_unicode_string.html#a3e4b04de9bcc4e111e94f769404f2950" title=" " alt="" coords="446,5,614,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,138,353,89,385,63,420,42,434,35,436,40,422,46,388,68,356,93,308,141"/>
+<area shape="rect" id="Node000005" href="$class_connection_manager.html#a584e302c25b7da4833c4c25bf6330ad3" title=" " alt="" coords="457,56,602,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,137,420,108,441,101,443,106,422,113,344,142"/>
+<area shape="rect" id="Node000006" href="$class_game_slot.html#abe61ae65a1f52a11d875339071d91399" title=" " alt="" coords="434,123,625,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="359,151,419,145,419,150,359,156"/>
+<area shape="rect" id="Node000007" href="$class_game_slot.html#af50c1aa74730c6d03de6a6c8ed9bd3c9" title=" " alt="" coords="423,173,636,200"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="359,166,408,171,407,177,359,172"/>
+<area shape="rect" id="Node000008" href="$class_unicode_string.html#ab80e621deccff2aa3abfaebc99c5c170" title=" " alt="" coords="466,224,593,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="341,181,422,209,452,218,451,223,420,215,339,186"/>
+<area shape="rect" id="Node000004" href="$class_unicode_string.html#ad55fc5bd752b804f3e0d29ee79fd8cf3" title=" " alt="" coords="733,5,873,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="614,16,718,16,718,21,614,21"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="592,231,616,224,637,210,652,190,659,170,660,128,660,85,668,63,684,42,700,31,717,23,719,28,703,35,688,46,673,66,665,86,665,128,664,171,657,193,640,214,619,228,594,236"/>
+<area shape="rect" id="Node000010" href="$class_ascii_string.html#ac437c02220eb93cc667a308b86e15223" title=" " alt="" coords="738,80,868,107"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="541,398,586,341,612,302,636,261,645,240,649,221,652,185,659,151,669,134,685,117,702,105,722,97,724,102,705,109,688,121,673,137,664,153,658,185,654,222,650,242,641,264,617,305,590,344,545,401"/>
+<area shape="rect" id="Node000014" href="$_gadget_static_text_8cpp.html#aca195998b9c2a7eb6b5dca3df3380061" title=" " alt="" coords="719,131,887,157"/>
+<area shape="poly" id="edge18_Node000009_Node000014" title=" " alt="" coords="540,398,583,340,636,261,648,234,655,211,664,189,685,167,704,156,706,161,688,171,669,192,660,213,653,236,641,264,588,343,544,401"/>
+<area shape="rect" id="Node000015" href="$_color_8h.html#a2fac44fb0081d43ffd9392834ecbe027" title=" " alt="" coords="743,181,863,208"/>
+<area shape="poly" id="edge19_Node000009_Node000015" title=" " alt="" coords="538,398,607,302,649,251,685,218,727,200,729,205,688,222,653,254,611,305,542,401"/>
+<area shape="rect" id="Node000016" href="$class_game_slot.html#afe92e688854674f4259c9cbb537f7e34" title=" " alt="" coords="709,232,897,259"/>
+<area shape="poly" id="edge20_Node000009_Node000016" title=" " alt="" coords="540,398,597,335,638,299,685,268,700,262,702,267,688,273,642,303,601,339,544,401"/>
+<area shape="rect" id="Node000017" href="$class_game_slot.html#a7503680d1a76d503afad2130fb2c3cca" title=" " alt="" coords="706,283,900,325"/>
+<area shape="poly" id="edge21_Node000009_Node000017" title=" " alt="" coords="554,397,613,367,685,335,704,328,706,333,687,340,616,372,557,402"/>
+<area shape="rect" id="Node000018" href="$class_game_slot.html#afb54c162a9a3bdae4b64cfb50aa2f10f" title=" " alt="" coords="733,349,873,376"/>
+<area shape="poly" id="edge22_Node000009_Node000018" title=" " alt="" coords="605,397,717,376,718,381,606,402"/>
+<area shape="rect" id="Node000019" href="$class_game_slot.html#ae34ae3ab00e825e289ccf0d18fd49625" title=" " alt="" coords="711,400,895,427"/>
+<area shape="poly" id="edge23_Node000009_Node000019" title=" " alt="" coords="639,411,696,411,696,416,639,416"/>
+<area shape="rect" id="Node000020" href="$class_game_slot.html#a56ae6a4b522cefb0309f257fd5f998c6" title="Is this slot occupied by an AI?" alt="" coords="748,451,858,477"/>
+<area shape="poly" id="edge24_Node000009_Node000020" title=" " alt="" coords="606,425,733,448,732,454,605,430"/>
+<area shape="rect" id="Node000021" href="$class_game_slot.html#a9b32369af7f5fd37c9eba1cbd30f4738" title="Is this slot occupied by a human player?" alt="" coords="733,501,873,528"/>
+<area shape="poly" id="edge25_Node000009_Node000021" title=" " alt="" coords="556,425,615,456,687,487,719,496,718,501,685,492,613,461,554,430"/>
+<area shape="rect" id="Node000022" href="$class_game_slot.html#a0d120fb997e3c15b1944186ecec6b622" title=" " alt="" coords="736,552,870,579"/>
+<area shape="poly" id="edge26_Node000009_Node000022" title=" " alt="" coords="545,425,603,481,643,512,687,538,722,550,720,555,685,542,640,516,600,485,542,429"/>
+<area shape="rect" id="Node000023" href="$class_game_slot.html#a427e84b7f792735c015b98e36b54d0a7" title="Is this slot occupied (by a human or an AI)?" alt="" coords="727,603,879,629"/>
+<area shape="poly" id="edge27_Node000009_Node000023" title=" " alt="" coords="541,426,562,459,595,504,638,550,688,588,713,600,711,605,685,593,634,554,591,507,558,462,536,428"/>
+<area shape="rect" id="Node000024" href="$class_player.html#af78067cbe206b93e2dee6e32c2ecf2b3" title=" " alt="" coords="720,653,886,680"/>
+<area shape="poly" id="edge28_Node000009_Node000024" title=" " alt="" coords="539,426,557,469,588,527,632,588,658,616,688,639,707,649,704,654,685,644,655,620,628,592,584,530,552,471,534,428"/>
+<area shape="rect" id="Node000025" href="$_name_key_generator_8h.html#a0928e3a3f7bf4833b472cc839d35b1ae" title=" " alt="" coords="759,704,847,731"/>
+<area shape="poly" id="edge29_Node000009_Node000025" title=" " alt="" coords="537,426,552,477,581,549,602,588,626,625,655,660,688,690,715,704,745,712,743,717,713,709,685,694,651,664,622,629,597,590,577,551,547,479,532,428"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="760,81,753,71,758,61,775,55,803,53,834,56,850,63,847,68,832,61,803,59,776,61,761,66,758,71,765,78"/>
+<area shape="rect" id="Node000011" href="$class_ascii_string.html#a89173ff29e07403f748cd6cfd8206b90" title=" " alt="" coords="1364,105,1520,132"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="868,88,1068,86,1192,89,1317,97,1349,101,1349,106,1316,103,1192,94,1068,91,868,94"/>
+<area shape="rect" id="Node000012" href="$class_ascii_string.html#a1127a899738f53fde32987855f94a58d" title=" " alt="" coords="983,105,1133,132"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="866,105,967,116,967,121,865,110"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="995,107,883,95,883,90,996,102"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="1134,116,1349,116,1349,121,1134,121"/>
+<area shape="rect" id="Node000013" href="$class_ascii_string.html#a9dfe04dc3a0bc8d7a1923193e90f146a" title=" " alt="" coords="1201,156,1311,183"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="1114,130,1187,149,1186,154,1112,135"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="1307,153,1375,134,1377,139,1309,158"/>
+<area shape="rect" id="Node000027" href="$class_net_command_ref.html#a89a04f01862b674037cbea003dcb1b31" title=" " alt="" coords="425,704,634,731"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="373,747,447,732,448,737,374,752"/>
+<area shape="rect" id="Node000028" href="$class_net_command_ref.html#ab274f6b5e024fb77c4fb863697b6ae3e" title=" " alt="" coords="441,755,618,781"/>
+<area shape="poly" id="edge32_Node000026_Node000028" title=" " alt="" coords="374,765,425,765,425,771,374,771"/>
+<area shape="rect" id="Node000030" href="$class_net_command_ref.html#a8b29a452df1c93badd6c4860dc1cdce3" title=" " alt="" coords="438,805,621,832"/>
+<area shape="poly" id="edge34_Node000026_Node000030" title=" " alt="" coords="374,784,448,799,447,804,373,789"/>
+<area shape="rect" id="Node000031" href="$class_connection_manager.html#aabf7b9289891c85d3aa980610410f10b" title="Send command to the players specified in the relay, goes through packet router." alt="" coords="457,899,602,941"/>
+<area shape="poly" id="edge35_Node000026_Node000031" title=" " alt="" coords="323,788,482,888,479,892,320,792"/>
+<area shape="rect" id="Node000029" href="$class_net_command_ref.html#af2449c52d554008dc43c531f57f70163" title=" " alt="" coords="686,755,920,781"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="619,765,671,765,671,771,619,771"/>
+<area shape="rect" id="Node000032" href="$_network_util_8cpp.html#a285680bd8a83eb7473451f0bf483fc08" title=" " alt="" coords="725,805,881,832"/>
+<area shape="poly" id="edge36_Node000031_Node000032" title=" " alt="" coords="568,896,622,868,685,841,711,834,712,839,687,847,625,873,570,901"/>
+<area shape="rect" id="Node000033" href="$_network_util_8cpp.html#a459e2223f70a1054de94e47a3f385552" title=" " alt="" coords="704,856,902,883"/>
+<area shape="poly" id="edge37_Node000031_Node000033" title=" " alt="" coords="602,904,712,883,713,889,603,909"/>
+<area shape="rect" id="Node000034" href="$_network_util_8cpp.html#a1e7f498722cfab66b0b33627376e0918" title=" " alt="" coords="968,907,1148,933"/>
+<area shape="poly" id="edge38_Node000031_Node000034" title=" " alt="" coords="603,917,953,917,953,923,603,923"/>
+<area shape="rect" id="Node000035" href="$class_connection_manager.html#ad97e5bbf5420d91b1cbe7d41f655392b" title="Send command directly to the players specified, doesn&#39;t go through packet router." alt="" coords="715,957,891,1000"/>
+<area shape="poly" id="edge40_Node000031_Node000035" title=" " alt="" coords="603,933,701,954,700,959,602,938"/>
+<area shape="rect" id="Node000037" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="1004,1020,1112,1047"/>
+<area shape="poly" id="edge46_Node000031_Node000037" title=" " alt="" coords="560,939,616,977,651,995,687,1009,766,1027,848,1036,924,1038,989,1036,989,1042,924,1043,847,1041,766,1033,686,1015,649,1000,614,982,557,944"/>
+<area shape="rect" id="Node000039" href="$class_net_command_ref.html#aade5d4794241f7eed950da7d546718e9" title=" " alt="" coords="711,1075,895,1101"/>
+<area shape="poly" id="edge45_Node000031_Node000039" title=" " alt="" coords="552,940,609,997,647,1027,688,1054,719,1067,717,1072,685,1058,644,1032,605,1001,548,944"/>
+<area shape="poly" id="edge39_Node000034_Node000013" title=" " alt="" coords="1060,906,1245,197,1250,199,1065,907"/>
+<area shape="poly" id="edge41_Node000035_Node000034" title=" " alt="" coords="891,956,981,935,982,940,892,961"/>
+<area shape="rect" id="Node000036" href="$_network_util_8cpp.html#a6557c1b69efaecc7274fff032b02c05d" title=" " alt="" coords="972,965,1144,992"/>
+<area shape="poly" id="edge42_Node000035_Node000036" title=" " alt="" coords="891,976,957,976,957,981,891,981"/>
+<area shape="poly" id="edge43_Node000035_Node000037" title=" " alt="" coords="892,995,990,1016,989,1021,891,1000"/>
+<area shape="rect" id="Node000038" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1196,1020,1316,1047"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="1112,1031,1181,1031,1181,1036,1112,1036"/>
+</map>

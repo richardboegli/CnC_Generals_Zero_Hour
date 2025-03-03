@@ -1,0 +1,13 @@
+<map id="MemoryPool::freeBlock" name="MemoryPool::freeBlock">
+<area shape="rect" id="Node000001" title="free the block. it is OK to pass null." alt="" coords="917,47,1074,73"/>
+<area shape="rect" id="Node000002" href="$class_dynamic_memory_allocator.html#a857a82beae58b58b02556ce617bfd605" title="free the bytes. (assumes allocated by this dma.)" alt="" coords="697,39,869,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="902,63,869,63,869,57,902,57"/>
+<area shape="rect" id="Node000003" href="$class_dynamic_memory_allocator.html#a6b6ebe8626de99317b90090ef7bb91b0" title="destroy all allocations performed by this DMA." alt="" coords="470,5,641,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="681,48,641,42,642,37,682,43"/>
+<area shape="rect" id="Node000004" href="$class_dynamic_memory_allocator.html#ade1e367cd8973d6bf0227cd5c79bba02" title=" " alt="" coords="462,72,649,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="682,77,650,82,650,77,681,72"/>
+<area shape="rect" id="Node000005" href="$class_memory_pool_factory.html#aee5d6365320c07db699ed5e1ecb368e5" title="destroy the given DynamicMemoryAllocator." alt="" coords="200,72,414,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,96,414,96,414,91,446,91"/>
+<area shape="rect" id="Node000006" href="$class_memory_pool_factory.html#a73b467cb58471e2b9376aae692cd0ef6" title=" " alt="" coords="5,72,152,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="184,96,152,96,152,91,184,91"/>
+</map>

@@ -1,0 +1,104 @@
+<map id="AIUpdateInterface::getSupplyTruckAIInterface" name="AIUpdateInterface::getSupplyTruckAIInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1387,579,1564,621"/>
+<area shape="rect" id="Node000002" href="$class_supply_center_dock_update.html#a05f86cecdb9f59b6c30bc30d77c91315" title="For me, this means taking boxes and turning them into money for my ownerplayer." alt="" coords="1153,5,1326,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1467,563,1450,449,1422,299,1405,224,1384,156,1362,100,1337,62,1324,51,1327,46,1341,58,1367,97,1389,154,1410,223,1428,298,1456,448,1472,563"/>
+<area shape="rect" id="Node000003" href="$class_supply_warehouse_dock_update.html#af784fbd7d0ff9d9fbe03347037a51689" title="For me, this means identifying who is docking and either taking Boxes away or giving them." alt="" coords="1140,72,1339,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1472,563,1467,476,1460,420,1449,359,1432,297,1408,236,1377,179,1337,129,1323,117,1327,113,1341,125,1382,176,1413,234,1437,296,1454,358,1465,419,1472,475,1477,563"/>
+<area shape="rect" id="Node000004" href="$class_action_manager.html#adfdc8612f9fe4564d90b6207298f17b7" title=" " alt="" coords="1147,139,1332,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1470,563,1461,487,1440,388,1423,336,1401,285,1372,237,1337,195,1323,184,1326,180,1341,191,1377,234,1406,283,1428,334,1445,387,1467,486,1475,563"/>
+<area shape="rect" id="Node000006" href="$class_supply_center_production_exit_update.html#a01f4fac97f2bb89b0afe6b75f0d18104" title="Here is the object for you to exit to the world in your own special way." alt="" coords="1147,205,1332,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1466,564,1453,501,1429,422,1412,381,1391,340,1366,302,1338,269,1313,251,1316,246,1341,265,1371,299,1396,338,1417,379,1434,420,1458,499,1471,562"/>
+<area shape="rect" id="Node000007" href="$class_resource_gathering_manager.html#a49eb8912aa7813f7157051489b4eed57" title="What Center should this truck return to?" alt="" coords="1148,373,1331,416"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1453,567,1406,497,1374,461,1338,430,1318,419,1321,414,1341,426,1378,457,1410,494,1457,564"/>
+<area shape="rect" id="Node000008" href="$class_supply_truck_wants_to_pick_up_or_deliver_boxes_state.html#a8746ababcb536a8f13db4568c64c09a4" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="891,315,1082,357"/>
+<area shape="poly" id="edge57_Node000001_Node000008" title=" " alt="" coords="1463,564,1447,516,1422,461,1386,406,1363,383,1338,364,1308,348,1277,336,1210,322,1144,319,1083,322,1083,317,1144,314,1211,317,1278,331,1311,343,1341,359,1367,379,1390,403,1426,458,1452,514,1468,563"/>
+<area shape="rect" id="Node000009" href="$class_supply_truck_wants_to_pick_up_or_deliver_boxes_state.html#a68997991919115f2547d4011f22d0d52" title="executed once when entering state" alt="" coords="633,273,831,316"/>
+<area shape="poly" id="edge34_Node000001_Node000009" title=" " alt="" coords="1465,564,1451,509,1427,443,1410,409,1390,377,1366,347,1338,322,1299,303,1247,290,1185,281,1118,277,985,277,882,281,831,285,831,280,882,276,985,272,1118,272,1186,276,1248,284,1301,298,1341,318,1369,344,1394,373,1414,406,1431,441,1456,507,1470,563"/>
+<area shape="rect" id="Node000010" href="$class_resource_gathering_manager.html#ab1a61c83f47504fb0f69f2bbf1a132d3" title="What Warehouse should this truck go to?" alt="" coords="1148,440,1331,483"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1439,570,1393,533,1338,497,1314,486,1316,481,1341,492,1396,528,1442,566"/>
+<area shape="rect" id="Node000013" href="$class_a_i_player.html#a80e4087caa7698b1963a236f3451312e" title=" " alt="" coords="1172,507,1307,533"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="1410,575,1338,548,1299,536,1301,531,1340,543,1412,570"/>
+<area shape="rect" id="Node000023" href="$class_supply_truck_state_machine.html#a41016197475bd03911c75b453445ed91" title=" " alt="" coords="1152,608,1327,651"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="1372,616,1328,621,1327,616,1371,610"/>
+<area shape="rect" id="Node000025" href="$class_supply_truck_state_machine.html#afe075a664a7d060c83541c4ad571a05a" title=" " alt="" coords="1150,675,1329,717"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="1418,631,1340,665,1310,676,1308,672,1338,660,1416,626"/>
+<area shape="rect" id="Node000026" href="$class_docking_state.html#a2e43b96b4baa2f61a686e4a51964a992" title="executed once when entering state" alt="" coords="1163,808,1316,835"/>
+<area shape="poly" id="edge31_Node000001_Node000026" title=" " alt="" coords="1462,636,1443,675,1416,718,1382,762,1341,798,1318,810,1315,806,1338,794,1378,758,1412,715,1438,672,1457,634"/>
+<area shape="rect" id="Node000027" href="$class_regrouping_state.html#a94c7f221f7576415d6a57b9092694ab4" title="executed once when entering state" alt="" coords="1154,859,1325,885"/>
+<area shape="poly" id="edge32_Node000001_Node000027" title=" " alt="" coords="1467,637,1450,685,1424,743,1388,800,1366,826,1341,849,1321,860,1319,856,1338,845,1362,822,1384,797,1420,740,1445,683,1462,635"/>
+<area shape="rect" id="Node000028" href="$class_supply_truck_busy_state.html#ac9901904e7a24a4f2dc953eba12a5812" title="executed once when entering state" alt="" coords="1162,909,1317,952"/>
+<area shape="poly" id="edge33_Node000001_Node000028" title=" " alt="" coords="1470,637,1455,694,1430,765,1393,837,1369,870,1341,899,1319,914,1316,910,1338,895,1365,866,1389,834,1426,762,1450,693,1465,636"/>
+<area shape="rect" id="Node000029" href="$class_a_i_player.html#a31693b09a939b852e61500a6fb150212" title="Invoked when a unit I am training comes into existence." alt="" coords="1154,976,1326,1003"/>
+<area shape="poly" id="edge35_Node000001_Node000029" title=" " alt="" coords="1474,637,1464,707,1442,796,1425,842,1402,887,1375,929,1341,966,1324,978,1321,973,1338,962,1371,926,1398,885,1420,840,1437,794,1459,706,1469,637"/>
+<area shape="rect" id="Node000031" href="$class_supply_truck_state_machine.html#a60a12804b27691a804d93275e9d9c870" title=" " alt="" coords="1143,741,1336,784"/>
+<area shape="poly" id="edge37_Node000001_Node000031" title=" " alt="" coords="1449,635,1401,684,1372,710,1341,732,1318,743,1315,738,1338,727,1369,705,1398,681,1445,632"/>
+<area shape="rect" id="Node000032" href="$class_a_i_player.html#a66a8289f6d9e5b523bda6cca6fcc652b" title=" " alt="" coords="1146,557,1333,584"/>
+<area shape="poly" id="edge39_Node000001_Node000032" title=" " alt="" coords="1371,590,1333,585,1334,580,1372,584"/>
+<area shape="rect" id="Node000038" href="$class_supply_warehouse_dock_update.html#a97d4190160054df1839c8e72d9ba53c1" title="Game Logic can set me as inoperative. I get to decide what that means." alt="" coords="1140,1027,1339,1069"/>
+<area shape="poly" id="edge48_Node000001_Node000038" title=" " alt="" coords="1475,637,1467,715,1446,816,1429,870,1406,923,1377,972,1341,1017,1327,1028,1323,1024,1337,1013,1373,969,1402,920,1424,868,1441,815,1462,714,1470,637"/>
+<area shape="rect" id="Node000039" href="$class_a_i_dock_process_dock_state.html#a16a3690a0581a9741960091882c4d856" title=" " alt="" coords="1150,1093,1330,1136"/>
+<area shape="poly" id="edge49_Node000001_Node000039" title=" " alt="" coords="1477,637,1473,726,1466,783,1455,845,1438,908,1414,971,1382,1031,1341,1083,1327,1095,1324,1091,1337,1079,1378,1028,1409,969,1433,907,1450,843,1461,782,1468,725,1472,636"/>
+<area shape="rect" id="Node000042" href="$class_player.html#aa42dcadea52f74e2c8f1a02795d81085" title=" " alt="" coords="1152,1164,1328,1207"/>
+<area shape="poly" id="edge52_Node000001_Node000042" title=" " alt="" coords="1472,637,1456,752,1427,905,1410,982,1389,1052,1366,1109,1341,1150,1322,1166,1319,1162,1337,1146,1362,1107,1384,1050,1404,980,1422,904,1450,752,1467,636"/>
+<area shape="rect" id="Node000005" href="$class_action_manager.html#a1b8f685d8ff3d235c34a87ef58508c5c" title=" " alt="" coords="896,147,1078,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1132,163,1078,163,1078,157,1132,157"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1132,373,1081,361,1083,355,1134,367"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="1028,302,1013,296,987,293,963,295,948,300,942,306,944,314,939,315,937,305,945,296,962,290,987,288,1014,290,1030,297"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="875,321,831,313,832,308,876,315"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="1145,435,1138,430,1123,415,1114,400,1105,385,1090,371,1070,360,1073,355,1094,367,1109,382,1118,397,1127,412,1142,426,1148,430"/>
+<area shape="rect" id="Node000011" href="$class_supply_truck_a_i_update.html#a76332a8bcec26a96b5f1dcac62ba4ab8" title=" " alt="" coords="912,381,1062,424"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1132,439,1062,423,1063,417,1134,434"/>
+<area shape="rect" id="Node000012" href="$class_worker_a_i_update.html#ad96bf671becd841cfeb46426a94ef8b4" title=" " alt="" coords="889,448,1085,475"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1133,464,1085,464,1085,459,1133,459"/>
+<area shape="rect" id="Node000014" href="$class_a_i_player.html#af47e6e267d2e83458e839d719996b31c" title="Build a base buiding." alt="" coords="907,549,1066,592"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="1158,539,1067,557,1066,552,1157,534"/>
+<area shape="rect" id="Node000015" href="$class_a_i_player.html#a8945c1bd927e9982464fead0bcd97f31" title="do base&#45;building behaviors" alt="" coords="631,549,833,576"/>
+<area shape="poly" id="edge24_Node000013_Node000015" title=" " alt="" coords="1157,524,1027,529,882,540,805,551,804,546,881,535,1027,523,1156,519"/>
+<area shape="rect" id="Node000021" href="$class_a_i_skirmish_player.html#a7c9d6b3c863585c472807a17d7d16f9f" title=" " alt="" coords="894,616,1080,643"/>
+<area shape="poly" id="edge22_Node000013_Node000021" title=" " alt="" coords="1158,539,1142,548,1127,561,1118,576,1110,591,1093,606,1070,618,1067,613,1091,602,1105,588,1114,573,1122,558,1138,543,1156,534"/>
+<area shape="rect" id="Node000022" href="$class_a_i_player.html#ab867f34c2bba53c089b58b3d0392dd01" title=" " alt="" coords="389,667,582,693"/>
+<area shape="poly" id="edge25_Node000013_Node000022" title=" " alt="" coords="1159,536,1142,547,1130,560,1124,573,1120,602,1115,631,1107,644,1093,657,1054,675,1000,687,935,695,863,698,714,698,583,691,583,685,714,692,863,693,935,689,999,682,1052,670,1091,652,1103,641,1110,629,1115,601,1119,572,1126,557,1138,543,1156,532"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="892,570,833,569,833,563,892,565"/>
+<area shape="rect" id="Node000019" href="$class_a_i_skirmish_player.html#abb770e41edec31d70f0efda4d9a6253e" title="do base&#45;building behaviors" alt="" coords="644,600,820,643"/>
+<area shape="poly" id="edge20_Node000014_Node000019" title=" " alt="" coords="892,592,821,606,820,601,891,587"/>
+<area shape="rect" id="Node000016" href="$class_a_i_player.html#a65af01d1afdba43aa7989b58475a5aaf" title=" " alt="" coords="401,549,570,576"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="616,565,571,565,571,560,616,560"/>
+<area shape="rect" id="Node000017" href="$class_a_i_player.html#a37a689ed5d72b91e9e1ea2465c9d9b33" title="simulates the behavior of a player" alt="" coords="223,667,341,693"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="403,584,390,590,362,608,336,629,297,668,293,664,332,625,359,604,388,586,401,580"/>
+<area shape="rect" id="Node000018" href="$class_a_i_skirmish_player.html#a0f31c70fc739b36317ce7fcbb51b3517" title="simulates the behavior of a player" alt="" coords="5,667,175,693"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="207,683,175,683,175,677,207,677"/>
+<area shape="rect" id="Node000020" href="$class_a_i_skirmish_player.html#aed88462e5350742335570f6e738be278" title=" " alt="" coords="398,600,573,643"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="628,624,573,624,573,619,628,619"/>
+<area shape="poly" id="edge23_Node000021_Node000019" title=" " alt="" coords="878,629,821,627,821,621,878,623"/>
+<area shape="poly" id="edge26_Node000022_Node000017" title=" " alt="" coords="373,683,342,683,342,677,373,677"/>
+<area shape="rect" id="Node000024" href="$class_supply_truck_state_machine.html#a6eefbb8cb7f34f5d6d62b0604b2c193f" title=" " alt="" coords="896,768,1078,811"/>
+<area shape="poly" id="edge28_Node000023_Node000024" title=" " alt="" coords="1146,662,1142,665,1125,687,1119,710,1112,734,1094,758,1076,770,1073,765,1090,754,1107,732,1114,709,1120,685,1138,661,1142,657"/>
+<area shape="poly" id="edge30_Node000025_Node000024" title=" " alt="" coords="1155,726,1141,732,1093,758,1064,770,1062,765,1091,754,1139,727,1153,721"/>
+<area shape="rect" id="Node000030" href="$class_a_i_skirmish_player.html#a0d2cc16eba3a323da67ed8f44ade6c6a" title="Invoked when a unit I am training comes into existence." alt="" coords="903,964,1071,1007"/>
+<area shape="poly" id="edge36_Node000029_Node000030" title=" " alt="" coords="1138,990,1071,989,1072,984,1138,985"/>
+<area shape="poly" id="edge38_Node000031_Node000024" title=" " alt="" coords="1128,777,1079,782,1078,777,1127,772"/>
+<area shape="rect" id="Node000033" href="$class_a_i_player.html#a8e1465c0aa461a30e3fde77cc3ad795c" title="Check the team build list, &amp; queue up units at any idle factories." alt="" coords="914,717,1060,744"/>
+<area shape="poly" id="edge40_Node000032_Node000033" title=" " alt="" coords="1147,594,1142,598,1131,610,1124,622,1118,648,1113,674,1106,688,1094,701,1061,720,1059,715,1090,697,1101,685,1108,672,1113,646,1119,620,1126,607,1138,594,1144,590"/>
+<area shape="rect" id="Node000034" href="$class_a_i_player.html#a75b30804af16ba254cafd0eb25253caa" title=" " alt="" coords="400,717,571,744"/>
+<area shape="poly" id="edge41_Node000033_Node000034" title=" " alt="" coords="899,733,572,733,572,728,899,728"/>
+<area shape="rect" id="Node000035" href="$class_a_i_skirmish_player.html#a599912e5e6985bd72a196b306dfef71a" title=" " alt="" coords="398,840,574,883"/>
+<area shape="poly" id="edge43_Node000033_Node000035" title=" " alt="" coords="900,750,883,758,869,770,860,783,851,797,835,809,788,825,721,838,575,857,574,851,720,833,786,820,832,804,847,793,856,780,865,767,880,754,898,745"/>
+<area shape="rect" id="Node000036" href="$class_a_i_player.html#a3fb18183ccdf48c8748fece8b96109ab" title="do team&#45;building behaviors" alt="" coords="630,768,834,795"/>
+<area shape="poly" id="edge44_Node000033_Node000036" title=" " alt="" coords="902,750,803,770,802,765,901,745"/>
+<area shape="rect" id="Node000037" href="$class_a_i_skirmish_player.html#ad2ebc58bcc549e113d954b381bae94a5" title="do team&#45;building behaviors" alt="" coords="644,869,820,912"/>
+<area shape="poly" id="edge46_Node000033_Node000037" title=" " alt="" coords="901,747,883,758,866,780,859,803,853,828,836,853,808,871,805,867,832,849,848,825,854,802,861,777,880,754,898,743"/>
+<area shape="poly" id="edge42_Node000034_Node000017" title=" " alt="" coords="414,716,338,697,339,691,415,710"/>
+<area shape="poly" id="edge45_Node000036_Node000034" title=" " alt="" coords="648,767,553,747,555,742,649,762"/>
+<area shape="poly" id="edge47_Node000037_Node000035" title=" " alt="" coords="628,881,574,875,575,869,629,876"/>
+<area shape="rect" id="Node000040" href="$class_a_i_dock_process_dock_state.html#a4c2f06e16c8b81f65cbf2fd18cc3ab3f" title="executed once when entering state" alt="" coords="899,1031,1074,1073"/>
+<area shape="poly" id="edge50_Node000039_Node000040" title=" " alt="" coords="1136,1092,1074,1076,1075,1071,1137,1086"/>
+<area shape="rect" id="Node000041" href="$class_a_i_dock_process_dock_state.html#a9205b736d79e7b406aaac7845e01ba00" title=" " alt="" coords="899,1097,1074,1140"/>
+<area shape="poly" id="edge51_Node000039_Node000041" title=" " alt="" coords="1134,1119,1075,1120,1075,1115,1134,1114"/>
+<area shape="rect" id="Node000043" href="$class_script_actions.html#a0c060892b81ee4a17d6742d63c96fe93" title=" " alt="" coords="908,1164,1066,1207"/>
+<area shape="poly" id="edge53_Node000042_Node000043" title=" " alt="" coords="1136,1188,1066,1188,1066,1183,1136,1183"/>
+<area shape="rect" id="Node000045" href="$class_script_actions.html#a076e1c77e963f25cfc74dbccefba0c4b" title=" " alt="" coords="882,1231,1092,1273"/>
+<area shape="poly" id="edge55_Node000042_Node000045" title=" " alt="" coords="1142,1214,1071,1233,1070,1227,1141,1209"/>
+<area shape="rect" id="Node000044" href="$class_script_actions.html#a6247ad9436e3ae17fc2839a41caee6a9" title=" " alt="" coords="637,1205,827,1232"/>
+<area shape="poly" id="edge54_Node000043_Node000044" title=" " alt="" coords="893,1200,828,1209,827,1204,892,1195"/>
+<area shape="poly" id="edge56_Node000045_Node000044" title=" " alt="" coords="866,1239,827,1234,828,1228,866,1234"/>
+</map>

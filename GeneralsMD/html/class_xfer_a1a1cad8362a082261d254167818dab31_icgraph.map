@@ -1,0 +1,25 @@
+<map id="Xfer::open" name="Xfer::open">
+<area shape="rect" id="Node000001" title="xfer open event" alt="" coords="626,164,708,191"/>
+<area shape="rect" id="Node000002" href="$class_xfer_c_r_c.html#ad5f341494a5f997930faa0bb6f5087be" title="start a CRC session with this xfer instance" alt="" coords="452,84,563,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,158,577,129,543,114,545,109,580,124,632,153"/>
+<area shape="rect" id="Node000007" href="$class_xfer_deep_c_r_c.html#a6ebf1004d0d9af9b56b7b3730eee8a92" title="start a CRC session with this xfer instance" alt="" coords="436,139,578,165"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="611,171,578,166,579,161,612,166"/>
+<area shape="rect" id="Node000008" href="$class_xfer_load.html#a95a91255707254ab828099756d8585e7" title="open file for writing" alt="" coords="452,189,562,216"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="611,189,563,197,562,191,610,184"/>
+<area shape="rect" id="Node000011" href="$class_xfer_save.html#abe49fd17910772768f7c1631cb59368a" title="open file for writing" alt="" coords="452,248,563,275"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="631,201,580,230,540,250,538,245,577,226,629,197"/>
+<area shape="rect" id="Node000003" href="$class_object.html#a706d1abb8163f9adb66737da9ffc6f36" title=" " alt="" coords="245,5,330,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,79,387,47,330,30,332,25,389,41,466,74"/>
+<area shape="rect" id="Node000004" href="$class_game_logic.html#a3f5df93136fb3689934822b7e5d726e5" title="Returns the CRC." alt="" coords="216,56,360,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="436,91,359,81,360,76,436,86"/>
+<area shape="rect" id="Node000006" href="$class_game_engine.html#a6a9dccd0ad61d7875c555ea23b2d1bd3" title="Init engine by creating client and logic." alt="" coords="227,107,348,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="436,107,349,116,349,111,436,102"/>
+<area shape="rect" id="Node000005" href="$class_game_logic.html#ad980155edd303f2f942a058d9f2e439b" title="update the world" alt="" coords="5,56,140,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,72,140,72,140,67,201,67"/>
+<area shape="rect" id="Node000009" href="$class_game_state.html#ab16b9475503a7f4641b34adeae31cdb3" title="get save game info from file" alt="" coords="188,157,388,200"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="437,198,388,192,389,187,438,192"/>
+<area shape="rect" id="Node000010" href="$class_game_state.html#ab6c2dadbed4c164564a7867fcdf4dbcc" title="load a save file" alt="" coords="211,224,365,251"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="438,216,366,228,365,223,437,211"/>
+<area shape="rect" id="Node000012" href="$class_game_state.html#ab1b972c9badafc290ac7d7cb67a540c4" title="save a game" alt="" coords="209,275,367,301"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="437,273,368,281,367,276,436,267"/>
+</map>

@@ -1,0 +1,86 @@
+<map id="Pathfinder::buildActualPath" name="Pathfinder::buildActualPath">
+<area shape="rect" id="Node000001" title="Work backwards from goal cell to construct final path." alt="" coords="5,512,185,539"/>
+<area shape="rect" id="Node000002" href="$_a_i_8cpp.html#ad6318fbe4804bd5498a4aec60393cbc4" title=" " alt="" coords="285,157,352,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,511,106,455,130,372,148,327,170,281,198,239,231,201,249,188,268,179,271,184,251,192,234,205,202,242,175,284,153,329,135,374,112,456,101,512"/>
+<area shape="rect" id="Node000003" href="$class_path.html#aa9364e9b6f5030d351c4fcc86eac8bca" title=" " alt="" coords="484,563,615,589"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,535,233,541,469,566,468,571,232,547,185,541"/>
+<area shape="rect" id="Node000004" href="$class_path_node.html#a37d983dd4616440f17991efa8d277077" title="return layer of this node." alt="" coords="481,5,618,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="97,511,109,461,134,390,152,352,174,314,200,278,231,247,254,232,277,224,320,222,361,218,382,210,402,194,416,176,423,157,425,119,427,81,435,61,450,42,465,31,468,36,454,46,440,64,433,82,430,120,428,159,421,178,406,198,384,215,363,223,320,227,278,230,256,237,234,251,204,282,179,317,157,354,139,392,114,463,102,512"/>
+<area shape="rect" id="Node000005" href="$class_path_node.html#aeda95a0c4f592bbad85ccf8e832da7b6" title="return next node in the path" alt="" coords="483,56,616,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="98,511,114,469,141,411,180,349,204,321,231,295,255,280,277,273,320,268,361,263,382,254,402,238,415,221,422,203,425,167,428,130,435,111,450,93,467,81,470,85,454,97,440,114,433,131,430,167,427,204,420,223,406,242,384,259,363,268,321,274,278,278,257,285,234,299,208,324,184,353,146,414,119,471,103,513"/>
+<area shape="rect" id="Node000007" href="$class_path_node.html#a183e3fb37dc41bef40e71fcedacb4bc9" title=" " alt="" coords="454,613,646,640"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="108,538,127,564,156,595,192,626,234,650,267,660,301,665,372,666,438,656,494,642,495,648,439,662,372,671,301,671,266,665,232,654,189,631,152,599,123,567,103,541"/>
+<area shape="rect" id="Node000008" href="$class_pathfind_cell.html#a04526aa4ef8592593e6511f3e4b0dd84" title=" " alt="" coords="460,1221,639,1248"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="102,538,118,598,146,690,185,798,235,904,284,994,326,1063,377,1123,454,1190,492,1213,490,1217,450,1194,373,1127,322,1066,279,997,230,907,180,800,141,692,113,600,97,540"/>
+<area shape="rect" id="Node000012" href="$class_pathfind_cell.html#afd3e5655a36605c9100c1ef648efeabb" title=" " alt="" coords="467,411,632,437"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="158,509,471,439,472,444,159,514"/>
+<area shape="rect" id="Node000013" href="$class_path_node.html#afe2fd782d533ab134f03464c20defc49" title="return position of this node" alt="" coords="705,404,857,431"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="185,532,282,537,399,536,524,525,586,513,647,497,676,486,704,471,750,438,754,443,706,475,678,491,648,503,588,519,525,530,399,542,282,543,185,537"/>
+<area shape="rect" id="Node000014" href="$class_path.html#a3330e670ecefe9a35e7e4b5fa052e4a2" title="Optimize the path to discard redundant nodes." alt="" coords="266,309,371,336"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="110,509,289,344,293,348,113,513"/>
+<area shape="rect" id="Node000021" href="$class_pathfinder.html#afecf1c88c305191dd34f650d429090b0" title="Add pathfind cells to a path." alt="" coords="236,867,400,893"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="107,538,303,852,298,855,103,541"/>
+<area shape="rect" id="Node000034" href="$class_pathfinder.html#a43d9b317d921a4c2753997b3ae3b7761" title=" " alt="" coords="233,613,404,640"/>
+<area shape="poly" id="edge48_Node000001_Node000034" title=" " alt="" coords="123,537,234,592,264,605,262,610,232,597,120,542"/>
+<area shape="rect" id="Node000006" href="$class_path_node.html#a8407a02423706e133bfea2b4c872289a" title=" " alt="" coords="915,309,1060,336"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,81,648,92,742,142,831,199,906,254,960,297,957,301,902,258,828,203,740,146,646,97,615,86"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="616,610,646,599,697,572,746,540,837,469,911,400,962,346,966,349,915,403,840,473,749,544,700,576,648,604,618,615"/>
+<area shape="rect" id="Node000009" href="$class_pathfind_cell.html#ac5477ae77d47d5ddcdc9bfe4c310f7ca" title=" " alt="" coords="695,1221,867,1248"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="639,1232,680,1232,680,1237,639,1237"/>
+<area shape="rect" id="Node000010" href="$class_pathfind_cell.html#aa132865a47c93e63f5150a57f19e54c4" title="reset the cell" alt="" coords="923,1221,1052,1248"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="867,1232,907,1232,907,1237,867,1237"/>
+<area shape="rect" id="Node000011" href="$class_pathfind_cell_info.html#a1c9e9bd6dc0093059aa7ac56f82db437" title=" " alt="" coords="1108,1213,1272,1256"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1053,1232,1092,1232,1092,1237,1053,1237"/>
+<area shape="poly" id="edge16_Node000014_Node000003" title=" " alt="" coords="330,335,380,408,415,454,454,498,486,527,518,552,514,556,482,531,450,502,411,457,375,411,326,338"/>
+<area shape="poly" id="edge18_Node000014_Node000004" title=" " alt="" coords="337,307,371,278,402,239,414,211,419,185,418,137,418,113,422,90,431,66,450,42,466,31,469,35,454,46,436,69,427,91,424,114,424,137,424,186,419,213,406,241,375,281,341,311"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="370,310,388,301,402,289,418,264,425,240,426,216,424,192,422,167,424,142,432,117,450,93,467,80,470,85,454,97,437,120,429,143,428,167,429,191,431,216,430,241,423,267,406,292,390,305,373,314"/>
+<area shape="poly" id="edge20_Node000014_Node000012" title=" " alt="" coords="345,334,394,361,453,390,488,403,486,408,451,394,392,366,342,339"/>
+<area shape="poly" id="edge21_Node000014_Node000013" title=" " alt="" coords="372,331,698,398,697,403,371,336"/>
+<area shape="rect" id="Node000015" href="$class_path_node.html#afd7071ce65dc4fd3fd753309e6dd986c" title=" " alt="" coords="459,259,640,285"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="371,309,470,287,471,292,372,314"/>
+<area shape="rect" id="Node000016" href="$class_path.html#a3777aa33f5a4be3d816b390ff5fc1db2" title=" " alt="" coords="484,107,615,133"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="370,309,387,300,402,289,415,271,422,253,424,217,428,180,435,162,450,143,469,131,472,135,454,147,440,164,433,181,430,217,427,254,420,273,406,293,390,305,372,314"/>
+<area shape="rect" id="Node000017" href="$class_path_node.html#af8697e410940c5a1b9d2ccf0b29e2df6" title="return previous node in the path" alt="" coords="703,309,859,336"/>
+<area shape="poly" id="edge22_Node000014_Node000017" title=" " alt="" coords="372,320,688,320,688,325,372,325"/>
+<area shape="rect" id="Node000018" href="$class_pathfind_cell.html#a2f580b553cecee9838a8695af4f510f6" title="get the cell type" alt="" coords="476,461,623,488"/>
+<area shape="poly" id="edge24_Node000014_Node000018" title=" " alt="" coords="332,335,380,390,415,421,453,447,466,453,463,458,451,452,412,425,377,393,328,338"/>
+<area shape="rect" id="Node000019" href="$_a_i_pathfind_8cpp.html#ad7fa5e190e03261398600e623cad96ff" title=" " alt="" coords="524,157,576,184"/>
+<area shape="poly" id="edge25_Node000014_Node000019" title=" " alt="" coords="370,308,402,289,419,266,425,242,432,218,450,194,478,179,507,171,509,176,480,184,454,198,436,220,430,243,424,268,406,293,373,312"/>
+<area shape="rect" id="Node000020" href="$class_path_node.html#a467858f1a01bfc42b281e9aabad59fd0" title=" " alt="" coords="454,208,646,235"/>
+<area shape="poly" id="edge26_Node000014_Node000020" title=" " alt="" coords="365,306,403,288,416,277,426,266,435,255,451,244,463,238,466,243,453,249,439,259,430,270,420,281,405,293,367,311"/>
+<area shape="poly" id="edge23_Node000017_Node000006" title=" " alt="" coords="859,320,899,320,899,325,859,325"/>
+<area shape="poly" id="edge28_Node000020_Node000006" title=" " alt="" coords="612,233,912,303,911,308,610,238"/>
+<area shape="poly" id="edge27_Node000020_Node000013" title=" " alt="" coords="630,233,649,245,669,269,677,294,683,319,697,346,721,372,748,393,744,397,718,376,693,350,678,321,672,295,664,272,646,249,627,237"/>
+<area shape="poly" id="edge32_Node000021_Node000003" title=" " alt="" coords="319,866,331,816,354,744,372,704,393,666,419,630,450,599,468,588,471,593,454,603,423,634,398,669,376,707,359,746,336,817,325,867"/>
+<area shape="poly" id="edge34_Node000021_Node000008" title=" " alt="" coords="329,892,364,965,407,1063,418,1104,422,1138,431,1169,454,1201,468,1212,465,1216,450,1205,426,1171,417,1139,413,1105,401,1065,359,967,324,895"/>
+<area shape="poly" id="edge35_Node000021_Node000013" title=" " alt="" coords="323,865,341,832,368,787,405,740,450,700,478,686,503,679,551,676,597,673,620,665,646,650,670,628,692,602,728,546,753,490,769,445,774,447,758,492,732,548,696,606,674,632,649,654,623,670,598,679,551,682,504,684,480,691,454,705,409,744,373,790,345,834,328,868"/>
+<area shape="poly" id="edge36_Node000021_Node000018" title=" " alt="" coords="322,865,386,696,424,602,450,549,479,519,510,494,514,499,482,523,454,552,429,604,391,698,327,867"/>
+<area shape="rect" id="Node000022" href="$class_pathfinder.html#af5d217acf43b6f9bb2f15aa85a3e8e66" title=" " alt="" coords="452,816,647,843"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="382,863,470,844,471,849,383,869"/>
+<area shape="rect" id="Node000023" href="$class_pathfind_cell.html#a50a9a19d21d6d5bc33538a5c63b40690" title=" " alt="" coords="455,917,644,944"/>
+<area shape="poly" id="edge31_Node000021_Node000023" title=" " alt="" coords="383,891,471,911,470,916,382,897"/>
+<area shape="rect" id="Node000024" href="$class_pathfind_cell.html#a5bf0a9cd4d2ffcb5d3671ab9bc0407bf" title="get the cell layer" alt="" coords="474,968,625,995"/>
+<area shape="poly" id="edge33_Node000021_Node000024" title=" " alt="" coords="341,892,391,922,453,954,472,960,470,965,451,958,388,927,338,896"/>
+<area shape="rect" id="Node000025" href="$class_pathfind_cell.html#a65db8b74aea7a8c4a40e8903e37404b6" title=" " alt="" coords="470,1019,629,1045"/>
+<area shape="poly" id="edge37_Node000021_Node000025" title=" " alt="" coords="332,892,380,947,415,978,453,1004,466,1010,463,1015,451,1009,412,982,377,951,328,896"/>
+<area shape="rect" id="Node000026" href="$class_pathfind_cell.html#adc9e58a3e7a172f88b29173e0cfcaca8" title=" " alt="" coords="470,1069,629,1096"/>
+<area shape="poly" id="edge38_Node000021_Node000026" title=" " alt="" coords="328,892,345,926,373,970,409,1016,454,1055,462,1060,459,1065,450,1059,405,1020,368,973,341,928,323,895"/>
+<area shape="rect" id="Node000027" href="$class_pathfind_cell.html#a5d870c50f4ec57f40d1aa5b3dcdd9ef1" title=" " alt="" coords="452,1120,647,1147"/>
+<area shape="poly" id="edge39_Node000021_Node000027" title=" " alt="" coords="326,893,340,935,366,993,404,1054,427,1082,454,1106,460,1110,457,1115,450,1110,423,1086,399,1057,361,995,335,937,321,895"/>
+<area shape="rect" id="Node000028" href="$class_path.html#a70775767d628674ca5b979c133acf4cd" title="Create a new node at the head of the path." alt="" coords="483,867,616,893"/>
+<area shape="poly" id="edge40_Node000021_Node000028" title=" " alt="" coords="401,877,467,877,467,883,401,883"/>
+<area shape="rect" id="Node000030" href="$class_path_node.html#a3d1bd235a296bbf6f32c1a9ac149428c" title="set the layer of this path node" alt="" coords="712,1044,850,1071"/>
+<area shape="poly" id="edge47_Node000021_Node000030" title=" " alt="" coords="328,893,399,1045,454,1157,479,1171,503,1180,525,1184,546,1184,592,1174,646,1156,678,1142,708,1122,755,1080,759,1084,711,1126,681,1146,648,1161,593,1180,547,1189,524,1189,501,1185,477,1176,450,1161,394,1047,324,895"/>
+<area shape="rect" id="Node000032" href="$class_path.html#a5d27a44a14fe5a85af9a992d85df78f8" title=" " alt="" coords="470,715,629,741"/>
+<area shape="poly" id="edge45_Node000021_Node000032" title=" " alt="" coords="328,864,377,809,412,778,451,751,463,745,466,750,453,756,415,782,380,813,332,868"/>
+<area shape="rect" id="Node000033" href="$class_path_node.html#a5403edcd02b66ee7678b3cb0d3a02a3e" title=" " alt="" coords="459,765,640,792"/>
+<area shape="poly" id="edge46_Node000021_Node000033" title=" " alt="" coords="338,864,388,833,451,802,470,795,472,800,453,806,391,838,341,868"/>
+<area shape="rect" id="Node000029" href="$class_path_node.html#aae4114bae98310f76c693b6eb2650f27" title="given a list, prepend this node, return new list" alt="" coords="697,771,865,797"/>
+<area shape="poly" id="edge41_Node000028_Node000029" title=" " alt="" coords="612,863,646,852,698,828,743,803,746,808,700,833,648,857,614,869"/>
+<area shape="poly" id="edge43_Node000028_Node000030" title=" " alt="" coords="618,889,649,903,686,932,719,966,766,1029,762,1033,715,969,683,936,646,908,616,894"/>
+<area shape="rect" id="Node000031" href="$class_path_node.html#a16d36db8f4d8a364477d14f6637fed05" title="set the position of this path node" alt="" coords="705,867,857,893"/>
+<area shape="poly" id="edge44_Node000028_Node000031" title=" " alt="" coords="617,877,689,877,689,883,617,883"/>
+<area shape="poly" id="edge42_Node000029_Node000006" title=" " alt="" coords="786,769,971,349,976,351,791,771"/>
+<area shape="poly" id="edge49_Node000034_Node000003" title=" " alt="" coords="382,610,470,591,471,596,383,615"/>
+<area shape="poly" id="edge50_Node000034_Node000007" title=" " alt="" coords="404,624,438,624,438,629,404,629"/>
+</map>

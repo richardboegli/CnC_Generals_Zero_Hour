@@ -1,0 +1,32 @@
+<map id="Player::canBuild" name="Player::canBuild">
+<area shape="rect" id="Node000001" title="true if we have the prereqs for this item" alt="" coords="5,165,122,192"/>
+<area shape="rect" id="Node000002" href="$class_player.html#aa0342c9e80c7430d729ffbd26984ef3a" title=" " alt="" coords="189,9,342,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,164,107,109,135,77,168,50,186,40,189,45,171,54,139,81,112,112,75,166"/>
+<area shape="rect" id="Node000006" href="$class_player.html#ab33e26337c8aced47d98fc71d315b58b" title=" " alt="" coords="172,64,359,91"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="78,163,118,131,168,100,184,94,186,99,171,105,121,136,82,167"/>
+<area shape="rect" id="Node000010" href="$class_thing_template.html#a95f20b74acab14cf6a7926ebcb219da1" title=" " alt="" coords="173,115,358,141"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="119,162,194,143,195,148,120,167"/>
+<area shape="rect" id="Node000011" href="$class_thing_template.html#a6940cf54151c465420bbdfc8b09ab671" title=" " alt="" coords="170,165,361,192"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="122,176,154,176,154,181,122,181"/>
+<area shape="rect" id="Node000012" href="$class_player.html#ad8c11f93daa076d7ee15c3a6579fc8ea" title="return the type of controller" alt="" coords="191,216,340,243"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="120,190,195,209,194,214,119,195"/>
+<area shape="rect" id="Node000013" href="$class_thing_template.html#ab8ede822a36977252aff03919b76c3f7" title=" " alt="" coords="180,267,350,309"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="83,191,122,221,171,252,182,258,179,262,168,257,118,225,79,195"/>
+<area shape="rect" id="Node000014" href="$class_production_prerequisite.html#a4aa2e44dba307eca5730682e776a294b" title="return true iff the player satisfies our set of prerequisites" alt="" coords="189,333,342,376"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="74,191,110,253,138,288,171,319,177,323,174,328,168,323,134,292,105,256,69,194"/>
+<area shape="rect" id="Node000003" href="$class_thing_template.html#a3a76269a04cb28565f44d77af2cecebd" title="return true iff the template has the specified kindOf flag set." alt="" coords="445,5,609,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,19,429,17,429,23,342,24"/>
+<area shape="rect" id="Node000004" href="$_kind_of_8h.html#aaed3b7597902c6142ee9b7ad53f5bd50" title=" " alt="" coords="693,5,845,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="610,16,678,16,678,21,610,21"/>
+<area shape="rect" id="Node000005" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="893,5,992,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="845,16,877,16,877,21,845,21"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="325,61,408,41,445,33,447,38,410,47,326,66"/>
+<area shape="rect" id="Node000007" href="$class_thing_template.html#a094b81b2c4267779013200bb04ba2f8d" title=" " alt="" coords="409,56,645,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="359,75,394,75,394,80,359,80"/>
+<area shape="rect" id="Node000008" href="$class_thing_template.html#a71acb1f4936e53e398554d0a310ea24e" title=" " alt="" coords="409,123,645,165"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="322,89,427,116,425,121,320,94"/>
+<area shape="rect" id="Node000009" href="$class_player.html#a965771701be0d9bdafdffe39c3b4e71d" title=" " alt="" coords="454,189,601,216"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="342,89,363,101,380,120,387,139,395,158,411,175,440,189,437,194,407,179,390,161,382,141,375,122,359,105,339,94"/>
+<area shape="rect" id="Node000015" href="$class_player.html#ac91af9a47c9064e4b3c5048606cf6623" title="return t if the player has the given science, either intrinsically, via specialization,..." alt="" coords="460,341,594,368"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="342,352,444,352,444,357,342,357"/>
+</map>

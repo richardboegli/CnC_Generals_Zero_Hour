@@ -1,0 +1,56 @@
+<map id="DrawObject::setBrushFeedbackParms" name="DrawObject::setBrushFeedbackParms">
+<area shape="rect" id="Node000001" title=" " alt="" coords="744,276,952,319"/>
+<area shape="rect" id="Node000002" href="$class_big_tile_tool.html#a8b292f09776d655bd274b2a4c7d3f5e7" title="Become the current tool." alt="" coords="533,5,672,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,262,813,213,784,154,745,96,721,69,695,46,672,33,674,29,698,42,725,65,749,92,789,152,818,211,838,260"/>
+<area shape="rect" id="Node000003" href="$class_brush_tool.html#ace78088b3964faedd034dd9022507305" title="Become the current tool." alt="" coords="536,56,669,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="828,264,806,224,776,179,739,135,695,97,669,84,671,79,698,92,743,131,780,176,810,222,832,261"/>
+<area shape="rect" id="Node000004" href="$class_feather_tool.html#a3a06797852c0ed058a3be48cca690acd" title="Become the current tool." alt="" coords="531,107,674,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="820,266,767,205,733,174,695,148,670,136,672,132,698,143,736,170,771,201,824,262"/>
+<area shape="rect" id="Node000005" href="$class_mound_tool.html#aca450a9d3a4b0b1a81ee180af4627a15" title="Become the current tool." alt="" coords="534,157,672,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="806,268,755,232,695,198,665,187,667,182,697,194,758,227,809,264"/>
+<area shape="rect" id="Node000006" href="$class_tile_tool.html#a1ed0b4e6345ccbb6fb2d024d96a1bb34" title="Become the current tool." alt="" coords="542,208,663,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="769,273,696,249,656,238,658,233,697,244,771,268"/>
+<area shape="rect" id="Node000007" href="$class_brush_tool.html#abf9ec29a4cc1e9603a46f7b3c1552c62" title="Set the brush feather and notify the height options panel of the change." alt="" coords="528,259,677,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="728,288,677,282,678,277,729,282"/>
+<area shape="rect" id="Node000010" href="$class_feather_tool.html#af8153ce2fb33d555f0fc9c41ccd46eba" title="Set the brush feather and notify the height options panel of the change." alt="" coords="523,360,682,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="771,327,697,351,658,362,656,357,696,345,769,322"/>
+<area shape="rect" id="Node000013" href="$class_mound_tool.html#aeb430a0403d8da36769a68e854363cf6" title="Set the brush feather and notify the height options panel of the change." alt="" coords="526,464,680,491"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="807,330,624,466,621,462,804,326"/>
+<area shape="rect" id="Node000018" href="$class_mound_tool.html#a03fc1dd62d473f0531cdaf00af2cf020" title=" " alt="" coords="509,528,696,555"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="831,334,778,418,741,464,698,505,676,519,652,530,650,525,673,514,695,501,737,460,774,415,827,331"/>
+<area shape="rect" id="Node000020" href="$class_big_tile_tool.html#a7fc35ed09336606f4aa49d890e1a178a" title="Shows the terrain materials options panel." alt="" coords="530,713,675,740"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="836,334,782,463,743,542,699,619,657,673,620,715,616,711,653,670,694,616,738,539,777,461,831,332"/>
+<area shape="rect" id="Node000023" href="$class_brush_tool.html#a5fe28139e1861235a1ab67e5b48befca" title="Returns height." alt="" coords="533,309,672,336"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="729,312,673,318,673,313,728,307"/>
+<area shape="rect" id="Node000025" href="$class_mound_tool.html#ad65aa3e88945337490a440ef5e89e76c" title="Returns feather." alt="" coords="530,579,675,605"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="839,335,820,387,791,450,751,514,726,543,698,569,677,581,674,576,695,565,722,540,746,511,786,448,815,385,834,333"/>
+<area shape="rect" id="Node000008" href="$class_brush_options.html#a86af0392f70c2e8ceab9bbfc8cedef9b" title="Handles feather edit ui messages." alt="" coords="221,167,458,193"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="521,255,508,249,493,238,483,227,474,217,460,208,430,196,432,191,462,203,477,213,487,224,496,234,510,244,523,250"/>
+<area shape="rect" id="Node000009" href="$class_brush_options.html#a7f3939c00746eb11b122a3fd6762ab97" title=" " alt="" coords="232,217,448,244"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="512,261,429,247,429,242,513,255"/>
+<area shape="rect" id="Node000011" href="$class_feather_options.html#ae9f9335c8a4cb7dfd9ad8efaacab636d" title="Handles width edit ui messages." alt="" coords="250,319,430,361"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="507,364,430,354,431,349,508,359"/>
+<area shape="rect" id="Node000012" href="$class_feather_options.html#aa96a49063c7579cde80bb7f439ff4a45" title=" " alt="" coords="253,385,427,428"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="508,388,428,398,427,393,507,383"/>
+<area shape="rect" id="Node000014" href="$class_mound_tool.html#aa0ec55800115dddce4b2a025159b1e31" title="True if the tool tracks the terrain, generally false if it modifies the terrain heights." alt="" coords="255,452,425,479"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="510,476,425,472,425,467,510,470"/>
+<area shape="rect" id="Node000016" href="$class_mound_options.html#af4afd8cf26c6640d10a4ed78d073d2ff" title="Handles feather edit ui messages." alt="" coords="219,503,461,529"/>
+<area shape="poly" id="edge15_Node000013_Node000016" title=" " alt="" coords="511,494,435,505,435,499,510,488"/>
+<area shape="rect" id="Node000017" href="$class_mound_options.html#a2d3cdfde4bf885dc66d41548a27ef22e" title=" " alt="" coords="229,553,450,580"/>
+<area shape="poly" id="edge16_Node000013_Node000017" title=" " alt="" coords="553,500,510,518,487,532,462,544,423,555,421,550,460,539,484,527,508,514,551,495"/>
+<area shape="rect" id="Node000015" href="$class_mound_tool.html#afb946bd8a40ddc59eb34d5662a58fb01" title=" " alt="" coords="5,452,171,479"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="239,468,171,468,171,463,239,463"/>
+<area shape="poly" id="edge19_Node000018_Node000017" title=" " alt="" coords="494,554,451,559,451,553,493,549"/>
+<area shape="rect" id="Node000019" href="$class_mound_options.html#a1d159f606738c1eb5a9f93284d0373a5" title="Handles width edit ui messages." alt="" coords="222,604,458,631"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="529,562,510,569,486,582,462,594,423,606,421,601,460,590,484,577,508,564,528,557"/>
+<area shape="rect" id="Node000021" href="$class_terrain_material.html#ab3fcc38ed9976f9ab3ce761e5e553d96" title="Handles width edit ui messages." alt="" coords="252,705,428,748"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="515,729,428,729,428,724,515,724"/>
+<area shape="rect" id="Node000022" href="$class_terrain_material.html#acaac072e22bb7489c2e76739c6e6af9b" title=" " alt="" coords="255,772,425,815"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="533,747,426,774,425,769,532,742"/>
+<area shape="poly" id="edge25_Node000023_Node000009" title=" " alt="" coords="521,306,508,300,493,289,483,278,474,268,460,258,430,247,432,242,462,254,477,264,487,275,496,285,510,295,523,301"/>
+<area shape="rect" id="Node000024" href="$class_brush_options.html#a3a72d5ee27e3798e434c16fc26fb136b" title="Handles width edit ui messages." alt="" coords="230,268,450,295"/>
+<area shape="poly" id="edge24_Node000023_Node000024" title=" " alt="" coords="517,312,429,298,429,293,518,307"/>
+<area shape="poly" id="edge28_Node000025_Node000017" title=" " alt="" coords="514,586,451,580,451,575,515,581"/>
+<area shape="rect" id="Node000026" href="$class_mound_options.html#aeca37199b9ab9aa8afeb54556dff5a15" title="Handles width edit ui messages." alt="" coords="228,655,452,681"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="554,614,462,645,416,657,414,651,460,640,552,609"/>
+</map>

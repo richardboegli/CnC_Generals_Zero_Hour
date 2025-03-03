@@ -1,0 +1,18 @@
+<map id="MemoryPoolSingleBlock::initBlock" name="MemoryPoolSingleBlock::initBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1010,64,1173,107"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool_blob.html#aafbe3f8e4058c4b0d97cdbb5ff232ea3" title=" " alt="" coords="788,5,962,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="995,62,956,51,957,46,996,57"/>
+<area shape="rect" id="Node000007" href="$class_memory_pool_blob.html#a75b3bc98acd1f440d9c64952df6be2ea" title=" " alt="" coords="789,72,961,99"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="994,88,961,88,961,83,994,83"/>
+<area shape="rect" id="Node000008" href="$class_memory_pool_single_block.html#a2e2633d877d0c8f8c58baed9f371ca40" title=" " alt="" coords="567,93,733,136"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="995,109,962,113,842,120,733,120,733,115,842,115,961,108,994,104"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool.html#ab0117d33de8bf491d5a5363732bea765" title="same as allocateBlockImplementation, but memory returned is not zeroed" alt="" coords="560,11,740,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="773,32,741,33,741,27,772,26"/>
+<area shape="rect" id="Node000004" href="$class_memory_pool.html#a0b68136eb5d4006ecb68c83bcdafbbd4" title="allocate a block from this pool. (don&#39;t call directly; use allocateBlock() macro)" alt="" coords="291,11,472,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="544,35,472,35,472,29,544,29"/>
+<area shape="rect" id="Node000005" href="$class_dynamic_memory_allocator.html#a64550b2a90103730a04337d931db2e2b" title="like allocateBytesImplementation, but zeroes the memory before returning" alt="" coords="251,83,512,125"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="554,60,465,85,463,79,552,55"/>
+<area shape="rect" id="Node000006" href="$class_dynamic_memory_allocator.html#a498372b9be38e727646a45e8dfd766c5" title="allocate bytes from this pool. (don&#39;t call directly; use allocateBytes() macro)" alt="" coords="5,83,203,125"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,107,203,107,203,101,235,101"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="551,113,512,112,513,107,551,108"/>
+</map>

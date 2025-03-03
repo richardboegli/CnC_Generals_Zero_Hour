@@ -1,0 +1,56 @@
+<map id="PathfindCell::isObstacleFence" name="PathfindCell::isObstacleFence">
+<area shape="rect" id="Node000001" title="return true if the given obstacle in the cell is a fence." alt="" coords="1017,207,1179,249"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#a7a1e1af323485cbe45802367d1a06fcc" title="Return true if given position is a valid movement location." alt="" coords="801,77,960,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,201,917,123,919,118,1049,196"/>
+<area shape="rect" id="Node000007" href="$_a_i_pathfind_8cpp.html#a645e137338bad8f169f9f1604bd82513" title=" " alt="" coords="827,215,934,241"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1001,231,934,231,934,225,1001,225"/>
+<area shape="rect" id="Node000010" href="$class_pathfinder.html#a969ee7247a098bdcac1f244e43133899" title="Return true if given position is a valid movement location." alt="" coords="792,541,969,584"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1077,264,898,543,893,540,1072,261"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="916,64,902,58,880,56,860,58,848,63,843,69,844,76,839,77,837,67,844,58,859,53,881,51,904,53,918,59"/>
+<area shape="rect" id="Node000003" href="$class_pathfinder.html#a137b68f45d1d96e0d842beb544f2d5de" title="Find a short, valid path of the desired width on the ground." alt="" coords="296,31,474,57"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="786,91,474,56,475,51,786,86"/>
+<area shape="rect" id="Node000004" href="$class_pathfinder.html#a463b8dc70f7d10a01c3dd738bab18a8e" title=" " alt="" coords="536,5,744,32"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="804,74,743,53,687,35,689,30,745,48,806,69"/>
+<area shape="rect" id="Node000005" href="$class_pathfinder.html#a511975c610fdffb0a3191e2a49a2fea9" title=" " alt="" coords="536,107,744,149"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="786,113,745,118,745,113,785,108"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="520,33,475,38,474,32,520,28"/>
+<area shape="rect" id="Node000006" href="$class_pathfinder.html#ac0960ed3ddb3d97e18031074189296d4" title="Return true if the straight line between the given points is passable." alt="" coords="301,107,468,149"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="520,131,469,131,469,125,520,125"/>
+<area shape="rect" id="Node000008" href="$class_zone_block.html#a400c876fd2a6a2092c615b2c3f17c799" title="Does zone calculations." alt="" coords="552,240,729,283"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="812,240,729,252,729,246,812,235"/>
+<area shape="rect" id="Node000009" href="$class_pathfind_zone_manager.html#a014d9ecd3dc76835da8be0c5157b3c38" title="Does zone calculations." alt="" coords="566,173,714,216"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="812,221,714,208,715,202,813,216"/>
+<area shape="poly" id="edge29_Node000010_Node000010" title=" " alt="" coords="916,528,902,522,880,520,860,522,848,527,843,533,844,540,839,541,837,531,844,522,859,517,881,515,904,517,918,523"/>
+<area shape="rect" id="Node000011" href="$class_pathfinder.html#a1344fcfed05c378f63d134f2f1f73365" title=" " alt="" coords="551,792,729,819"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="869,599,851,642,825,691,790,741,746,782,725,794,723,789,743,778,786,737,820,689,846,640,864,597"/>
+<area shape="rect" id="Node000014" href="$class_pathfinder.html#a2993bb7b20db15460d180d0790b03aa5" title="Checks cost between given locations." alt="" coords="30,843,209,869"/>
+<area shape="poly" id="edge28_Node000010_Node000014" title=" " alt="" coords="875,600,861,655,837,719,820,752,799,782,775,810,746,833,710,853,673,870,595,893,514,905,433,907,355,903,283,895,171,873,173,867,284,889,355,898,433,902,513,899,594,888,671,865,708,848,743,828,771,806,795,779,815,749,832,717,856,653,870,599"/>
+<area shape="rect" id="Node000015" href="$class_pathfinder.html#ab27d2b0717ee17d52320053522bf7567" title="Can we build any path at all between the locations (terrain &amp; buildings check &#45; fast)" alt="" coords="550,725,730,768"/>
+<area shape="poly" id="edge17_Node000010_Node000015" title=" " alt="" coords="857,598,809,654,779,683,746,709,712,727,709,722,743,704,775,679,805,650,853,595"/>
+<area shape="rect" id="Node000016" href="$class_pathfinder.html#adae75f06567b818864dbef0426a3cb66" title=" " alt="" coords="556,408,724,451"/>
+<area shape="poly" id="edge19_Node000010_Node000016" title=" " alt="" coords="842,533,796,498,743,465,717,454,720,449,746,460,799,494,845,529"/>
+<area shape="rect" id="Node000017" href="$class_pathfinder.html#a5ba2f0a911ca1c5eaed30d51a287907e" title=" " alt="" coords="282,383,488,425"/>
+<area shape="poly" id="edge23_Node000010_Node000017" title=" " alt="" coords="860,529,841,495,815,459,782,424,743,398,710,385,675,377,602,370,531,374,469,385,468,379,531,369,602,365,675,371,711,380,746,394,786,420,819,455,846,492,865,526"/>
+<area shape="rect" id="Node000018" href="$class_pathfinder.html#ac21829aeaa446d39d157d1ef8dd01d13" title=" " alt="" coords="5,336,234,363"/>
+<area shape="poly" id="edge24_Node000010_Node000018" title=" " alt="" coords="864,528,847,487,821,442,786,398,766,380,743,365,669,333,591,314,510,304,430,303,354,308,284,316,173,338,172,333,283,311,353,302,430,298,511,299,592,309,671,328,746,360,769,376,790,395,825,439,851,485,869,526"/>
+<area shape="rect" id="Node000019" href="$class_pathfinder.html#ac99bc6649455c2bcf471b46099d7d29e" title="Find a short, valid path between given locations." alt="" coords="28,491,211,517"/>
+<area shape="poly" id="edge25_Node000010_Node000019" title=" " alt="" coords="850,597,803,635,775,652,745,665,657,669,500,666,281,657,230,627,186,589,151,550,128,519,132,516,155,547,189,585,233,623,282,652,500,661,657,664,744,660,773,647,800,631,846,593"/>
+<area shape="rect" id="Node000020" href="$class_pathfinder.html#a34f54b2fb956805e907bca1f942ca1f9" title=" " alt="" coords="559,608,721,651"/>
+<area shape="poly" id="edge26_Node000010_Node000020" title=" " alt="" coords="788,591,721,610,719,605,786,586"/>
+<area shape="rect" id="Node000022" href="$class_pathfinder.html#ab46ceae4aa1db561c568d4d92029d9db" title="Return true if given position is a valid movement location." alt="" coords="552,475,728,517"/>
+<area shape="poly" id="edge30_Node000010_Node000022" title=" " alt="" coords="786,539,719,521,721,515,788,534"/>
+<area shape="rect" id="Node000023" href="$class_pathfinder.html#a9408eb512d2f3d18f8d539b81cf5908a" title="Return true if given position is a valid movement location." alt="" coords="552,541,728,584"/>
+<area shape="poly" id="edge31_Node000010_Node000023" title=" " alt="" coords="777,565,729,565,729,560,777,560"/>
+<area shape="rect" id="Node000012" href="$class_pathfinder.html#ad65e0c1bd181eb4ef59fb98da473c27c" title=" " alt="" coords="295,792,474,819"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="535,808,475,808,475,803,535,803"/>
+<area shape="rect" id="Node000013" href="$class_pathfinder.html#a9aa5311f6a9129dd6141eb51d1453953" title=" " alt="" coords="25,792,214,819"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="279,808,215,808,215,803,279,803"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="297,825,194,845,193,839,296,820"/>
+<area shape="poly" id="edge15_Node000013_Node000013" title=" " alt="" coords="166,780,150,773,119,771,91,773,76,778,72,783,79,790,75,793,67,783,73,773,90,767,120,765,151,768,168,775"/>
+<area shape="poly" id="edge18_Node000015_Node000012" title=" " alt="" coords="535,773,447,794,446,789,534,768"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="541,422,488,417,489,412,541,417"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="266,382,188,366,189,361,267,377"/>
+<area shape="poly" id="edge22_Node000017_Node000019" title=" " alt="" coords="312,434,158,493,156,488,311,429"/>
+<area shape="rect" id="Node000021" href="$class_pathfinder.html#a71c14ce6902e551be4620463581719a5" title="Return true if the straight line between the given points is passable." alt="" coords="297,616,473,643"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="544,632,473,632,473,627,544,627"/>
+</map>

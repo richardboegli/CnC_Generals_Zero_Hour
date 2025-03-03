@@ -1,0 +1,27 @@
+var struct_audio_streamer_tag =
+[
+    [ "buffering", "struct_audio_streamer_tag.html#ad2d77b75a62fd456328d98ddc203b634", null ],
+    [ "bytes_left", "struct_audio_streamer_tag.html#a320377ea6e52c7d9342ff2e6182d6c69", null ],
+    [ "channel", "struct_audio_streamer_tag.html#a176156c57d467a2f14d68c4f068a2914", null ],
+    [ "data_start", "struct_audio_streamer_tag.html#a543adc257afc209dbe7b679c7494cfb7", null ],
+    [ "device", "struct_audio_streamer_tag.html#af08f5466f8ab383f0347ec481e84f336", null ],
+    [ "end_time_stamp", "struct_audio_streamer_tag.html#a41ffc603cdaa24ec8eadaa2ccbd38ab6", null ],
+    [ "file", "struct_audio_streamer_tag.html#a818fc014285917307501771dd3731b28", null ],
+    [ "flags", "struct_audio_streamer_tag.html#a49e0b95754275c12eadb4ac2b3d55625", null ],
+    [ "format", "struct_audio_streamer_tag.html#aa73a9419c81be968f63177759adf7c6b", null ],
+    [ "frame_size", "struct_audio_streamer_tag.html#a0919c918b3fd104c887a73e85eb015f3", null ],
+    [ "in", "struct_audio_streamer_tag.html#a13e726e49c3dae855cb449d148cfc520", null ],
+    [ "lock", "struct_audio_streamer_tag.html#aaee7abd99fb64d04996f09bc8619441f", null ],
+    [ "max_volume", "struct_audio_streamer_tag.html#ae9deb9cf817c930c3000038272336463", null ],
+    [ "name", "struct_audio_streamer_tag.html#aeaa0b4c8802c82dc3926c5fa7c458583", null ],
+    [ "nd", "struct_audio_streamer_tag.html#a16dae5dac02944dabf5d5e87d14710ca", null ],
+    [ "out", "struct_audio_streamer_tag.html#aa1f4d2833be693b033a260b6ffd45beb", null ],
+    [ "pause", "struct_audio_streamer_tag.html#a86659a0d492d9be824c94a1af139692a", null ],
+    [ "pending_bytes", "struct_audio_streamer_tag.html#add101ede708cbd9474810165c0110aa2", null ],
+    [ "sample", "struct_audio_streamer_tag.html#a9bef204d7a79cc7c13a9671c25b59050", null ],
+    [ "start_time_stamp", "struct_audio_streamer_tag.html#a9d97435ae27f4684d208c27e5ff41fbd", null ],
+    [ "stream", "struct_audio_streamer_tag.html#aabe695cda74333b130057544682de206", null ],
+    [ "stream_name", "struct_audio_streamer_tag.html#a55487eb54d729c102c169ec080d60d9a", null ],
+    [ "stream_pos", "struct_audio_streamer_tag.html#a4676e1f413bc09903534b277a514e463", null ],
+    [ "total_bytes", "struct_audio_streamer_tag.html#a7ebc42f4cf1d1ebcebcbd383bc06ca9b", null ]
+];

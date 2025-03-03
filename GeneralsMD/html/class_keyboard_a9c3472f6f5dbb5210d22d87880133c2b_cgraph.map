@@ -1,0 +1,24 @@
+<map id="Keyboard::update" name="Keyboard::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,129,108"/>
+<area shape="rect" id="Node000002" href="$class_keyboard.html#ac38ac0a2feab26b918411313119d7e66" title="update the state of our key data" alt="" coords="177,81,330,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,92,161,92,161,97,129,97"/>
+<area shape="rect" id="Node000003" href="$class_keyboard.html#a4ea3a4f0751186da5ccff07b32d354a1" title="check for repeating keys" alt="" coords="378,5,562,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,78,377,41,399,34,401,39,379,47,287,83"/>
+<area shape="rect" id="Node000004" href="$class_keyboard.html#af12bf8415ea4d04a2bbb27fcf5ab7377" title=" " alt="" coords="408,56,533,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="330,83,392,76,392,81,330,88"/>
+<area shape="rect" id="Node000005" href="$class_keyboard.html#acde38aaa5fdaf1783a286a73a066d495" title="reset the state of the keys" alt="" coords="398,107,542,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="330,101,383,107,383,112,330,106"/>
+<area shape="rect" id="Node000007" href="$class_keyboard.html#ad9cab1b7699692008d234ccb4e66ab8a" title="translte key code to printable UNICODE char" alt="" coords="392,169,549,196"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="290,106,422,161,420,165,288,111"/>
+<area shape="rect" id="Node000006" href="$class_keyboard.html#ae939e358e4777d75a2c529ab1879f299" title="get state of caps lock key, return TRUE if down" alt="" coords="624,93,788,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="542,113,608,110,608,115,542,119"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="506,166,610,129,634,122,636,127,611,135,508,171"/>
+<area shape="rect" id="Node000008" href="$class_keyboard.html#a7229ed2fae7f23f184c3af7d9a037f24" title="get key state bit" alt="" coords="620,144,792,171"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="549,172,604,166,605,171,549,177"/>
+<area shape="rect" id="Node000009" href="$class_keyboard.html#af3ecc07d76d07d30b19066f64aa3aa02" title="get key status" alt="" coords="610,195,802,221"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="549,188,595,193,595,199,549,194"/>
+<area shape="rect" id="Node000010" href="$class_keyboard.html#acbfd9cd3c9b4b41ea83cdb7ff479286d" title=" " alt="" coords="645,245,767,272"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="508,194,611,231,636,238,634,243,610,236,506,199"/>
+<area shape="rect" id="Node000011" href="$class_keyboard.html#a54a4c9c7f424202d69022784771ad096" title="set key status" alt="" coords="610,296,802,323"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="488,195,541,237,575,261,612,282,627,288,625,293,609,286,572,266,537,242,485,199"/>
+</map>

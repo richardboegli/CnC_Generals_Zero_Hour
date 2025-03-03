@@ -1,0 +1,28 @@
+<map id="TerrainRoadType::TerrainRoadType" name="TerrainRoadType::TerrainRoadType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="903,160,1069,203"/>
+<area shape="rect" id="Node000002" href="$class_terrain_road_type.html#a6e3c111927c891315f263a72130e0baf" title=" " alt="" coords="651,72,811,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="906,157,794,118,796,113,908,152"/>
+<area shape="rect" id="Node000010" href="$class_terrain_road_type.html#acbebef64208141495af455f66721043e" title=" " alt="" coords="203,139,362,181"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="887,181,363,165,363,160,887,176"/>
+<area shape="rect" id="Node000011" href="$class_terrain_road_type.html#a2bb6764e3e82b9d8568a9081dffbce88" title=" " alt="" coords="607,193,855,220"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="887,194,855,197,855,192,887,188"/>
+<area shape="rect" id="Node000012" href="$class_terrain_road_type.html#abaf50ddffeaf6de7a59016226f94fa62" title=" " alt="" coords="623,244,839,287"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="919,211,856,235,818,246,817,241,854,229,917,206"/>
+<area shape="rect" id="Node000003" href="$class_terrain_road_collection.html#a507ac6b6c291fc6a2d6871e5071d1a5f" title="get next bridge" alt="" coords="410,72,559,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="636,96,560,96,560,91,636,91"/>
+<area shape="rect" id="Node000007" href="$class_terrain_road_collection.html#ae4a6c11052e0dcf2a135dfe0506d2d30" title="get next road" alt="" coords="410,5,559,48"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="636,70,559,49,561,44,637,65"/>
+<area shape="rect" id="Node000004" href="$class_terrain_road_collection.html#a2ed002ab51e2027a25db3734b5050f78" title="find bridge with matching name" alt="" coords="208,72,357,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,96,357,96,357,91,394,91"/>
+<area shape="rect" id="Node000005" href="$class_terrain_road_collection.html#ad4e0469e2a80affcc1dabee04c9ae394" title="search roads and bridges" alt="" coords="5,5,155,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,69,146,51,148,46,202,64"/>
+<area shape="rect" id="Node000006" href="$class_terrain_road_collection.html#a1120981f3181f255fe987aa132f3966d" title="allocate new bridge, assign name, and link" alt="" coords="5,139,155,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="202,122,148,141,146,135,201,117"/>
+<area shape="rect" id="Node000008" href="$class_terrain_road_collection.html#a2cba051d9c7c95919a8bea32c9270a80" title="find road with matching name" alt="" coords="208,5,357,48"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="394,29,357,29,357,24,394,24"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="192,29,155,29,155,24,192,24"/>
+<area shape="rect" id="Node000009" href="$class_terrain_road_collection.html#aa3d574ee257ba7b3fc815f6af0dd241e" title="allocate new road, assing name, and link to list" alt="" coords="5,72,155,115"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="202,56,148,74,146,69,201,51"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="187,163,155,163,155,157,187,157"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="201,136,146,118,148,113,202,131"/>
+</map>

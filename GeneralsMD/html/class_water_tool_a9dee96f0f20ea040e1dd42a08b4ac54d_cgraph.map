@@ -1,0 +1,80 @@
+<map id="WaterTool::fillTheArea" name="WaterTool::fillTheArea">
+<area shape="rect" id="Node000001" title="Perform the fill water area on mouse down." alt="" coords="5,760,155,787"/>
+<area shape="rect" id="Node000002" href="$class_c_world_builder_doc.html#a20128185ca8b462079450faa706cf5b8" title=" " alt="" coords="209,73,392,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,759,84,673,102,533,117,451,138,366,165,281,200,201,228,160,260,125,264,128,232,163,205,204,170,283,143,367,122,452,107,533,90,674,84,760"/>
+<area shape="rect" id="Node000007" href="$class_polygon_trigger.html#a6c3a1895f6fc803eaa2fddf5883549f7" title=" " alt="" coords="730,360,897,387"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="80,759,89,709,110,639,126,602,146,566,171,532,201,504,241,486,294,474,356,467,423,464,555,459,611,455,655,447,720,421,775,392,778,397,722,426,656,452,612,460,555,465,423,469,356,472,295,479,242,491,204,509,175,536,150,568,130,604,115,641,95,711,86,760"/>
+<area shape="rect" id="Node000009" href="$class_water_tool.html#a6f7be8f1fa9665663375f59be3749d14" title="Adjust the spacing." alt="" coords="216,309,385,336"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="81,759,91,699,112,608,148,504,172,452,201,404,230,370,263,343,266,347,234,374,205,407,177,455,153,506,118,610,96,700,86,760"/>
+<area shape="rect" id="Node000010" href="$class_polygon_trigger.html#a1205f6a0731ab4d682325cb0768ff9b8" title=" " alt="" coords="451,157,650,184"/>
+<area shape="poly" id="edge37_Node000001_Node000010" title=" " alt="" coords="78,760,79,682,83,624,91,559,106,490,128,421,159,355,201,296,225,272,251,251,311,218,374,195,435,181,436,186,376,201,313,223,254,255,228,276,205,299,164,357,133,423,111,492,97,560,88,625,84,682,83,760"/>
+<area shape="rect" id="Node000014" href="$class_polygon_trigger.html#a0af9752243487b934684a7d3133e19e6" title=" " alt="" coords="446,411,655,437"/>
+<area shape="poly" id="edge41_Node000001_Node000014" title=" " alt="" coords="79,759,85,701,102,617,118,572,139,528,166,488,201,454,231,435,263,421,331,405,399,402,462,406,461,411,399,407,332,411,264,426,233,440,204,458,170,491,143,530,123,574,107,619,90,702,84,760"/>
+<area shape="rect" id="Node000015" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="213,519,388,561"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="85,759,126,679,160,629,201,585,226,567,229,571,204,589,164,633,130,682,89,761"/>
+<area shape="rect" id="Node000017" href="$class_ascii_string.html#ac437c02220eb93cc667a308b86e15223" title=" " alt="" coords="236,623,365,649"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="93,758,139,717,201,672,241,653,243,658,204,677,143,721,97,762"/>
+<area shape="rect" id="Node000021" href="$class_world_height_map.html#af3c527f3f8d8e727aaa496e1d0121049" title=" " alt="" coords="710,680,917,707"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="137,757,202,744,333,727,466,713,694,696,694,702,466,718,334,732,203,749,138,762"/>
+<area shape="rect" id="Node000022" href="$class_tool.html#af51738b71a2684cb0b29fbe7211f66da" title="Gets the cell index for the center of the brush." alt="" coords="229,785,372,812"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="155,779,214,786,213,791,155,785"/>
+<area shape="rect" id="Node000024" href="$class_c_world_builder_doc.html#a21ca7ec137f392a0147ff73637780f6d" title=" " alt="" coords="703,735,924,761"/>
+<area shape="poly" id="edge35_Node000001_Node000024" title=" " alt="" coords="155,768,688,750,688,755,155,773"/>
+<area shape="rect" id="Node000025" href="$class_world_height_map.html#a48ec74ccb436e57f980ecc1620ce5f38" title="number of vertices in x" alt="" coords="718,804,909,831"/>
+<area shape="poly" id="edge39_Node000001_Node000025" title=" " alt="" coords="108,785,152,805,203,821,269,834,337,841,473,846,600,841,706,831,706,836,600,846,473,852,337,847,269,839,202,827,150,810,106,790"/>
+<area shape="rect" id="Node000026" href="$class_world_height_map.html#aee13db31f1aefbb05ca395b1f0acb1e2" title="number of vertices in y" alt="" coords="718,884,909,911"/>
+<area shape="poly" id="edge40_Node000001_Node000026" title=" " alt="" coords="98,785,143,820,172,837,204,851,268,870,334,884,469,900,596,905,703,903,703,908,596,911,469,906,334,889,266,875,202,856,170,842,140,824,95,789"/>
+<area shape="rect" id="Node000027" href="$class_world_height_map.html#a7b734261e23dbb57c9afdbbb00fa2bd7" title="Get height in normal coordinates." alt="" coords="210,945,391,972"/>
+<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="91,786,133,852,166,891,204,924,226,937,223,941,201,929,162,895,129,855,86,788"/>
+<area shape="rect" id="Node000028" href="$class_polygon_trigger.html#a68499623c02940cb78dd8d4ec33a457c" title=" " alt="" coords="226,996,374,1023"/>
+<area shape="poly" id="edge36_Node000001_Node000028" title=" " alt="" coords="88,786,101,825,124,879,159,935,180,960,204,982,213,988,210,992,201,986,176,964,154,938,120,881,96,827,83,788"/>
+<area shape="rect" id="Node000029" href="$class_water_options.html#a4ae23fe8554c29c4f4dd55adae796807" title=" " alt="" coords="214,1047,387,1073"/>
+<area shape="poly" id="edge38_Node000001_Node000029" title=" " alt="" coords="86,787,96,834,118,901,133,937,153,972,176,1004,204,1033,210,1037,206,1041,201,1037,172,1008,148,975,129,939,113,903,91,835,81,788"/>
+<area shape="rect" id="Node000030" href="$class_polygon_trigger.html#a687ab2f65cb6e54c74a2e8449ab6db58" title=" " alt="" coords="203,1097,398,1124"/>
+<area shape="poly" id="edge42_Node000001_Node000030" title=" " alt="" coords="85,787,92,842,111,922,127,966,147,1009,173,1049,204,1083,209,1087,206,1091,201,1087,169,1052,142,1011,122,968,106,924,87,843,80,787"/>
+<area shape="rect" id="Node000031" href="$class_water_options.html#a0bcba38f1c6d980e4c55d08f90d8ecc9" title=" " alt="" coords="227,1148,374,1175"/>
+<area shape="poly" id="edge43_Node000001_Node000031" title=" " alt="" coords="84,787,89,850,105,944,121,995,141,1046,169,1093,204,1134,215,1142,211,1146,201,1138,165,1096,137,1048,115,997,100,945,84,851,79,787"/>
+<area shape="rect" id="Node000032" href="$class_wb_view.html#a83ae1821894d3402a162a93504db8028" title=" " alt="" coords="208,1199,393,1225"/>
+<area shape="poly" id="edge44_Node000001_Node000032" title=" " alt="" coords="84,787,85,858,90,908,99,965,114,1024,136,1082,165,1137,205,1185,208,1188,205,1192,201,1189,161,1140,131,1085,109,1025,94,966,85,909,80,858,78,787"/>
+<area shape="rect" id="Node000003" href="$class_undoable.html#adb42b911d15cadd820d44bb158f76d4f" title="pure virtual." alt="" coords="500,5,601,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,70,445,41,484,31,486,36,447,47,361,75"/>
+<area shape="rect" id="Node000004" href="$class_undoable.html#ade77f55f08f5a4fb521274f1560d2959" title=" " alt="" coords="484,107,617,133"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="392,101,469,109,468,114,392,107"/>
+<area shape="rect" id="Node000006" href="$class_undoable.html#a89e9f89c42e727b6de15f596dff9f0bf" title="Link another undoable to this." alt="" coords="482,56,619,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="392,83,467,75,467,80,392,88"/>
+<area shape="rect" id="Node000005" href="$class_undoable.html#aa057dcab641952fbd6961f19b755a240" title="Create a new undoable." alt="" coords="744,81,883,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="618,111,728,100,729,105,618,116"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="620,73,728,84,728,89,619,79"/>
+<area shape="rect" id="Node000008" href="$class_polygon_trigger.html#a215e29a642d0227ff66fb7e41c33eec0" title=" " alt="" coords="972,360,1144,387"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="898,371,957,371,957,376,898,376"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="373,334,446,345,586,359,714,367,714,372,586,364,446,351,372,339"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="316,307,396,238,419,214,445,194,458,188,460,192,447,198,422,218,400,242,320,311"/>
+<area shape="rect" id="Node000011" href="$class_polygon_trigger.html#a39628862c3e01df9d407cbaad749f3cd" title="Get a point." alt="" coords="468,208,633,235"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="323,306,377,275,445,244,467,237,469,242,447,249,380,280,325,311"/>
+<area shape="rect" id="Node000012" href="$class_polygon_trigger.html#a45674d2685c4fe447267d8ade6933e64" title="Gets the trigger name." alt="" coords="446,259,655,285"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="369,306,466,286,467,292,371,311"/>
+<area shape="rect" id="Node000013" href="$class_polygon_trigger.html#af48cd640a256c34c833caf5f554c6bfb" title=" " alt="" coords="468,309,633,336"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="386,320,453,320,453,325,386,325"/>
+<area shape="poly" id="edge16_Node000009_Node000014" title=" " alt="" coords="329,334,383,361,447,390,485,403,484,408,445,394,381,366,327,339"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="624,334,726,354,725,359,623,339"/>
+<area shape="rect" id="Node000016" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="480,512,621,555"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="389,535,465,533,465,538,389,540"/>
+<area shape="poly" id="edge21_Node000017_Node000017" title=" " alt="" coords="263,624,256,614,261,604,276,598,300,596,326,599,340,605,338,610,325,604,300,601,277,603,265,608,262,613,267,621"/>
+<area shape="rect" id="Node000018" href="$class_ascii_string.html#a89173ff29e07403f748cd6cfd8206b90" title=" " alt="" coords="980,579,1136,605"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="365,635,611,634,767,627,923,615,979,606,980,611,924,620,767,633,611,639,365,640"/>
+<area shape="rect" id="Node000019" href="$class_ascii_string.html#a1127a899738f53fde32987855f94a58d" title=" " alt="" coords="476,579,626,605"/>
+<area shape="poly" id="edge22_Node000017_Node000019" title=" " alt="" coords="365,630,494,607,495,612,366,635"/>
+<area shape="poly" id="edge24_Node000019_Node000017" title=" " alt="" coords="476,599,357,621,356,616,475,594"/>
+<area shape="poly" id="edge23_Node000019_Node000018" title=" " alt="" coords="620,575,703,564,814,558,924,564,982,573,981,578,923,569,814,563,704,569,621,581"/>
+<area shape="rect" id="Node000020" href="$class_ascii_string.html#a9dfe04dc3a0bc8d7a1923193e90f146a" title=" " alt="" coords="758,579,869,605"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="626,589,743,589,743,595,626,595"/>
+<area shape="poly" id="edge26_Node000020_Node000018" title=" " alt="" coords="869,589,964,589,964,595,869,595"/>
+<area shape="rect" id="Node000023" href="$class_c_world_builder_doc.html#ad644d788cd471f9cf0935e48528139cd" title="Gets an xy index into the height map from a pixel location." alt="" coords="462,781,639,824"/>
+<area shape="poly" id="edge29_Node000022_Node000023" title=" " alt="" coords="372,797,447,798,447,804,372,802"/>
+<area shape="poly" id="edge30_Node000023_Node000021" title=" " alt="" coords="586,779,640,749,702,720,735,709,737,714,704,725,642,754,589,783"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="639,782,730,762,732,768,640,787"/>
+<area shape="poly" id="edge32_Node000023_Node000025" title=" " alt="" coords="640,805,703,808,702,814,640,810"/>
+<area shape="poly" id="edge33_Node000023_Node000026" title=" " alt="" coords="613,822,761,876,759,881,611,827"/>
+<area shape="rect" id="Node000033" href="$struct_coord3_d.html#ab908b7d10aa7cc8fb535d38963ae620e" title=" " alt="" coords="498,1199,604,1225"/>
+<area shape="poly" id="edge45_Node000032_Node000033" title=" " alt="" coords="394,1209,482,1209,482,1215,394,1215"/>
+</map>

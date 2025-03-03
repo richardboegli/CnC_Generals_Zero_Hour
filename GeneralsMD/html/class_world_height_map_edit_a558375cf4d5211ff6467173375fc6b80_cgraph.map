@@ -1,0 +1,55 @@
+<map id="WorldHeightMapEdit::loadBitmap" name="WorldHeightMapEdit::loadBitmap">
+<area shape="rect" id="Node000001" title="Load a tga bitmap into a set of tiles." alt="" coords="5,187,146,229"/>
+<area shape="rect" id="Node000002" href="$class_world_height_map.html#a6b4e7b031a088ed743221f1ea1587c13" title="Count how many tiles come in from a targa file." alt="" coords="194,19,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,185,130,127,159,95,192,67,223,50,226,54,195,72,163,99,134,131,92,188"/>
+<area shape="rect" id="Node000004" href="$class_cached_file_input_stream.html#aacf153f06b4317624617ca728a309bec" title="Returns true if open succeeded." alt="" coords="207,275,366,317"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,228,220,266,218,271,128,232"/>
+<area shape="rect" id="Node000021" href="$class_world_height_map.html#aa01cace656609bcd9d4e74377caa651d" title=" " alt="" coords="197,81,376,108"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="116,184,245,113,248,118,118,188"/>
+<area shape="rect" id="Node000025" href="$class_cached_file_input_stream.html#a00856d5555a6bcf5f0bd74f0dfbfe041" title=" " alt="" coords="207,341,366,384"/>
+<area shape="poly" id="edge28_Node000001_Node000025" title=" " alt="" coords="95,228,137,277,165,304,195,327,203,332,200,336,192,332,161,308,133,281,91,231"/>
+<area shape="rect" id="Node000003" href="$class_input_stream.html#a274d06840aa23444c6b5f6111d2b0ae4" title=" " alt="" coords="448,5,573,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,24,432,21,432,26,380,29"/>
+<area shape="rect" id="Node000005" href="$class_file.html#ac1bc5107d697caba3c04e80052d48b09" title="Close the file !!! File object no longer valid after this call !!!" alt="" coords="470,157,551,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,272,362,233,426,194,454,182,456,187,428,198,365,237,314,276"/>
+<area shape="rect" id="Node000009" href="$class_compression_manager.html#a16e4f016974f505d73ab04e0e770fff9" title=" " alt="" coords="436,341,584,384"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="361,315,422,334,421,339,359,320"/>
+<area shape="rect" id="Node000014" href="$class_compression_manager.html#aa07016b788e0e95e85f297057f6fa530" title=" " alt="" coords="430,208,591,251"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="359,272,421,253,422,258,361,277"/>
+<area shape="rect" id="Node000015" href="$class_compression_manager.html#ab84a7402b93650ceeae0926081b2affc" title=" " alt="" coords="436,275,584,317"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="366,293,421,293,421,299,366,299"/>
+<area shape="rect" id="Node000016" href="$class_file.html#aabc4492f7bf7a81a9a8348559b823470" title=" " alt="" coords="427,408,593,435"/>
+<area shape="poly" id="edge17_Node000004_Node000016" title=" " alt="" coords="362,316,381,327,397,345,405,362,413,378,429,394,436,399,433,403,425,398,409,381,400,364,392,348,377,331,359,320"/>
+<area shape="rect" id="Node000017" href="$class_file.html#a94cabb01bc93d19a70bd94025529ae72" title="Returns the size of the file." alt="" coords="473,483,547,509"/>
+<area shape="poly" id="edge18_Node000004_Node000017" title=" " alt="" coords="366,316,381,327,393,342,401,357,407,386,412,415,418,430,429,445,445,460,463,472,461,477,442,464,425,448,414,432,407,417,402,387,396,359,389,345,377,331,362,320"/>
+<area shape="rect" id="Node000019" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="456,533,564,560"/>
+<area shape="poly" id="edge21_Node000004_Node000019" title=" " alt="" coords="367,316,381,328,398,353,405,377,407,402,405,426,403,450,405,473,412,496,429,519,444,531,441,535,425,523,408,499,400,474,398,450,400,426,401,402,400,378,393,355,377,331,364,320"/>
+<area shape="rect" id="Node000006" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="641,147,817,189"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="551,168,626,167,626,172,551,173"/>
+<area shape="rect" id="Node000008" href="$class_file.html#ae11b9d5f21bf2d19bd6a66dad91e1bea" title="Set the name of the file." alt="" coords="677,213,781,240"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="552,178,663,207,662,212,550,184"/>
+<area shape="rect" id="Node000007" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="865,147,1005,189"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="817,165,849,165,849,171,817,171"/>
+<area shape="rect" id="Node000010" href="$btreedecode_8cpp.html#a3c23ae2eda7b99ef99e9ce74d8200f98" title=" " alt="" coords="671,331,787,357"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="584,354,656,348,656,353,585,359"/>
+<area shape="rect" id="Node000011" href="$class_compression_manager.html#a77b493907f35c0a504cb7af8d5d4974c" title=" " alt="" coords="653,264,805,307"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="572,338,652,310,653,315,574,343"/>
+<area shape="rect" id="Node000012" href="$huffdecode_8cpp.html#a985f03a830b2659d6a2bcbea19fb14e9" title=" " alt="" coords="676,381,782,408"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="585,371,661,382,660,387,584,376"/>
+<area shape="rect" id="Node000013" href="$refdecode_8cpp.html#a0e4d7ca27f8f7d47b6aa36601fccc1d6" title=" " alt="" coords="680,432,778,459"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="568,382,594,394,642,418,666,426,665,431,640,422,592,398,566,387"/>
+<area shape="poly" id="edge14_Node000014_Node000011" title=" " alt="" coords="592,247,639,259,637,265,591,253"/>
+<area shape="poly" id="edge16_Node000015_Node000011" title=" " alt="" coords="585,290,637,287,637,292,585,295"/>
+<area shape="poly" id="edge20_Node000017_Node000017" title=" " alt="" coords="473,484,467,474,471,464,486,458,510,456,536,459,550,465,548,470,535,464,510,461,487,463,475,468,472,473,478,481"/>
+<area shape="rect" id="Node000018" href="$class_file.html#a915f7ba523c7d675f0d8271d329548ee" title=" " alt="" coords="690,483,768,509"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="548,493,674,493,674,499,548,499"/>
+<area shape="rect" id="Node000020" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="669,533,789,560"/>
+<area shape="poly" id="edge22_Node000019_Node000020" title=" " alt="" coords="564,544,653,544,653,549,564,549"/>
+<area shape="poly" id="edge25_Node000021_Node000003" title=" " alt="" coords="323,78,426,41,447,35,449,40,428,47,325,83"/>
+<area shape="rect" id="Node000022" href="$class_tile_data.html#afe73a6a1b9bb4c6e9b49f39815ff4ce3" title=" " alt="" coords="440,56,581,83"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="375,82,424,76,424,82,376,87"/>
+<area shape="rect" id="Node000023" href="$class_tile_data.html#a146c9a3a71f9b11a59ea96c7b12b00b0" title=" " alt="" coords="438,107,583,133"/>
+<area shape="poly" id="edge26_Node000021_Node000023" title=" " alt="" coords="376,102,422,107,422,113,375,107"/>
+<area shape="rect" id="Node000024" href="$class_tile_data.html#ade93e1c1fb73cd333b00f9cfd4c0d702" title=" " alt="" coords="672,96,786,123"/>
+<area shape="poly" id="edge27_Node000023_Node000024" title=" " alt="" coords="583,114,657,110,657,115,584,119"/>
+</map>

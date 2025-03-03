@@ -1,0 +1,57 @@
+<map id="Drawable::calcPhysicsXformHoverOrWings" name="Drawable::calcPhysicsXformHoverOrWings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,628,196,671"/>
+<area shape="rect" id="Node000002" href="$class_physics_behavior.html#aeb1bf1ef9ddf3f9415b34c2d260f3610" title="get last frame&#39;s acceleration" alt="" coords="257,5,474,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,628,115,507,142,331,161,240,184,156,211,88,226,62,242,42,245,39,249,43,246,46,230,65,216,91,189,158,166,241,147,332,120,508,106,628"/>
+<area shape="rect" id="Node000003" href="$class_locomotor.html#a981e8689d97a565135063d5f34b6f726" title="Maximum amount we will pitch up or down under acceleration (including recoil.)" alt="" coords="280,56,452,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,627,118,518,148,363,167,283,189,210,214,150,242,109,265,92,268,97,246,113,219,152,194,212,172,284,153,364,124,519,107,628"/>
+<area shape="rect" id="Node000004" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="270,123,462,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,627,100,540,106,480,116,414,134,345,160,277,195,214,217,185,242,159,255,150,258,154,245,163,221,189,199,217,164,279,139,346,122,415,111,481,105,540,104,627"/>
+<area shape="rect" id="Node000005" href="$class_locomotor.html#a4bc9cb0e375cc15e43bd36cfc6f4994d" title="Maximum amount we will pitch down under deceleration (including recoil.)" alt="" coords="280,173,452,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="100,627,106,552,127,444,145,385,169,327,201,273,242,226,264,211,267,215,245,230,206,276,174,330,150,387,132,445,111,552,105,628"/>
+<area shape="rect" id="Node000006" href="$class_locomotor.html#affb54b2f71a71611c78f0efbfb41d515" title="How much we roll in response to acceleration." alt="" coords="258,240,474,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="101,627,112,562,135,472,153,423,177,376,206,331,242,293,246,289,249,294,246,297,210,335,181,378,158,425,140,474,117,563,107,628"/>
+<area shape="rect" id="Node000007" href="$class_locomotor.html#acc2bc78fb3efa34169caa83f875f5ed3" title="How much we roll in response to acceleration." alt="" coords="244,307,488,333"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="103,627,115,570,140,492,159,451,182,412,209,375,242,343,248,339,251,343,245,347,213,378,186,414,164,454,145,494,120,571,108,628"/>
+<area shape="rect" id="Node000008" href="$class_locomotor.html#a0efc102f88980919e54a4ce78e6f5391" title="How much we pitch in response to acceleration." alt="" coords="258,357,474,384"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="105,627,120,578,148,514,188,449,213,419,242,394,249,389,252,393,245,398,217,423,192,452,152,517,125,580,110,628"/>
+<area shape="rect" id="Node000009" href="$class_locomotor.html#a25a5db182436fc918de1e19227cc54ec" title="How much we pitch in response to speed." alt="" coords="265,408,466,435"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="108,626,127,587,156,537,194,487,217,464,242,444,251,439,254,444,245,449,220,468,198,490,160,540,132,589,113,629"/>
+<area shape="rect" id="Node000010" href="$class_locomotor.html#a672f271ad87d747cd09d6ed269a0a41d" title="How much we roll in response to acceleration." alt="" coords="262,459,470,485"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="113,626,164,560,201,525,242,495,255,489,257,494,245,500,204,529,168,564,118,629"/>
+<area shape="rect" id="Node000011" href="$class_locomotor.html#a18801013acd49fdfd10c9e9558de10d8" title="How much we roll in response to speed." alt="" coords="269,509,462,536"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="124,626,176,584,208,563,243,546,261,538,263,543,245,550,211,568,179,589,127,630"/>
+<area shape="rect" id="Node000012" href="$class_drawable.html#a93135ba18eeabac12ef693da1a44693a" title="return object ID bound to this drawble" alt="" coords="296,560,436,587"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="157,625,243,596,280,587,281,592,244,601,158,630"/>
+<area shape="rect" id="Node000013" href="$class_object.html#a5f55b81f177f0aa42635aec0135790b7" title=" " alt="" coords="300,611,432,637"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="196,638,284,629,284,634,197,643"/>
+<area shape="rect" id="Node000014" href="$class_locomotor.html#ad700bbe113128f1d8de7bbcde19b1c1c" title="How much we pitch in response to speed." alt="" coords="262,661,470,688"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="197,656,246,661,246,666,196,661"/>
+<area shape="rect" id="Node000015" href="$class_locomotor.html#ae812b44680ae53ee9ee813a2b0f71e9e" title="How good the shock absorbers are." alt="" coords="271,712,461,739"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="158,669,244,697,276,705,274,711,243,703,157,674"/>
+<area shape="rect" id="Node000016" href="$class_locomotor.html#a185fdf41e69340f04816b38f716c01dc" title="How stiff the springs are forward &amp; back." alt="" coords="271,763,460,789"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="127,669,179,710,211,731,245,748,263,755,261,760,243,753,208,735,176,714,124,673"/>
+<area shape="rect" id="Node000017" href="$class_locomotor.html#ad0b1892a0511062cdc5a390d7145684d" title="How good the shock absorbers are." alt="" coords="274,813,458,840"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="118,669,168,735,204,770,245,799,261,807,259,811,242,804,201,774,164,738,113,673"/>
+<area shape="rect" id="Node000018" href="$class_locomotor.html#a9b1b293e620d91d6538dd4e80b349a84" title="How stiff the springs are side to side." alt="" coords="275,864,457,891"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="113,670,132,710,160,759,198,809,220,831,245,850,262,859,259,863,242,854,217,835,194,812,156,762,127,712,108,672"/>
+<area shape="rect" id="Node000019" href="$class_locomotor.html#aabe5ab3f16d7776218b9902696b8dd37" title="How much we roll in response to acceleration." alt="" coords="261,915,471,957"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="110,670,126,718,154,781,193,846,218,875,245,901,251,904,248,909,242,905,214,879,189,849,149,783,121,720,105,672"/>
+<area shape="rect" id="Node000020" href="$class_locomotor.html#a6d94ac56ef4e5a5c9a8460a1bb5bc7ab" title="How much we roll in response to acceleration." alt="" coords="247,981,485,1008"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="107,671,119,731,143,812,161,855,184,896,212,934,245,967,251,971,248,976,242,971,208,938,180,899,157,857,138,814,114,732,102,672"/>
+<area shape="rect" id="Node000021" href="$class_locomotor.html#a5565a6e848ab9f5f7ded395cf8e372c7" title="How much we roll in response to acceleration." alt="" coords="274,1032,458,1075"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="106,671,115,738,138,832,156,883,180,932,209,978,245,1018,262,1030,259,1034,242,1022,205,981,175,935,151,885,133,834,110,739,101,671"/>
+<area shape="rect" id="Node000022" href="$class_thing.html#ab7c6ee5b0f9ed9b7d4c0071dc73f353e" title=" " alt="" coords="261,1099,470,1125"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="104,671,109,750,116,803,128,862,146,923,170,982,203,1037,246,1085,250,1088,246,1092,242,1089,199,1040,166,985,141,925,123,863,111,804,104,750,99,671"/>
+<area shape="rect" id="Node000026" href="$class_physics_behavior.html#a3a5f25f10f10e93fd4b14976bf480327" title="get current velocity" alt="" coords="270,1149,462,1176"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="104,671,105,758,111,818,122,884,139,952,164,1019,199,1082,221,1110,245,1135,258,1145,255,1149,242,1139,217,1113,195,1085,160,1022,134,954,116,885,106,819,100,758,98,671"/>
+<area shape="rect" id="Node000027" href="$class_physics_behavior.html#a8341e355a7e0fd438ca100113f00949e" title=" " alt="" coords="278,1200,454,1227"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="107,670,123,779,152,935,171,1015,193,1088,218,1147,246,1186,265,1200,262,1204,242,1190,213,1150,188,1090,166,1016,147,936,118,780,102,671"/>
+<area shape="rect" id="Node000028" href="$_base_type_8h.html#a14225aed20ec8648b7e87b04aa650d04" title=" " alt="" coords="346,1251,386,1277"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="107,670,121,788,148,960,168,1048,190,1128,216,1193,230,1218,245,1237,264,1250,286,1258,331,1263,330,1269,285,1263,262,1255,242,1241,226,1221,211,1196,185,1130,162,1049,143,960,115,789,101,671"/>
+<area shape="rect" id="Node000023" href="$_trig_8cpp.html#a04db0710e7e75c631a5da8199b5c0003" title=" " alt="" coords="584,1048,630,1075"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="433,1096,487,1084,569,1067,570,1072,489,1089,434,1101"/>
+<area shape="rect" id="Node000024" href="$class_thing.html#af2c6688c2a7aad6f77d340925bf8537c" title=" " alt="" coords="536,1099,678,1125"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="471,1109,520,1109,520,1115,471,1115"/>
+<area shape="rect" id="Node000025" href="$_trig_8cpp.html#a87cbfe77d6169ebba5c4c95b8525b79f" title=" " alt="" coords="587,1149,627,1176"/>
+<area shape="poly" id="edge24_Node000022_Node000025" title=" " alt="" coords="434,1123,489,1135,572,1153,571,1158,487,1140,433,1128"/>
+</map>

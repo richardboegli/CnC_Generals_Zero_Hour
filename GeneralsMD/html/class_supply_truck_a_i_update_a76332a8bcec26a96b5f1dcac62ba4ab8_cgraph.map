@@ -1,0 +1,50 @@
+<map id="SupplyTruckAIUpdate::gainOneBox" name="SupplyTruckAIUpdate::gainOneBox">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,531,155,573"/>
+<area shape="rect" id="Node000002" href="$class_resource_gathering_manager.html#ab1a61c83f47504fb0f69f2bbf1a132d3" title="What Warehouse should this truck go to?" alt="" coords="209,173,392,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,529,200,344,274,228,279,231,205,347,96,531"/>
+<area shape="rect" id="Node000010" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="209,357,393,384"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="90,529,132,462,164,425,201,394,210,389,213,393,204,398,168,429,137,465,94,532"/>
+<area shape="rect" id="Node000013" href="$class_object.html#a1d1b6d9787b5fd41324930b71427fc95" title="drawable (if any) bound to obj" alt="" coords="231,408,371,435"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="101,528,145,489,201,451,230,438,232,443,204,456,149,494,105,532"/>
+<area shape="rect" id="Node000014" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="474,547,639,573"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="118,528,157,509,202,495,257,485,301,482,345,485,400,495,463,513,517,537,515,542,461,518,398,500,344,490,301,487,258,490,203,500,159,514,120,533"/>
+<area shape="rect" id="Node000015" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="238,509,364,536"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="155,539,222,530,223,536,156,545"/>
+<area shape="rect" id="Node000016" href="$class_player.html#acce0c4d904f24f89eddca1a13391b509" title=" " alt="" coords="203,560,399,603"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="156,559,187,564,187,569,155,565"/>
+<area shape="rect" id="Node000017" href="$class_supply_truck_a_i_update.html#a269c187ebd23896ff82112097bef1d91" title="How far can I look for a warehouse?" alt="" coords="204,627,398,669"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="121,571,204,612,219,618,216,623,202,617,119,576"/>
+<area shape="rect" id="Node000018" href="$struct_coord3_d.html#a795c89b1014410c81a1463f4e1a974af" title=" " alt="" coords="243,693,359,720"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="98,572,141,626,171,655,204,679,229,690,226,695,201,684,167,659,137,630,94,576"/>
+<area shape="rect" id="Node000019" href="$struct_coord3_d.html#ae6bfbfdc984fc2316be6f1a24844569e" title=" " alt="" coords="250,744,352,771"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="92,572,108,607,133,650,165,693,204,730,236,745,233,750,201,734,161,697,128,653,104,610,87,575"/>
+<area shape="rect" id="Node000020" href="$class_drawable.html#a98fff685d92655dbca836d90c249abfc" title="This will do visual feedback on Supplies carried." alt="" coords="212,795,390,837"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="89,573,103,617,127,672,160,730,181,757,204,781,209,784,205,788,201,785,177,761,156,733,122,675,98,618,84,575"/>
+<area shape="rect" id="Node000003" href="$class_object.html#ac3a48aa481f5d7174eebbebb559d1605" title=" " alt="" coords="470,5,643,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,171,367,107,404,71,446,42,458,36,460,40,448,46,407,75,371,110,319,175"/>
+<area shape="rect" id="Node000005" href="$class_object.html#ac50efcf2ad2e22d1f83125ac238c6f45" title=" " alt="" coords="508,56,606,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="325,171,379,131,446,92,491,77,493,82,448,97,382,135,329,175"/>
+<area shape="rect" id="Node000006" href="$class_supply_truck_a_i_interface.html#a2f496d57839ce7f27d7acd9bc9fec1eb" title=" " alt="" coords="478,107,636,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="385,170,462,150,463,155,386,175"/>
+<area shape="rect" id="Node000007" href="$class_a_i_update_interface.html#a9c1e51d110fbcdce6e9a51aae70bcc35" title=" " alt="" coords="468,173,645,216"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="393,192,453,192,453,197,393,197"/>
+<area shape="rect" id="Node000008" href="$class_supply_truck_a_i_interface.html#a28740e2bc43cc484810cf9279f8f3f0c" title="How far can I look for a warehouse?" alt="" coords="460,240,654,283"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="386,214,458,233,457,238,385,219"/>
+<area shape="rect" id="Node000009" href="$_name_key_generator_8h.html#a0928e3a3f7bf4833b472cc839d35b1ae" title=" " alt="" coords="513,307,600,333"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="329,214,382,254,448,292,498,308,497,313,446,297,379,259,325,218"/>
+<area shape="rect" id="Node000004" href="$class_object.html#a60d6a2ad2a8faf22f01c01f597caea9e" title=" " alt="" coords="745,5,876,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="643,16,730,16,730,21,643,21"/>
+<area shape="rect" id="Node000011" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="468,357,646,384"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="394,368,452,368,452,373,394,373"/>
+<area shape="rect" id="Node000012" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="498,408,615,435"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="373,382,483,404,482,409,371,387"/>
+<area shape="poly" id="edge17_Node000017_Node000014" title=" " alt="" coords="365,624,398,612,501,576,502,581,400,617,367,629"/>
+<area shape="rect" id="Node000021" href="$class_drawable.html#aab821e254f31cf382517d16fbe3f08cd" title=" " alt="" coords="466,773,648,800"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="390,803,450,796,450,802,391,808"/>
+<area shape="rect" id="Node000024" href="$class_object_draw_interface.html#ab8c2f628cac6a970ea9c6d544adb43c6" title="This will do visual feedback on Supplies carried." alt="" coords="447,824,666,867"/>
+<area shape="poly" id="edge24_Node000020_Node000024" title=" " alt="" coords="391,824,432,828,431,834,390,829"/>
+<area shape="rect" id="Node000022" href="$class_drawable.html#a88cc11f568a32687ceb341d5c13570b6" title=" " alt="" coords="728,744,893,771"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="648,773,712,766,713,771,649,779"/>
+<area shape="rect" id="Node000023" href="$class_object_draw_interface.html#a8aaa29297677b72c69b82719b276d280" title=" " alt="" coords="714,795,907,837"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="649,795,699,800,699,806,648,800"/>
+</map>

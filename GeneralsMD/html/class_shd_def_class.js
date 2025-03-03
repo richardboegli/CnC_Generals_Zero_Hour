@@ -1,0 +1,27 @@
+var class_shd_def_class =
+[
+    [ "ShdDefClass", "class_shd_def_class.html#a4ae4fa908d778e3322bf4c8d9b87c8fc", null ],
+    [ "ShdDefClass", "class_shd_def_class.html#aafa17301fb87eb2f69f44f9408c6c9a0", null ],
+    [ "~ShdDefClass", "class_shd_def_class.html#a81c1638d7ab6468c868940bec75d6372", null ],
+    [ "Clone", "class_shd_def_class.html#aa692fd101a90306b281289af3ebb9195", null ],
+    [ "Create", "class_shd_def_class.html#a36af536d416c6d50d1ea25f6ac93e329", null ],
+    [ "DECLARE_EDITABLE", "class_shd_def_class.html#a5b4e897643d6c88b5cb785211bfa27ae", null ],
+    [ "Get_Class_ID", "class_shd_def_class.html#abc42b5598473f2b8af6cbcc3b4767eb1", null ],
+    [ "Get_Name", "class_shd_def_class.html#abf7f274e6d8ff8d5e580f52f3f38c22e", null ],
+    [ "Get_Surface_Type", "class_shd_def_class.html#a3f98bd652aea94cf29ca50d225d527e3", null ],
+    [ "Init", "class_shd_def_class.html#ae68eee96cc7685414047147d87048089", null ],
+    [ "Is_Valid_Config", "class_shd_def_class.html#a02b9f65155ed35d0bff296cd5657df4d", null ],
+    [ "Load", "class_shd_def_class.html#a77293682ea3aa958158d916254dcb76d", null ],
+    [ "Requires_Normals", "class_shd_def_class.html#ab48ebee6399289adee4d80d4eb6fc410", null ],
+    [ "Requires_Sorting", "class_shd_def_class.html#a56b43278d8bff5460262e2487393b2ea", null ],
+    [ "Requires_Tangent_Space_Vectors", "class_shd_def_class.html#a8fd3222eed80c9bfa7df25aa15fa4470", null ],
+    [ "Reset", "class_shd_def_class.html#a2c8ddb4cf21c83e26cf4b814c9677fbe", null ],
+    [ "Save", "class_shd_def_class.html#acf6fedfcfc69018afc845167d6db8565", null ],
+    [ "Set_Name", "class_shd_def_class.html#ab777377dd4870809d5e9ffa6fd13ff1d", null ],
+    [ "Set_Surface_Type", "class_shd_def_class.html#ace71e7b2500fe718f63cf3cdf94ebaee", null ],
+    [ "Shutdown", "class_shd_def_class.html#a273c41027e402ff195f11d6df436b07e", null ],
+    [ "Static_Sort_Index", "class_shd_def_class.html#a3ea7e102066aff8a0792390aeffbb727", null ],
+    [ "Uses_UV_Channel", "class_shd_def_class.html#a20fa6c3d0d68f2e5f22581f259426eea", null ],
+    [ "Uses_Vertex_Alpha", "class_shd_def_class.html#a627bc8f144afaf04f4296618c0946509", null ],
+    [ "Uses_Vertex_Colors", "class_shd_def_class.html#a81e7b5855c6b03551c7705f05187c193", null ]
+];

@@ -1,0 +1,32 @@
+<map id="Speaker::nextItem" name="Speaker::nextItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1065,157,1193,184"/>
+<area shape="rect" id="Node000002" href="$class_speaker.html#acf3b385f7bd22d723c4e9660473be30f" title=" " alt="" coords="893,81,1017,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1081,153,986,111,989,106,1083,148"/>
+<area shape="rect" id="Node000012" href="$class_speaker.html#ab755677dbd7732dcc2ea65bfce79425d" title="pause speaker" alt="" coords="899,157,1011,184"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1049,173,1011,173,1011,168,1049,168"/>
+<area shape="rect" id="Node000014" href="$class_speaker.html#ad2a5e7ad8945e56ba5db6fcaa1288cab" title="resume speaking" alt="" coords="895,208,1015,235"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1067,192,1004,210,1003,205,1065,186"/>
+<area shape="rect" id="Node000003" href="$class_speaker.html#abe7cf7c8616b56ce5c7311c90d9ec719" title="cancel pending line of dialog" alt="" coords="704,5,819,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="911,76,844,46,811,35,813,30,846,42,914,72"/>
+<area shape="rect" id="Node000005" href="$class_speaker.html#a13f8db808ad0a58b8938cd518534b14f" title="is line of dialog no longer pending" alt="" coords="699,56,824,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="877,87,824,80,824,75,877,82"/>
+<area shape="rect" id="Node000006" href="$class_speaker.html#a3e77d662d20dec62cda38a9d63ec6ce3" title="check in line of dialog is pending" alt="" coords="682,107,841,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="877,107,842,112,841,107,877,102"/>
+<area shape="rect" id="Node000004" href="$class_speech_manager.html#ad4138abd2310eef80ef61140a14ce5e7" title="remove an event, eventToUse shouldn&#39;t be NULL." alt="" coords="427,19,630,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,28,631,33,630,28,688,23"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="698,104,677,97,586,64,588,59,679,92,700,99"/>
+<area shape="rect" id="Node000007" href="$class_speaker.html#a1e1320c2052deefb2f25393176889296" title="Submits speech to play." alt="" coords="480,107,578,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="667,123,578,123,578,117,667,117"/>
+<area shape="rect" id="Node000008" href="$class_speaker.html#aed2b7d5cebbfaade252f770b8eba4e3e" title=" " alt="" coords="258,81,356,108"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="464,115,356,103,357,98,464,110"/>
+<area shape="rect" id="Node000009" href="$class_speech_manager.html#acee566c7533ae6861a9f04983a6c3fd0" title="Attempts to add a speech to the speach queue." alt="" coords="235,132,379,159"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="465,130,380,140,379,134,464,125"/>
+<area shape="rect" id="Node000010" href="$class_speech_manager.html#a51f920d5cc73a084aab4e59d4048a304" title="Add an event. speech can be NULL." alt="" coords="5,95,187,137"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="219,136,187,131,188,126,220,131"/>
+<area shape="rect" id="Node000011" href="$class_speech_manager.html#a4bebe33ae11843c7aa1c03dca556c23c" title="Attempts to find and add a speech to the speech queue." alt="" coords="24,161,168,188"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="220,160,169,167,168,162,219,155"/>
+<area shape="rect" id="Node000013" href="$class_speech_manager.html#a571bf85c1025be0dbcd4999fc08aa6d1" title="Pauses all speech." alt="" coords="682,157,841,184"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="883,173,841,173,841,168,883,168"/>
+<area shape="rect" id="Node000015" href="$class_speech_manager.html#ae11e949d0eea9100a53ed558c8623ab1" title="Resumes all paused speech." alt="" coords="678,208,845,235"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="879,224,845,224,845,219,879,219"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Pathfinder::clientSafeQuickDoesPathExistForUI" name="Pathfinder::clientSafeQuickDoesPathExistForUI">
+<area shape="rect" id="Node000001" title="Can we build any path at all between the locations (terrain onlyk &#45; fast)" alt="" coords="5,99,186,141"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#af1f9c7ed381480f44cf332b3c95460f9" title="Given a position, return associated grid cell." alt="" coords="251,31,424,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,96,233,67,260,59,262,64,234,72,152,101"/>
+<area shape="rect" id="Node000005" href="$class_pathfind_cell.html#a2f580b553cecee9838a8695af4f510f6" title="get the cell type" alt="" coords="265,81,411,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,108,249,101,250,107,186,113"/>
+<area shape="rect" id="Node000006" href="$class_locomotor_set.html#ad4e952f22fa7d984e1b911ab39f35125" title=" " alt="" coords="234,132,442,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,127,218,130,218,135,186,132"/>
+<area shape="rect" id="Node000007" href="$class_pathfind_cell.html#ac629d644d0c9eea5eae9f3c2c57c4fcf" title=" " alt="" coords="264,183,412,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="152,139,234,168,262,176,260,181,233,173,151,144"/>
+<area shape="rect" id="Node000003" href="$class_pathfinder.html#aaf3f178c4a303a2b7667f8fbfca76669" title="Return the cell at grid coords (x,y)" alt="" coords="504,5,633,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,32,487,25,488,30,425,37"/>
+<area shape="rect" id="Node000004" href="$class_pathfinder.html#af905475ca07d01b687a5f78f0fe65d50" title="Given a world position, return grid cell coordinate." alt="" coords="490,56,646,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,51,475,56,474,62,424,56"/>
+</map>

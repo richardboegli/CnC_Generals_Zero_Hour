@@ -1,0 +1,25 @@
+<map id="Bridge::isPointOnBridge" name="Bridge::isPointOnBridge">
+<area shape="rect" id="Node000001" title="See if the point is on the bridge." alt="" coords="707,164,868,191"/>
+<area shape="rect" id="Node000002" href="$class_pathfind_layer.html#a577b90d693c8fe00248f74aebf6499cd" title=" " alt="" coords="473,5,659,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="763,154,717,108,688,84,658,62,636,51,638,46,661,58,692,79,721,104,767,150"/>
+<area shape="rect" id="Node000005" href="$class_terrain_logic.html#af62142f26b658e470c385b5fa38016a1" title="Find the bridge at a location. NULL means no bridge." alt="" coords="481,72,651,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="749,158,706,135,658,113,625,102,626,97,660,108,709,130,752,154"/>
+<area shape="rect" id="Node000006" href="$class_terrain_logic.html#a786a7b057862d6abe8efd1491a98c66a" title="Find the bridge at a location. NULL means no bridge. Note that the layer value will be used to resolv..." alt="" coords="488,123,645,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="692,166,645,158,646,153,693,160"/>
+<area shape="rect" id="Node000008" href="$class_terrain_logic.html#a521099f15c6d2683598d7e00f1654e02" title=" " alt="" coords="482,189,650,232"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="693,194,651,201,650,195,692,189"/>
+<area shape="rect" id="Node000010" href="$class_terrain_logic.html#a3dbb2d4ed0e271c17fa464cabf9d41c2" title="Returns true if the object is close enough to interact with the bridge for pathfinding." alt="" coords="474,256,659,299"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="750,201,660,246,632,258,630,253,658,242,748,196"/>
+<area shape="rect" id="Node000011" href="$class_bridge.html#a7c148f49131a466134ee3329b5776628" title=" " alt="" coords="502,323,630,349"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="770,205,725,260,694,288,661,313,631,326,629,321,658,308,691,284,721,256,766,202"/>
+<area shape="rect" id="Node000003" href="$class_pathfind_layer.html#a75c977b4b520795e46a593133ef5bb0e" title=" " alt="" coords="241,13,425,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,29,426,29,426,24,457,24"/>
+<area shape="rect" id="Node000004" href="$class_pathfind_layer.html#a72783a654cac2429202596c5c4e5be51" title=" " alt="" coords="5,13,193,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,29,193,29,193,24,225,24"/>
+<area shape="rect" id="Node000007" href="$class_w3_d_terrain_logic.html#a8c2797c1197e4200fcb1e53e73595bfa" title=" " alt="" coords="243,123,422,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="472,147,423,147,423,141,472,141"/>
+<area shape="rect" id="Node000009" href="$class_terrain_logic.html#ac2adaeb004ceafbf426f222ba0c11878" title=" " alt="" coords="242,197,424,224"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="467,213,424,213,424,208,467,208"/>
+<area shape="rect" id="Node000012" href="$class_terrain_logic.html#a5607ed6309bf1079b7e4ee4b58dbeb3a" title=" " alt="" coords="253,323,413,349"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="487,339,414,339,414,333,487,333"/>
+</map>

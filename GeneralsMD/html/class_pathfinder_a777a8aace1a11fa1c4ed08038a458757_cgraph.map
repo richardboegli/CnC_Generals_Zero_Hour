@@ -1,0 +1,17 @@
+<map id="Pathfinder::forceMapRecalculation" name="Pathfinder::forceMapRecalculation">
+<area shape="rect" id="Node000001" title="Force pathfind map recomputation. If region is given, only that area is recomputed." alt="" coords="5,81,227,108"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#a693db1adb5e71bd672626a24a88b4252" title="Classify all cells in grid as obstacles, etc." alt="" coords="275,81,433,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,92,259,92,259,97,227,97"/>
+<area shape="rect" id="Node000003" href="$class_pathfinder.html#a086ed5fa18a20f6c1d96b80bf7b13475" title="Classify the given map cell." alt="" coords="481,81,662,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,92,465,92,465,97,433,97"/>
+<area shape="rect" id="Node000004" href="$class_pathfind_cell.html#a2f580b553cecee9838a8695af4f510f6" title="get the cell type" alt="" coords="720,5,866,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="608,78,709,41,730,35,732,40,711,47,610,83"/>
+<area shape="rect" id="Node000005" href="$class_pathfind_cell.html#af58d67a1972757d54ee2a64466ebab95" title=" " alt="" coords="711,56,875,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="662,82,695,78,695,83,663,87"/>
+<area shape="rect" id="Node000007" href="$class_pathfind_cell.html#a8283e3135b070433a173adba12ebddf4" title=" " alt="" coords="710,107,876,133"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="663,102,695,106,695,111,662,108"/>
+<area shape="rect" id="Node000008" href="$class_pathfind_cell.html#ad4d10e32c0694b0d5009c7edee2dd911" title="set the cell type" alt="" coords="720,157,866,184"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="610,106,711,143,732,150,730,155,709,148,608,111"/>
+<area shape="rect" id="Node000006" href="$class_pathfind_cell_info.html#a1c9e9bd6dc0093059aa7ac56f82db437" title=" " alt="" coords="924,48,1088,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="876,67,908,67,908,72,876,72"/>
+</map>

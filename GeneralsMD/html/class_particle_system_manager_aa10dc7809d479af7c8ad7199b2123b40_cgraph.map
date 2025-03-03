@@ -1,0 +1,116 @@
+<map id="ParticleSystemManager::update" name="ParticleSystemManager::update">
+<area shape="rect" id="Node000001" title="update all particle systems" alt="" coords="5,467,166,509"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="431,5,606,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,465,138,388,208,279,253,220,303,161,358,106,417,58,424,54,427,58,421,62,361,110,307,165,257,223,213,282,142,391,100,467"/>
+<area shape="rect" id="Node000004" href="$class_particle_system.html#ae9562053aeb5686554fd3e1776dea4d6" title="update this particle system, return false if dead" alt="" coords="214,500,371,527"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,495,198,499,198,504,165,500"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="689,5,829,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="607,24,673,24,673,29,607,29"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="296,499,328,401,368,263,375,232,377,204,378,154,380,131,386,107,398,83,417,58,419,56,423,60,421,62,402,86,391,109,385,132,383,154,383,204,380,233,374,265,333,402,301,500"/>
+<area shape="rect" id="Node000005" href="$class_particle.html#a371bb67ae4c42e2c4dfc50960714f76d" title="add the given acceleration" alt="" coords="450,307,587,333"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,498,314,466,340,424,375,380,417,343,434,334,437,339,421,348,379,384,344,427,319,469,302,501"/>
+<area shape="rect" id="Node000006" href="$class_particle.html#af6eda92b9d80940953139293f79a6e35" title=" " alt="" coords="440,357,597,400"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="306,497,353,455,384,431,418,410,428,404,430,409,420,414,387,435,356,459,309,501"/>
+<area shape="rect" id="Node000007" href="$class_particle_system.html#a6c8a98adf00cc5ae7bb6bc24cc8e9746" title="factory method for particles" alt="" coords="420,424,618,451"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="332,497,418,467,458,453,460,459,420,472,333,502"/>
+<area shape="rect" id="Node000008" href="$class_particle_system.html#a902190e511de3a7cb6ce31d892d2e4c6" title=" " alt="" coords="669,240,849,283"/>
+<area shape="poly" id="edge24_Node000004_Node000008" title=" " alt="" coords="295,499,351,314,387,213,404,178,417,159,444,143,468,133,491,129,514,129,562,140,619,159,650,172,679,189,727,227,724,231,676,193,648,177,617,164,561,145,514,135,492,134,470,139,446,148,421,163,408,181,392,215,356,316,300,500"/>
+<area shape="rect" id="Node000009" href="$class_particle_system.html#a93d8357443b0d7d17a3b003caf7c9168" title="stop emitting, and wait for particles to die, then destroy self" alt="" coords="438,525,599,552"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="372,519,423,525,422,531,371,525"/>
+<area shape="rect" id="Node000010" href="$class_particle_system.html#ab7b02a1610edbd882213c3df322ee2ee" title="generate a new, random set of ParticleInfo" alt="" coords="675,728,843,771"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="300,526,314,565,337,617,373,671,395,694,420,714,477,740,539,754,602,760,659,759,659,764,601,765,539,760,476,745,418,718,391,698,369,674,333,620,309,567,295,528"/>
+<area shape="rect" id="Node000021" href="$class_object.html#a1d1b6d9787b5fd41324930b71427fc95" title="drawable (if any) bound to obj" alt="" coords="448,853,589,880"/>
+<area shape="poly" id="edge22_Node000004_Node000021" title=" " alt="" coords="297,527,304,584,324,669,340,715,361,761,387,803,421,839,436,849,433,854,417,843,383,806,356,763,335,717,319,671,299,585,292,527"/>
+<area shape="rect" id="Node000022" href="$class_drawable.html#ad9173b7ad96b127cc2c858875e5790af" title=" " alt="" coords="426,904,612,947"/>
+<area shape="poly" id="edge23_Node000004_Node000022" title=" " alt="" coords="297,527,302,592,320,689,335,743,357,796,385,846,421,890,423,892,420,896,417,894,381,849,352,798,330,744,315,690,297,592,291,527"/>
+<area shape="rect" id="Node000023" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="943,421,1069,448"/>
+<area shape="poly" id="edge25_Node000004_Node000023" title=" " alt="" coords="371,512,428,509,491,501,556,485,617,460,631,449,640,435,649,421,665,410,715,395,757,395,799,402,852,409,928,418,927,424,851,415,798,408,756,400,716,400,667,414,653,425,644,438,635,452,620,465,558,490,492,506,428,515,372,518"/>
+<area shape="rect" id="Node000024" href="$class_particle_system.html#ab8afd7636b37c005e8eb3cf2a55a73d4" title=" " alt="" coords="430,971,607,997"/>
+<area shape="poly" id="edge26_Node000004_Node000024" title=" " alt="" coords="296,527,296,602,301,657,310,718,325,782,347,846,379,905,421,957,424,960,420,964,417,960,374,908,342,848,320,784,304,719,295,657,291,602,290,527"/>
+<area shape="rect" id="Node000025" href="$class_object.html#a861097e36245090639c7c4583ba8b0a0" title=" " alt="" coords="430,72,608,99"/>
+<area shape="poly" id="edge27_Node000004_Node000025" title=" " alt="" coords="295,499,417,116,431,104,435,108,421,119,301,500"/>
+<area shape="rect" id="Node000031" href="$class_drawable.html#a86071f170b7e95f886e9390ef784494e" title="return the world transform" alt="" coords="420,677,617,704"/>
+<area shape="poly" id="edge32_Node000004_Node000031" title=" " alt="" coords="304,526,349,588,382,625,420,656,444,669,442,674,418,661,378,629,345,592,300,529"/>
+<area shape="rect" id="Node000033" href="$class_thing.html#afa427e2f8b42c34106fa353b45a998b2" title="return the world transformation matrix" alt="" coords="672,627,846,653"/>
+<area shape="poly" id="edge35_Node000004_Node000033" title=" " alt="" coords="307,525,353,570,385,594,420,612,479,630,540,641,601,645,656,645,656,651,600,650,540,646,478,635,418,617,382,598,350,574,304,529"/>
+<area shape="rect" id="Node000034" href="$class_particle_system.html#a0dd03047d2f1ce5be67012dda1343550" title=" " alt="" coords="419,787,618,829"/>
+<area shape="poly" id="edge36_Node000004_Node000034" title=" " alt="" coords="300,527,313,571,337,633,372,701,395,733,421,762,440,777,437,781,417,766,391,737,368,704,332,636,308,573,294,528"/>
+<area shape="rect" id="Node000039" href="$class_particle_system.html#a21db7e869a8528e95342a7d0f5ea7ae8" title="create a particle system from a template and assign it this ID" alt="" coords="678,1120,840,1163"/>
+<area shape="poly" id="edge54_Node000004_Node000039" title=" " alt="" coords="298,527,312,622,338,766,356,842,375,911,397,969,421,1008,446,1032,474,1053,536,1087,602,1111,663,1126,662,1131,600,1116,534,1092,471,1058,442,1036,417,1011,392,971,370,913,350,843,333,767,307,623,293,527"/>
+<area shape="rect" id="Node000046" href="$class_particle_system.html#a1a8bcbaeaf236c3da56df27887d00bc0" title="set control particle" alt="" coords="430,173,608,216"/>
+<area shape="poly" id="edge55_Node000004_Node000046" title=" " alt="" coords="293,499,303,449,325,375,342,335,362,296,387,259,417,226,421,223,424,227,421,230,391,262,367,299,347,338,330,377,309,450,298,500"/>
+<area shape="rect" id="Node000047" href="$class_particle.html#aec8f35256a0b42c703d94c2f7de7e946" title="update this particle&#39;s behavior &#45; return false if dead" alt="" coords="462,576,575,603"/>
+<area shape="poly" id="edge56_Node000004_Node000047" title=" " alt="" coords="326,525,420,561,449,570,447,575,418,567,324,530"/>
+<area shape="rect" id="Node000054" href="$class_particle_system.html#a9fa44ca6749655503d096fd9d274af61" title="update wind motion" alt="" coords="425,240,612,283"/>
+<area shape="poly" id="edge64_Node000004_Node000054" title=" " alt="" coords="295,499,309,459,334,404,370,344,392,317,417,293,422,289,425,293,421,297,396,320,374,347,339,406,314,461,300,501"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="592,421,617,410,663,364,727,293,731,296,667,368,620,414,594,426"/>
+<area shape="rect" id="Node000011" href="$class_particle_system.html#a15559ef16bc019ac7b518f1b942312e2" title="compute a position based on emission properties" alt="" coords="900,728,1112,771"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="844,747,884,747,884,752,844,752"/>
+<area shape="rect" id="Node000016" href="$class_particle_system.html#a2441b5660c823eca6739a4335edf83e0" title="compute a velocity vector based on emission properties" alt="" coords="900,661,1112,704"/>
+<area shape="poly" id="edge16_Node000010_Node000016" title=" " alt="" coords="840,725,909,706,910,711,841,730"/>
+<area shape="rect" id="Node000020" href="$class_matrix3_d.html#a562739cf5e0c7fb3d54ae9d5e17c6c44" title=" " alt="" coords="923,795,1088,821"/>
+<area shape="poly" id="edge21_Node000010_Node000020" title=" " alt="" coords="844,767,932,788,931,793,843,772"/>
+<area shape="rect" id="Node000012" href="$class_particle_system.html#a31abf24a3f38fec273722ec374fa0f07" title="compute a random point on a unit sphere" alt="" coords="1160,724,1358,767"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1112,745,1145,744,1145,750,1112,750"/>
+<area shape="rect" id="Node000015" href="$class_particle_system.html#aafc74b6932f136420affb15f5d93505e" title="(re)start a stopped particle system" alt="" coords="1187,791,1331,817"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="1109,769,1180,784,1179,790,1107,774"/>
+<area shape="rect" id="Node000013" href="$struct_coord3_d.html#a8fe4fb98e4e5e364b6909042c268811a" title=" " alt="" coords="1406,673,1544,700"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1339,721,1408,702,1409,707,1341,726"/>
+<area shape="rect" id="Node000014" href="$struct_coord3_d.html#a795c89b1014410c81a1463f4e1a974af" title=" " alt="" coords="1592,597,1708,624"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1507,670,1602,628,1604,633,1509,675"/>
+<area shape="poly" id="edge17_Node000016_Node000012" title=" " alt="" coords="1095,702,1156,717,1155,722,1094,707"/>
+<area shape="poly" id="edge20_Node000016_Node000013" title=" " alt="" coords="1112,681,1391,683,1391,689,1112,686"/>
+<area shape="rect" id="Node000017" href="$struct_coord3_d.html#a3bd30be724f10a79d30e34b5b926673a" title=" " alt="" coords="1180,572,1338,599"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="1047,659,1099,633,1159,608,1181,601,1183,606,1161,613,1102,638,1049,663"/>
+<area shape="rect" id="Node000018" href="$struct_coord2_d.html#ad9de3b5e28cb0b31fe5f6a8031403477" title=" " alt="" coords="1190,623,1328,649"/>
+<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="1112,660,1175,649,1176,654,1113,666"/>
+<area shape="rect" id="Node000026" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="940,123,1072,149"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="593,97,667,108,803,121,925,130,924,135,802,127,666,113,592,102"/>
+<area shape="rect" id="Node000027" href="$class_thing.html#a7978985fe2e1e1b1b91bb822f62df5e9" title=" " alt="" coords="703,72,815,99"/>
+<area shape="poly" id="edge29_Node000025_Node000027" title=" " alt="" coords="608,83,688,83,688,88,608,88"/>
+<area shape="poly" id="edge30_Node000027_Node000026" title=" " alt="" coords="816,94,925,117,924,122,815,99"/>
+<area shape="rect" id="Node000028" href="$class_thing_template.html#a3a76269a04cb28565f44d77af2cecebd" title="return true iff the template has the specified kindOf flag set." alt="" coords="924,72,1088,99"/>
+<area shape="poly" id="edge31_Node000027_Node000028" title=" " alt="" coords="815,83,908,83,908,88,815,88"/>
+<area shape="rect" id="Node000032" href="$class_drawable.html#a93135ba18eeabac12ef693da1a44693a" title="return object ID bound to this drawble" alt="" coords="689,677,829,704"/>
+<area shape="poly" id="edge33_Node000031_Node000032" title=" " alt="" coords="618,688,673,688,673,693,618,693"/>
+<area shape="poly" id="edge34_Node000031_Node000033" title=" " alt="" coords="585,674,677,654,678,660,586,679"/>
+<area shape="poly" id="edge37_Node000034_Node000010" title=" " alt="" coords="608,783,659,771,660,776,609,789"/>
+<area shape="rect" id="Node000035" href="$class_game_client_random_variable.html#aea839c1513f20381172e480e1740dee4" title=" " alt="" coords="666,1029,852,1072"/>
+<area shape="poly" id="edge38_Node000034_Node000035" title=" " alt="" coords="606,828,620,840,636,862,644,885,645,929,646,973,653,994,668,1016,670,1017,666,1021,664,1019,648,996,641,973,640,929,639,886,632,865,616,843,603,832"/>
+<area shape="rect" id="Node000036" href="$class_game_client_random_variable.html#a282d3d0e8958c3187fc3427ce0b3f2d1" title=" " alt="" coords="913,865,1098,908"/>
+<area shape="poly" id="edge39_Node000034_Node000036" title=" " alt="" coords="619,810,731,819,852,837,929,858,928,863,851,843,731,825,618,815"/>
+<area shape="rect" id="Node000037" href="$class_game_client_random_variable.html#a9708f0c96776c476c8cd0f0faebb1d12" title=" " alt="" coords="913,973,1098,1016"/>
+<area shape="poly" id="edge40_Node000034_Node000037" title=" " alt="" coords="619,827,853,882,878,898,901,918,963,962,960,966,898,922,875,902,851,886,618,832"/>
+<area shape="rect" id="Node000038" href="$class_particle_system.html#a3d3e2a36c8b97afed065214242500538" title=" " alt="" coords="674,896,844,939"/>
+<area shape="poly" id="edge41_Node000034_Node000038" title=" " alt="" coords="594,827,620,839,644,857,668,875,690,887,687,891,665,880,641,861,617,844,592,832"/>
+<area shape="poly" id="edge42_Node000034_Node000039" title=" " alt="" coords="607,828,620,840,641,871,650,901,652,931,649,960,646,989,645,1019,652,1050,668,1082,696,1109,693,1113,664,1086,647,1052,640,1020,640,989,643,959,646,931,645,902,636,873,616,843,604,832"/>
+<area shape="rect" id="Node000045" href="$class_game_client_random_variable.html#ad786cb418f9ee3238dda372458dca52b" title="define the range of random values, and the distribution of values" alt="" coords="666,963,852,1005"/>
+<area shape="poly" id="edge53_Node000034_Node000045" title=" " alt="" coords="604,828,620,839,632,853,639,868,645,895,651,922,657,936,668,949,671,951,668,955,664,953,653,938,645,924,640,896,634,869,628,856,617,843,601,832"/>
+<area shape="poly" id="edge46_Node000039_Node000036" title=" " alt="" coords="806,1117,829,1102,850,1082,867,1051,874,1023,880,993,898,960,921,935,948,915,952,919,925,939,902,963,885,995,879,1024,872,1053,854,1086,833,1106,809,1122"/>
+<area shape="poly" id="edge47_Node000039_Node000037" title=" " alt="" coords="795,1117,850,1082,898,1047,944,1021,947,1026,901,1052,853,1086,798,1122"/>
+<area shape="poly" id="edge49_Node000039_Node000039" title=" " alt="" coords="713,1120,712,1110,719,1101,735,1095,759,1093,785,1096,800,1102,798,1107,783,1101,759,1099,736,1101,722,1105,717,1111,719,1119"/>
+<area shape="rect" id="Node000040" href="$class_particle_system_template.html#a17460ed858b3eb5080a3467f31375915" title="if returns non&#45;NULL, it is a slave system for use" alt="" coords="924,1184,1088,1227"/>
+<area shape="poly" id="edge43_Node000039_Node000040" title=" " alt="" coords="841,1160,910,1178,908,1183,840,1165"/>
+<area shape="rect" id="Node000042" href="$class_game_client_random_variable.html#aca236865e89b43691823c27d6ee4d486" title="return a value from the random distribution" alt="" coords="913,1061,1098,1104"/>
+<area shape="poly" id="edge48_Node000039_Node000042" title=" " alt="" coords="840,1119,898,1106,899,1111,841,1125"/>
+<area shape="rect" id="Node000043" href="$class_particle_system.html#a5973094e417ea315600b8446e62a7d8d" title="set a slave system for us" alt="" coords="921,1128,1090,1155"/>
+<area shape="poly" id="edge50_Node000039_Node000043" title=" " alt="" coords="841,1147,906,1148,906,1153,841,1153"/>
+<area shape="rect" id="Node000041" href="$class_particle_system_template.html#a233ae59d6977e50773d931c6fd613030" title=" " alt="" coords="1178,1196,1341,1239"/>
+<area shape="poly" id="edge44_Node000040_Node000041" title=" " alt="" coords="1088,1207,1162,1210,1161,1215,1088,1212"/>
+<area shape="poly" id="edge45_Node000041_Node000041" title=" " alt="" coords="1218,1196,1216,1186,1223,1177,1238,1171,1259,1169,1282,1172,1296,1178,1294,1183,1281,1177,1259,1175,1239,1177,1226,1181,1222,1187,1223,1195"/>
+<area shape="poly" id="edge52_Node000043_Node000039" title=" " alt="" coords="921,1135,855,1135,855,1130,921,1130"/>
+<area shape="rect" id="Node000044" href="$class_particle_system.html#acd7d91adff2fa7a3da3d5b421a5fd9ba" title="get unique system ID" alt="" coords="1162,1121,1357,1148"/>
+<area shape="poly" id="edge51_Node000043_Node000044" title=" " alt="" coords="1091,1136,1146,1135,1146,1140,1091,1142"/>
+<area shape="rect" id="Node000048" href="$class_particle.html#a9ac4d8be90a5bf335ea17450f547c42e" title="compute alpha rate to get to next key" alt="" coords="667,576,851,603"/>
+<area shape="poly" id="edge57_Node000047_Node000048" title=" " alt="" coords="575,587,651,587,651,592,575,592"/>
+<area shape="rect" id="Node000049" href="$class_particle.html#adc387204417b1b5d69dae48d48ab4e4f" title="compute color change to get to next key" alt="" coords="668,424,850,451"/>
+<area shape="poly" id="edge58_Node000047_Node000049" title=" " alt="" coords="575,581,597,574,617,562,628,550,634,538,640,513,646,487,653,473,665,461,670,457,673,461,668,465,657,476,651,488,645,514,639,540,632,553,620,566,599,579,576,586"/>
+<area shape="rect" id="Node000050" href="$class_particle.html#a837ccea994704bec144d2eb3d6a05aa2" title="do wind motion (if present) from particle system" alt="" coords="681,525,837,552"/>
+<area shape="poly" id="edge59_Node000047_Node000050" title=" " alt="" coords="575,575,677,553,678,558,576,580"/>
+<area shape="rect" id="Node000053" href="$class_particle.html#acd80d2fd4eca65550ff396129e7d933e" title="return true if this particle is invisible" alt="" coords="693,475,825,501"/>
+<area shape="poly" id="edge63_Node000047_Node000053" title=" " alt="" coords="574,578,617,562,631,550,640,537,649,524,665,511,678,504,680,509,668,516,653,528,645,540,635,554,620,566,576,583"/>
+<area shape="poly" id="edge62_Node000050_Node000014" title=" " alt="" coords="838,535,1071,539,1215,546,1359,557,1474,573,1576,593,1576,598,1473,579,1358,563,1214,551,1071,544,837,541"/>
+<area shape="poly" id="edge61_Node000050_Node000023" title=" " alt="" coords="817,522,851,511,913,483,967,454,969,458,915,488,853,516,818,527"/>
+<area shape="rect" id="Node000051" href="$_trig_8cpp.html#a04db0710e7e75c631a5da8199b5c0003" title=" " alt="" coords="983,572,1028,599"/>
+<area shape="poly" id="edge60_Node000050_Node000051" title=" " alt="" coords="833,550,968,576,967,581,832,555"/>
+</map>

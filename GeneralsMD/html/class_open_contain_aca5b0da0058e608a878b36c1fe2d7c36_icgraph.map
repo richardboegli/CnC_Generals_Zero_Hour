@@ -1,0 +1,78 @@
+<map id="OpenContain::isEnclosingContainerFor" name="OpenContain::isEnclosingContainerFor">
+<area shape="rect" id="Node000001" title="Does this type of Contain Visibly enclose its contents?" alt="" coords="1543,157,1716,200"/>
+<area shape="rect" id="Node000002" href="$class_open_contain.html#a14fabf8ea41c1a1d7f372ce48291a3f1" title="add &#39;obj&#39; to contain list" alt="" coords="787,165,973,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1528,181,973,181,973,176,1528,176"/>
+<area shape="rect" id="Node000004" href="$class_open_contain.html#a7277bcbd810f45bd812b8b9cef349360" title="place object at position of the next fire point to use" alt="" coords="1311,99,1495,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1530,156,1488,145,1489,139,1531,150"/>
+<area shape="rect" id="Node000017" href="$class_open_contain.html#a8c134ae5d05fcdd79fe0e29e3b7937fd" title="remove item from contain list" alt="" coords="1040,309,1263,352"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1546,208,1222,311,1220,306,1544,203"/>
+<area shape="rect" id="Node000003" href="$class_open_contain.html#af721dce14f750d43071ccbadd0768d3a" title=" " alt="" coords="535,157,694,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="772,178,695,176,695,170,772,173"/>
+<area shape="rect" id="Node000005" href="$class_open_contain.html#a7d33c0d0b3e08a8997a500c5db39b91c" title="redeploy any objects at firepoints due to a model condition change" alt="" coords="1043,107,1260,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1295,123,1260,123,1260,117,1295,117"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="1072,140,946,167,945,162,1071,135"/>
+<area shape="rect" id="Node000006" href="$class_open_contain.html#ac5bb7c8ee6432b2ec75b699802bafdf8" title="state change callback" alt="" coords="789,32,971,75"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1078,105,969,78,970,73,1079,100"/>
+<area shape="rect" id="Node000007" href="$class_open_contain.html#a3e466310768c6698c6e5736e80bdaef1" title="check to see if we need to update our occupant postions from a model change or anything else" alt="" coords="778,99,982,141"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="1027,123,982,123,982,117,1027,117"/>
+<area shape="rect" id="Node000008" href="$class_open_contain.html#a9590d8f6a910c7a5f1d9601e69e64656" title="called once per frame" alt="" coords="542,107,687,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="763,123,687,123,687,117,763,117"/>
+<area shape="rect" id="Node000009" href="$class_garrison_contain.html#ad15825e284a8796b3e919ed506591d0c" title="called once per frame" alt="" coords="269,208,432,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="529,139,510,148,496,159,487,172,478,186,462,198,433,211,431,206,460,194,474,182,483,169,492,156,508,143,527,134"/>
+<area shape="rect" id="Node000010" href="$class_heal_contain.html#a1e8833504d0ac23a95d651ce38a124a7" title="called once per frame" alt="" coords="280,259,420,285"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="529,136,511,147,500,159,493,171,488,197,482,223,475,236,463,249,443,261,422,268,420,263,441,256,459,245,470,233,477,221,482,196,488,169,495,156,507,143,526,132"/>
+<area shape="rect" id="Node000011" href="$class_mob_nexus_contain.html#a00817f16f347faf95f8e03424f8a324c" title="called once per frame" alt="" coords="262,5,438,32"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="575,101,522,73,460,47,422,35,424,30,462,41,524,68,578,96"/>
+<area shape="rect" id="Node000012" href="$class_parachute_contain.html#abd2a6ae27d17c0e8f915930efb75c070" title="called once per frame" alt="" coords="264,56,436,83"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="527,106,423,86,424,81,528,101"/>
+<area shape="rect" id="Node000013" href="$class_transport_contain.html#afaad8f7fc7199fa6e94e716f694e0c1e" title="called once per frame" alt="" coords="266,107,434,133"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="527,123,435,123,435,117,527,117"/>
+<area shape="rect" id="Node000016" href="$class_tunnel_contain.html#a8997c5d5a02f0f7effad5dd312ac3c5e" title="called once per frame" alt="" coords="274,157,426,184"/>
+<area shape="poly" id="edge16_Node000008_Node000016" title=" " alt="" coords="528,139,424,159,423,154,527,134"/>
+<area shape="rect" id="Node000014" href="$class_helix_contain.html#a1fa42728fe0c53f0d8095452112d50f5" title="called once per frame" alt="" coords="27,77,170,104"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="250,111,170,102,171,96,251,106"/>
+<area shape="rect" id="Node000015" href="$class_rider_change_contain.html#a8fba2d0f62221294092ed5c5d1e47c44" title="called once per frame" alt="" coords="27,128,170,171"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="251,134,170,144,170,138,250,129"/>
+<area shape="rect" id="Node000018" href="$class_open_contain.html#a25940ec3d8999100715c69803d74f1d9" title="remove all objects on contain list" alt="" coords="769,657,991,684"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1126,366,894,658,890,655,1122,362"/>
+<area shape="rect" id="Node000026" href="$class_open_contain.html#ac7e7593b13a98fa7552728f55bbdfb8a" title="remove &#39;obj&#39; from contain list" alt="" coords="768,317,992,344"/>
+<area shape="poly" id="edge27_Node000017_Node000026" title=" " alt="" coords="1024,333,992,333,992,328,1024,328"/>
+<area shape="rect" id="Node000019" href="$class_transport_contain.html#ac3dbff24120d17e3e9ec12dd343aa18d" title=" " alt="" coords="520,577,709,604"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="827,654,720,619,677,607,678,602,721,613,828,649"/>
+<area shape="rect" id="Node000021" href="$class_parachute_contain.html#a5d4b85df3517a27c2a518a259bc568b5" title=" " alt="" coords="521,628,708,655"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="753,659,709,654,709,649,754,654"/>
+<area shape="rect" id="Node000022" href="$class_open_contain.html#afeead80b0cc69791dbc9cc302da894eb" title="the die callback" alt="" coords="545,796,684,823"/>
+<area shape="poly" id="edge22_Node000018_Node000022" title=" " alt="" coords="851,696,793,738,721,780,673,798,671,793,719,775,790,734,848,692"/>
+<area shape="rect" id="Node000023" href="$class_parachute_contain.html#a691278ae9394206afe95b392d1b3f8e5" title="the die callback" alt="" coords="267,771,434,797"/>
+<area shape="poly" id="edge24_Node000018_Node000023" title=" " alt="" coords="837,693,782,716,721,736,646,753,570,766,435,781,434,776,569,760,645,748,720,731,780,711,835,688"/>
+<area shape="rect" id="Node000024" href="$class_garrison_contain.html#a7e6d58f98b69841bf01c61e3d12596ca" title="remove all contents of this open container" alt="" coords="524,679,705,721"/>
+<area shape="poly" id="edge25_Node000018_Node000024" title=" " alt="" coords="754,687,706,693,705,687,753,682"/>
+<area shape="rect" id="Node000020" href="$class_rider_change_contain.html#a00082b9a43c6906693ca850666ae7f8f" title=" " alt="" coords="279,573,422,616"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="504,595,422,596,422,591,504,590"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="529,804,434,795,435,789,530,799"/>
+<area shape="rect" id="Node000025" href="$class_garrison_contain.html#af7aa09ce352be78ed49f03e5691b4de6" title="Container is being sold. Open responds by kicking people out." alt="" coords="262,687,438,713"/>
+<area shape="poly" id="edge26_Node000024_Node000025" title=" " alt="" coords="509,703,439,703,439,697,509,697"/>
+<area shape="poly" id="edge34_Node000026_Node000003" title=" " alt="" coords="853,308,795,256,758,229,719,205,675,187,677,182,722,200,761,225,798,252,857,304"/>
+<area shape="poly" id="edge40_Node000026_Node000009" title=" " alt="" coords="846,311,788,278,755,262,720,249,645,233,568,224,495,220,432,220,432,215,496,215,569,218,646,228,721,244,757,257,791,273,848,306"/>
+<area shape="rect" id="Node000027" href="$class_open_contain.html#a326cb376b014147e1a31a956614bd562" title=" " alt="" coords="527,309,702,352"/>
+<area shape="poly" id="edge28_Node000026_Node000027" title=" " alt="" coords="753,333,703,333,703,328,753,328"/>
+<area shape="rect" id="Node000028" href="$class_garrison_contain.html#a7e37b2784a12c3d8a45050afc933d731" title="exit one of our content items from us" alt="" coords="524,376,706,419"/>
+<area shape="poly" id="edge29_Node000026_Node000028" title=" " alt="" coords="810,351,703,378,702,373,808,346"/>
+<area shape="rect" id="Node000029" href="$class_open_contain.html#aaf6ab362e84b420958728615ef3d2bf7" title=" " alt="" coords="509,259,720,285"/>
+<area shape="poly" id="edge30_Node000026_Node000029" title=" " alt="" coords="801,316,678,289,679,283,802,311"/>
+<area shape="rect" id="Node000031" href="$class_open_contain.html#acdfe3941a5ed4e6815603358d0978af9" title=" " alt="" coords="520,509,710,552"/>
+<area shape="poly" id="edge33_Node000026_Node000031" title=" " alt="" coords="862,359,805,429,766,467,722,500,699,511,697,506,719,495,762,463,801,425,858,355"/>
+<area shape="rect" id="Node000032" href="$class_railed_transport_dock_update.html#ace82d0d1ff9336f81d5fdf58ec1afa5f" title="start the &quot;next&quot; object we have inside us coming out" alt="" coords="522,443,708,485"/>
+<area shape="poly" id="edge35_Node000026_Node000032" title=" " alt="" coords="850,356,792,394,721,433,693,445,691,440,719,428,789,390,847,351"/>
+<area shape="poly" id="edge32_Node000029_Node000010" title=" " alt="" coords="493,275,421,275,421,269,493,269"/>
+<area shape="rect" id="Node000030" href="$class_mob_nexus_contain.html#ae80602c41b7200e9be40b3438381ecbc" title="Will try to kick everybody out with game checks, and will return whether anyone made it." alt="" coords="240,309,461,336"/>
+<area shape="poly" id="edge31_Node000029_Node000030" title=" " alt="" coords="527,291,424,311,423,306,526,286"/>
+<area shape="rect" id="Node000033" href="$class_railed_transport_dock_update.html#a6d793bd18e1560e746aa5c54cdb63f72" title="push unloading objects out of us" alt="" coords="257,507,444,549"/>
+<area shape="poly" id="edge36_Node000032_Node000033" title=" " alt="" coords="510,492,442,509,441,504,508,487"/>
+<area shape="rect" id="Node000035" href="$class_railed_transport_dock_update.html#a4c875115bf39b142cfdf9bd6f1117a2c" title=" " alt="" coords="257,373,444,416"/>
+<area shape="poly" id="edge38_Node000032_Node000035" title=" " alt="" coords="515,441,434,419,435,414,517,436"/>
+<area shape="rect" id="Node000036" href="$class_railed_transport_dock_update.html#a120b3fbefa59b45c1d7a810d1be8dded" title=" " alt="" coords="257,440,444,483"/>
+<area shape="poly" id="edge39_Node000032_Node000036" title=" " alt="" coords="506,466,444,465,444,460,506,460"/>
+<area shape="rect" id="Node000034" href="$class_railed_transport_dock_update.html#a6d29d76d2cae4e408d11d0c23c7b1854" title="In charge of lifting dock restriction for one registered as Approached if all is ready." alt="" coords="5,507,192,549"/>
+<area shape="poly" id="edge37_Node000033_Node000034" title=" " alt="" coords="242,531,192,531,192,525,242,525"/>
+</map>
