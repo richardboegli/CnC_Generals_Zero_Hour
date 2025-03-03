@@ -1,0 +1,32 @@
+<map id="ScriptConditions::evaluateCanPurchaseScience" name="ScriptConditions::evaluateCanPurchaseScience">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,267,180,309"/>
+<area shape="rect" id="Node000002" href="$class_parameter.html#a6ca451cc7e76779d0a48fb2591f21074" title=" " alt="" coords="508,275,649,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,285,492,285,492,291,180,291"/>
+<area shape="rect" id="Node000003" href="$class_player.html#a3ed88563ba353a8abcf0fa2bf452c56d" title=" " alt="" coords="228,140,431,183"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,264,273,188,276,193,135,269"/>
+<area shape="rect" id="Node000009" href="$class_script_conditions.html#a91e653a920a5f0a6b3e0a4813ea49394" title=" " alt="" coords="249,368,410,411"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="146,308,264,359,262,364,144,312"/>
+<area shape="rect" id="Node000004" href="$class_player.html#a9b4cd1746b17e0ef51c68a124f9ce400" title=" " alt="" coords="485,5,671,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="356,137,411,98,478,58,490,52,493,57,480,62,414,102,359,142"/>
+<area shape="rect" id="Node000005" href="$class_player.html#a1fed96a181d897a876d3ca0c7ee19918" title="return t iff the player has all sciences that are prereqs for knowing the given science" alt="" coords="479,72,677,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="390,137,478,108,505,100,507,106,480,113,392,142"/>
+<area shape="rect" id="Node000006" href="$class_player.html#ac91af9a47c9064e4b3c5048606cf6623" title="return t if the player has the given science, either intrinsically, via specialization,..." alt="" coords="511,123,645,149"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="431,148,495,142,496,147,432,154"/>
+<area shape="rect" id="Node000007" href="$class_player.html#aeafe0f82edb1b46b3d59e97fbe690f7e" title="Can&#39;t purchase this science because of script reasons." alt="" coords="491,173,665,200"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="432,169,476,174,475,179,431,174"/>
+<area shape="rect" id="Node000008" href="$class_player.html#a1c8392e4c70e562f3f07ebf403dfdca5" title="This science is effectively hidden due to script reasons." alt="" coords="496,224,660,251"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="392,181,480,209,507,217,505,222,478,215,390,186"/>
+<area shape="poly" id="edge13_Node000009_Node000002" title=" " alt="" coords="366,365,418,337,478,311,499,304,501,309,480,316,421,342,369,370"/>
+<area shape="rect" id="Node000010" href="$class_parameter.html#ab09aeb9f5f22b15353d214f1ef1adf8b" title=" " alt="" coords="498,376,659,403"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="410,387,482,387,482,392,410,392"/>
+<area shape="rect" id="Node000011" href="$class_parameter.html#acd26380275dd5bcba94f8906c35191fe" title=" " alt="" coords="517,427,639,453"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="410,403,502,422,501,427,409,408"/>
+<area shape="rect" id="Node000012" href="$class_parameter.html#a13984a5a5f45f477486c3c043b484275" title=" " alt="" coords="480,477,676,504"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="369,409,421,436,480,463,501,470,499,475,478,468,418,441,366,413"/>
+<area shape="rect" id="Node000013" href="$class_player.html#abc2ed87b6c05581e558b847857b6765d" title="return a bitmask that is unique to this player." alt="" coords="502,528,655,555"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="352,409,406,462,442,490,480,514,494,520,492,525,478,518,439,494,403,466,348,413"/>
+<area shape="rect" id="Node000014" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="524,325,632,352"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="409,370,509,350,510,355,410,376"/>
+<area shape="rect" id="Node000015" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="725,325,846,352"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="632,336,710,336,710,341,632,341"/>
+</map>

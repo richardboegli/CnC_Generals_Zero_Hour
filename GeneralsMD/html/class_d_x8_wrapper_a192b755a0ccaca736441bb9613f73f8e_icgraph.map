@@ -1,0 +1,43 @@
+<map id="DX8Wrapper::Set_Vertex_Shader_Constant" name="DX8Wrapper::Set_Vertex_Shader_Constant">
+<area shape="rect" id="Node000001" title=" " alt="" coords="475,487,642,529"/>
+<area shape="rect" id="Node000002" href="$class_d_x8_wrapper.html#a873c187a4390e54114313f360f95509a" title="Resets render device to default state." alt="" coords="242,80,427,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="548,472,532,411,508,333,472,250,450,210,425,172,400,146,372,125,375,121,403,142,429,169,455,207,477,248,513,331,538,410,553,471"/>
+<area shape="rect" id="Node000005" href="$class_shd6_bump_diff_class.html#aa6ab634721628f43d1cb43c2377829c8" title="Apply per instance states for 1 pass DX6 specular with gloss map (no bump)" alt="" coords="26,155,173,197"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="547,472,532,422,507,363,472,304,450,277,425,254,397,235,366,219,299,196,233,184,174,179,174,173,234,179,301,191,368,214,399,230,429,250,454,273,477,301,512,361,537,421,552,471"/>
+<area shape="rect" id="Node000006" href="$class_shd6_bump_spec_class.html#a8b34a7557153daa291e72e0358c6289a" title="Apply per instance states for 1 pass DX6 specular with gloss map (no bump)" alt="" coords="21,221,178,264"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="543,473,526,432,501,385,467,340,425,302,397,285,366,272,301,254,236,245,178,242,179,236,237,239,302,249,368,267,399,281,429,298,471,336,505,382,530,430,548,471"/>
+<area shape="rect" id="Node000007" href="$class_shd7_bump_diff_class.html#af4aae0c8da66b97eb06f1d6dc805f9cd" title="Apply per instance states for 2 pass DX7 bump diffuse." alt="" coords="26,288,173,331"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="539,474,520,441,495,404,463,370,426,342,395,328,363,317,297,305,231,301,174,303,174,298,232,296,297,299,365,312,397,323,428,338,467,366,499,401,525,438,543,472"/>
+<area shape="rect" id="Node000008" href="$class_shd7_bump_spec_class.html#ac30cced55c8a670b8c4784c53e81e479" title="Apply per instance states for 2 pass DX7 bump specular with gloss map." alt="" coords="21,421,178,464"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="459,497,427,492,178,456,179,451,427,487,460,491"/>
+<area shape="rect" id="Node000009" href="$class_shd8_bump_diff_class.html#a13875e2db0db7b337f31b837a2dd4117" title=" " alt="" coords="26,488,173,531"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="460,511,173,512,173,506,460,506"/>
+<area shape="rect" id="Node000010" href="$class_shd8_bump_spec_class.html#a711d8b24cf294e5bb764bbef07ca1fd1" title=" " alt="" coords="21,555,178,597"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="460,525,179,567,178,562,460,520"/>
+<area shape="rect" id="Node000011" href="$class_shd6_bump_diff_class.html#ad33a1620065e43ccb62fa33396438177" title=" " alt="" coords="261,571,408,613"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="486,538,394,573,392,568,484,533"/>
+<area shape="rect" id="Node000012" href="$class_shd6_bump_spec_class.html#ab20f8a1c78bf3a6614dc3313b28e80d6" title=" " alt="" coords="256,637,413,680"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="529,543,484,586,428,628,406,639,404,634,426,623,481,582,526,539"/>
+<area shape="rect" id="Node000013" href="$class_shd7_bump_diff_class.html#aa7690a66c9483c13dd37e99e82454dbd" title="Apply shared states for 2 pass DX7 bump diffuse." alt="" coords="261,704,408,747"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="543,545,498,620,466,659,429,694,410,706,407,701,425,690,462,656,493,617,538,542"/>
+<area shape="rect" id="Node000014" href="$class_shd7_bump_spec_class.html#a39a697bed615c92563b5d200242e2565" title="Apply shared states for 2 pass DX7 bump specular with gloss map." alt="" coords="256,771,413,813"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="550,545,534,593,509,651,474,709,453,737,429,761,412,772,409,768,425,757,449,733,470,706,504,649,529,591,545,543"/>
+<area shape="rect" id="Node000015" href="$class_shd8_bump_diff_class.html#a6f329f1258cb3869b2bc4005642f101a" title=" " alt="" coords="261,837,408,880"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="555,545,542,606,518,681,482,759,457,795,429,827,410,841,407,837,425,823,453,792,477,756,513,679,537,605,549,544"/>
+<area shape="rect" id="Node000016" href="$class_shd8_bump_spec_class.html#a5a874de5726309044ed7feb8abdf9863" title=" " alt="" coords="256,904,413,947"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="558,545,549,617,528,710,511,759,489,808,462,853,429,894,414,906,411,901,425,890,458,850,485,805,506,757,522,709,543,616,553,544"/>
+<area shape="rect" id="Node000017" href="$class_shd_h_w_vertex_shader.html#ad2fd94beedf325b70c656b85c338ec06" title="Apply generic lighting." alt="" coords="258,352,411,395"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="517,479,474,447,426,416,390,398,392,393,428,411,477,443,521,475"/>
+<area shape="rect" id="Node000003" href="$class_shd_d_x8_renderer_node_class.html#a69197658f657d15fe4cc4a217ce803bd" title=" " alt="" coords="5,72,194,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,104,194,104,194,99,226,99"/>
+<area shape="rect" id="Node000004" href="$class_shd_d_x8_renderer_class.html#ad139adcf841a15f539e37501ddae81d9" title=" " alt="" coords="21,5,178,48"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="249,77,168,51,170,46,251,72"/>
+<area shape="poly" id="edge17_Node000017_Node000005" title=" " alt="" coords="310,341,261,275,228,241,192,212,172,200,175,196,195,207,232,237,265,272,314,337"/>
+<area shape="poly" id="edge18_Node000017_Node000006" title=" " alt="" coords="293,344,246,311,192,278,168,267,170,262,195,274,249,306,296,340"/>
+<area shape="poly" id="edge19_Node000017_Node000007" title=" " alt="" coords="243,351,173,332,174,327,244,346"/>
+<area shape="poly" id="edge20_Node000017_Node000008" title=" " alt="" coords="246,402,175,423,173,418,244,397"/>
+<area shape="poly" id="edge21_Node000017_Node000009" title=" " alt="" coords="298,407,251,443,195,478,170,490,168,485,192,474,248,439,295,403"/>
+<area shape="poly" id="edge22_Node000017_Node000010" title=" " alt="" coords="315,410,265,478,232,514,195,545,175,557,172,552,192,540,229,510,261,474,310,407"/>
+<area shape="rect" id="Node000018" href="$class_shd_h_w_vertex_shader.html#a1d58aecfb8b8cd772f886f261a17ab1e" title="Apply generic lighting (no specular supplied)" alt="" coords="23,355,176,397"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="243,377,177,378,177,372,243,372"/>
+</map>

@@ -1,0 +1,48 @@
+<map id="AISkirmishPlayer::checkQueuedTeams" name="AISkirmishPlayer::checkQueuedTeams">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,317,216,360"/>
+<area shape="rect" id="Node000002" href="$class_a_i_player.html#a8121de9851db54890c7d4338f9ea5634" title=" " alt="" coords="264,325,462,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,336,248,336,248,341,216,341"/>
+<area shape="rect" id="Node000003" href="$class_team_in_queue.html#a17ab463439ca7d1b98f57042c82c160f" title="Returns true if all units in factories have finished building." alt="" coords="510,5,730,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,324,377,271,403,194,422,153,446,112,474,74,508,42,514,38,517,42,512,46,478,78,450,115,427,155,408,196,382,273,369,326"/>
+<area shape="rect" id="Node000004" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="532,56,708,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="367,324,384,282,413,224,455,162,480,134,508,109,517,102,520,107,512,113,484,137,459,165,418,227,389,284,371,326"/>
+<area shape="rect" id="Node000006" href="$class_team_in_queue.html#a37b82d9be921dbf8dc7013e1531790c5" title="Disbands the team (moves units into the default team)." alt="" coords="542,123,698,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="369,324,389,290,419,245,460,198,509,159,527,150,529,155,511,164,464,202,424,248,393,293,374,326"/>
+<area shape="rect" id="Node000011" href="$class_d_l_i_n_k___i_t_e_r_a_t_o_r.html#afe93dde314b09db90bbe658fcbf3654f" title=" " alt="" coords="534,173,706,200"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="374,323,428,268,466,236,509,210,523,203,526,208,511,214,469,241,432,272,378,327"/>
+<area shape="rect" id="Node000012" href="$class_script.html#a42ac107684cfda77f898fdfee339eae9" title=" " alt="" coords="561,224,679,251"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="385,322,440,291,509,260,545,249,547,254,511,265,443,296,388,327"/>
+<area shape="rect" id="Node000013" href="$class_object.html#ac50efcf2ad2e22d1f83125ac238c6f45" title=" " alt="" coords="571,275,669,301"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="434,322,555,298,556,303,435,327"/>
+<area shape="rect" id="Node000014" href="$class_team.html#a136f049e1bff294e3b5de1de535984df" title="return the prototype used to create this team" alt="" coords="552,325,688,352"/>
+<area shape="poly" id="edge14_Node000002_Node000014" title=" " alt="" coords="463,336,537,336,537,341,463,341"/>
+<area shape="rect" id="Node000015" href="$class_team_prototype.html#a4e3f9ed9082dd00938c1eb65161e9666" title=" " alt="" coords="515,376,725,403"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="435,350,534,370,533,375,434,355"/>
+<area shape="rect" id="Node000016" href="$class_team_in_queue.html#aea853135b181cae36264ef28c2ff7b96" title="Returns true if the team is finished building." alt="" coords="540,427,701,453"/>
+<area shape="poly" id="edge16_Node000002_Node000016" title=" " alt="" coords="388,350,443,381,511,412,533,419,532,425,509,417,440,386,385,355"/>
+<area shape="rect" id="Node000017" href="$class_team_in_queue.html#a7fe68464c6ace51df7c5dc190d2730d3" title="Returns true if the team has run out of build time." alt="" coords="531,477,709,520"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="378,351,433,405,470,436,511,463,522,469,520,473,509,468,467,440,429,409,375,354"/>
+<area shape="rect" id="Node000018" href="$class_a_i_update_interface.html#a49d4dca169021809ed640278b9d86d98" title=" " alt="" coords="552,544,688,587"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="373,351,392,387,422,435,463,486,512,530,539,544,536,549,508,534,459,490,418,438,387,390,368,353"/>
+<area shape="rect" id="Node000022" href="$class_team_in_queue.html#a378614ca388e1b9c9a4ce23c821cb464" title="Returns true if the team has started building at least the minimum number of units." alt="" coords="520,611,720,637"/>
+<area shape="poly" id="edge22_Node000002_Node000022" title=" " alt="" coords="370,352,385,399,413,466,432,502,454,537,481,569,512,597,518,601,515,605,508,601,477,573,450,540,427,505,408,468,380,401,365,353"/>
+<area shape="rect" id="Node000023" href="$class_a_i_player.html#a5bfc26ebb5655ccb6b0229f4feaf4cc3" title=" " alt="" coords="544,661,697,688"/>
+<area shape="poly" id="edge23_Node000002_Node000023" title=" " alt="" coords="369,352,381,407,406,488,425,531,449,574,477,613,512,647,531,659,528,663,508,651,473,617,444,577,420,534,401,490,376,409,364,353"/>
+<area shape="rect" id="Node000005" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="799,44,940,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="708,70,784,67,784,72,709,76"/>
+<area shape="rect" id="Node000007" href="$class_ascii_string.html#a396495f839d5f880b2754f36a79a9bb1" title=" " alt="" coords="804,135,935,161"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="698,137,788,141,788,147,698,142"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="833,136,826,126,831,116,846,110,870,108,895,111,909,117,907,122,894,116,869,113,847,115,834,120,832,125,837,133"/>
+<area shape="rect" id="Node000008" href="$class_ascii_string.html#a89173ff29e07403f748cd6cfd8206b90" title=" " alt="" coords="1009,109,1164,136"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="935,138,993,131,994,136,936,143"/>
+<area shape="rect" id="Node000009" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="1033,160,1140,187"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="936,153,1018,163,1017,168,935,158"/>
+<area shape="rect" id="Node000010" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1212,160,1332,187"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1141,171,1196,171,1196,176,1141,176"/>
+<area shape="rect" id="Node000019" href="$class_state_machine.html#a7070346397ecee7fe576cfc348901ad6" title="return the id of the current state of the machine" alt="" coords="784,477,955,520"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="688,545,772,522,773,527,689,550"/>
+<area shape="rect" id="Node000020" href="$class_a_i_update_interface.html#a7106f23471df9d9e37f5d8b4d11513b4" title=" " alt="" coords="802,544,937,587"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="688,563,786,563,786,568,688,568"/>
+<area shape="rect" id="Node000021" href="$class_state_machine.html#aa333a0a219390c4db4c1639a4a6573f3" title=" " alt="" coords="778,611,961,637"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="689,579,795,604,794,609,688,584"/>
+</map>

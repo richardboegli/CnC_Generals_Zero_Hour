@@ -1,0 +1,43 @@
+<map id="Weapon::isWithinAttackRange" name="Weapon::isWithinAttackRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="751,397,951,424"/>
+<area shape="rect" id="Node000002" href="$class_partition_filter_within_attack_range.html#a648196e50692abe34302a1319a6a96e8" title=" " alt="" coords="504,5,677,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="843,382,831,317,805,230,787,184,764,140,735,98,702,62,676,46,679,41,705,58,739,95,768,137,792,182,810,228,836,315,849,381"/>
+<area shape="rect" id="Node000003" href="$class_garrison_contain.html#a491daa4f75586d0c937a7c89e1ba5ced" title=" " alt="" coords="507,72,674,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="840,383,824,329,797,260,756,189,731,157,702,129,674,112,676,108,705,125,735,153,761,186,801,258,829,327,846,382"/>
+<area shape="rect" id="Node000004" href="$class_garrison_contain.html#a7c64c54d7a517962369a5c00fc886977" title=" " alt="" coords="507,139,674,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="836,385,816,343,787,292,749,240,702,195,673,180,676,175,705,191,753,236,792,289,821,340,841,382"/>
+<area shape="rect" id="Node000005" href="$class_turret_a_i.html#acc8d60d1e29873412393c194cc070b2b" title=" " alt="" coords="493,205,688,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="828,387,774,328,740,297,702,269,666,251,668,246,705,264,743,292,778,324,832,383"/>
+<area shape="rect" id="Node000006" href="$class_turret_a_i_aim_turret_state.html#aba04e8a61b792a7ecf0e095803c09a97" title=" " alt="" coords="250,231,406,273"/>
+<area shape="poly" id="edge21_Node000001_Node000006" title=" " alt="" coords="821,389,768,349,736,329,702,313,626,289,547,272,472,262,406,257,407,252,472,257,548,267,627,284,704,308,739,325,771,345,825,385"/>
+<area shape="rect" id="Node000007" href="$class_weapon_set.html#aadaa8446582c12e411e20546bfc9386e" title=" " alt="" coords="478,323,703,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="780,395,676,369,678,363,782,390"/>
+<area shape="rect" id="Node000009" href="$class_a_i_attack_aim_at_target_state.html#a4abc76e16171a246c59f4edea484ab71" title="executed once when entering state" alt="" coords="503,389,678,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="736,413,679,413,679,408,736,408"/>
+<area shape="rect" id="Node000010" href="$class_a_i_attack_approach_target_state.html#a61f5bf05b1a5a71faedaa806d6b8a9f1" title=" " alt="" coords="494,456,688,499"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="782,431,678,458,676,453,780,426"/>
+<area shape="rect" id="Node000011" href="$_a_i_states_8cpp.html#acebbc97b19c340871ae15c5765948944" title=" " alt="" coords="502,573,679,600"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="834,438,781,502,745,535,705,564,678,575,676,570,702,559,742,531,777,498,830,435"/>
+<area shape="rect" id="Node000014" href="$_a_i_states_8cpp.html#a955bb69982e2f6266d0553791371518a" title=" " alt="" coords="498,523,683,549"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="824,436,771,476,704,513,671,525,670,520,702,508,768,471,821,432"/>
+<area shape="rect" id="Node000015" href="$class_garrison_contain.html#a357f5db4512c94abff35dc103a26caca" title="remove objects with invalid targets from valid points" alt="" coords="488,624,693,667"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="840,439,819,478,789,525,751,573,705,614,685,626,682,621,702,610,747,570,785,522,814,475,835,437"/>
+<area shape="rect" id="Node000019" href="$class_a_i_attack_aim_at_target_state.html#a152288cbe1adade3d5f269a2475040c7" title=" " alt="" coords="503,691,678,733"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="845,440,827,491,799,556,759,623,734,654,705,681,680,696,677,691,702,677,730,650,754,620,794,554,822,489,840,438"/>
+<area shape="rect" id="Node000020" href="$class_deploy_style_a_i_update.html#ace304f724c99403da34512df2bea254a" title="update this object&#39;s AI" alt="" coords="517,757,664,800"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="848,440,834,503,808,586,789,630,766,673,738,712,705,747,686,760,665,769,663,764,684,756,702,743,734,709,762,670,785,627,803,584,829,502,843,439"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="478,240,407,247,406,242,477,235"/>
+<area shape="rect" id="Node000008" href="$class_weapon_set.html#a3bf31fb5351a27a677ec4cbdadcbdbcd" title=" " alt="" coords="232,323,424,365"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="463,347,425,347,425,341,463,341"/>
+<area shape="rect" id="Node000012" href="$class_attack_state_machine.html#a40c27b20163f640dad2b5dad15a6db93" title=" " alt="" coords="254,507,402,549"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="512,572,401,547,403,542,514,567"/>
+<area shape="rect" id="Node000013" href="$class_turret_state_machine.html#aeee631adfb79296d9e6ba17c087e6143" title=" " alt="" coords="256,573,400,616"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="487,592,400,595,400,590,487,587"/>
+<area shape="poly" id="edge14_Node000014_Node000012" title=" " alt="" coords="482,535,402,533,402,528,482,530"/>
+<area shape="rect" id="Node000016" href="$class_garrison_contain.html#a348fc204b4aae2b8772670b1dd6f965d" title="Every frame, and whenever anyone enters or leaves." alt="" coords="226,640,430,683"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="473,655,431,658,430,652,473,650"/>
+<area shape="rect" id="Node000017" href="$class_garrison_contain.html#ae4a2e7522c44c16e41b4ec20e042e8a3" title="redeploy the occupants of us at all available garrison points" alt="" coords="5,611,178,653"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="210,649,178,645,178,640,210,644"/>
+<area shape="rect" id="Node000018" href="$class_garrison_contain.html#ad15825e284a8796b3e919ed506591d0c" title="called once per frame" alt="" coords="10,677,173,704"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="210,679,173,683,173,678,210,673"/>
+</map>

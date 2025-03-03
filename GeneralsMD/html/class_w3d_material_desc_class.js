@@ -1,0 +1,36 @@
+var class_w3d_material_desc_class =
+[
+    [ "ErrorType", "class_w3d_material_desc_class.html#a1b9bcf60152c02fb12a9d260b12f75e2", [
+      [ "OK", "class_w3d_material_desc_class.html#a1b9bcf60152c02fb12a9d260b12f75e2afaa403f86cc89c23aedbfad5e82e498b", null ],
+      [ "INCONSISTENT_PASSES", "class_w3d_material_desc_class.html#a1b9bcf60152c02fb12a9d260b12f75e2a9efc6496f84afd991151468cd20c0db3", null ],
+      [ "MULTIPASS_TRANSPARENT", "class_w3d_material_desc_class.html#a1b9bcf60152c02fb12a9d260b12f75e2a2daeec31ef94ead5b20995e7aa85f581", null ],
+      [ "INCONSISTENT_SORT_LEVEL", "class_w3d_material_desc_class.html#a1b9bcf60152c02fb12a9d260b12f75e2af8fff5aa7b8ad53817d67e9169cd279e", null ]
+    ] ],
+    [ "W3dMaterialDescClass", "class_w3d_material_desc_class.html#a3238cbef614bbf666d4142b2d24de145", null ],
+    [ "~W3dMaterialDescClass", "class_w3d_material_desc_class.html#a6c8eafbe822c821db45522c2bf6ec644", null ],
+    [ "Add_Material", "class_w3d_material_desc_class.html#a86fc8771a87190cd816a76cba244419e", null ],
+    [ "Get_Map_Channel", "class_w3d_material_desc_class.html#ad7b8b2723263bd990d41bacb8de1d365", null ],
+    [ "Get_Mapper_Args", "class_w3d_material_desc_class.html#a4d1b18fbfc7d16f8df04ea270e2127ba", null ],
+    [ "Get_Mapper_Args", "class_w3d_material_desc_class.html#ac257970977d777487875d025d802634a", null ],
+    [ "Get_Shader", "class_w3d_material_desc_class.html#afd0dc087bdf6b39ce89cc35b6c89c094", null ],
+    [ "Get_Shader", "class_w3d_material_desc_class.html#a907d37d69aa0ef924b6e951859e4a821", null ],
+    [ "Get_Shader_Index", "class_w3d_material_desc_class.html#a9fd0aff054cd1be0a1fafe703c9c9080", null ],
+    [ "Get_Sort_Level", "class_w3d_material_desc_class.html#ab669aef6d250efe2775da0db4e30dac1", null ],
+    [ "Get_Texture", "class_w3d_material_desc_class.html#aa1b6a898543ee088a63925b40c4ffdc0", null ],
+    [ "Get_Texture", "class_w3d_material_desc_class.html#a1da06c5fcdbabf03d9d3faf17afd1638", null ],
+    [ "Get_Texture_Index", "class_w3d_material_desc_class.html#ad38e9b6cfc61a15997c97f1f286e8fce", null ],
+    [ "Get_Vertex_Material", "class_w3d_material_desc_class.html#a5a6228f1905ceb7978913421c6e11b2e", null ],
+    [ "Get_Vertex_Material", "class_w3d_material_desc_class.html#acae98a721570f9c4dc408336a85d4b8a", null ],
+    [ "Get_Vertex_Material_Index", "class_w3d_material_desc_class.html#a7ce644a2660e638da261d04720d98209", null ],
+    [ "Get_Vertex_Material_Name", "class_w3d_material_desc_class.html#a4c7e8b24a080878214e95f5a199359f7", null ],
+    [ "Get_Vertex_Material_Name", "class_w3d_material_desc_class.html#a4baa7853fea27943fae386e0e9d4d82f", null ],
+    [ "Material_Count", "class_w3d_material_desc_class.html#aa472540cd0ac64d42fc3ad10d4ca1c40", null ],
+    [ "Pass_Count", "class_w3d_material_desc_class.html#a5c715136fbd169c8886d82553480397f", null ],
+    [ "Pass_Uses_Alpha", "class_w3d_material_desc_class.html#af3327f542009337e035a367c27f2e33c", null ],
+    [ "Pass_Uses_Vertex_Alpha", "class_w3d_material_desc_class.html#a43e8f61ab3a523083240e3b7c8cb0813", null ],
+    [ "Reset", "class_w3d_material_desc_class.html#a8ed774e231e34b2ab6c3af43c12184d8", null ],
+    [ "Shader_Count", "class_w3d_material_desc_class.html#a99e3e0189931f787ae4e964ff7c27604", null ],
+    [ "Stage_Needs_Texture_Coordinates", "class_w3d_material_desc_class.html#a95da318bd0fcad3b559cf857ec641283", null ],
+    [ "Texture_Count", "class_w3d_material_desc_class.html#afc48d5000ca112ced18e28ee29b7eab3", null ],
+    [ "Vertex_Material_Count", "class_w3d_material_desc_class.html#a690f17fe310f0c057856a88a6466d1c5", null ]
+];

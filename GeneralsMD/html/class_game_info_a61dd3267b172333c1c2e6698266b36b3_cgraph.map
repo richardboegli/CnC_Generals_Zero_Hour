@@ -1,0 +1,33 @@
+<map id="GameInfo::startGame" name="GameInfo::startGame">
+<area shape="rect" id="Node000001" title="Mark our game as started, and record the game ID." alt="" coords="5,107,153,133"/>
+<area shape="rect" id="Node000002" href="$class_game_info.html#aa44e75592af238d4be087e6ab722e642" title="close all slots that are currently unoccupied." alt="" coords="201,107,379,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,117,185,117,185,123,153,123"/>
+<area shape="rect" id="Node000003" href="$class_game_info.html#a2346634808275bc30ac62bc13565bd4f" title="Get the slot." alt="" coords="440,31,567,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="326,104,426,67,445,60,446,65,428,72,328,109"/>
+<area shape="rect" id="Node000004" href="$class_game_slot.html#a427e84b7f792735c015b98e36b54d0a7" title="Is this slot occupied (by a human or an AI)?" alt="" coords="427,81,579,108"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,107,411,103,412,108,380,112"/>
+<area shape="rect" id="Node000005" href="$class_game_info.html#aeb0fd984991af26bd106a76b781680f6" title="Set the slot state (human, open, AI, etc)" alt="" coords="440,132,567,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="380,128,424,133,424,139,379,133"/>
+<area shape="rect" id="Node000014" href="$class_game_slot.html#ac9122929932dcaa9b969db3d73497c71" title="Set the slot&#39;s state (human, AI, open, etc)" alt="" coords="435,259,571,285"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="312,132,473,248,469,252,309,136"/>
+<area shape="rect" id="Node000006" href="$class_game_slot.html#a7c9eb64aa8a84577d874fad13d1f2f02" title=" " alt="" coords="665,5,783,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="559,129,578,118,593,100,601,81,608,61,626,42,649,29,652,34,629,46,613,64,606,83,598,102,581,122,561,134"/>
+<area shape="rect" id="Node000007" href="$class_game_slot.html#afb54c162a9a3bdae4b64cfb50aa2f10f" title=" " alt="" coords="654,56,794,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="549,129,578,118,602,105,626,92,647,85,649,90,628,97,604,109,580,122,551,134"/>
+<area shape="rect" id="Node000008" href="$class_game_slot.html#aad12ebb61fa8d3b13baba91a509a037e" title="Accept the current options." alt="" coords="651,107,797,133"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="567,135,635,127,636,133,567,141"/>
+<area shape="rect" id="Node000009" href="$class_game_slot.html#ab3ee91cea9d5990651d2c4e8cdb34f51" title="Set whether the slot has the map." alt="" coords="627,157,821,184"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="567,150,612,155,612,160,567,155"/>
+<area shape="rect" id="Node000012" href="$class_unicode_string.html#ab80e621deccff2aa3abfaebc99c5c170" title=" " alt="" coords="661,208,787,235"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="536,157,628,193,652,201,650,206,626,199,534,162"/>
+<area shape="rect" id="Node000010" href="$class_game_slot.html#afa101345a456246cd744d1dfcb87e0b0" title="Non&#45;human slots always have the map." alt="" coords="872,107,1005,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="783,154,864,135,865,140,784,159"/>
+<area shape="rect" id="Node000011" href="$class_game_slot.html#a9b32369af7f5fd37c9eba1cbd30f4738" title="Is this slot occupied by a human player?" alt="" coords="869,157,1008,184"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="821,168,853,168,853,173,821,173"/>
+<area shape="rect" id="Node000013" href="$class_unicode_string.html#ad55fc5bd752b804f3e0d29ee79fd8cf3" title=" " alt="" coords="869,208,1008,235"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="788,219,853,219,853,224,788,224"/>
+<area shape="rect" id="Node000015" href="$class_game_slot.html#a56ae6a4b522cefb0309f257fd5f998c6" title="Is this slot occupied by an AI?" alt="" coords="669,259,779,285"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="572,269,653,269,653,275,572,275"/>
+<area shape="rect" id="Node000016" href="$class_game_slot.html#a572676b8bc5e1373c49be469cec2a328" title=" " alt="" coords="666,309,782,336"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="565,283,651,303,650,309,564,289"/>
+</map>

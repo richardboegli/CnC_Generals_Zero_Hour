@@ -1,0 +1,21 @@
+<map id="WorkerAIUpdate::internalCancelTask" name="WorkerAIUpdate::internalCancelTask">
+<area shape="rect" id="Node000001" title="cancel this task from the dozer" alt="" coords="992,83,1159,126"/>
+<area shape="rect" id="Node000002" href="$class_worker_a_i_update.html#a10085b70aacf7ead7352725df77b09ad" title="cancel this task from the queue, if it&#39;s the current task the dozer will stop working on it" alt="" coords="752,91,944,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,107,944,107,944,102,977,102"/>
+<area shape="rect" id="Node000003" href="$class_worker_a_i_update.html#a7ae7006c4dbc539d367b7c214fe5ef67" title=" " alt="" coords="5,91,218,118"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="800,88,754,71,704,57,582,28,485,11,438,8,388,10,332,18,266,31,228,43,192,60,134,93,132,89,189,55,226,38,265,26,331,12,387,5,438,3,485,5,583,23,705,51,755,66,801,83"/>
+<area shape="rect" id="Node000004" href="$class_worker_a_i_update.html#a4973dbf53d893a7756f7b3cddbeb7f11" title="set a desire to do the requrested task" alt="" coords="527,66,704,93"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="737,95,705,92,705,86,737,90"/>
+<area shape="rect" id="Node000008" href="$class_worker_a_i_update.html#a367cd8600888c981e0c6b4e11aa311c1" title=" " alt="" coords="527,117,704,143"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="737,119,705,123,705,118,737,114"/>
+<area shape="rect" id="Node000009" href="$class_worker_a_i_update.html#ad929ad63af55fe23970c51ad512ac952" title="the update entry point" alt="" coords="534,167,698,194"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="796,126,705,158,668,169,666,164,704,153,794,121"/>
+<area shape="rect" id="Node000005" href="$class_worker_a_i_update.html#a80dc9236df1e4d8239a6ecd9ac7634f4" title="construct a building" alt="" coords="283,41,462,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="511,71,462,66,463,61,512,66"/>
+<area shape="rect" id="Node000006" href="$class_worker_a_i_update.html#aaf1fef75aa509a573663b63d00082e33" title="repair the target" alt="" coords="271,91,474,118"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="512,93,474,97,474,91,511,87"/>
+<area shape="rect" id="Node000007" href="$class_worker_a_i_update.html#ad3847e7a98580db86899333fe81b5f42" title="resume construction on obj" alt="" coords="266,142,479,185"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="546,100,528,107,480,132,449,144,448,139,478,128,526,102,544,95"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="256,107,218,107,218,102,256,102"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="259,141,174,121,175,116,260,135"/>
+</map>

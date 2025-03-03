@@ -1,0 +1,9 @@
+<map id="TurretAI::friend_notifyStateMachineChanged" name="TurretAI::friend_notifyStateMachineChanged">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,72,377,115"/>
+<area shape="rect" id="Node000002" href="$class_turret_state_machine.html#ad33c522bcf043913a2c61e8d6f14db1d" title="clear the machine&#39;s internals to a known, initialized state" alt="" coords="10,5,146,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,69,145,51,147,46,205,64"/>
+<area shape="rect" id="Node000003" href="$class_turret_state_machine.html#af7d189926a1c3c51b4695116b96c14e6" title="clear the machine&#39;s internals and set to the default state" alt="" coords="5,72,151,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,96,151,96,151,91,183,91"/>
+<area shape="rect" id="Node000004" href="$class_turret_state_machine.html#a90f9a2f47a1c738897a3e93528520ec1" title="change the current state of the machine (which may cause further state changes, due to onEnter)" alt="" coords="10,139,146,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,122,147,141,145,136,203,117"/>
+</map>

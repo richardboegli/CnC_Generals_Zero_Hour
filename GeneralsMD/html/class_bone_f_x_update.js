@@ -1,0 +1,27 @@
+var class_bone_f_x_update =
+[
+    [ "ParticleSystemIDVec", "class_bone_f_x_update.html#aada3738debb79b94b4fadf6139528859", null ],
+    [ "BoneFXUpdate", "class_bone_f_x_update.html#a39852b4771e66a14764b5bfccfe83a02", null ],
+    [ "changeBodyDamageState", "class_bone_f_x_update.html#a9c5fd5282af9e4f49d9ce8b9751ac47a", null ],
+    [ "computeNextClientFXTime", "class_bone_f_x_update.html#a3ed15e83da77634c1eef6c675c4667b3", null ],
+    [ "computeNextLogicFXTime", "class_bone_f_x_update.html#a764161e8916b98badb01146a3aa46239", null ],
+    [ "doFXListAtBone", "class_bone_f_x_update.html#a902f30d365e0a6687d8e027c66a7bd0b", null ],
+    [ "doOCLAtBone", "class_bone_f_x_update.html#a66ccc06745db04c030eb385ac34a5b83", null ],
+    [ "doParticleSystemAtBone", "class_bone_f_x_update.html#a0d48eaad03c1099806c5f75c75cfe074", null ],
+    [ "initTimes", "class_bone_f_x_update.html#a65cc79b234a68e7d61641d5caf289748", null ],
+    [ "killRunningParticleSystems", "class_bone_f_x_update.html#abe7817dae877fb9d11c0f80d3eecc528", null ],
+    [ "onObjectCreated", "class_bone_f_x_update.html#adb5e0d31d0337328a2d842ddf7b3490a", null ],
+    [ "resolveBoneLocations", "class_bone_f_x_update.html#a40574bb22d514fe7b6d504522ef7ac72", null ],
+    [ "stopAllBoneFX", "class_bone_f_x_update.html#afe7d05aaf09899ed13ddff3106d8171a", null ],
+    [ "update", "class_bone_f_x_update.html#a8d3212b36dc0a729f644764493ebc187", null ],
+    [ "m_active", "class_bone_f_x_update.html#afeaed99a2732e42a4cf64c66c9a49b1b", null ],
+    [ "m_bonesResolved", "class_bone_f_x_update.html#a9292638f4a1338386f760adc8f916951", null ],
+    [ "m_curBodyState", "class_bone_f_x_update.html#a261a612edad9f8f323d45ef0bcc014ac", null ],
+    [ "m_FXBonePositions", "class_bone_f_x_update.html#a0ed7a90c630b2dfaa10ce55ba19f6d3d", null ],
+    [ "m_nextFXFrame", "class_bone_f_x_update.html#affd536ebe15e0a3413fb9cd4ec519bd8", null ],
+    [ "m_nextOCLFrame", "class_bone_f_x_update.html#aab3d32eba3ba55b31ed172b2640c406e", null ],
+    [ "m_nextParticleSystemFrame", "class_bone_f_x_update.html#a3727d000cce052aff398c72484015e5b", null ],
+    [ "m_OCLBonePositions", "class_bone_f_x_update.html#a98a104c0dd706dc2d36ba5f264bd4427", null ],
+    [ "m_particleSystemIDs", "class_bone_f_x_update.html#a0c26d9b14313ed87815c731229891eaf", null ],
+    [ "m_PSBonePositions", "class_bone_f_x_update.html#aac106b529944abde8790efd94ca751cc", null ]
+];

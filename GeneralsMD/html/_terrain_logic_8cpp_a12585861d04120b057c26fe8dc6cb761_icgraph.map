@@ -1,0 +1,15 @@
+<map id="LineInRegion" name="LineInRegion">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,81,612,108"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#ac21829aeaa446d39d157d1ef8dd01d13" title=" " alt="" coords="239,5,467,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,76,466,46,429,35,430,30,468,42,528,71"/>
+<area shape="rect" id="Node000003" href="$class_bridge.html#ae17d00a8d2d29264cab19669f8527528" title=" " alt="" coords="273,56,433,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="500,90,433,82,434,76,500,84"/>
+<area shape="rect" id="Node000004" href="$class_bridge.html#a1b5df78cfbaebe30d24ac43e88026198" title=" " alt="" coords="283,107,422,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="500,105,423,114,423,109,499,100"/>
+<area shape="rect" id="Node000007" href="$class_bridge.html#aeeefb07ef72f4d6d88304e308a4b17d4" title=" " alt="" coords="282,157,424,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="528,119,468,148,425,161,423,155,466,143,526,114"/>
+<area shape="rect" id="Node000005" href="$class_terrain_logic.html#ab1cf917c3262c80b6e3325e62eb0ea75" title="Returns true if the object is close to one or the other end of the bridge." alt="" coords="5,65,191,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="267,112,191,101,192,96,268,106"/>
+<area shape="rect" id="Node000006" href="$class_terrain_logic.html#a3dbb2d4ed0e271c17fa464cabf9d41c2" title="Returns true if the object is close enough to interact with the bridge for pathfinding." alt="" coords="5,132,191,175"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="268,134,192,144,191,139,267,128"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AIAttackMoveStateMachine::AIAttackMoveStateMachine" name="AIAttackMoveStateMachine::AIAttackMoveStateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,198,141"/>
+<area shape="rect" id="Node000002" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="253,81,428,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,107,237,103,237,108,198,112"/>
+<area shape="rect" id="Node000007" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="246,132,435,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,128,230,131,230,136,198,133"/>
+<area shape="rect" id="Node000003" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="483,5,651,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,78,482,41,503,35,505,40,484,47,380,83"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="491,56,643,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="428,82,475,77,475,82,429,88"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="485,107,649,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="429,102,470,106,469,112,428,107"/>
+<area shape="rect" id="Node000006" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="502,157,633,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="401,106,436,118,484,143,502,150,500,155,482,148,434,122,400,111"/>
+</map>

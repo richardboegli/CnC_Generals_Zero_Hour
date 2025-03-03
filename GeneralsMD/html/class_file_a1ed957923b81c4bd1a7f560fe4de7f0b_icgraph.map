@@ -1,0 +1,37 @@
+<map id="File::OnFileError" name="File::OnFileError">
+<area shape="rect" id="Node000001" title="Error handling hook." alt="" coords="488,259,605,285"/>
+<area shape="rect" id="Node000002" href="$class_file.html#a461ab2c92b9baa51da992dac40a3aafa" title="Delete an existing file." alt="" coords="18,107,107,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,249,483,214,439,178,364,128,329,111,281,97,236,91,189,93,145,100,108,109,106,104,144,95,189,88,236,86,283,92,331,106,367,123,442,174,486,210,523,245"/>
+<area shape="rect" id="Node000003" href="$class_file.html#a584c239080fadf678cd08cf3724605fd" title="Read bytes from the file." alt="" coords="172,309,278,336"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,286,278,317,277,312,472,281"/>
+<area shape="rect" id="Node000005" href="$class_file.html#acf9ae0f507a99011f79b5372d920798d" title="Get the length of the file." alt="" coords="170,5,280,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="538,244,527,200,508,148,479,96,461,72,439,53,401,33,360,21,318,16,280,16,280,11,319,11,361,16,403,28,442,48,465,69,484,93,513,146,532,199,543,243"/>
+<area shape="rect" id="Node000007" href="$class_file.html#ad8f4912cda00e56eee6591e7a9838a7f" title="Load the file into memory." alt="" coords="186,107,264,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="502,254,281,148,256,136,258,131,283,143,504,249"/>
+<area shape="rect" id="Node000008" href="$class_file.html#aedef8312cda01accd2e0112178865cc8" title="Open the file for access." alt="" coords="344,233,426,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="472,263,426,256,427,250,473,258"/>
+<area shape="rect" id="Node000012" href="$class_file.html#a0e7cced4d09319dead08a020ac8397bf" title="Write bytes to the file." alt="" coords="173,360,277,387"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="496,294,441,313,278,362,277,357,440,308,495,289"/>
+<area shape="rect" id="Node000013" href="$class_file.html#aecb679f89aaf0022c5295af53d5ee184" title="Write file data." alt="" coords="185,411,265,437"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="519,298,483,325,442,350,349,390,266,416,265,411,347,385,439,346,480,320,516,293"/>
+<area shape="rect" id="Node000014" href="$class_file.html#ad70c76301bd5ecf25133760e6db052e8" title="Set file position marker." alt="" coords="330,436,440,463"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="533,300,495,358,470,390,442,419,416,438,413,433,439,415,466,387,491,355,528,298"/>
+<area shape="rect" id="Node000004" href="$class_file.html#a6fb7b942a418cf4f9ae8751d1c8f42f1" title="Read bytes from the file without marker adjustment." alt="" coords="5,385,120,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,345,169,350,93,387,91,382,167,346,178,340"/>
+<area shape="rect" id="Node000006" href="$class_file.html#a631bdc38491a64c0977df3ccee419325" title="End of file test." alt="" coords="19,5,106,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="154,21,106,21,106,16,154,16"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="345,270,283,300,258,311,256,307,281,295,342,265"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="364,221,280,96,234,34,239,31,284,93,369,218"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="361,224,326,185,280,148,261,136,263,132,284,143,329,181,365,220"/>
+<area shape="rect" id="Node000009" href="$class_file.html#a5c821940b6b9509bbd50833e0b26336e" title="Create a new file." alt="" coords="180,259,270,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="329,258,270,268,269,262,329,253"/>
+<area shape="rect" id="Node000010" href="$class_file.html#ae6b96ac62ddc31a9ea756fe35640790e" title="Check if the file is available." alt="" coords="168,157,282,184"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="342,228,281,198,256,187,258,182,283,194,345,224"/>
+<area shape="rect" id="Node000011" href="$class_file.html#a4f3efc5ca292fa6cbf7e4a9b44c8e69d" title="Open the file with the associated name for access." alt="" coords="184,208,266,235"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="329,241,266,230,266,225,330,235"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="365,273,329,312,284,350,263,362,261,357,280,346,326,308,361,270"/>
+<area shape="poly" id="edge16_Node000008_Node000013" title=" " alt="" coords="374,275,338,337,313,371,284,401,266,412,263,408,280,397,309,367,334,334,369,272"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="164,155,106,136,108,131,166,150"/>
+<area shape="poly" id="edge20_Node000014_Node000004" title=" " alt="" coords="315,460,243,461,167,452,121,435,84,415,86,410,124,431,168,447,243,456,315,455"/>
+<area shape="poly" id="edge21_Node000014_Node000013" title=" " alt="" coords="314,441,265,433,266,428,315,436"/>
+</map>

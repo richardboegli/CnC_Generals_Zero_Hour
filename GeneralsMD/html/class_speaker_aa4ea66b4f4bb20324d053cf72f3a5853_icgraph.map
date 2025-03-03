@@ -1,0 +1,26 @@
+<map id="Speaker::stop" name="Speaker::stop">
+<area shape="rect" id="Node000001" title="stop speaking (flushes queue)" alt="" coords="874,119,976,145"/>
+<area shape="rect" id="Node000002" href="$class_speaker.html#a0f0fb3c1141e909b23057c233269c2ff" title=" " alt="" coords="697,56,806,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="870,115,790,86,792,81,872,110"/>
+<area shape="rect" id="Node000007" href="$class_speech_manager.html#af0371cc339013b061a7bac298b210a61" title="Stops all speech that&#39;s currently playing." alt="" coords="677,119,826,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="858,135,826,135,826,129,858,129"/>
+<area shape="rect" id="Node000011" href="$class_speaker.html#a2ba7fbe6546f2b2db0a1cd1d8ddfe9c0" title="Service speaker." alt="" coords="693,195,810,221"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="879,155,785,197,783,192,877,150"/>
+<area shape="rect" id="Node000003" href="$class_speaker.html#aa6a5868bab27916af0c0dc1df6d09066" title="initialized speaker for use" alt="" coords="501,5,595,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="681,55,595,33,596,28,683,50"/>
+<area shape="rect" id="Node000006" href="$class_speaker.html#a4fbf603df58d79c0db48cf1a672a5acb" title=" " alt="" coords="482,56,615,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="682,72,615,72,615,67,682,67"/>
+<area shape="rect" id="Node000004" href="$class_speech_manager.html#a3c0d9e7932443632d155ab74f875281c" title="Speaker factory." alt="" coords="203,5,410,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="486,21,411,21,411,16,486,16"/>
+<area shape="rect" id="Node000005" href="$class_speech_manager.html#ad1cd127a18b9849d7bb9e9b5345532cf" title="Initlaizes the speech system." alt="" coords="5,31,146,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="188,34,146,39,145,34,187,29"/>
+<area shape="rect" id="Node000008" href="$class_speech_manager.html#ad7c64f49a7e02d01e57afa8b8dd97e23" title="De&#45;initlaizes the speech system." alt="" coords="471,107,625,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="662,129,626,127,626,122,662,124"/>
+<area shape="rect" id="Node000010" href="$class_speech_manager.html#ab7f3fd5dfff566cfcf37cc2b530fbce9" title="Turns off all speech. No more speech will play." alt="" coords="467,157,629,184"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="664,151,622,159,621,154,662,146"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="464,106,419,97,145,56,146,51,419,92,465,101"/>
+<area shape="rect" id="Node000009" href="$class_speech_manager.html#a473b5a5d90f5486c0306278220d8138c" title=" " alt="" coords="194,107,419,133"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="455,123,419,123,419,117,455,117"/>
+<area shape="rect" id="Node000012" href="$class_speech_manager.html#a9a5cd6b3d5af53186218031d38776e82" title="Services speech tasks. Called by AudioInterface." alt="" coords="467,208,629,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="678,215,630,219,630,213,678,210"/>
+</map>

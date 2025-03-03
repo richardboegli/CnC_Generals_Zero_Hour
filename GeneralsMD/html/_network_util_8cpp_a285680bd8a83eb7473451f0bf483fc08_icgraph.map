@@ -1,0 +1,50 @@
+<map id="CommandRequiresAck" name="CommandRequiresAck">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1104,368,1260,395"/>
+<area shape="rect" id="Node000002" href="$class_connection.html#ab2b141bb16e2fec7045f2034c6022a9f" title=" " alt="" coords="914,339,1053,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1088,370,1053,365,1054,360,1089,365"/>
+<area shape="rect" id="Node000003" href="$class_connection_manager.html#aabf7b9289891c85d3aa980610410f10b" title="Send command to the players specified in the relay, goes through packet router." alt="" coords="911,389,1056,432"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1089,398,1057,403,1056,397,1089,392"/>
+<area shape="rect" id="Node000004" href="$class_connection_manager.html#a7847b3f5a13070b35aa3ef6b470e7c9e" title=" " alt="" coords="689,5,862,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="909,380,908,379,885,336,877,295,879,256,885,217,892,179,893,141,884,102,861,62,849,50,852,47,865,58,889,100,898,140,897,179,891,218,884,256,882,295,890,335,913,376,914,377"/>
+<area shape="rect" id="Node000005" href="$class_connection_manager.html#a726e324a246650b587d40ca621be79db" title=" " alt="" coords="699,72,852,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="910,380,908,379,889,345,881,313,881,281,885,251,889,221,888,190,880,160,861,128,848,117,852,113,865,125,885,158,894,190,894,221,890,251,887,282,887,312,894,343,913,376,914,377"/>
+<area shape="rect" id="Node000006" href="$class_connection_manager.html#a6de7bf811e2078ccbca79d4131450f67" title=" " alt="" coords="703,139,848,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="910,380,909,379,893,354,886,330,885,285,884,240,876,218,861,195,847,184,850,179,865,192,881,216,889,239,890,285,891,330,898,352,913,376,914,377"/>
+<area shape="rect" id="Node000007" href="$class_connection_manager.html#acc11757ad0288170c0f761f3c5853b46" title="Resend the pending commands to the packet router." alt="" coords="688,205,863,248"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="911,381,909,379,897,364,890,348,885,319,879,290,872,276,861,262,846,251,849,246,865,258,877,273,884,288,890,318,895,347,901,361,913,376,915,377"/>
+<area shape="rect" id="Node000015" href="$class_connection_manager.html#a40b754ad3e4e34e8110046dc1a139b41" title=" " alt="" coords="703,272,848,315"/>
+<area shape="poly" id="edge15_Node000003_Node000015" title=" " alt="" coords="916,384,909,379,885,357,861,335,829,318,832,313,864,331,888,353,912,375,919,379"/>
+<area shape="rect" id="Node000016" href="$class_disconnect_manager.html#a6eab31c8c4236e19f2878717143494ed" title=" " alt="" coords="465,339,640,381"/>
+<area shape="poly" id="edge16_Node000003_Node000016" title=" " alt="" coords="898,387,862,380,747,367,640,363,640,357,747,362,863,375,899,382"/>
+<area shape="rect" id="Node000017" href="$class_connection_manager.html#a2e704667dd214df2d5df24adaf57d942" title=" " alt="" coords="703,389,848,432"/>
+<area shape="poly" id="edge18_Node000003_Node000017" title=" " alt="" coords="895,413,849,413,849,408,895,408"/>
+<area shape="rect" id="Node000018" href="$class_connection_manager.html#a46d6ea34a153dcdf3a026d4e06fc3df7" title=" " alt="" coords="703,456,848,499"/>
+<area shape="poly" id="edge19_Node000003_Node000018" title=" " alt="" coords="901,440,845,458,844,453,899,435"/>
+<area shape="rect" id="Node000019" href="$class_connection_manager.html#acacce5843903fa70eb759ae112b9ac5d" title=" " alt="" coords="691,523,860,565"/>
+<area shape="poly" id="edge20_Node000003_Node000019" title=" " alt="" coords="951,445,911,480,864,513,842,524,839,520,861,508,908,476,948,441"/>
+<area shape="rect" id="Node000020" href="$class_disconnect_manager.html#a924a3f3bc4ed6700d3d9ec904b201f3c" title="send a destruct player network message." alt="" coords="480,493,625,536"/>
+<area shape="poly" id="edge21_Node000003_Node000020" title=" " alt="" coords="971,447,954,481,931,518,901,553,864,580,828,593,790,598,752,596,714,589,644,566,589,539,591,534,646,561,716,584,753,591,790,593,827,588,861,575,897,549,927,515,950,479,966,445"/>
+<area shape="rect" id="Node000021" href="$class_connection_manager.html#a7db0a555db92873361644497786d4162" title=" " alt="" coords="694,640,857,683"/>
+<area shape="poly" id="edge23_Node000003_Node000021" title=" " alt="" coords="972,448,955,488,932,534,902,581,864,623,838,642,835,637,861,619,897,578,927,531,951,485,967,446"/>
+<area shape="rect" id="Node000022" href="$class_connection_manager.html#a6efb0249fa0d34dc5d677baec1c79ba2" title=" " alt="" coords="703,707,848,749"/>
+<area shape="poly" id="edge24_Node000003_Node000022" title=" " alt="" coords="979,448,966,502,944,568,911,636,890,668,864,697,849,708,846,704,861,693,885,665,907,634,939,566,961,501,973,447"/>
+<area shape="rect" id="Node000023" href="$class_connection_manager.html#a3165f36cc9f9a1984ba1dec3c4147c81" title="Update the run ahead value. If we are the current packet router, issue the command." alt="" coords="703,773,848,816"/>
+<area shape="poly" id="edge25_Node000003_Node000023" title=" " alt="" coords="982,448,973,514,953,598,938,642,919,686,894,727,865,763,850,775,847,771,861,759,890,723,914,683,933,640,948,596,968,513,977,447"/>
+<area shape="rect" id="Node000008" href="$class_disconnect_manager.html#a34840bea7921cd8af213797f1143e356" title=" " alt="" coords="480,272,625,315"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="688,255,627,274,625,269,687,250"/>
+<area shape="rect" id="Node000013" href="$class_disconnect_manager.html#a2fc80ba5c454f55c2d1aaf147ef8d952" title=" " alt="" coords="247,168,417,211"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="684,204,640,196,524,188,418,188,418,183,524,182,641,191,685,199"/>
+<area shape="rect" id="Node000014" href="$class_connection_manager.html#a306fa2a1f19d771dac0c433abfafc329" title=" " alt="" coords="480,205,625,248"/>
+<area shape="poly" id="edge14_Node000007_Node000014" title=" " alt="" coords="673,229,626,229,626,224,673,224"/>
+<area shape="rect" id="Node000009" href="$class_disconnect_manager.html#adbb198325cefb3710eb52b87ff837641" title=" " alt="" coords="247,256,417,299"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="465,290,417,286,417,281,465,284"/>
+<area shape="rect" id="Node000011" href="$class_disconnect_manager.html#a26acb741b633a819e1225770d6cae6af" title=" " alt="" coords="250,339,414,381"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="466,322,406,341,404,335,465,317"/>
+<area shape="rect" id="Node000010" href="$class_disconnect_manager.html#a6e31ff796340acc7164a2fa6b3f15cfc" title=" " alt="" coords="5,239,199,281"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="231,272,199,270,199,265,232,267"/>
+<area shape="rect" id="Node000012" href="$class_disconnect_manager.html#a5b5d8701cfdc3382740e79ba2154d95d" title=" " alt="" coords="29,339,175,381"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="234,363,175,363,175,357,234,357"/>
+<area shape="poly" id="edge13_Node000013_Node000010" title=" " alt="" coords="246,218,175,241,173,235,245,213"/>
+<area shape="poly" id="edge17_Node000016_Node000011" title=" " alt="" coords="449,363,414,363,414,357,449,357"/>
+<area shape="poly" id="edge22_Node000020_Node000011" title=" " alt="" coords="507,486,363,384,366,380,510,482"/>
+</map>

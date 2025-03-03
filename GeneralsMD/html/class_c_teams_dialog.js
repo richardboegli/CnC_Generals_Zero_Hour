@@ -1,0 +1,25 @@
+var class_c_teams_dialog =
+[
+    [ "CTeamsDialog", "class_c_teams_dialog.html#a0879aa4c073777d8eebc16d4d199d860", null ],
+    [ "doCorrectTeamOwnerDialog", "class_c_teams_dialog.html#a4c7b1a8ddc6b9df97f6892ffbb10118c", null ],
+    [ "DoDataExchange", "class_c_teams_dialog.html#a63a88cb0195aa18bedfd4a8d6569a1e2", null ],
+    [ "isValidTeamOwner", "class_c_teams_dialog.html#a38f12ef7d23055de339492607f5a58d8", null ],
+    [ "OnCancel", "class_c_teams_dialog.html#a0ccb72fd8ed8142ba0319a6cb2df8ee7", null ],
+    [ "OnClickTeamsList", "class_c_teams_dialog.html#a5b96602dd64a0b05b14330f72a7f32f4", null ],
+    [ "OnCopyteam", "class_c_teams_dialog.html#a4b3f9beef7ecfae6b5049dbfa7358ed5", null ],
+    [ "OnDblclkTeamsList", "class_c_teams_dialog.html#a6193176bda013447b15a9784192e03ae", null ],
+    [ "OnDeleteteam", "class_c_teams_dialog.html#a6894206f25ca10279d6917a436cba893", null ],
+    [ "OnEditTemplate", "class_c_teams_dialog.html#a8b81f2903b5ba5ef45cfaa658ab38c00", null ],
+    [ "OnInitDialog", "class_c_teams_dialog.html#a831412ab4a395333c3cc28b1828c0241", null ],
+    [ "OnMoveDownTeam", "class_c_teams_dialog.html#ad43f2f326eb02459006bc7105b5e143a", null ],
+    [ "OnMoveUpTeam", "class_c_teams_dialog.html#affe8cec43da3c7583f02ecb1428e3de5", null ],
+    [ "OnNewteam", "class_c_teams_dialog.html#a0b0c782b50d4256efdd39e1a404638d8", null ],
+    [ "OnOK", "class_c_teams_dialog.html#a9112d4f8854ee4d98513bd914c9cc935", null ],
+    [ "OnSelchangePlayerList", "class_c_teams_dialog.html#ad5fd7c8d2d876baba5aaeddbd5a1bf8f", null ],
+    [ "OnSelectTeamMembers", "class_c_teams_dialog.html#a9f6e77aeedda1ef52b9854b553d82421", null ],
+    [ "updateUI", "class_c_teams_dialog.html#a969d53ac165a117e32721dcc300bfec4", null ],
+    [ "validateTeamOwners", "class_c_teams_dialog.html#aac8e4f44d1d5086d7626e26f8248d5b1", null ],
+    [ "m_curTeam", "class_c_teams_dialog.html#a1c3cbf30b213a05f03821dcd807c13d9", null ],
+    [ "m_sides", "class_c_teams_dialog.html#a603c4c6f53fbf16c4e58225b3dd3a665", null ],
+    [ "m_updating", "class_c_teams_dialog.html#a97b7d27d7d473f9df2c987ee1f30b8a9", null ]
+];

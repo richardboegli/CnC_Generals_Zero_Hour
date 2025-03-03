@@ -1,0 +1,28 @@
+var class_l_a_n_game_info =
+[
+    [ "LANGameInfo", "class_l_a_n_game_info.html#a8b60aa4f7d9517120cb79791252f7d1e", null ],
+    [ "amIHost", "class_l_a_n_game_info.html#a4687b34823f0bdcf127163d83ec17c2c", null ],
+    [ "getConstLANSlot", "class_l_a_n_game_info.html#a854ee0b6450dd0505d1a8e912972c647", null ],
+    [ "getHostIP", "class_l_a_n_game_info.html#a1087da908e161a8e85c3f2b2b88ede5d", null ],
+    [ "getIP", "class_l_a_n_game_info.html#a10cba36592e7486cbd42f69193383a0d", null ],
+    [ "getIsDirectConnect", "class_l_a_n_game_info.html#abba8f9e883f80f136418029381c07071", null ],
+    [ "getLANSlot", "class_l_a_n_game_info.html#a0306bbd6faa7bc675255b6500a798f0e", null ],
+    [ "getLastHeard", "class_l_a_n_game_info.html#a9e256ef3f165a8649a397db038bd0360", null ],
+    [ "getLocalSlotNum", "class_l_a_n_game_info.html#a543c84b9b322b01048d3609ace61c586", null ],
+    [ "getName", "class_l_a_n_game_info.html#ae87d2ef336dc6e11af0f32d306ba8f9b", null ],
+    [ "getNext", "class_l_a_n_game_info.html#afe9d326d2b8abc40d58705123a5cb4de", null ],
+    [ "getPlayerLastHeard", "class_l_a_n_game_info.html#ab8f005eec43ed2edff2b2a67cd907a8c", null ],
+    [ "getPlayerName", "class_l_a_n_game_info.html#a15cdb0d7c253569c7da0342e0c065440", null ],
+    [ "getSlotNum", "class_l_a_n_game_info.html#a9ec0536105577097acd44d969151ba05", null ],
+    [ "resetAccepted", "class_l_a_n_game_info.html#a259c4237019db3ace72d649dfafbc8b8", null ],
+    [ "setIP", "class_l_a_n_game_info.html#a9d436bf2211e540bb6f810971131b7e1", null ],
+    [ "setIsDirectConnect", "class_l_a_n_game_info.html#a38c6cd0694842b4a7d56bae22e29d464", null ],
+    [ "setLastHeard", "class_l_a_n_game_info.html#a88af99b9f324069db7af5d2c67632029", null ],
+    [ "setMap", "class_l_a_n_game_info.html#a53d6c73f48aa4d6711df276953ff1899", null ],
+    [ "setName", "class_l_a_n_game_info.html#a36f375f7dbc01f77cedb6d8db2c13db6", null ],
+    [ "setNext", "class_l_a_n_game_info.html#abc143dd8afb67b92220fc2deeed746b7", null ],
+    [ "setPlayerLastHeard", "class_l_a_n_game_info.html#afccb306eb9252cc91d58172e1285e0f6", null ],
+    [ "setPlayerName", "class_l_a_n_game_info.html#a73d0fe0365f26f7f60594d6877673a5c", null ],
+    [ "setSeed", "class_l_a_n_game_info.html#af6fc5ba811b77537a65f8d0e97f571eb", null ],
+    [ "setSlot", "class_l_a_n_game_info.html#a4b87182a5f81c98f876c331136540613", null ]
+];

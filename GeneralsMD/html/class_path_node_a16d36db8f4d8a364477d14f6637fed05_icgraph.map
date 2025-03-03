@@ -1,0 +1,53 @@
+<map id="PathNode::setPosition" name="PathNode::setPosition">
+<area shape="rect" id="Node000001" title="set the position of this path node" alt="" coords="1312,165,1464,192"/>
+<area shape="rect" id="Node000002" href="$class_path.html#afd64d994bc149511c0401d3f9191fb58" title="Create a new node at the end of the path." alt="" coords="1101,265,1230,292"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1344,201,1199,267,1197,262,1341,196"/>
+<area shape="rect" id="Node000009" href="$class_pathfinder.html#aa510c0ffa13ff098f48792073759836e" title=" " alt="" coords="840,56,1015,83"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1312,164,1067,105,986,86,988,81,1068,100,1314,159"/>
+<area shape="rect" id="Node000010" href="$class_path.html#a70775767d628674ca5b979c133acf4cd" title="Create a new node at the head of the path." alt="" coords="1099,165,1232,192"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1297,181,1233,181,1233,176,1297,176"/>
+<area shape="rect" id="Node000021" href="$class_pathfinder.html#a24f053bf23393ab4ebbe067c45b2ec7b" title="Return true if the straight line between the given points intersects a tall building." alt="" coords="1068,48,1264,91"/>
+<area shape="poly" id="edge24_Node000001_Node000021" title=" " alt="" coords="1350,159,1263,112,1222,94,1225,89,1265,107,1352,155"/>
+<area shape="rect" id="Node000022" href="$class_path.html#afa9e688cbd86c3fb34a227958bb09138" title=" " alt="" coords="1127,432,1205,459"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="1368,206,1181,433,1176,430,1364,203"/>
+<area shape="rect" id="Node000003" href="$class_jet_or_heli_taxi_state.html#a7404205efc84d07ab3ed946d3dbc0df7" title=" " alt="" coords="862,157,993,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1121,261,1019,214,990,203,992,198,1021,210,1123,256"/>
+<area shape="rect" id="Node000004" href="$class_a_i_follow_waypoint_path_state.html#a2e4364810648344df24b23660ddd49c2" title=" " alt="" coords="835,291,1020,333"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1086,292,1020,302,1020,296,1085,287"/>
+<area shape="rect" id="Node000006" href="$class_a_i_move_and_delete_state.html#a0899f808bafb8db1c9bf8517997ae6b9" title=" " alt="" coords="848,357,1007,400"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1123,302,1021,348,992,359,990,354,1019,343,1121,297"/>
+<area shape="rect" id="Node000007" href="$class_jet_awaiting_runway_state.html#a42bd1d62126aa9b56697d8b5acd0ed62" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="843,224,1012,267"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1085,270,1012,260,1013,254,1086,265"/>
+<area shape="rect" id="Node000008" href="$class_jet_or_heli_taxi_state.html#ad84aabe5e2afed1bd71838c60ea6f5ef" title=" " alt="" coords="862,424,993,467"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1145,305,1092,359,1058,389,1021,414,995,427,993,423,1018,410,1055,384,1088,356,1141,302"/>
+<area shape="rect" id="Node000005" href="$class_a_i_attack_follow_waypoint_path_state.html#a483687ea212e6322b671b2adfcf3cdcd" title=" " alt="" coords="588,291,779,333"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="820,315,780,315,780,309,820,309"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="1084,181,994,181,994,176,1084,176"/>
+<area shape="poly" id="edge23_Node000010_Node000007" title=" " alt="" coords="1101,199,1007,226,1006,221,1100,194"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="1091,162,1066,149,1051,135,1042,122,1033,109,1018,97,994,86,997,81,1021,92,1037,106,1046,119,1055,132,1069,144,1094,157"/>
+<area shape="rect" id="Node000011" href="$class_pathfinder.html#afecf1c88c305191dd34f650d429090b0" title="Add pathfind cells to a path." alt="" coords="845,107,1010,133"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1093,164,984,136,985,131,1095,159"/>
+<area shape="rect" id="Node000012" href="$class_pathfinder.html#a098adfe4d47597244e7cb80355520978" title="Work backwards from goal cell to construct final path." alt="" coords="594,56,773,83"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="844,106,751,86,752,81,846,100"/>
+<area shape="rect" id="Node000015" href="$class_pathfinder.html#aead92b1d6b79af6a5fca5cdff62bf7b3" title="Work backwards from goal cell to construct final path." alt="" coords="326,107,510,133"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="830,123,510,123,510,117,830,117"/>
+<area shape="rect" id="Node000017" href="$class_pathfinder.html#a21fd32e224f80476091f751c4cd27406" title="Work backwards from goal cell to construct final path." alt="" coords="580,161,787,188"/>
+<area shape="poly" id="edge18_Node000011_Node000017" title=" " alt="" coords="850,140,747,163,746,158,849,135"/>
+<area shape="rect" id="Node000013" href="$class_pathfinder.html#ac21829aeaa446d39d157d1ef8dd01d13" title=" " alt="" coords="304,5,532,32"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="594,55,491,35,492,30,595,50"/>
+<area shape="rect" id="Node000014" href="$class_pathfinder.html#ac99bc6649455c2bcf471b46099d7d29e" title="Find a short, valid path between given locations." alt="" coords="327,56,509,83"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="579,72,509,72,509,67,579,67"/>
+<area shape="rect" id="Node000016" href="$class_pathfinder.html#a137b68f45d1d96e0d842beb544f2d5de" title="Find a short, valid path of the desired width on the ground." alt="" coords="41,108,220,135"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="310,123,220,124,220,118,310,118"/>
+<area shape="rect" id="Node000018" href="$class_pathfinder.html#a4c84f53e2db7c30983d52223de9f7317" title=" " alt="" coords="345,157,490,200"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="564,179,491,180,491,175,564,174"/>
+<area shape="poly" id="edge21_Node000018_Node000016" title=" " alt="" coords="329,164,201,138,202,133,330,159"/>
+<area shape="rect" id="Node000019" href="$class_pathfinder.html#a6b38cb78949b167525f9aed5d2ac7e31" title=" " alt="" coords="5,163,256,189"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="330,181,256,180,256,174,330,175"/>
+<area shape="rect" id="Node000020" href="$class_pathfinder.html#aafb483da862b6ef6979a749696669a1a" title=" " alt="" coords="28,213,233,240"/>
+<area shape="poly" id="edge22_Node000018_Node000020" title=" " alt="" coords="330,196,215,215,214,210,329,191"/>
+<area shape="poly" id="edge25_Node000021_Node000009" title=" " alt="" coords="1052,72,1016,72,1016,67,1052,67"/>
+<area shape="poly" id="edge28_Node000022_Node000022" title=" " alt="" coords="1204,419,1191,413,1166,411,1142,413,1130,417,1127,423,1133,430,1128,433,1122,423,1126,413,1141,407,1166,405,1192,408,1206,414"/>
+<area shape="rect" id="Node000023" href="$class_path.html#a02137e78d0c16e81adc846b9c9fdce30" title=" " alt="" coords="890,491,965,517"/>
+<area shape="poly" id="edge27_Node000022_Node000023" title=" " alt="" coords="1112,461,966,498,965,492,1111,456"/>
+</map>

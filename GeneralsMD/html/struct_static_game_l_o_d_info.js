@@ -1,0 +1,26 @@
+var struct_static_game_l_o_d_info =
+[
+    [ "StaticGameLODInfo", "struct_static_game_l_o_d_info.html#a827869fa4154408a962269a2b3fb4ef1", null ],
+    [ "m_enableDynamicLOD", "struct_static_game_l_o_d_info.html#a1302244860da360a2d7a27509273d13a", null ],
+    [ "m_maxParticleCount", "struct_static_game_l_o_d_info.html#a805e50b50608208dc393f6d75f0de864", null ],
+    [ "m_maxTankTrackEdges", "struct_static_game_l_o_d_info.html#aa41c1f58f12df3b7698e3238e116b6d6", null ],
+    [ "m_maxTankTrackFadeDelay", "struct_static_game_l_o_d_info.html#aecc9e3c52b1f4f1ce608d36804a205fe", null ],
+    [ "m_maxTankTrackOpaqueEdges", "struct_static_game_l_o_d_info.html#a77d5373baf9060142323d7560063f331", null ],
+    [ "m_minFPS", "struct_static_game_l_o_d_info.html#ad4f138619f4c52227cdb4f92abb0ccca", null ],
+    [ "m_minProcessorFPS", "struct_static_game_l_o_d_info.html#a78e9d467bc8ff57aaa22affe13ad6d1f", null ],
+    [ "m_sampleCount2D", "struct_static_game_l_o_d_info.html#a826daf14dc7a05b712cf3ad492be1840", null ],
+    [ "m_sampleCount3D", "struct_static_game_l_o_d_info.html#a90e88483bd40ffbae4f1c0ee9fbbfd4d", null ],
+    [ "m_showSoftWaterEdge", "struct_static_game_l_o_d_info.html#a202b569f066db96e8e9301faa3edbb07", null ],
+    [ "m_streamCount", "struct_static_game_l_o_d_info.html#a53ea67c8c564a20ab3375c72bd32dba0", null ],
+    [ "m_textureReduction", "struct_static_game_l_o_d_info.html#a2a6518c61997b1ae479939f92ff89eb4", null ],
+    [ "m_useBuildupScaffolds", "struct_static_game_l_o_d_info.html#a7fe91a516cf6cbc5bc7ea5537307b353", null ],
+    [ "m_useCloudMap", "struct_static_game_l_o_d_info.html#a915c5d4e5c5d1fc29eb31e07553d9634", null ],
+    [ "m_useEmissiveNightMaterials", "struct_static_game_l_o_d_info.html#abfefb6e70cdc53ea0de47c8929b42803", null ],
+    [ "m_useFpsLimit", "struct_static_game_l_o_d_info.html#a3c1eb5785e5a4a29712e0812411a825c", null ],
+    [ "m_useHeatEffects", "struct_static_game_l_o_d_info.html#ac1996a500ae95293d435f97fe859e5dc", null ],
+    [ "m_useLightMap", "struct_static_game_l_o_d_info.html#a79a563094401edafc2776d572f73441d", null ],
+    [ "m_useShadowDecals", "struct_static_game_l_o_d_info.html#a33a3401579138ee186c09ea92201bf33", null ],
+    [ "m_useShadowVolumes", "struct_static_game_l_o_d_info.html#a76917cdaa561d62f9bc72b9cbc5fa59a", null ],
+    [ "m_useTrees", "struct_static_game_l_o_d_info.html#add081bf068cfad5adeb0fa84fc4a21a5", null ],
+    [ "m_useTreeSway", "struct_static_game_l_o_d_info.html#ae2f5fc2d8de1756fe12e015296a31103", null ]
+];

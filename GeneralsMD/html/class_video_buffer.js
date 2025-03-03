@@ -1,0 +1,36 @@
+var class_video_buffer =
+[
+    [ "Type", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5ad", [
+      [ "TYPE_UNKNOWN", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5ada32022a12f72b8bee821be4581fd3a625", null ],
+      [ "TYPE_R8G8B8", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5adaaff4fbd070632249efefa0747d930c46", null ],
+      [ "TYPE_X8R8G8B8", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5adadcad6c764932a2336bf22776de37bed6", null ],
+      [ "TYPE_R5G6B5", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5adaa1f03e7377e3cf47415c41da40c13339", null ],
+      [ "TYPE_X1R5G5B5", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5ada6f852bb2d7000d0290791a3079910f99", null ],
+      [ "NUM_TYPES", "class_video_buffer.html#af3fe343e156aeaea40bbff866106e5ada7d5c48ff4962bd764d3e8a45613d5a4b", null ]
+    ] ],
+    [ "VideoBuffer", "class_video_buffer.html#aefcb0d5c8b1727ad782f6fc75804c806", null ],
+    [ "~VideoBuffer", "class_video_buffer.html#ac43b1e3ed2469f73461b722562045631", null ],
+    [ "allocate", "class_video_buffer.html#a6da55e71e504565d939833b6327f1e56", null ],
+    [ "format", "class_video_buffer.html#ae7cf2d0a5241079a69871f9efce179e8", null ],
+    [ "free", "class_video_buffer.html#ae27b02b351c074d929f6b106dbce2d1b", null ],
+    [ "height", "class_video_buffer.html#a9a31011b1e7e5dc4bf3dfa9a987563b8", null ],
+    [ "lock", "class_video_buffer.html#a9a965880103827061217941ac02ce6f7", null ],
+    [ "pitch", "class_video_buffer.html#a04c2e69c6cade5b2c7deccfe32100fcb", null ],
+    [ "Rect", "class_video_buffer.html#ab4ba1d0fe942cae4347d63ae88059685", null ],
+    [ "setPos", "class_video_buffer.html#afbf098f0e06472c0b18f51b3477593c2", null ],
+    [ "textureHeight", "class_video_buffer.html#a294c27e56e31d791ff7f78d1016a3cda", null ],
+    [ "textureWidth", "class_video_buffer.html#aca6f667c61f09b1cd6a1802f17b479a7", null ],
+    [ "unlock", "class_video_buffer.html#a3942bf25ea6022bd400020f22c55dece", null ],
+    [ "valid", "class_video_buffer.html#a5776c2655b8e44fbe79203627cdb5221", null ],
+    [ "width", "class_video_buffer.html#af3adc8c12c35b8e61c0c237bc11f065e", null ],
+    [ "xPos", "class_video_buffer.html#a0607c81e1c576eba216aa47ee34d25c9", null ],
+    [ "yPos", "class_video_buffer.html#af8ee8f0764df42b273edc6015a361137", null ],
+    [ "m_format", "class_video_buffer.html#a995c37838d40f081f0f477477a0d5a22", null ],
+    [ "m_height", "class_video_buffer.html#adcc5f0ad9360911a90140ee411093d96", null ],
+    [ "m_pitch", "class_video_buffer.html#a011ed0089a434ad9282f85cf7ee22698", null ],
+    [ "m_textureHeight", "class_video_buffer.html#a02086557609203ff08ca56433a640989", null ],
+    [ "m_textureWidth", "class_video_buffer.html#a86a3dffbd6bc2f180aa89d74a68615c2", null ],
+    [ "m_width", "class_video_buffer.html#a209f43cac67330b01bf055ba29067302", null ],
+    [ "m_xPos", "class_video_buffer.html#ab80f463cda06a9f15d203730cb8b6c91", null ],
+    [ "m_yPos", "class_video_buffer.html#a9292e87424c3c76e31ae4f25f2445a70", null ]
+];

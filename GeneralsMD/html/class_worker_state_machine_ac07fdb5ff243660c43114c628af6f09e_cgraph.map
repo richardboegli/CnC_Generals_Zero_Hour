@@ -1,0 +1,37 @@
+<map id="WorkerStateMachine::WorkerStateMachine" name="WorkerStateMachine::WorkerStateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,156,233"/>
+<area shape="poly" id="edge19_Node000001_Node000001" title=" " alt="" coords="37,191,35,181,43,172,58,166,81,164,105,166,120,173,118,178,104,172,80,169,59,171,46,176,41,182,42,190"/>
+<area shape="rect" id="Node000002" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="221,107,396,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,188,203,159,257,137,259,142,205,164,135,193"/>
+<area shape="rect" id="Node000007" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="214,173,404,200"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="155,201,198,196,199,202,156,206"/>
+<area shape="rect" id="Node000008" href="$class_worker_state_machine.html#a0553063c1f7f62fa63061dc18aa91df7" title=" " alt="" coords="204,283,414,341"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="132,232,227,274,225,278,130,236"/>
+<area shape="rect" id="Node000012" href="$class_worker_state_machine.html#ae0a479052ee8f5f5daa486710ad4cc94" title=" " alt="" coords="462,208,671,267"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="156,213,447,228,447,234,156,219"/>
+<area shape="rect" id="Node000003" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="482,5,651,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,104,390,73,461,42,484,34,485,39,463,46,392,78,335,109"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="490,56,643,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="380,103,480,84,481,89,381,109"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="484,107,649,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="397,117,469,117,469,123,397,123"/>
+<area shape="rect" id="Node000006" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="501,157,632,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="381,131,486,152,485,157,380,137"/>
+<area shape="rect" id="Node000009" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="719,372,911,399"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="403,339,462,353,587,370,704,379,704,384,587,376,462,359,402,345"/>
+<area shape="rect" id="Node000010" href="$class_state.html#abd7940ecb1e1df8d9218e2e03d204fc0" title=" " alt="" coords="732,317,898,344"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="415,335,462,343,528,347,595,347,716,340,717,345,595,353,528,352,462,348,414,341"/>
+<area shape="rect" id="Node000011" href="$class_worker_a_i_update.html#a07c8e0d3d99c58fd4efceeffb35b9feb" title=" " alt="" coords="479,291,654,333"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="414,309,463,309,463,315,414,315"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="412,280,448,269,449,274,413,285"/>
+<area shape="poly" id="edge15_Node000012_Node000009" title=" " alt="" coords="657,265,673,277,690,297,697,317,705,336,721,354,735,363,732,367,718,358,700,339,692,319,685,300,670,281,653,269"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="646,265,672,276,720,302,744,310,742,315,718,306,670,281,644,270"/>
+<area shape="rect" id="Node000013" href="$class_a_i_update_interface.html#ae848e1d792e1c927055e880f038c01ee" title="What general state is the AIState Machine in?" alt="" coords="747,183,883,225"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="671,221,731,212,732,218,672,226"/>
+<area shape="rect" id="Node000016" href="$class_worker_a_i_update.html#aea5b1c5aefdf590f7c05b9e9a87fb3ee" title=" " alt="" coords="727,249,903,292"/>
+<area shape="poly" id="edge17_Node000012_Node000016" title=" " alt="" coords="672,249,712,254,712,260,671,254"/>
+<area shape="rect" id="Node000014" href="$class_state_machine.html#a7070346397ecee7fe576cfc348901ad6" title="return the id of the current state of the machine" alt="" coords="959,149,1129,192"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="883,192,943,183,944,188,883,197"/>
+<area shape="rect" id="Node000015" href="$class_a_i_update_interface.html#a7106f23471df9d9e37f5d8b4d11513b4" title=" " alt="" coords="976,216,1112,259"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="883,211,961,223,960,228,883,216"/>
+</map>

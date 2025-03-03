@@ -1,0 +1,15 @@
+<map id="WaterTracksRenderSystem::releaseTrack" name="WaterTracksRenderSystem::releaseTrack">
+<area shape="rect" id="Node000001" title="returns track object to free store." alt="" coords="482,105,664,148"/>
+<area shape="rect" id="Node000002" href="$class_water_tracks_render_system.html#ab1cebc11b04bb0538dc0f523ad623141" title="free all map dependent items." alt="" coords="252,5,434,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,101,433,62,404,51,406,46,435,58,517,96"/>
+<area shape="rect" id="Node000003" href="$class_water_tracks_render_system.html#a17c66a82ce461a25881367cc7cd50959" title="release all pre&#45;allocated track objects, called by destructor" alt="" coords="252,72,434,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="466,114,434,109,435,104,467,109"/>
+<area shape="rect" id="Node000005" href="$class_water_tracks_render_system.html#a50180b5a14bab0060a0261b47cde66ab" title="releases control of track object" alt="" coords="252,139,434,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="467,145,435,149,434,144,466,139"/>
+<area shape="rect" id="Node000006" href="$class_water_tracks_render_system.html#a492f10a39f725c5243b4955ab78d4272" title="update the state of all edges (fade alpha, remove old, etc.)" alt="" coords="252,205,434,248"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="517,158,435,196,406,207,404,202,433,191,515,153"/>
+<area shape="rect" id="Node000004" href="$class_water_tracks_render_system.html#a398d6ec08232dfdcb3f72a1a25a31f84" title=" " alt="" coords="5,72,204,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,96,204,96,204,91,236,91"/>
+<area shape="rect" id="Node000007" href="$class_water_tracks_render_system.html#a4c80683903cf74d3585b813e42676c8d" title="draw all tracks that were requested for rendering." alt="" coords="13,205,196,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="236,229,196,229,196,224,236,224"/>
+</map>

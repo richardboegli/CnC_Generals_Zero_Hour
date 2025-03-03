@@ -1,0 +1,44 @@
+<map id="ScriptActions::doUnitGarrisonNearestBuilding" name="ScriptActions::doUnitGarrisonNearestBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,207,200,249"/>
+<area shape="rect" id="Node000002" href="$class_a_i_command_interface.html#ae68744739f326fe8a957e47b114d119e" title=" " alt="" coords="271,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,205,167,133,204,93,246,58,256,52,258,56,249,62,207,97,171,137,119,208"/>
+<area shape="rect" id="Node000004" href="$class_a_i_update_interface.html#a7d09cfb4b010af63a16c1199322c4e00" title=" " alt="" coords="271,72,416,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,204,181,164,246,124,258,119,260,123,249,129,184,169,132,208"/>
+<area shape="rect" id="Node000010" href="$class_object_iterator.html#a4ebc1ade34b0b3bc75235fa5638cd7fb" title="reset iterator and return first item (or null if iter is empty)" alt="" coords="278,139,408,165"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="162,203,247,175,272,167,274,172,248,180,164,209"/>
+<area shape="rect" id="Node000011" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="248,189,439,216"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="200,215,232,212,232,217,200,220"/>
+<area shape="rect" id="Node000012" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="251,240,436,267"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="200,236,236,239,236,245,200,241"/>
+<area shape="rect" id="Node000015" href="$class_player.html#abc2ed87b6c05581e558b847857b6765d" title="return a bitmask that is unique to this player." alt="" coords="267,291,420,317"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="164,247,248,276,274,284,272,289,247,281,162,253"/>
+<area shape="rect" id="Node000016" href="$class_thing.html#a7978985fe2e1e1b1b91bb822f62df5e9" title=" " alt="" coords="288,341,399,368"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="130,248,183,288,249,327,274,337,272,342,246,332,180,292,127,252"/>
+<area shape="rect" id="Node000021" href="$class_object_iterator.html#ad7acec5d0ff53e519ebff25feeff9131" title="advance and return next item (or null if no more to iterate)" alt="" coords="277,392,410,419"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="120,248,172,313,208,348,249,378,263,385,261,390,246,382,205,352,168,316,116,251"/>
+<area shape="rect" id="Node000003" href="$class_a_i_command_interface.html#a87fc2d58b97b5631161529bfd6c93e3a" title=" " alt="" coords="538,5,684,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,24,523,24,523,29,416,29"/>
+<area shape="rect" id="Node000005" href="$class_a_i_update_interface.html#aebab6ebaef3c0f70ad8761f9b4a35dbf" title=" " alt="" coords="487,72,735,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,91,471,91,471,96,416,96"/>
+<area shape="rect" id="Node000006" href="$class_a_i_update_interface.html#ac0a1dfa7024e812dd4745e5867082ed6" title=" " alt="" coords="821,13,956,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="715,69,805,49,806,55,716,74"/>
+<area shape="rect" id="Node000008" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="1042,76,1207,103"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="735,90,1026,87,1026,93,735,95"/>
+<area shape="rect" id="Node000009" href="$class_a_i_group.html#abdb39b38274b6a33b497fa96ada6bfe1" title=" " alt="" coords="783,131,994,157"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="732,113,797,125,796,130,731,118"/>
+<area shape="rect" id="Node000007" href="$class_object.html#ac75942342573c05e744415bd3283da9b" title=" " alt="" coords="1064,21,1184,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="957,32,1049,32,1049,37,957,37"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="957,48,1049,69,1048,75,956,53"/>
+<area shape="rect" id="Node000013" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="522,189,700,216"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="417,237,522,217,523,222,418,242"/>
+<area shape="rect" id="Node000014" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="552,240,670,267"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="436,251,537,251,537,256,436,256"/>
+<area shape="rect" id="Node000017" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="545,316,677,343"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="399,347,529,334,530,340,400,352"/>
+<area shape="rect" id="Node000018" href="$class_thing_template.html#a3a76269a04cb28565f44d77af2cecebd" title="return true iff the template has the specified kindOf flag set." alt="" coords="529,367,693,393"/>
+<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="400,357,514,368,514,373,399,363"/>
+<area shape="rect" id="Node000019" href="$_kind_of_8h.html#aaed3b7597902c6142ee9b7ad53f5bd50" title=" " alt="" coords="813,367,964,393"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="694,377,797,377,797,383,694,383"/>
+<area shape="rect" id="Node000020" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="1075,367,1174,393"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="964,377,1059,377,1059,383,964,383"/>
+</map>

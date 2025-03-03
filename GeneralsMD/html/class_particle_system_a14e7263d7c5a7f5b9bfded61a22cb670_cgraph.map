@@ -1,0 +1,23 @@
+<map id="ParticleSystem::setMaster" name="ParticleSystem::setMaster">
+<area shape="rect" id="Node000001" title="make this a slave with a master" alt="" coords="5,47,182,73"/>
+<area shape="rect" id="Node000002" href="$class_particle_system.html#acd7d91adff2fa7a3da3d5b421a5fd9ba" title="get unique system ID" alt="" coords="673,5,869,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,49,440,28,658,19,658,24,440,33,182,54"/>
+<area shape="rect" id="Node000003" href="$class_particle_system.html#a21db7e869a8528e95342a7d0f5ea7ae8" title="create a particle system from a template and assign it this ID" alt="" coords="230,93,392,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,71,215,88,214,93,149,77"/>
+<area shape="poly" id="edge9_Node000003_Node000003" title=" " alt="" coords="269,93,268,83,275,74,289,69,311,67,334,69,348,75,346,80,333,74,311,72,290,74,278,79,273,85,275,92"/>
+<area shape="rect" id="Node000004" href="$class_particle_system_template.html#a17460ed858b3eb5080a3467f31375915" title="if returns non&#45;NULL, it is a slave system for use" alt="" coords="451,93,614,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="393,112,435,112,435,117,393,117"/>
+<area shape="rect" id="Node000006" href="$class_game_client_random_variable.html#a282d3d0e8958c3187fc3427ce0b3f2d1" title=" " alt="" coords="440,160,625,203"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="385,134,445,152,444,158,383,139"/>
+<area shape="rect" id="Node000007" href="$class_game_client_random_variable.html#a9708f0c96776c476c8cd0f0faebb1d12" title=" " alt="" coords="440,227,625,269"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="337,135,384,174,441,212,451,218,449,222,439,217,380,178,334,139"/>
+<area shape="rect" id="Node000008" href="$class_game_client_random_variable.html#aca236865e89b43691823c27d6ee4d486" title="return a value from the random distribution" alt="" coords="440,293,625,336"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="326,135,371,205,403,245,442,279,447,283,444,287,438,283,399,249,366,208,321,138"/>
+<area shape="rect" id="Node000009" href="$class_particle_system.html#a5973094e417ea315600b8446e62a7d8d" title="set a slave system for us" alt="" coords="448,43,617,69"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="392,99,488,72,489,77,393,104"/>
+<area shape="rect" id="Node000005" href="$class_particle_system_template.html#a233ae59d6977e50773d931c6fd613030" title=" " alt="" coords="689,93,853,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="614,112,674,112,674,117,614,117"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="726,93,724,83,732,74,747,69,771,67,796,69,812,75,810,80,795,74,771,72,748,74,735,79,729,85,731,92"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="617,40,666,32,667,38,618,45"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="448,72,380,91,378,86,447,67"/>
+</map>

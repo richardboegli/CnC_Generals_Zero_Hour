@@ -1,0 +1,25 @@
+<map id="TunnelTracker::iterateContained" name="TunnelTracker::iterateContained">
+<area shape="rect" id="Node000001" title=" " alt="" coords="512,81,719,108"/>
+<area shape="rect" id="Node000002" href="$class_tunnel_tracker.html#a7607cfbacf772f6bf459858875a2220e" title="heal all objects within the tunnel" alt="" coords="261,5,442,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,78,463,47,418,35,420,30,465,41,563,73"/>
+<area shape="rect" id="Node000004" href="$class_cave_contain.html#abe06e8a199d0c58ec6bf27857fd7580a" title=" " alt="" coords="251,56,452,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="497,86,452,82,452,76,497,81"/>
+<area shape="rect" id="Node000005" href="$class_tunnel_contain.html#a04948d28f2b7b87b59f6051e1ebac624" title=" " alt="" coords="247,107,456,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="497,109,456,113,456,107,496,103"/>
+<area shape="rect" id="Node000006" href="$class_tunnel_tracker.html#ad3db2dd26ab601de51dec266a7fbfecd" title="A tunnel was destroyed." alt="" coords="239,157,464,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="563,116,465,148,420,159,418,154,463,143,561,111"/>
+<area shape="rect" id="Node000003" href="$class_tunnel_contain.html#a8997c5d5a02f0f7effad5dd312ac3c5e" title="called once per frame" alt="" coords="22,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,21,174,21,174,16,245,16"/>
+<area shape="rect" id="Node000007" href="$class_tunnel_contain.html#a6872d1b7aeb5a979a91cc1b51419f44d" title=" " alt="" coords="11,56,185,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="249,154,237,148,222,135,212,122,204,109,189,97,165,86,167,81,192,92,208,105,217,119,225,131,240,143,252,149"/>
+<area shape="rect" id="Node000008" href="$class_tunnel_contain.html#ac83871d3d81bd22598dc928260ffb821" title="Last possible moment cleanup." alt="" coords="15,107,181,133"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="266,156,168,137,169,131,267,151"/>
+<area shape="rect" id="Node000009" href="$class_cave_contain.html#ae55281799c45c505a65e2641b99f542d" title="the die callback" alt="" coords="28,157,168,184"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="223,173,168,173,168,168,223,168"/>
+<area shape="rect" id="Node000010" href="$class_tunnel_contain.html#a99b37232496bd2aaf3c64ecb3cc811de" title="the die callback" alt="" coords="24,208,172,235"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="267,190,169,210,168,205,266,185"/>
+<area shape="rect" id="Node000011" href="$class_tunnel_contain.html#ab7f5b19fbea8a2622532a4cbe24dc124" title="Container is being sold. Tunnel responds by kicking people out if this is the last tunnel." alt="" coords="15,259,181,285"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="312,194,256,222,192,249,156,261,155,256,190,244,254,217,310,189"/>
+<area shape="rect" id="Node000012" href="$class_cave_contain.html#a19c44d366af9a0c3969809f9b1e5b09c" title="Called by script as an alternative to instancing separate objects. &#39;Try&#39;, because can fail." alt="" coords="5,309,191,352"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="326,197,268,248,231,275,192,300,168,311,166,306,189,295,228,271,264,244,323,193"/>
+</map>

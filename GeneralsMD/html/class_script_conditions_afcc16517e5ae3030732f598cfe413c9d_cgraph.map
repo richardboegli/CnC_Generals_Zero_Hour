@@ -1,0 +1,26 @@
+<map id="ScriptConditions::evaluatePlayerHasComparisonValueExcessPower" name="ScriptConditions::evaluatePlayerHasComparisonValueExcessPower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,271,141"/>
+<area shape="rect" id="Node000002" href="$class_energy.html#ae933d725c1327c6ab8481d19bc4ed852" title="return current energy consumption in kilowatts" alt="" coords="319,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,96,318,42,337,35,339,40,320,46,189,101"/>
+<area shape="rect" id="Node000003" href="$class_player.html#adf2fda4604cd85cbeb32ce76e18ec6c3" title=" " alt="" coords="339,56,464,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,95,323,82,324,87,253,101"/>
+<area shape="rect" id="Node000004" href="$class_parameter.html#acd26380275dd5bcba94f8906c35191fe" title=" " alt="" coords="568,107,691,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,117,553,117,553,123,271,123"/>
+<area shape="rect" id="Node000005" href="$class_energy.html#a2d2d35a318f4f920a36f4eb63a83219e" title="return current energy production in kilowatts" alt="" coords="326,157,476,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="253,139,314,151,313,156,252,145"/>
+<area shape="rect" id="Node000006" href="$class_script_conditions.html#a91e653a920a5f0a6b3e0a4813ea49394" title=" " alt="" coords="321,208,482,251"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="192,139,320,194,333,199,331,204,318,198,190,144"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="463,205,482,194,497,181,505,168,515,156,531,143,553,133,555,137,533,148,519,159,510,172,501,185,486,198,465,210"/>
+<area shape="rect" id="Node000007" href="$class_parameter.html#ab09aeb9f5f22b15353d214f1ef1adf8b" title=" " alt="" coords="549,157,710,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="481,206,559,186,561,191,482,211"/>
+<area shape="rect" id="Node000008" href="$class_parameter.html#a13984a5a5f45f477486c3c043b484275" title=" " alt="" coords="532,208,727,235"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="481,224,516,223,516,228,482,229"/>
+<area shape="rect" id="Node000009" href="$class_player.html#abc2ed87b6c05581e558b847857b6765d" title="return a bitmask that is unique to this player." alt="" coords="553,259,706,285"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="482,242,540,253,539,258,481,247"/>
+<area shape="rect" id="Node000010" href="$class_parameter.html#a6ca451cc7e76779d0a48fb2591f21074" title=" " alt="" coords="559,309,700,336"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="440,249,484,273,533,295,553,302,552,307,531,300,482,277,438,254"/>
+<area shape="rect" id="Node000011" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="576,360,683,387"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="422,249,469,298,500,324,533,346,562,358,560,363,531,350,497,328,466,302,419,253"/>
+<area shape="rect" id="Node000012" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="775,360,896,387"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="684,371,760,371,760,376,684,376"/>
+</map>

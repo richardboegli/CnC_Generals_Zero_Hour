@@ -1,0 +1,101 @@
+<map id="AIUpdateInterface::setIsRecruitable" name="AIUpdateInterface::setIsRecruitable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1547,72,1683,115"/>
+<area shape="rect" id="Node000002" href="$class_script_actions.html#af32b6e49d0d200b98529ed6f9f31b5e0" title=" " alt="" coords="1308,72,1495,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1532,96,1496,96,1496,91,1532,91"/>
+<area shape="rect" id="Node000006" href="$class_script_actions.html#ace3709a594c47569ee1202432ed7aa9e" title=" " alt="" coords="1312,5,1492,32"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1537,69,1441,35,1443,30,1538,64"/>
+<area shape="rect" id="Node000007" href="$class_object.html#a551e20771c012a247a605df8795a097a" title="Brings in properties set in the editor." alt="" coords="1304,745,1499,788"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1605,130,1412,746,1407,744,1600,129"/>
+<area shape="rect" id="Node000003" href="$class_script_actions.html#ae8b7b035f1576df588a2a8f99b8d2a7e" title=" " alt="" coords="1059,39,1252,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1292,81,1252,76,1253,70,1293,76"/>
+<area shape="rect" id="Node000005" href="$class_script_actions.html#a797192436f43c5c643d146b4e524bbaf" title=" " alt="" coords="1059,105,1252,148"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1293,111,1253,116,1252,111,1292,105"/>
+<area shape="rect" id="Node000004" href="$class_script_actions.html#a6247ad9436e3ae17fc2839a41caee6a9" title=" " alt="" coords="792,47,983,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1043,63,983,63,983,57,1043,57"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="1052,104,944,77,945,71,1053,99"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="1296,19,1180,21,1055,29,946,49,945,43,1054,24,1180,15,1296,14"/>
+<area shape="rect" id="Node000008" href="$class_bridge.html#a9545a16762c4edaf6f80265564bbab7f" title=" " alt="" coords="1104,753,1207,780"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1288,769,1207,769,1207,764,1288,764"/>
+<area shape="rect" id="Node000034" href="$class_a_i_player.html#a300f7ea62bdca88f90be7e84e4e3cecf" title="Build a base buiding." alt="" coords="1062,1036,1248,1063"/>
+<area shape="poly" id="edge38_Node000007_Node000034" title=" " alt="" coords="1374,802,1170,1037,1166,1034,1370,798"/>
+<area shape="rect" id="Node000043" href="$class_a_i_player.html#abb0376b293fe765056589895511bf888" title="Invoked when a structure I am building comes into existence." alt="" coords="1055,1087,1256,1113"/>
+<area shape="poly" id="edge47_Node000007_Node000043" title=" " alt="" coords="1396,804,1381,864,1355,938,1336,976,1314,1013,1288,1047,1258,1077,1239,1088,1236,1084,1254,1073,1284,1043,1310,1010,1332,973,1350,936,1376,862,1391,803"/>
+<area shape="rect" id="Node000044" href="$class_game_logic.html#a21afe87aa4d7194faf958982a93f77d8" title=" " alt="" coords="1064,172,1247,199"/>
+<area shape="poly" id="edge48_Node000007_Node000044" title=" " alt="" coords="1383,732,1160,200,1165,198,1388,730"/>
+<area shape="rect" id="Node000009" href="$class_bridge.html#a095cb8eee3780b96fa8d86b02b05672d" title="Enumerate all bridges using getNext;." alt="" coords="831,588,944,615"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1118,747,910,617,913,613,1120,743"/>
+<area shape="rect" id="Node000030" href="$class_bridge.html#a9cc8aa929bc556de80eab3cbf16d7233" title=" " alt="" coords="831,919,944,945"/>
+<area shape="poly" id="edge32_Node000008_Node000030" title=" " alt="" coords="1120,791,913,920,910,916,1118,786"/>
+<area shape="rect" id="Node000010" href="$class_terrain_logic.html#acf17343d02ac4b7a544702512dfd4f76" title="remove a bridge" alt="" coords="524,379,695,405"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="868,576,843,540,809,498,767,455,719,420,694,408,696,404,722,415,770,451,813,494,847,537,872,573"/>
+<area shape="rect" id="Node000011" href="$class_terrain_logic.html#aa6d5b334b8b632bc01a329e9b1a2e03e" title=" " alt="" coords="252,353,450,380"/>
+<area shape="poly" id="edge26_Node000009_Node000011" title=" " alt="" coords="874,574,853,527,821,469,776,412,749,388,719,369,680,353,638,342,595,337,551,336,470,343,404,355,403,350,469,337,551,331,595,332,639,337,681,348,722,364,752,384,780,408,825,466,858,524,879,572"/>
+<area shape="rect" id="Node000013" href="$class_terrain_logic.html#ac5f152a1503b183b0a16c6224a3284ff" title="Deletes all bridges." alt="" coords="520,899,698,925"/>
+<area shape="poly" id="edge14_Node000009_Node000013" title=" " alt="" coords="880,630,859,684,827,752,781,822,753,854,722,882,687,900,685,896,719,878,749,850,777,819,822,749,855,682,875,628"/>
+<area shape="rect" id="Node000017" href="$class_terrain_logic.html#af62142f26b658e470c385b5fa38016a1" title="Find the bridge at a location. NULL means no bridge." alt="" coords="524,429,694,456"/>
+<area shape="poly" id="edge18_Node000009_Node000017" title=" " alt="" coords="861,579,800,524,761,495,719,470,690,459,692,454,721,466,764,490,803,519,865,575"/>
+<area shape="rect" id="Node000018" href="$class_terrain_logic.html#a786a7b057862d6abe8efd1491a98c66a" title="Find the bridge at a location. NULL means no bridge. Note that the layer value will be used to resolv..." alt="" coords="530,480,688,523"/>
+<area shape="poly" id="edge19_Node000009_Node000018" title=" " alt="" coords="839,584,719,537,685,526,687,521,721,532,841,579"/>
+<area shape="rect" id="Node000020" href="$class_terrain_logic.html#a22637cfbb523a1ee58e79b35385a7632" title="Get bridge attack points." alt="" coords="513,547,705,589"/>
+<area shape="poly" id="edge21_Node000009_Node000020" title=" " alt="" coords="816,596,705,582,706,577,817,590"/>
+<area shape="rect" id="Node000021" href="$class_terrain_logic.html#a521099f15c6d2683598d7e00f1654e02" title=" " alt="" coords="525,613,693,656"/>
+<area shape="poly" id="edge22_Node000009_Node000021" title=" " alt="" coords="817,612,694,627,693,622,816,607"/>
+<area shape="rect" id="Node000023" href="$class_terrain_logic.html#a70a86eb0f29bdc89bc84d1369d3658dc" title="Is bridge Broken?" alt="" coords="516,680,703,707"/>
+<area shape="poly" id="edge24_Node000009_Node000023" title=" " alt="" coords="843,624,785,648,721,671,679,682,678,677,720,665,783,643,841,619"/>
+<area shape="rect" id="Node000024" href="$class_terrain_logic.html#a0fe08c77cf2e8c222b445b8597302f45" title="Is bridge repaired?" alt="" coords="510,731,708,757"/>
+<area shape="poly" id="edge25_Node000009_Node000024" title=" " alt="" coords="861,627,800,675,762,700,721,721,689,733,687,728,719,716,759,695,797,671,858,623"/>
+<area shape="rect" id="Node000025" href="$class_terrain_logic.html#ab1cf917c3262c80b6e3325e62eb0ea75" title="Returns true if the object is close to one or the other end of the bridge." alt="" coords="516,781,702,824"/>
+<area shape="poly" id="edge27_Node000009_Node000025" title=" " alt="" coords="870,629,809,699,768,738,722,772,699,783,696,778,719,767,764,734,805,696,866,625"/>
+<area shape="rect" id="Node000026" href="$class_terrain_logic.html#a3dbb2d4ed0e271c17fa464cabf9d41c2" title="Returns true if the object is close enough to interact with the bridge for pathfinding." alt="" coords="516,211,702,253"/>
+<area shape="poly" id="edge28_Node000009_Node000026" title=" " alt="" coords="878,573,860,510,829,427,808,384,783,341,753,302,719,267,701,255,704,251,722,263,757,298,787,338,813,381,834,425,865,508,883,572"/>
+<area shape="rect" id="Node000027" href="$class_terrain_logic.html#a5607ed6309bf1079b7e4ee4b58dbeb3a" title=" " alt="" coords="529,277,689,304"/>
+<area shape="poly" id="edge29_Node000009_Node000027" title=" " alt="" coords="875,574,855,521,822,454,777,384,749,352,719,325,685,307,687,302,722,320,753,349,781,381,827,451,859,519,880,572"/>
+<area shape="rect" id="Node000028" href="$class_terrain_logic.html#ac9acfab33cb0d4e4f661138d754669f4" title="Updates bridge&#39;s damage info." alt="" coords="263,840,438,883"/>
+<area shape="poly" id="edge30_Node000009_Node000028" title=" " alt="" coords="878,631,857,678,824,736,779,793,752,818,722,838,688,854,652,866,577,880,504,882,439,878,439,873,504,877,576,874,650,861,686,850,719,834,748,814,775,789,819,733,852,676,873,628"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="508,385,450,379,451,374,508,379"/>
+<area shape="rect" id="Node000012" href="$class_w3_d_terrain_logic.html#ac6ab2bc7c70df7068f70cee51bf94100" title=" " alt="" coords="14,345,195,388"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="236,369,195,369,195,364,236,364"/>
+<area shape="rect" id="Node000014" href="$class_terrain_logic.html#aba09e3b8916c548eb908bccf8e847ebe" title="Reset." alt="" coords="287,957,415,984"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="533,932,413,959,412,954,532,927"/>
+<area shape="rect" id="Node000015" href="$class_w3_d_terrain_logic.html#adcd8d76df44e218d1ad66159f485b926" title="Reset." alt="" coords="25,993,184,1020"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="271,985,185,998,184,992,271,980"/>
+<area shape="rect" id="Node000016" href="$class_terrain_logic.html#a080ef9f3500cf5b308a90758d908c88c" title=" " alt="" coords="16,943,193,969"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="271,969,194,964,194,959,271,963"/>
+<area shape="rect" id="Node000019" href="$class_w3_d_terrain_logic.html#a8c2797c1197e4200fcb1e53e73595bfa" title=" " alt="" coords="261,480,440,523"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="515,504,441,504,441,499,515,499"/>
+<area shape="rect" id="Node000022" href="$class_terrain_logic.html#ac2adaeb004ceafbf426f222ba0c11878" title=" " alt="" coords="260,621,442,648"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="509,637,442,637,442,632,509,632"/>
+<area shape="rect" id="Node000029" href="$class_w3_d_bridge_buffer.html#a08cce4c9f06682e4eaaafcb9b70d7d31" title="Loads the bridges from the map objects list." alt="" coords="5,877,204,904"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="248,876,204,882,204,876,247,871"/>
+<area shape="poly" id="edge37_Node000030_Node000013" title=" " alt="" coords="816,930,698,921,699,916,816,924"/>
+<area shape="rect" id="Node000031" href="$class_terrain_logic.html#ad572e9e693cb8dc38723125e27b69444" title="Adds a bridge&#39;s logical info." alt="" coords="524,949,695,992"/>
+<area shape="poly" id="edge33_Node000030_Node000031" title=" " alt="" coords="816,944,696,961,695,956,816,939"/>
+<area shape="rect" id="Node000033" href="$class_terrain_logic.html#a3b25ca80aeba86129a4cdf4ba3ca234d" title="Adds a bridge&#39;s logical info." alt="" coords="520,1016,698,1059"/>
+<area shape="poly" id="edge36_Node000030_Node000033" title=" " alt="" coords="845,955,721,1006,687,1018,686,1013,719,1002,842,950"/>
+<area shape="rect" id="Node000032" href="$class_w3_d_bridge_buffer.html#aa28eaf1488d4cc091a1d0c825c6213c6" title="Add a bridge at location. Name is the gdf item name." alt="" coords="257,907,445,933"/>
+<area shape="poly" id="edge34_Node000031_Node000032" title=" " alt="" coords="508,954,422,937,423,931,509,948"/>
+<area shape="poly" id="edge35_Node000032_Node000029" title=" " alt="" coords="241,910,204,905,205,900,242,904"/>
+<area shape="rect" id="Node000035" href="$class_a_i_player.html#a9db3b5cb223a94c7ee687eff2d6d648a" title="New map loaded call." alt="" coords="823,1179,952,1205"/>
+<area shape="poly" id="edge39_Node000034_Node000035" title=" " alt="" coords="1063,1072,1056,1077,1046,1087,1040,1098,1033,1122,1027,1146,1020,1158,1008,1169,982,1183,953,1191,951,1186,980,1178,1005,1165,1016,1154,1022,1143,1028,1120,1035,1096,1042,1084,1053,1073,1059,1068"/>
+<area shape="rect" id="Node000036" href="$class_a_i_skirmish_player.html#a80c3f0afb42505ae380e298f13ef67df" title="New map loaded call." alt="" coords="798,1011,977,1037"/>
+<area shape="poly" id="edge40_Node000034_Node000036" title=" " alt="" coords="1047,1042,977,1035,978,1030,1047,1036"/>
+<area shape="rect" id="Node000037" href="$class_a_i_player.html#a8945c1bd927e9982464fead0bcd97f31" title="do base&#45;building behaviors" alt="" coords="787,1061,988,1088"/>
+<area shape="poly" id="edge41_Node000034_Node000037" title=" " alt="" coords="1047,1062,989,1068,988,1062,1046,1057"/>
+<area shape="rect" id="Node000041" href="$class_a_i_skirmish_player.html#abb770e41edec31d70f0efda4d9a6253e" title="do base&#45;building behaviors" alt="" coords="799,1112,976,1155"/>
+<area shape="poly" id="edge45_Node000034_Node000041" title=" " alt="" coords="1076,1070,1056,1077,1032,1090,1008,1102,975,1114,974,1109,1006,1098,1029,1085,1054,1072,1075,1065"/>
+<area shape="rect" id="Node000038" href="$class_a_i_player.html#a65af01d1afdba43aa7989b58475a5aaf" title=" " alt="" coords="524,1083,694,1109"/>
+<area shape="poly" id="edge42_Node000037_Node000038" title=" " alt="" coords="771,1086,694,1092,694,1087,771,1081"/>
+<area shape="rect" id="Node000039" href="$class_a_i_player.html#a37a689ed5d72b91e9e1ea2465c9d9b33" title="simulates the behavior of a player" alt="" coords="292,1083,410,1109"/>
+<area shape="poly" id="edge43_Node000038_Node000039" title=" " alt="" coords="509,1099,411,1099,411,1093,509,1093"/>
+<area shape="rect" id="Node000040" href="$class_a_i_skirmish_player.html#a0f31c70fc739b36317ce7fcbb51b3517" title="simulates the behavior of a player" alt="" coords="20,1083,189,1109"/>
+<area shape="poly" id="edge44_Node000039_Node000040" title=" " alt="" coords="276,1099,190,1099,190,1093,276,1093"/>
+<area shape="rect" id="Node000042" href="$class_a_i_skirmish_player.html#aed88462e5350742335570f6e738be278" title=" " alt="" coords="522,1133,696,1176"/>
+<area shape="poly" id="edge46_Node000041_Node000042" title=" " alt="" coords="784,1144,697,1151,696,1145,784,1139"/>
+<area shape="rect" id="Node000045" href="$class_game_logic.html#afb2f8a3fd6bb7d9fa507d0f8a5cd23ea" title="Logic command list processing." alt="" coords="768,167,1007,193"/>
+<area shape="poly" id="edge49_Node000044_Node000045" title=" " alt="" coords="1048,186,1007,185,1007,180,1048,181"/>
+<area shape="rect" id="Node000047" href="$class_game_logic.html#ad980155edd303f2f942a058d9f2e439b" title="update the world" alt="" coords="284,135,418,161"/>
+<area shape="poly" id="edge52_Node000044_Node000047" title=" " alt="" coords="1084,171,1006,157,841,145,677,141,530,143,419,147,418,141,530,137,677,135,841,139,1007,152,1085,165"/>
+<area shape="rect" id="Node000046" href="$class_game_logic.html#aeed023c2695b71c013b20e9f15472faa" title="process the command list" alt="" coords="498,160,720,187"/>
+<area shape="poly" id="edge50_Node000045_Node000046" title=" " alt="" coords="753,179,721,179,721,173,753,174"/>
+<area shape="poly" id="edge51_Node000046_Node000047" title=" " alt="" coords="482,164,418,157,419,152,483,158"/>
+</map>

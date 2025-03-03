@@ -1,0 +1,28 @@
+var class_vehicle_curve_class =
+[
+    [ "_ArcInfoStruct", "struct_vehicle_curve_class_1_1___arc_info_struct.html", "struct_vehicle_curve_class_1_1___arc_info_struct" ],
+    [ "ARC_LIST", "class_vehicle_curve_class.html#a6220b32bcffdb0a6a77e8c5cba29a406", null ],
+    [ "ArcInfoStruct", "class_vehicle_curve_class.html#a5cdf352b58ea89705f7305b44d02ac0e", null ],
+    [ "VehicleCurveClass", "class_vehicle_curve_class.html#af385b6a21532bb764d05b894cb75a593", null ],
+    [ "VehicleCurveClass", "class_vehicle_curve_class.html#a8d0a1b14d48aacde93227ca0d4245344", null ],
+    [ "~VehicleCurveClass", "class_vehicle_curve_class.html#a3bc9c043fb3ffc9b72ef2809ff146bd4", null ],
+    [ "Add_Key", "class_vehicle_curve_class.html#a3479e33544209d8c65dcf2fa39a2b1aa", null ],
+    [ "Clear_Keys", "class_vehicle_curve_class.html#a58b915f83f299122df01c3ae2455abed", null ],
+    [ "Evaluate", "class_vehicle_curve_class.html#a35a3e1a74152d292374adedde245468b", null ],
+    [ "Get_Current_Sharpness", "class_vehicle_curve_class.html#ae079ac0d7d91df6cdd7b4407f2940c45", null ],
+    [ "Get_Factory", "class_vehicle_curve_class.html#ae5149be1f8370bf91bb5a3c69ebaec4a", null ],
+    [ "Get_Last_Eval_Time", "class_vehicle_curve_class.html#ab060c6435c56898b1de950e2dc628f94", null ],
+    [ "Initialize_Arc", "class_vehicle_curve_class.html#ac81df7af327e31d00a4e9c09519903c5", null ],
+    [ "Load", "class_vehicle_curve_class.html#aff882779e214504c9cdf02bd8e766ddd", null ],
+    [ "Load_Variables", "class_vehicle_curve_class.html#ac0e59ab5de35c8bd0445ad293e180ad9", null ],
+    [ "Remove_Key", "class_vehicle_curve_class.html#a480764960af103f79db5eae24c1c7e85", null ],
+    [ "Save", "class_vehicle_curve_class.html#a4afafc904656e8a068dfc4e858db0b5c", null ],
+    [ "Set_Key", "class_vehicle_curve_class.html#a3d2cae87ffccb14ac0e41479dc94eaa8", null ],
+    [ "Update_Arc_List", "class_vehicle_curve_class.html#aeef6103ef7328f2e603e20dc11b19cad", null ],
+    [ "m_ArcList", "class_vehicle_curve_class.html#afd933fdf053468f97456fe781bd6fc31", null ],
+    [ "m_IsDirty", "class_vehicle_curve_class.html#ade5dd16611f55326bfc7cbe24698c315", null ],
+    [ "m_LastTime", "class_vehicle_curve_class.html#a320c25e0a04805d5df1406f65038767b", null ],
+    [ "m_Radius", "class_vehicle_curve_class.html#a74c275059cc4358548c27a807d2ee7b8", null ],
+    [ "m_Sharpness", "class_vehicle_curve_class.html#a50c0fcfaf9a69254623d781b4e1bfc42", null ],
+    [ "m_SharpnessPos", "class_vehicle_curve_class.html#af4b504d99ed801ee2d15d07cbe20180a", null ]
+];

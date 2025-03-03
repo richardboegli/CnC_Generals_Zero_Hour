@@ -1,0 +1,51 @@
+<map id="SupplyTruckWantsToPickUpOrDeliverBoxesState::onEnter" name="SupplyTruckWantsToPickUpOrDeliverBoxesState::onEnter">
+<area shape="rect" id="Node000001" title="executed once when entering state" alt="" coords="5,99,203,141"/>
+<area shape="rect" id="Node000002" href="$_color_8h.html#a2fac44fb0081d43ffd9392834ecbe027" title=" " alt="" coords="287,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,96,250,48,285,35,287,40,252,53,149,100"/>
+<area shape="rect" id="Node000003" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="492,39,684,65"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,98,250,89,477,60,477,66,251,95,204,103"/>
+<area shape="rect" id="Node000004" href="$class_state.html#abd7940ecb1e1df8d9218e2e03d204fc0" title=" " alt="" coords="506,89,671,116"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,114,490,103,490,109,203,119"/>
+<area shape="rect" id="Node000005" href="$class_a_i_update_interface.html#a9c1e51d110fbcdce6e9a51aae70bcc35" title=" " alt="" coords="743,492,920,535"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,140,171,214,254,316,305,369,362,419,424,464,491,499,550,518,611,527,672,529,728,526,728,531,672,534,611,532,548,523,489,504,422,468,359,423,301,373,250,319,167,217,116,143"/>
+<area shape="rect" id="Node000006" href="$class_supply_truck_wants_to_pick_up_or_deliver_boxes_state.html#a8746ababcb536a8f13db4568c64c09a4" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="251,199,442,241"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="159,139,279,190,277,195,157,144"/>
+<area shape="poly" id="edge22_Node000006_Node000003" title=" " alt="" coords="361,196,413,136,449,103,489,75,501,69,503,74,491,80,452,107,417,139,365,200"/>
+<area shape="poly" id="edge26_Node000006_Node000004" title=" " alt="" coords="374,196,426,160,489,126,507,119,509,124,491,130,429,165,377,200"/>
+<area shape="poly" id="edge28_Node000006_Node000005" title=" " alt="" coords="357,241,375,285,402,340,441,396,465,422,491,443,532,461,592,477,728,499,727,504,590,482,530,466,489,448,461,426,437,400,398,343,370,287,352,243"/>
+<area shape="poly" id="edge29_Node000006_Node000006" title=" " alt="" coords="301,199,299,189,306,180,322,174,346,172,372,174,388,181,386,186,371,180,346,177,323,179,309,184,304,190,306,198"/>
+<area shape="rect" id="Node000007" href="$class_a_i_command_interface.html#a04ba79fa08ec8bd4d903b54e12f4942e" title=" " alt="" coords="516,140,661,183"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="436,195,500,180,501,185,438,201"/>
+<area shape="rect" id="Node000009" href="$class_resource_gathering_manager.html#a49eb8912aa7813f7157051489b4eed57" title="What Center should this truck return to?" alt="" coords="496,391,680,433"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="364,240,415,307,451,344,492,376,499,381,496,386,488,381,447,348,411,310,360,243"/>
+<area shape="rect" id="Node000015" href="$class_resource_gathering_manager.html#ab1a61c83f47504fb0f69f2bbf1a132d3" title="What Warehouse should this truck go to?" alt="" coords="496,257,680,300"/>
+<area shape="poly" id="edge15_Node000006_Node000015" title=" " alt="" coords="438,239,483,251,482,256,436,245"/>
+<area shape="rect" id="Node000017" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="496,207,680,233"/>
+<area shape="poly" id="edge23_Node000006_Node000017" title=" " alt="" coords="443,217,480,217,480,223,443,223"/>
+<area shape="rect" id="Node000020" href="$class_player.html#acce0c4d904f24f89eddca1a13391b509" title=" " alt="" coords="490,324,686,367"/>
+<area shape="poly" id="edge27_Node000006_Node000020" title=" " alt="" coords="378,240,430,275,491,310,504,315,502,320,489,314,427,279,375,244"/>
+<area shape="rect" id="Node000008" href="$class_a_i_command_interface.html#a87fc2d58b97b5631161529bfd6c93e3a" title=" " alt="" coords="759,39,904,81"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="660,137,685,126,709,109,733,91,744,86,747,90,736,96,712,113,688,130,662,142"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="648,432,688,450,736,478,749,483,747,488,733,482,685,454,645,436"/>
+<area shape="rect" id="Node000010" href="$class_object.html#ac3a48aa481f5d7174eebbebb559d1605" title=" " alt="" coords="745,324,918,351"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="652,388,734,360,759,353,761,358,735,365,654,393"/>
+<area shape="rect" id="Node000012" href="$class_object.html#ac50efcf2ad2e22d1f83125ac238c6f45" title=" " alt="" coords="782,375,881,401"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="680,400,767,392,767,397,681,406"/>
+<area shape="rect" id="Node000013" href="$class_supply_truck_a_i_interface.html#a2f496d57839ce7f27d7acd9bc9fec1eb" title=" " alt="" coords="752,425,911,468"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="681,422,738,431,737,436,680,428"/>
+<area shape="rect" id="Node000014" href="$_name_key_generator_8h.html#a0928e3a3f7bf4833b472cc839d35b1ae" title=" " alt="" coords="788,273,875,300"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="666,388,685,377,700,360,708,344,716,327,733,310,772,293,774,298,736,314,720,330,712,346,704,363,688,381,669,392"/>
+<area shape="rect" id="Node000011" href="$class_object.html#a60d6a2ad2a8faf22f01c01f597caea9e" title=" " alt="" coords="977,324,1107,351"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="918,335,961,335,961,340,918,340"/>
+<area shape="poly" id="edge19_Node000015_Node000005" title=" " alt="" coords="674,298,688,310,704,332,711,354,713,396,714,437,722,458,736,478,738,480,734,484,732,482,717,460,709,438,708,396,706,355,699,334,684,314,671,303"/>
+<area shape="poly" id="edge16_Node000015_Node000010" title=" " alt="" coords="680,298,758,317,757,322,679,303"/>
+<area shape="poly" id="edge17_Node000015_Node000012" title=" " alt="" coords="666,298,688,310,703,323,712,336,721,349,736,360,768,374,766,379,733,365,717,352,708,339,699,327,685,314,663,303"/>
+<area shape="poly" id="edge18_Node000015_Node000013" title=" " alt="" coords="672,298,688,310,700,323,707,336,713,362,719,387,725,399,736,411,741,416,738,420,732,415,721,402,714,389,708,363,702,338,695,326,685,314,669,303"/>
+<area shape="poly" id="edge21_Node000015_Node000014" title=" " alt="" coords="681,279,773,282,772,287,680,284"/>
+<area shape="rect" id="Node000016" href="$class_supply_truck_a_i_interface.html#a28740e2bc43cc484810cf9279f8f3f0c" title="How far can I look for a warehouse?" alt="" coords="734,207,929,249"/>
+<area shape="poly" id="edge20_Node000015_Node000016" title=" " alt="" coords="680,257,718,249,719,254,681,262"/>
+<area shape="rect" id="Node000018" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="742,156,921,183"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="655,203,748,184,750,189,656,209"/>
+<area shape="rect" id="Node000019" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="773,105,890,132"/>
+<area shape="poly" id="edge25_Node000017_Node000019" title=" " alt="" coords="660,204,685,192,699,181,708,168,717,155,733,142,757,131,759,135,736,146,721,158,713,171,703,184,688,197,662,209"/>
+</map>

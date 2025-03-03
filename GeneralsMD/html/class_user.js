@@ -1,0 +1,28 @@
+var class_user =
+[
+    [ "User", "class_user.html#a4a0137053e591fbb79d9057dd7d2283d", null ],
+    [ "User", "class_user.html#acb1c68570192fcf4279689c609726cc3", null ],
+    [ "GetIPAddr", "class_user.html#a717a64c079a6a39b8ab59e10e5820dcb", null ],
+    [ "GetName", "class_user.html#aa8c7a78847ca049c3c5232201132504b", null ],
+    [ "GetPort", "class_user.html#aa8140585ca0145b4248db589a08ea023", null ],
+    [ "operator!=", "class_user.html#a72f90ccfccdaf8765a234e315d731f81", null ],
+    [ "operator=", "class_user.html#a44df3250d7d42202343b55a258965027", null ],
+    [ "operator==", "class_user.html#a8e9118c116ce1cb2a74f363720143fbd", null ],
+    [ "SetIPAddr", "class_user.html#a4feabc9b2c6ab78d95aa81a506792918", null ],
+    [ "setName", "class_user.html#a2abfe2e7ecb28dd4fbd8626f59a7f1e7", null ],
+    [ "SetPort", "class_user.html#a63b829a8612386bac6bb96fccbfeab0a", null ],
+    [ "flags", "class_user.html#a09a10e4ec77231063d7b65945f03ed94", null ],
+    [ "group", "class_user.html#a21cdffc0cbd3196a28ac6e8cce6c3004", null ],
+    [ "ipaddr", "class_user.html#ae4c70c003bcdcb834220f6fb72034e5a", null ],
+    [ "locale", "class_user.html#acfb13e3dcfb9cd28600c7f7dcba4935b", null ],
+    [ "name", "class_user.html#a96d94039ff5fb9c0cc3d424577720265", null ],
+    [ "next", "class_user.html#aa5efa4fcfbbdedee74e0425be88df042", null ],
+    [ "reserved", "class_user.html#a7f01402d6f4a3077f51797317c6dd159", null ],
+    [ "reserved2", "class_user.html#a1378a87e701229dc092a062497c6e1ac", null ],
+    [ "reserved3", "class_user.html#a9ae90a433db5b00e9f39d948bc336edf", null ],
+    [ "squad_icon", "class_user.html#a9976b585bf57004ec49d5a5207b37582", null ],
+    [ "squadabbrev", "class_user.html#a2234eba6e17202f57f13c5bbaa9dfa2f", null ],
+    [ "squadID", "class_user.html#acb1005f8d9c11d032c72caeeb4d1fe98", null ],
+    [ "squadname", "class_user.html#a31de5e38e32ec8e3857b8fb818ff1aa6", null ],
+    [ "team", "class_user.html#a0ba9c3b9f3dd298a2726ee567be526cb", null ]
+];

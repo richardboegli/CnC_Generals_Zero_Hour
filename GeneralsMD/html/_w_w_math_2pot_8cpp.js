@@ -1,0 +1,5 @@
+var _w_w_math_2pot_8cpp =
+[
+    [ "Find_POT", "_w_w_math_2pot_8cpp.html#a6142c975ad635c693db9cff1c6cf76f9", null ],
+    [ "Find_POT_Log2", "_w_w_math_2pot_8cpp.html#a9c81aec93ea152ef41850c14d0a6b047", null ]
+];

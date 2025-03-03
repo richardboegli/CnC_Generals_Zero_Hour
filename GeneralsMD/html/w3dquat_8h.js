@@ -1,0 +1,27 @@
+var w3dquat_8h =
+[
+    [ "Quaternion", "class_quaternion.html", "class_quaternion" ],
+    [ "SlerpInfoStruct", "struct_slerp_info_struct.html", "struct_slerp_info_struct" ],
+    [ "QUAT_H", "w3dquat_8h.html#af26e3203e58f458099d5787ed2b160a7", null ],
+    [ "Axis_To_Quat", "w3dquat_8h.html#a71ec81b72fdf4241d24be7bcaa0805b9", null ],
+    [ "Build_Matrix3", "w3dquat_8h.html#a0a7824205fceac906c18582dd15f94e5", null ],
+    [ "Build_Matrix3D", "w3dquat_8h.html#a6e0ea9b0ef84c537c930c67c84caffaa", null ],
+    [ "Build_Matrix4", "w3dquat_8h.html#ac5fd93899734701c80b7b0d4ca7830f9", null ],
+    [ "Build_Quaternion", "w3dquat_8h.html#aed05bcaaa29a5f99ea8164e3bf628009", null ],
+    [ "Build_Quaternion", "w3dquat_8h.html#a16f52eb6cc3755b601c1d04b32532375", null ],
+    [ "Build_Quaternion", "w3dquat_8h.html#a30e58a0b7d30cf40f2131a5048ecbe64", null ],
+    [ "Cached_Slerp", "w3dquat_8h.html#a18610c7290221d74e2ca27406c4cac23", null ],
+    [ "Cached_Slerp", "w3dquat_8h.html#a8bfcd45d0e33f1b80f4cf6206f344ab8", null ],
+    [ "Conjugate", "w3dquat_8h.html#a522129de0c4c4cf5fbfba3fa63edef83", null ],
+    [ "Inverse", "w3dquat_8h.html#a4059c50809856e5946ca1029225f20a3", null ],
+    [ "Normalize", "w3dquat_8h.html#a9bd4969217c1d9e3cf8095838b4b3f03", null ],
+    [ "operator*", "w3dquat_8h.html#a76b3ffdb188246ff6559069cb3f5b919", null ],
+    [ "operator*", "w3dquat_8h.html#a3025c6770ba6d1f746345d6bc54a5eca", null ],
+    [ "operator*", "w3dquat_8h.html#af3d098101ffff93ec2e34faa30b8ac42", null ],
+    [ "operator+", "w3dquat_8h.html#ab98ecab1ab0d42c45402d30c8851ce45", null ],
+    [ "operator-", "w3dquat_8h.html#a1375ea6fa2fd083d38a4adee19c3c895", null ],
+    [ "operator/", "w3dquat_8h.html#a54515cddfdfc3f62ca42c5587ba78781", null ],
+    [ "Slerp", "w3dquat_8h.html#a4bb67b131d8f62f34e3aab81ff6657f4", null ],
+    [ "Slerp_Setup", "w3dquat_8h.html#a1faddd60613b34d4e3cb75700c705fd9", null ],
+    [ "Trackball", "w3dquat_8h.html#aa29f9256e79bd56a367cb0120c41a582", null ]
+];

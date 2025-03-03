@@ -1,0 +1,66 @@
+<map id="GrantUpgradeCreate::onCreate" name="GrantUpgradeCreate::onCreate">
+<area shape="rect" id="Node000001" title="the create method" alt="" coords="5,425,147,468"/>
+<area shape="rect" id="Node000002" href="$class_player.html#a891adc7a7dae9691ee2eed5b9117205a" title="add upgrade, or update existing upgrade status" alt="" coords="240,183,376,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,424,128,351,158,307,193,267,228,238,264,215,267,220,231,243,197,271,162,311,132,353,90,426"/>
+<area shape="rect" id="Node000015" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="1022,525,1206,552"/>
+<area shape="poly" id="edge25_Node000001_Node000015" title=" " alt="" coords="103,466,145,496,169,510,195,520,264,534,355,544,578,551,812,548,1006,541,1006,547,812,554,578,557,355,549,263,540,194,525,167,515,142,501,100,471"/>
+<area shape="rect" id="Node000023" href="$class_player.html#a3ab30a7496588add236bd9f5fe2bac4d" title=" " alt="" coords="223,332,393,359"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="103,423,144,394,194,368,213,361,215,366,196,373,147,399,106,427"/>
+<area shape="rect" id="Node000024" href="$class_object_module.html#a640a103094401ae5ee7084e1141bd660" title=" " alt="" coords="225,383,390,409"/>
+<area shape="poly" id="edge26_Node000001_Node000024" title=" " alt="" coords="146,429,228,411,229,416,147,434"/>
+<area shape="rect" id="Node000025" href="$class_object.html#ad954b5b3c896a02c32bc89799f24433b" title=" " alt="" coords="235,433,381,460"/>
+<area shape="poly" id="edge27_Node000001_Node000025" title=" " alt="" coords="147,444,219,444,219,449,147,449"/>
+<area shape="rect" id="Node000026" href="$class_upgrade_template.html#a7f8a3ff924db8e7d559efc4d050517e3" title=" " alt="" coords="195,484,421,511"/>
+<area shape="poly" id="edge28_Node000001_Node000026" title=" " alt="" coords="147,459,229,477,228,483,146,465"/>
+<area shape="rect" id="Node000027" href="$class_object.html#a4600f0823c58de8c8e70982adb1cc58e" title="give upgrade to this object" alt="" coords="238,281,378,308"/>
+<area shape="poly" id="edge29_Node000001_Node000027" title=" " alt="" coords="89,423,131,370,160,341,193,318,222,305,224,310,196,322,164,346,135,373,93,427"/>
+<area shape="rect" id="Node000028" href="$class_academy_stats.html#a88fc67bc9b568a3ee7c9bbd329d01496" title=" " alt="" coords="208,585,408,612"/>
+<area shape="poly" id="edge32_Node000001_Node000028" title=" " alt="" coords="95,467,137,516,165,542,196,564,224,577,221,582,193,569,162,546,133,520,91,470"/>
+<area shape="rect" id="Node000030" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="258,636,358,663"/>
+<area shape="poly" id="edge34_Node000001_Node000030" title=" " alt="" coords="88,468,103,502,126,544,158,587,196,622,219,634,243,641,242,646,217,638,193,626,154,590,122,547,98,505,83,470"/>
+<area shape="rect" id="Node000003" href="$class_player.html#adfdbf54b822e74e060c83469180f4e4e" title=" " alt="" coords="516,81,652,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,180,397,153,468,124,512,110,514,115,470,129,399,157,339,184"/>
+<area shape="rect" id="Node000007" href="$class_upgrade.html#a050f77baff8b16b4701dddf1bb15b345" title=" " alt="" coords="768,5,931,32"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="320,180,379,124,421,92,468,67,540,43,614,27,687,19,752,15,752,20,687,24,615,32,541,48,470,72,424,97,383,128,323,184"/>
+<area shape="rect" id="Node000008" href="$class_upgrade.html#ad3b4f5ca682bb47fda2904df4dc23d16" title=" " alt="" coords="768,157,931,184"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="376,180,469,168,618,162,753,164,753,169,618,168,469,173,377,186"/>
+<area shape="rect" id="Node000009" href="$class_upgrade_template.html#a83361af6a12606ca968df1ec60076c70" title=" " alt="" coords="469,284,699,311"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="335,208,395,238,470,269,495,277,493,282,468,275,393,243,333,212"/>
+<area shape="rect" id="Node000010" href="$class_player.html#aabe4cd82ab841181284f7f2c1fcabda7" title="An upgrade just finished, do things like tell all objects to recheck UpgradeModules." alt="" coords="488,233,680,260"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="377,206,493,227,492,233,376,211"/>
+<area shape="rect" id="Node000022" href="$class_upgrade.html#ada6fa8e78c3bf60f0af7ceb667a2f0f0" title="set the status" alt="" coords="517,183,651,209"/>
+<area shape="poly" id="edge23_Node000002_Node000022" title=" " alt="" coords="376,193,502,193,502,199,376,199"/>
+<area shape="rect" id="Node000004" href="$class_upgrade.html#a92aa9434ec141d8b159bc79c54da82be" title=" " alt="" coords="768,56,931,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,86,752,76,753,81,653,91"/>
+<area shape="rect" id="Node000006" href="$class_upgrade.html#a2583ef72c2422ba5e39efddfed0bc61b" title="get the upgrade template for this instance" alt="" coords="775,107,924,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="653,99,760,109,759,114,653,104"/>
+<area shape="rect" id="Node000005" href="$class_upgrade.html#ab71b72aa79f00470a25ed9697a60bf2a" title=" " alt="" coords="1050,56,1178,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="931,67,1035,67,1035,72,931,72"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="924,30,1036,52,1035,57,923,35"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="914,154,951,143,1016,116,1073,88,1075,93,1018,121,953,148,915,159"/>
+<area shape="rect" id="Node000011" href="$class_d_l_i_n_k___i_t_e_r_a_t_o_r.html#afe93dde314b09db90bbe658fcbf3654f" title=" " alt="" coords="764,233,935,260"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="681,244,748,244,748,249,681,249"/>
+<area shape="rect" id="Node000012" href="$class_object.html#ada37b79f5a014b25d55e905745993995" title="We need to go through our Upgrade Modules and see which should be activated." alt="" coords="747,335,952,361"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="662,258,700,269,761,296,814,324,812,329,759,301,698,275,660,263"/>
+<area shape="rect" id="Node000013" href="$class_upgrade_module_interface.html#a57de6c869bf64abaa289e0b854b258fc" title=" " alt="" coords="1032,271,1196,313"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="916,331,1016,310,1018,315,917,337"/>
+<area shape="rect" id="Node000014" href="$class_player.html#acf4d64ed5de200fdb3297de53a5442f7" title="get list of upgrades that are completed" alt="" coords="1000,337,1228,364"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="952,346,984,347,984,352,952,352"/>
+<area shape="poly" id="edge16_Node000012_Node000015" title=" " alt="" coords="862,360,915,431,955,472,1001,507,1022,517,1019,522,998,512,951,476,910,434,857,363"/>
+<area shape="rect" id="Node000018" href="$class_object.html#a6a9b586725e583df06396d0ac77d50b2" title="Upgrades I complete locally." alt="" coords="1021,388,1207,431"/>
+<area shape="poly" id="edge19_Node000012_Node000018" title=" " alt="" coords="911,359,1006,382,1005,387,910,365"/>
+<area shape="rect" id="Node000019" href="$class_upgrade_module_interface.html#a76097bd61e79b032f5b76451945391ec" title=" " alt="" coords="1032,455,1196,497"/>
+<area shape="poly" id="edge20_Node000012_Node000019" title=" " alt="" coords="870,360,927,399,1001,440,1019,448,1017,453,999,445,924,403,867,364"/>
+<area shape="rect" id="Node000020" href="$class_bit_flags.html#a9981d80f7a3e64df0c49007972b014b8" title=" " alt="" coords="1066,169,1162,196"/>
+<area shape="poly" id="edge21_Node000012_Node000020" title=" " alt="" coords="871,332,909,305,950,270,963,253,972,237,981,221,998,206,1023,193,1050,186,1051,191,1025,198,1001,210,985,224,976,239,968,256,954,274,913,309,874,336"/>
+<area shape="rect" id="Node000021" href="$class_object.html#afaf9c89d8a1fc4271ef9ee0a253e0c2e" title=" " alt="" coords="1050,220,1178,247"/>
+<area shape="poly" id="edge22_Node000012_Node000021" title=" " alt="" coords="868,332,925,294,999,256,1034,245,1036,250,1001,261,927,299,871,336"/>
+<area shape="rect" id="Node000016" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="1276,500,1454,527"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="1206,527,1260,521,1261,527,1207,532"/>
+<area shape="rect" id="Node000017" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="1306,551,1424,577"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="1207,545,1291,554,1291,559,1206,551"/>
+<area shape="poly" id="edge30_Node000027_Node000009" title=" " alt="" coords="379,293,454,293,454,299,379,298"/>
+<area shape="poly" id="edge31_Node000027_Node000012" title=" " alt="" coords="379,306,469,320,605,333,732,341,732,346,605,338,469,325,378,311"/>
+<area shape="rect" id="Node000029" href="$class_upgrade_template.html#ac5afb60e1b1b714b7e4590df9ecd4dab" title=" " alt="" coords="482,585,686,628"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="408,599,466,601,466,606,408,604"/>
+</map>

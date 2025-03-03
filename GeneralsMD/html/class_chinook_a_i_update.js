@@ -1,0 +1,26 @@
+var class_chinook_a_i_update =
+[
+    [ "ChinookAIUpdate", "class_chinook_a_i_update.html#ae6eadf5c205a5fff8bcb63496f219c17", null ],
+    [ "aiDoCommand", "class_chinook_a_i_update.html#a3c84fd2144e4595a3194c39389626b2b", null ],
+    [ "chooseLocomotorSet", "class_chinook_a_i_update.html#a63699c36452656e4452235ce68e90bb3", null ],
+    [ "friend_getData", "class_chinook_a_i_update.html#a4d7a23260bea51cd5b596c5dbed5203e", null ],
+    [ "friend_setFlightStatus", "class_chinook_a_i_update.html#a7ce73d42b36a46939b4e8697695f7399", null ],
+    [ "getAiFreeToExit", "class_chinook_a_i_update.html#af9e649ec09c21f3e4d9b59562e8bd89b", null ],
+    [ "getBuildingToNotPathAround", "class_chinook_a_i_update.html#a58a234dcfcbb5d57a097374002065269", null ],
+    [ "getOriginalPosition", "class_chinook_a_i_update.html#ab0225992844c489599b5958963cb816e", null ],
+    [ "getUpgradedSupplyBoost", "class_chinook_a_i_update.html#ae1db642625bf86a401d5d14932bdafb2", null ],
+    [ "isAllowedToAdjustDestination", "class_chinook_a_i_update.html#a2fd5b7060dd8ebee32dddc77c3fec065", null ],
+    [ "isAvailableForSupplying", "class_chinook_a_i_update.html#a900832e81202d5c5bb5ab82331f037c6", null ],
+    [ "isCurrentlyFerryingSupplies", "class_chinook_a_i_update.html#a390ccce60f516f7f3cb6d914243db39c", null ],
+    [ "isIdle", "class_chinook_a_i_update.html#a3f244cd8fd8f671b05bd0e021a12b04a", null ],
+    [ "makeStateMachine", "class_chinook_a_i_update.html#aa25f24c2e5b7f2553aee475f34058776", null ],
+    [ "private___TellPortableStructureToAttackWithMe", "class_chinook_a_i_update.html#a862a06c41c9a938df4e281810cc82b6a", null ],
+    [ "privateAttackObject", "class_chinook_a_i_update.html#aaa02f2f6f1ba3b74a1770ff70930b7b5", null ],
+    [ "privateAttackPosition", "class_chinook_a_i_update.html#a6a6f68909186d7812cf0642cb4d7c9df", null ],
+    [ "privateCombatDrop", "class_chinook_a_i_update.html#a4235e3dc3b5da678669a5010c3f24160", null ],
+    [ "privateForceAttackObject", "class_chinook_a_i_update.html#a4d3306722e5e0e95ebddd50e57dd65b7", null ],
+    [ "privateGetRepaired", "class_chinook_a_i_update.html#a7dbccd30a845ba0e8f719de0e0e4d703", null ],
+    [ "privateIdle", "class_chinook_a_i_update.html#a88ceb505deff1080117f8089f550e0da", null ],
+    [ "recordOriginalPosition", "class_chinook_a_i_update.html#ac4d31d0076424a12f12b2b4811bb236f", null ],
+    [ "update", "class_chinook_a_i_update.html#adefc7c5a79008800e707cce66d2cc019", null ]
+];

@@ -1,0 +1,73 @@
+<map id="WorldHeightMapEdit::init" name="WorldHeightMapEdit::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,377,146,420"/>
+<area shape="rect" id="Node000002" href="$class_world_height_map_edit.html#a02e52a2e1ac14ff60fcaa66d4e2cc89f" title="Load the available bitmap images." alt="" coords="194,377,334,420"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,396,178,396,178,401,146,401"/>
+<area shape="rect" id="Node000003" href="$class_world_height_map_edit.html#adc3097d5edaa4159c5d572de83634a37" title="Loads all the images in a directory (including subdirectories)" alt="" coords="382,311,545,353"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,374,382,356,384,361,331,379"/>
+<area shape="rect" id="Node000029" href="$class_world_height_map_edit.html#aa641c1c1d774be8aeb8c46c8f78ed9ce" title=" " alt="" coords="593,377,787,420"/>
+<area shape="poly" id="edge33_Node000002_Node000029" title=" " alt="" coords="335,396,578,396,578,401,335,401"/>
+<area shape="rect" id="Node000030" href="$_a_i_pathfind_8cpp.html#a94c4c25170427dbb27788e9ace33cb6f" title=" " alt="" coords="899,483,956,509"/>
+<area shape="poly" id="edge40_Node000002_Node000030" title=" " alt="" coords="335,406,884,487,883,492,334,412"/>
+<area shape="rect" id="Node000004" href="$class_world_height_map_edit.html#a558375cf4d5211ff6467173375fc6b80" title="Load a tga bitmap into a set of tiles." alt="" coords="620,311,760,353"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="546,329,604,329,604,335,546,335"/>
+<area shape="rect" id="Node000022" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="1098,5,1205,32"/>
+<area shape="poly" id="edge32_Node000003_Node000022" title=" " alt="" coords="504,308,740,187,901,112,1067,42,1085,35,1087,40,1069,46,903,117,742,192,507,313"/>
+<area shape="rect" id="Node000005" href="$class_world_height_map.html#a6b4e7b031a088ed743221f1ea1587c13" title="Count how many tiles come in from a targa file." alt="" coords="835,381,1020,408"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="761,348,860,374,858,379,760,353"/>
+<area shape="rect" id="Node000007" href="$class_cached_file_input_stream.html#aacf153f06b4317624617ca728a309bec" title="Returns true if open succeeded." alt="" coords="848,311,1006,353"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="760,329,833,329,833,335,760,335"/>
+<area shape="rect" id="Node000024" href="$class_world_height_map.html#aa01cace656609bcd9d4e74377caa651d" title=" " alt="" coords="838,432,1016,459"/>
+<area shape="poly" id="edge26_Node000004_Node000024" title=" " alt="" coords="762,349,788,363,804,377,813,392,821,405,836,418,846,423,843,428,833,422,817,409,808,394,800,381,785,368,759,354"/>
+<area shape="rect" id="Node000028" href="$class_cached_file_input_stream.html#a00856d5555a6bcf5f0bd74f0dfbfe041" title=" " alt="" coords="848,244,1006,287"/>
+<area shape="poly" id="edge31_Node000004_Node000028" title=" " alt="" coords="760,310,833,289,835,294,761,315"/>
+<area shape="rect" id="Node000006" href="$class_input_stream.html#a274d06840aa23444c6b5f6111d2b0ae4" title=" " alt="" coords="1088,432,1214,459"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="990,406,1075,425,1073,431,989,411"/>
+<area shape="rect" id="Node000008" href="$class_file.html#ac1bc5107d697caba3c04e80052d48b09" title="Close the file !!! File object no longer valid after this call !!!" alt="" coords="1110,381,1192,408"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1007,351,1096,377,1095,382,1005,356"/>
+<area shape="rect" id="Node000012" href="$class_compression_manager.html#a16e4f016974f505d73ab04e0e770fff9" title=" " alt="" coords="1077,240,1225,283"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="997,307,1066,285,1068,290,998,313"/>
+<area shape="rect" id="Node000017" href="$class_compression_manager.html#aa07016b788e0e95e85f297057f6fa530" title=" " alt="" coords="1070,56,1232,99"/>
+<area shape="poly" id="edge16_Node000007_Node000017" title=" " alt="" coords="1005,308,1018,297,1034,274,1041,251,1042,205,1042,158,1050,134,1066,109,1068,107,1072,110,1070,112,1054,136,1047,159,1047,205,1047,252,1039,276,1022,300,1008,312"/>
+<area shape="rect" id="Node000018" href="$class_compression_manager.html#ab84a7402b93650ceeae0926081b2affc" title=" " alt="" coords="1077,173,1225,216"/>
+<area shape="poly" id="edge18_Node000007_Node000018" title=" " alt="" coords="1000,308,1018,297,1034,280,1042,262,1050,244,1066,226,1071,222,1074,227,1070,230,1054,247,1047,265,1038,283,1022,301,1003,312"/>
+<area shape="rect" id="Node000019" href="$class_file.html#aabc4492f7bf7a81a9a8348559b823470" title=" " alt="" coords="1068,123,1234,149"/>
+<area shape="poly" id="edge20_Node000007_Node000019" title=" " alt="" coords="1004,308,1018,297,1031,280,1038,263,1041,229,1045,195,1052,177,1066,159,1070,156,1073,160,1070,163,1057,180,1050,196,1046,230,1043,265,1036,283,1022,301,1007,312"/>
+<area shape="rect" id="Node000020" href="$class_file.html#a94cabb01bc93d19a70bd94025529ae72" title="Returns the size of the file." alt="" coords="1114,331,1188,357"/>
+<area shape="poly" id="edge21_Node000007_Node000020" title=" " alt="" coords="1007,334,1098,339,1098,344,1006,339"/>
+<area shape="poly" id="edge24_Node000007_Node000022" title=" " alt="" coords="1005,308,1018,297,1038,265,1046,234,1045,202,1041,171,1036,139,1036,107,1045,75,1066,42,1081,30,1085,34,1070,46,1049,77,1041,108,1041,139,1046,170,1050,202,1051,234,1043,267,1022,300,1009,312"/>
+<area shape="rect" id="Node000009" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="1282,381,1458,424"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1192,393,1267,396,1267,402,1192,399"/>
+<area shape="rect" id="Node000011" href="$class_file.html#ae11b9d5f21bf2d19bd6a66dad91e1bea" title="Set the name of the file." alt="" coords="1318,448,1422,475"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1193,404,1235,417,1283,433,1307,441,1305,446,1282,439,1234,423,1191,409"/>
+<area shape="rect" id="Node000010" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="1506,381,1646,424"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1458,400,1490,400,1490,405,1458,405"/>
+<area shape="rect" id="Node000013" href="$btreedecode_8cpp.html#a3c23ae2eda7b99ef99e9ce74d8200f98" title=" " alt="" coords="1312,229,1428,256"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1225,252,1297,246,1297,251,1226,258"/>
+<area shape="rect" id="Node000014" href="$class_compression_manager.html#a77b493907f35c0a504cb7af8d5d4974c" title=" " alt="" coords="1294,112,1446,155"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="1215,237,1233,226,1247,211,1256,196,1265,180,1281,165,1286,161,1289,165,1284,169,1269,184,1261,199,1252,214,1236,230,1217,242"/>
+<area shape="rect" id="Node000015" href="$huffdecode_8cpp.html#a985f03a830b2659d6a2bcbea19fb14e9" title=" " alt="" coords="1317,280,1423,307"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="1226,270,1302,281,1301,286,1225,275"/>
+<area shape="rect" id="Node000016" href="$refdecode_8cpp.html#a0e4d7ca27f8f7d47b6aa36601fccc1d6" title=" " alt="" coords="1321,179,1419,205"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="1214,237,1282,215,1306,207,1307,212,1283,220,1216,242"/>
+<area shape="poly" id="edge17_Node000017_Node000014" title=" " alt="" coords="1233,95,1280,107,1278,113,1232,101"/>
+<area shape="poly" id="edge19_Node000018_Node000014" title=" " alt="" coords="1225,171,1278,156,1279,161,1226,176"/>
+<area shape="poly" id="edge23_Node000020_Node000020" title=" " alt="" coords="1114,332,1108,322,1112,312,1127,306,1151,304,1177,307,1191,313,1189,318,1176,312,1151,309,1128,311,1116,316,1113,321,1119,329"/>
+<area shape="rect" id="Node000021" href="$class_file.html#a915f7ba523c7d675f0d8271d329548ee" title=" " alt="" coords="1331,331,1409,357"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="1189,341,1315,341,1315,347,1189,347"/>
+<area shape="rect" id="Node000023" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1310,5,1430,32"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="1205,16,1294,16,1294,21,1205,21"/>
+<area shape="poly" id="edge28_Node000024_Node000006" title=" " alt="" coords="1017,443,1073,443,1073,448,1017,448"/>
+<area shape="rect" id="Node000025" href="$class_tile_data.html#afe73a6a1b9bb4c6e9b49f39815ff4ce3" title=" " alt="" coords="1080,483,1222,509"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="990,457,1075,476,1073,481,989,462"/>
+<area shape="rect" id="Node000026" href="$class_tile_data.html#a146c9a3a71f9b11a59ea96c7b12b00b0" title=" " alt="" coords="1078,533,1224,560"/>
+<area shape="poly" id="edge29_Node000024_Node000026" title=" " alt="" coords="996,457,1021,468,1037,481,1046,494,1055,507,1070,519,1079,525,1077,529,1066,524,1051,511,1042,497,1033,485,1019,473,994,462"/>
+<area shape="rect" id="Node000027" href="$class_tile_data.html#ade93e1c1fb73cd333b00f9cfd4c0d702" title=" " alt="" coords="1313,533,1427,560"/>
+<area shape="poly" id="edge30_Node000026_Node000027" title=" " alt="" coords="1224,544,1297,544,1297,549,1224,549"/>
+<area shape="poly" id="edge34_Node000029_Node000005" title=" " alt="" coords="787,394,819,394,819,399,787,400"/>
+<area shape="poly" id="edge35_Node000029_Node000007" title=" " alt="" coords="767,374,834,355,835,361,769,379"/>
+<area shape="poly" id="edge36_Node000029_Node000024" title=" " alt="" coords="788,415,841,426,840,431,787,420"/>
+<area shape="poly" id="edge37_Node000029_Node000028" title=" " alt="" coords="767,374,785,363,800,347,808,331,817,314,833,297,839,293,842,297,836,301,821,317,813,333,805,350,788,367,769,379"/>
+<area shape="poly" id="edge38_Node000029_Node000030" title=" " alt="" coords="731,418,780,444,836,468,884,484,883,489,834,473,778,449,729,423"/>
+<area shape="rect" id="Node000031" href="$class_pathfind_cell.html#a2f580b553cecee9838a8695af4f510f6" title="get the cell type" alt="" coords="1078,584,1224,611"/>
+<area shape="poly" id="edge39_Node000030_Node000031" title=" " alt="" coords="952,507,1004,538,1069,570,1086,576,1084,581,1067,574,1002,543,949,512"/>
+</map>

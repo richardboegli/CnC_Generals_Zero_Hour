@@ -1,0 +1,111 @@
+<map id="Thing::convertBonePosToWorldPos" name="Thing::convertBonePosToWorldPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1493,661,1721,688"/>
+<area shape="rect" id="Node000002" href="$class_weapon.html#a329326620eecf5e6a947a169554ccf7c" title=" " alt="" coords="1240,84,1437,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1602,646,1595,553,1586,491,1572,422,1552,350,1524,279,1489,211,1443,151,1414,129,1417,125,1447,147,1493,209,1529,277,1557,349,1577,421,1591,490,1600,553,1608,646"/>
+<area shape="rect" id="Node000006" href="$class_particle_uplink_cannon_update.html#acec058ce1c1da48fb5033b3982a54d5e" title=" " alt="" coords="1244,276,1433,319"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1597,647,1580,584,1550,503,1529,459,1505,416,1476,376,1444,341,1415,322,1418,317,1447,337,1481,373,1510,414,1534,457,1555,501,1585,583,1602,646"/>
+<area shape="rect" id="Node000014" href="$class_particle_uplink_cannon_update.html#a045db732c406dcd774802c218f3c46ed" title=" " alt="" coords="464,139,653,181"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="1601,646,1592,568,1582,518,1567,463,1547,408,1520,355,1486,307,1444,266,1417,250,1384,235,1298,210,1194,192,1079,179,845,165,654,162,654,157,845,160,1080,174,1195,187,1299,205,1385,230,1420,245,1447,262,1490,303,1524,352,1551,406,1572,462,1587,516,1597,567,1607,645"/>
+<area shape="rect" id="Node000015" href="$class_dock_update.html#aeb302b09d636ede647b017c77fa9918f" title="Do a smart lookup of this bone position." alt="" coords="1235,351,1442,393"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="1594,648,1574,596,1543,532,1499,465,1473,434,1444,407,1426,396,1429,392,1447,403,1477,430,1503,461,1547,529,1579,594,1599,646"/>
+<area shape="rect" id="Node000018" href="$class_f_x_list_at_bone_pos_f_x_nugget.html#a53058dbabfa876af24a0dc8b3086a1b0" title=" " alt="" coords="1246,417,1431,460"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="1589,649,1566,610,1533,563,1492,515,1444,474,1424,463,1426,458,1447,470,1496,512,1537,560,1571,608,1594,647"/>
+<area shape="rect" id="Node000020" href="$class_bone_f_x_update.html#a902f30d365e0a6687d8e027c66a7bd0b" title=" " alt="" coords="1232,484,1445,511"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="1584,651,1526,587,1487,553,1444,525,1417,514,1419,509,1447,520,1490,549,1530,583,1588,647"/>
+<area shape="rect" id="Node000022" href="$class_bone_f_x_update.html#a66ccc06745db04c030eb385ac34a5b83" title=" " alt="" coords="1238,535,1440,561"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="1574,654,1516,614,1444,576,1411,564,1413,559,1446,571,1519,609,1577,649"/>
+<area shape="rect" id="Node000023" href="$class_railed_transport_dock_update.html#a6d793bd18e1560e746aa5c54cdb63f72" title="push unloading objects out of us" alt="" coords="728,652,914,695"/>
+<area shape="poly" id="edge30_Node000001_Node000023" title=" " alt="" coords="1559,697,1505,714,1446,728,1374,736,1301,739,1155,733,1022,717,914,697,915,692,1023,711,1156,727,1301,734,1374,731,1445,723,1504,709,1557,691"/>
+<area shape="rect" id="Node000025" href="$class_dock_update.html#ad46214bc450a02192df4dad1e3e81a2f" title=" " alt="" coords="1240,636,1438,663"/>
+<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="1478,665,1438,661,1438,656,1478,660"/>
+<area shape="rect" id="Node000026" href="$class_dock_update.html#adbe5392516074b68d8ad279ad840f6b8" title=" " alt="" coords="1240,687,1438,713"/>
+<area shape="poly" id="edge33_Node000001_Node000026" title=" " alt="" coords="1478,690,1438,693,1438,688,1478,684"/>
+<area shape="rect" id="Node000027" href="$class_dock_update.html#a8ef6c7a8374f3583eeab40fc413da8ca" title=" " alt="" coords="1244,585,1434,612"/>
+<area shape="poly" id="edge34_Node000001_Node000027" title=" " alt="" coords="1549,659,1445,627,1400,615,1402,610,1446,621,1551,653"/>
+<area shape="rect" id="Node000031" href="$class_object.html#ad7177ed2b3b6042ab0d0fe3739effe6a" title=" " alt="" coords="1258,788,1420,831"/>
+<area shape="poly" id="edge40_Node000001_Node000031" title=" " alt="" coords="1574,699,1515,735,1446,772,1404,790,1402,785,1444,767,1513,730,1571,694"/>
+<area shape="rect" id="Node000047" href="$class_transition_damage_f_x.html#a3dd1679d93acd3646993113cedc01872" title=" " alt="" coords="1240,855,1438,897"/>
+<area shape="poly" id="edge50_Node000001_Node000047" title=" " alt="" coords="1590,702,1531,773,1491,812,1447,845,1425,856,1422,852,1444,840,1488,808,1527,769,1585,699"/>
+<area shape="rect" id="Node000048" href="$class_chinook_combat_drop_state.html#aec66e40cf7592a8b048dde3bec5e832e" title="executed once when entering state" alt="" coords="1252,921,1426,964"/>
+<area shape="poly" id="edge51_Node000001_Node000048" title=" " alt="" coords="1597,703,1575,748,1542,804,1499,862,1474,888,1447,912,1428,923,1425,918,1444,907,1471,884,1495,858,1538,801,1570,746,1592,701"/>
+<area shape="rect" id="Node000049" href="$class_mob_nexus_contain.html#aea93b66252239eba3714d950cf2599de" title="object no longer contains &#39;obj&#39;" alt="" coords="1234,988,1444,1015"/>
+<area shape="poly" id="edge52_Node000001_Node000049" title=" " alt="" coords="1602,703,1584,761,1554,836,1533,875,1509,913,1480,948,1447,978,1427,990,1424,985,1444,974,1476,944,1504,910,1528,872,1549,834,1579,760,1597,702"/>
+<area shape="rect" id="Node000050" href="$class_transport_contain.html#a0a39162b2cfb1a245e9fbf2dadfaf102" title="object no longer contains &#39;obj&#39;" alt="" coords="1238,1039,1440,1065"/>
+<area shape="poly" id="edge53_Node000001_Node000050" title=" " alt="" coords="1604,704,1589,771,1561,859,1540,905,1514,951,1484,992,1447,1029,1428,1040,1426,1036,1444,1025,1480,989,1510,948,1535,903,1556,857,1584,769,1599,703"/>
+<area shape="rect" id="Node000055" href="$class_delivering_state.html#a441fab8f8ee0858a78972882dab803f4" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="1260,1089,1417,1116"/>
+<area shape="poly" id="edge58_Node000001_Node000055" title=" " alt="" coords="1606,704,1594,779,1568,881,1547,935,1521,988,1487,1037,1447,1079,1419,1095,1417,1091,1444,1075,1483,1033,1516,985,1542,933,1563,879,1589,778,1600,703"/>
+<area shape="rect" id="Node000056" href="$class_helicopter_slow_death_behavior.html#ac8052a786c3c79de56942df0a4d9d96f" title=" " alt="" coords="1241,1140,1436,1183"/>
+<area shape="poly" id="edge59_Node000001_Node000056" title=" " alt="" coords="1607,704,1597,787,1587,841,1572,901,1551,963,1524,1023,1490,1080,1447,1130,1432,1142,1429,1137,1444,1126,1486,1077,1520,1021,1546,961,1567,899,1582,840,1592,786,1601,703"/>
+<area shape="rect" id="Node000003" href="$class_weapon.html#a91e5636bb12325e8cde4510e343d36a0" title=" " alt="" coords="993,80,1168,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1225,106,1169,105,1169,100,1225,101"/>
+<area shape="rect" id="Node000004" href="$class_dumb_projectile_behavior.html#a4b38356092e0a144b8f4deca7d4e74ad" title="launch the projectile at the given victim" alt="" coords="727,72,915,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="978,104,916,104,916,99,978,99"/>
+<area shape="rect" id="Node000005" href="$class_missile_a_i_update.html#a95f3fa0452acd24c02f76419f658362a" title="launch the projectile at the given victim" alt="" coords="732,5,910,48"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="989,78,897,51,899,46,990,73"/>
+<area shape="rect" id="Node000007" href="$class_particle_uplink_cannon_update.html#aa3f8eac1fa5c4a3571d1b8c85ea35776" title=" " alt="" coords="986,268,1176,311"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1228,297,1176,295,1176,290,1228,291"/>
+<area shape="rect" id="Node000008" href="$class_particle_uplink_cannon_update.html#aeb9a356e770fd1ebd20d8fe1519fd0fd" title=" " alt="" coords="726,339,916,381"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="986,318,903,341,902,335,984,313"/>
+<area shape="rect" id="Node000010" href="$class_particle_uplink_cannon_update.html#a1ad3faa4cc2f2c4e5869bedcdcac3b7b" title=" " alt="" coords="464,280,653,323"/>
+<area shape="poly" id="edge18_Node000007_Node000010" title=" " alt="" coords="971,302,654,309,654,304,971,297"/>
+<area shape="rect" id="Node000009" href="$class_particle_uplink_cannon_update.html#a4d9c9087d3497cb22782091e5cfcb1ac" title=" " alt="" coords="453,347,664,389"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="711,366,665,367,665,362,711,361"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="711,338,653,325,654,320,712,333"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="669,289,986,282,986,287,669,294"/>
+<area shape="poly" id="edge17_Node000010_Node000010" title=" " alt="" coords="599,267,584,261,559,259,535,261,521,265,515,271,517,279,512,280,510,270,518,261,534,255,559,253,585,256,601,262"/>
+<area shape="rect" id="Node000011" href="$class_particle_uplink_cannon_update.html#a92eddf123faa4c84e73b2f18b938590b" title=" " alt="" coords="216,197,405,240"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="477,277,376,243,378,238,479,272"/>
+<area shape="rect" id="Node000012" href="$class_particle_uplink_cannon_update.html#ad865cd6a9429dd5405c300aa8a6cb960" title=" " alt="" coords="216,376,405,419"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="472,331,454,337,359,378,357,373,452,332,470,326"/>
+<area shape="rect" id="Node000013" href="$class_particle_uplink_cannon_update.html#aea3321d06922b1f72d277ac255dcef7e" title=" " alt="" coords="216,280,405,323"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="448,313,406,313,406,307,448,308"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="421,221,655,235,930,261,986,269,985,275,929,267,655,241,421,226"/>
+<area shape="poly" id="edge13_Node000012_Node000007" title=" " alt="" coords="405,420,518,441,583,448,653,450,724,448,795,438,864,419,928,391,945,376,952,359,960,339,976,321,995,309,998,313,979,325,964,342,957,361,949,379,931,396,865,425,796,443,724,453,653,456,583,453,517,446,404,425"/>
+<area shape="poly" id="edge15_Node000013_Node000010" title=" " alt="" coords="421,290,463,290,463,295,421,295"/>
+<area shape="poly" id="edge20_Node000014_Node000011" title=" " alt="" coords="451,188,404,199,403,194,450,183"/>
+<area shape="rect" id="Node000016" href="$class_dock_update.html#a0424cb4afca5959e07f3268d897bf7d3" title=" " alt="" coords="978,401,1184,444"/>
+<area shape="poly" id="edge22_Node000015_Node000016" title=" " alt="" coords="1220,398,1185,405,1184,400,1219,393"/>
+<area shape="rect" id="Node000017" href="$class_dock_update.html#a8e31d0c918cb95987f804c9c5cf91448" title=" " alt="" coords="981,335,1181,377"/>
+<area shape="poly" id="edge23_Node000015_Node000017" title=" " alt="" coords="1220,367,1181,365,1181,360,1220,362"/>
+<area shape="rect" id="Node000019" href="$class_f_x_list_at_bone_pos_f_x_nugget.html#a02b842177559704ecbb00642283ee115" title=" " alt="" coords="989,468,1173,511"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="1232,462,1174,474,1173,469,1231,457"/>
+<area shape="rect" id="Node000021" href="$class_bone_f_x_update.html#a8d3212b36dc0a729f644764493ebc187" title=" " alt="" coords="1002,535,1160,561"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="1252,517,1153,537,1152,531,1251,512"/>
+<area shape="poly" id="edge29_Node000022_Node000021" title=" " alt="" coords="1222,551,1160,551,1160,545,1222,545"/>
+<area shape="rect" id="Node000024" href="$class_railed_transport_dock_update.html#a6d29d76d2cae4e408d11d0c23c7b1854" title="In charge of lifting dock restriction for one registered as Approached if all is ready." alt="" coords="466,652,652,695"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="712,676,652,676,652,671,712,671"/>
+<area shape="poly" id="edge35_Node000027_Node000023" title=" " alt="" coords="1261,619,1233,627,1185,643,1115,655,1043,664,915,673,914,668,1043,658,1114,650,1183,637,1231,621,1260,614"/>
+<area shape="rect" id="Node000028" href="$class_railed_transport_dock_update.html#ace82d0d1ff9336f81d5fdf58ec1afa5f" title="start the &quot;next&quot; object we have inside us coming out" alt="" coords="988,585,1174,628"/>
+<area shape="poly" id="edge36_Node000027_Node000028" title=" " alt="" coords="1228,605,1174,606,1174,601,1228,599"/>
+<area shape="poly" id="edge37_Node000028_Node000023" title=" " alt="" coords="981,635,908,654,906,649,979,630"/>
+<area shape="rect" id="Node000029" href="$class_railed_transport_dock_update.html#a4c875115bf39b142cfdf9bd6f1117a2c" title=" " alt="" coords="728,519,914,561"/>
+<area shape="poly" id="edge38_Node000028_Node000029" title=" " alt="" coords="979,583,906,565,908,559,981,578"/>
+<area shape="rect" id="Node000030" href="$class_railed_transport_dock_update.html#a120b3fbefa59b45c1d7a810d1be8dded" title=" " alt="" coords="728,585,914,628"/>
+<area shape="poly" id="edge39_Node000028_Node000030" title=" " alt="" coords="972,609,914,609,914,604,972,604"/>
+<area shape="rect" id="Node000032" href="$class_open_contain.html#a7277bcbd810f45bd812b8b9cef349360" title="place object at position of the next fire point to use" alt="" coords="989,788,1173,831"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="1242,812,1173,812,1173,807,1242,807"/>
+<area shape="rect" id="Node000033" href="$class_open_contain.html#a7d33c0d0b3e08a8997a500c5db39b91c" title="redeploy any objects at firepoints due to a model condition change" alt="" coords="712,796,930,823"/>
+<area shape="poly" id="edge42_Node000032_Node000033" title=" " alt="" coords="973,812,930,812,930,807,973,807"/>
+<area shape="rect" id="Node000034" href="$class_open_contain.html#a14fabf8ea41c1a1d7f372ce48291a3f1" title="add &#39;obj&#39; to contain list" alt="" coords="466,737,651,764"/>
+<area shape="poly" id="edge43_Node000033_Node000034" title=" " alt="" coords="743,795,621,767,622,762,744,790"/>
+<area shape="rect" id="Node000036" href="$class_open_contain.html#ac5bb7c8ee6432b2ec75b699802bafdf8" title="state change callback" alt="" coords="468,788,650,831"/>
+<area shape="poly" id="edge45_Node000033_Node000036" title=" " alt="" coords="697,812,650,812,650,807,697,807"/>
+<area shape="rect" id="Node000037" href="$class_open_contain.html#a3e466310768c6698c6e5736e80bdaef1" title="check to see if we need to update our occupant postions from a model change or anything else" alt="" coords="457,855,660,897"/>
+<area shape="poly" id="edge46_Node000033_Node000037" title=" " alt="" coords="751,830,646,857,645,851,750,825"/>
+<area shape="rect" id="Node000035" href="$class_open_contain.html#af721dce14f750d43071ccbadd0768d3a" title=" " alt="" coords="231,737,390,764"/>
+<area shape="poly" id="edge44_Node000034_Node000035" title=" " alt="" coords="450,753,390,753,390,748,450,748"/>
+<area shape="rect" id="Node000038" href="$class_open_contain.html#a9590d8f6a910c7a5f1d9601e69e64656" title="called once per frame" alt="" coords="238,863,382,889"/>
+<area shape="poly" id="edge47_Node000037_Node000038" title=" " alt="" coords="441,879,383,879,383,873,441,873"/>
+<area shape="rect" id="Node000039" href="$class_garrison_contain.html#ad15825e284a8796b3e919ed506591d0c" title="called once per frame" alt="" coords="5,837,168,864"/>
+<area shape="poly" id="edge48_Node000038_Node000039" title=" " alt="" coords="223,869,168,863,168,857,223,863"/>
+<area shape="rect" id="Node000040" href="$class_heal_contain.html#a1e8833504d0ac23a95d651ce38a124a7" title="called once per frame" alt="" coords="16,888,157,915"/>
+<area shape="poly" id="edge49_Node000038_Node000040" title=" " alt="" coords="223,889,157,896,157,891,223,883"/>
+<area shape="rect" id="Node000051" href="$class_helix_contain.html#add923358bef32c2712a6ba92015f15b5" title="object no longer contains &#39;obj&#39;" alt="" coords="992,1131,1170,1157"/>
+<area shape="poly" id="edge54_Node000050_Node000051" title=" " alt="" coords="1247,1073,1233,1080,1219,1089,1210,1100,1200,1111,1185,1121,1157,1132,1155,1128,1183,1116,1197,1107,1206,1096,1216,1085,1231,1075,1245,1068"/>
+<area shape="rect" id="Node000052" href="$class_overlord_contain.html#a9bc94c312c29943288572e8a01ca17ba" title="object no longer contains &#39;obj&#39;" alt="" coords="983,947,1179,973"/>
+<area shape="poly" id="edge55_Node000050_Node000052" title=" " alt="" coords="1245,1036,1231,1029,1216,1019,1206,1008,1197,997,1183,988,1155,976,1157,972,1185,983,1200,993,1210,1004,1219,1015,1233,1024,1247,1031"/>
+<area shape="rect" id="Node000053" href="$class_railed_transport_contain.html#a1d8f898e920052c7378ddd3cb0d103b5" title="object no longer contains &#39;obj&#39;" alt="" coords="1002,997,1160,1040"/>
+<area shape="poly" id="edge56_Node000050_Node000053" title=" " alt="" coords="1221,1040,1160,1032,1161,1026,1222,1034"/>
+<area shape="rect" id="Node000054" href="$class_rider_change_contain.html#a999cdc6b9caecfb0477e53797c7b54eb" title="object no longer contains &#39;obj&#39;" alt="" coords="1010,1064,1152,1107"/>
+<area shape="poly" id="edge57_Node000050_Node000054" title=" " alt="" coords="1222,1070,1153,1079,1152,1073,1222,1064"/>
+</map>

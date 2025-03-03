@@ -1,0 +1,67 @@
+var _thing_template_8h =
+[
+    [ "AudioArray", "class_audio_array.html", "class_audio_array" ],
+    [ "ModuleInfo", "class_module_info.html", "class_module_info" ],
+    [ "ThingTemplate", "class_thing_template.html", "class_thing_template" ],
+    [ "__THINGTEMPLATE_H_", "_thing_template_8h.html#ad94fe5869e570bb2176c180d4ed57f1f", null ],
+    [ "PerUnitFXMap", "_thing_template_8h.html#a45b2b6b4e2d8339dbec4426b9e71c628", null ],
+    [ "PerUnitSoundMap", "_thing_template_8h.html#adeb52aa803d2b681a31094e4a3810240", null ],
+    [ "BuildableStatus", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0c", [
+      [ "BSTATUS_YES", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0cab3ccb3e83e891e9abd06085ee3f64720", null ],
+      [ "BSTATUS_IGNORE_PREREQUISITES", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0cac622a10802733d645a654bf75eb59f73", null ],
+      [ "BSTATUS_NO", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0ca94300f5bdecc4b2ee03c7578cfe99f5c", null ],
+      [ "BSTATUS_ONLY_BY_AI", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0ca5a64d790ef98bf4997129731dc5cbe4d", null ],
+      [ "BSTATUS_NUM_TYPES", "_thing_template_8h.html#a6cdcf604627ad670996d9057d1bd9e0cab4156dae15e11da07b75d927d0fbc28c", null ]
+    ] ],
+    [ "BuildCompletionType", "_thing_template_8h.html#aae8deceab498d62ffbf36282359d9957", [
+      [ "BC_INVALID", "_thing_template_8h.html#aae8deceab498d62ffbf36282359d9957a40aa03c6d196f6e0fa102955b96840dc", null ],
+      [ "BC_APPEARS_AT_RALLY_POINT", "_thing_template_8h.html#aae8deceab498d62ffbf36282359d9957a17f4c0a2f2cc1d787448eab07904265f", null ],
+      [ "BC_PLACED_BY_PLAYER", "_thing_template_8h.html#aae8deceab498d62ffbf36282359d9957af66930b9fb242bc70a5f2eb3ac3088bd", null ],
+      [ "BC_NUM_TYPES", "_thing_template_8h.html#aae8deceab498d62ffbf36282359d9957a7dd687ba4470fba54bf74038251c432f", null ]
+    ] ],
+    [ "ModuleParseMode", "_thing_template_8h.html#a1384bb8b2cdd4ea0c4f7b73890cb018e", [
+      [ "MODULEPARSE_NORMAL", "_thing_template_8h.html#a1384bb8b2cdd4ea0c4f7b73890cb018ea345c6194a05dd4a40f3cfc45a91626e6", null ],
+      [ "MODULEPARSE_ADD_REMOVE_REPLACE", "_thing_template_8h.html#a1384bb8b2cdd4ea0c4f7b73890cb018ea96c52e04fe0c52c1d38f961d6c16308a", null ],
+      [ "MODULEPARSE_INHERITABLE", "_thing_template_8h.html#a1384bb8b2cdd4ea0c4f7b73890cb018ea5444f3e1ceeae58571054fa21345070b", null ],
+      [ "MODULEPARSE_OVERRIDEABLE_BY_LIKE_KIND", "_thing_template_8h.html#a1384bb8b2cdd4ea0c4f7b73890cb018ea4d03eb92f550e1768ca5fa920dce993e", null ]
+    ] ],
+    [ "ThingTemplateAudioType", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6", [
+      [ "TTAUDIO_voiceSelect", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a16fa2a0086f2b77b6ada7c060eababc7", null ],
+      [ "TTAUDIO_voiceGroupSelect", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a35b42c865d2a5df9aa7ac931b3485a3a", null ],
+      [ "TTAUDIO_voiceSelectElite", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6acd0e6335bee6145e4ff0535e0596557a", null ],
+      [ "TTAUDIO_voiceMove", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a6a507956f67b17ca0df6b9d6692aedc0", null ],
+      [ "TTAUDIO_voiceAttack", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a601f85211b0c69c2bd426eb36090c78c", null ],
+      [ "TTAUDIO_voiceEnter", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6aeabf5cbef0f648ec8e4a8d72c4c5a129", null ],
+      [ "TTAUDIO_voiceFear", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a09621dc103f62e8427e5bacc2a93f88f", null ],
+      [ "TTAUDIO_voiceCreated", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a96c79a8dc0fa8ed62501332ee36fd808", null ],
+      [ "TTAUDIO_voiceNearEnemy", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a8295198a648bc21c6b9c1d587347ba36", null ],
+      [ "TTAUDIO_voiceTaskUnable", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a2bc97c27645232697d6433917cf8d116", null ],
+      [ "TTAUDIO_voiceTaskComplete", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6aba078c047a0c156599dbfabcca30b71c", null ],
+      [ "TTAUDIO_voiceMeetEnemy", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6aecef347e5912ed92d327baf37303bcc0", null ],
+      [ "TTAUDIO_soundMoveStart", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a2d6142aabbc18512ee61e2391c5c0055", null ],
+      [ "TTAUDIO_soundMoveStartDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a66a8d9f4f0948fb091ca532476c16bd2", null ],
+      [ "TTAUDIO_soundMoveLoop", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a449c1615e8622e87f5ef599fe468f2d0", null ],
+      [ "TTAUDIO_soundMoveLoopDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6ac5061a8c1de26f087c6755dcd3062fcc", null ],
+      [ "TTAUDIO_soundAmbient", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a6ba9dd66df565ebe38433f1dacbfdb8c", null ],
+      [ "TTAUDIO_soundAmbientDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a68b14a24f87ea5524b153a428ffef1ac", null ],
+      [ "TTAUDIO_soundAmbientReallyDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6aa04913f77d9bcf076f0eb8ab4de0c8d4", null ],
+      [ "TTAUDIO_soundAmbientRubble", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a87040420dcee6f532e26d9f5d23710f6", null ],
+      [ "TTAUDIO_soundStealthOn", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a4a4a2c8735902057e3d3c3a407e12d77", null ],
+      [ "TTAUDIO_soundStealthOff", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a31627fd08638273ed62f6c99fe5802eb", null ],
+      [ "TTAUDIO_soundCreated", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a5d08ac81f13448c11ac5469f5478acfb", null ],
+      [ "TTAUDIO_soundOnDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a3d2d2b211b29ac02e3c59e36c937b5ea", null ],
+      [ "TTAUDIO_soundOnReallyDamaged", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6af55245c43efe82deb1ad5fb6dd96efa6", null ],
+      [ "TTAUDIO_soundEnter", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a8a84234abcbd6e0fa90a09e34692d2dc", null ],
+      [ "TTAUDIO_soundExit", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a710209033ea045e52e42cb95b28de5c4", null ],
+      [ "TTAUDIO_soundPromotedVeteran", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a06d1fe7daa648f49eaf3f63e3b9700e9", null ],
+      [ "TTAUDIO_soundPromotedElite", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6ac160aef38db3dc0aa34e486f0d032989", null ],
+      [ "TTAUDIO_soundPromotedHero", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a5986f48a1ff5bf51bf89e4ca47c80895", null ],
+      [ "TTAUDIO_voiceGarrison", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6af5a45915cd3e4bc1f5313b8f12125701", null ],
+      [ "TTAUDIO_soundFalling", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a5b537b3f0680203cf98f8df2cbf243ae", null ],
+      [ "TTAUDIO_voiceDefect", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6aaa3de516aa1bed632b151907064aa194", null ],
+      [ "TTAUDIO_voiceAttackSpecial", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a641729c5c9b5c5d66dff9a950d3e6b93", null ],
+      [ "TTAUDIO_voiceAttackAir", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6ac8b01960d98373304cf00c4abc341fbf", null ],
+      [ "TTAUDIO_voiceGuard", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6ac909c295a8d9bc4615fd02ad77f105cf", null ],
+      [ "TTAUDIO_COUNT", "_thing_template_8h.html#aa236bfa20af78f038f9a007c14e972e6a79ff6a207fddd258398eb7e133403956", null ]
+    ] ]
+];

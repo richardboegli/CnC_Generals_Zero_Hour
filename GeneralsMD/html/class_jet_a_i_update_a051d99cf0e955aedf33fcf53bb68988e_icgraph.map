@@ -1,0 +1,15 @@
+<map id="JetAIUpdate::chooseLocomotorSet" name="JetAIUpdate::chooseLocomotorSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,180,479,207"/>
+<area shape="rect" id="Node000002" href="$class_heli_takeoff_or_landing_state.html#ad2c70efbc2ec851a3f86a802e4fe62b8" title="executed once when entering state" alt="" coords="17,5,194,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,171,281,117,244,88,204,62,180,51,183,46,207,58,247,83,284,113,343,167"/>
+<area shape="rect" id="Node000003" href="$class_jet_or_heli_taxi_state.html#a7404205efc84d07ab3ed946d3dbc0df7" title=" " alt="" coords="40,72,171,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,176,205,129,170,117,172,112,207,124,321,171"/>
+<area shape="rect" id="Node000004" href="$class_jet_takeoff_or_landing_state.html#a008156262dbb32181264daf91e991391" title=" " alt="" coords="20,139,191,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,180,191,174,192,168,242,175"/>
+<area shape="rect" id="Node000005" href="$class_heli_takeoff_or_landing_state.html#ad02a723d39f9959058695733096e18a8" title="executed once when leaving state" alt="" coords="17,205,194,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="242,212,194,218,194,213,242,207"/>
+<area shape="rect" id="Node000006" href="$class_jet_a_i_update.html#ad6d29add7ae07a16bdcb40cca3633e60" title=" " alt="" coords="5,272,206,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,216,207,263,168,274,166,269,205,257,321,211"/>
+<area shape="rect" id="Node000007" href="$class_jet_awaiting_runway_state.html#a42bd1d62126aa9b56697d8b5acd0ed62" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="21,323,190,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="340,219,281,266,207,313,181,325,179,320,204,308,278,261,337,215"/>
+</map>

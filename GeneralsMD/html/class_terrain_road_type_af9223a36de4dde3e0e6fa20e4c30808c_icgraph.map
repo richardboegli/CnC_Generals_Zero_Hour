@@ -1,0 +1,30 @@
+<map id="TerrainRoadType::isBridge" name="TerrainRoadType::isBridge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="686,161,861,188"/>
+<area shape="rect" id="Node000002" href="$class_road_options.html#aa2715ffbd300b0c968c4464a5c123411" title=" " alt="" coords="454,12,612,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="746,152,698,108,637,65,583,42,585,37,640,60,701,104,750,148"/>
+<area shape="rect" id="Node000004" href="$class_terrain_road_type.html#ab1238075a7d2e84fffd885f29bfde666" title=" " alt="" coords="212,56,371,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="737,156,691,131,638,111,569,95,498,86,371,79,372,73,498,80,569,90,639,105,693,126,739,151"/>
+<area shape="rect" id="Node000007" href="$class_terrain_road_collection.html#a507ac6b6c291fc6a2d6871e5071d1a5f" title="get next bridge" alt="" coords="458,120,608,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="670,163,608,154,609,149,671,158"/>
+<area shape="rect" id="Node000010" href="$class_terrain_road_collection.html#ae4a6c11052e0dcf2a135dfe0506d2d30" title="get next road" alt="" coords="458,187,608,229"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="671,192,609,200,608,195,670,186"/>
+<area shape="rect" id="Node000012" href="$class_i_n_i.html#a3b29aeb42e3054fe5d53692661496c6d" title=" " alt="" coords="428,253,638,280"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="736,198,691,222,639,244,602,255,600,250,637,239,688,217,734,194"/>
+<area shape="rect" id="Node000013" href="$class_i_n_i.html#aa15ef84f146c24b42f624236089ad22c" title=" " alt="" coords="431,304,635,331"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="752,202,704,249,673,274,640,294,611,306,609,301,637,290,670,269,700,245,749,198"/>
+<area shape="rect" id="Node000003" href="$class_road_options.html#a9d917e0c24265d91f215e5c66097bd8f" title="Setup the controls in the dialog." alt="" coords="203,5,380,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,25,380,24,380,18,439,20"/>
+<area shape="rect" id="Node000005" href="$class_terrain_road_collection.html#a1120981f3181f255fe987aa132f3966d" title="allocate new bridge, assign name, and link" alt="" coords="5,56,155,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,80,155,80,155,75,196,75"/>
+<area shape="rect" id="Node000006" href="$class_terrain_road_collection.html#aa3d574ee257ba7b3fc815f6af0dd241e" title="allocate new road, assing name, and link to list" alt="" coords="5,123,155,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="208,106,151,125,149,119,207,101"/>
+<area shape="rect" id="Node000008" href="$class_terrain_road_collection.html#a2ed002ab51e2027a25db3734b5050f78" title="find bridge with matching name" alt="" coords="217,123,366,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="443,145,367,146,367,141,443,140"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="207,120,149,102,151,97,208,115"/>
+<area shape="rect" id="Node000009" href="$class_terrain_road_collection.html#ad4e0469e2a80affcc1dabee04c9ae394" title="search roads and bridges" alt="" coords="5,189,155,232"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="208,173,151,191,149,186,207,168"/>
+<area shape="rect" id="Node000011" href="$class_terrain_road_collection.html#a2cba051d9c7c95919a8bea32c9270a80" title="find road with matching name" alt="" coords="217,189,366,232"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="443,212,367,213,367,207,443,206"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="207,187,149,169,151,163,208,182"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="201,213,155,213,155,208,201,208"/>
+</map>

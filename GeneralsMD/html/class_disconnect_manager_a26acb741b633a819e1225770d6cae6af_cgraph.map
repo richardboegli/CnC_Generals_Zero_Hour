@@ -1,0 +1,125 @@
+<map id="DisconnectManager::updateDisconnectStatus" name="DisconnectManager::updateDisconnectStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,552,170,595"/>
+<area shape="rect" id="Node000002" href="$class_disconnect_manager.html#a1ea1b8394a0e084570a86db5069f5fb2" title="returns true if all players are stuck on the same frame." alt="" coords="249,309,394,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,550,287,361,291,365,112,553"/>
+<area shape="rect" id="Node000003" href="$class_connection_manager.html#af207bbf154b02a0f1d9353e585015b1c" title=" " alt="" coords="1066,519,1211,561"/>
+<area shape="poly" id="edge46_Node000001_Node000003" title=" " alt="" coords="170,580,312,593,473,604,580,611,626,611,685,604,709,597,733,588,816,572,901,559,1050,543,1051,549,902,564,817,577,734,593,710,602,686,609,626,616,580,617,473,609,311,599,170,585"/>
+<area shape="rect" id="Node000004" href="$class_connection_manager.html#a66d189abd38029796a127d1358a944d9" title=" " alt="" coords="1320,64,1466,107"/>
+<area shape="poly" id="edge53_Node000001_Node000004" title=" " alt="" coords="89,551,101,491,125,407,162,314,186,270,216,229,296,132,333,93,370,61,411,36,458,17,513,6,578,3,855,3,978,9,1101,23,1214,43,1306,62,1305,67,1213,48,1101,29,978,14,855,8,578,8,513,12,459,23,414,40,373,65,336,97,300,136,220,232,191,273,167,317,130,408,107,492,95,552"/>
+<area shape="rect" id="Node000007" href="$class_disconnect_manager.html#a31ddc6d451eef812909789f4ef440bf3" title="returns true if this player has been voted out." alt="" coords="781,164,926,207"/>
+<area shape="poly" id="edge54_Node000001_Node000007" title=" " alt="" coords="90,551,102,498,125,429,142,392,162,357,187,324,216,295,280,253,351,220,425,197,501,182,575,174,646,170,765,173,765,179,646,176,576,179,502,188,426,203,353,225,283,257,219,299,191,327,166,360,146,395,130,431,107,500,95,552"/>
+<area shape="rect" id="Node000011" href="$class_disconnect_manager.html#a7a94258291757186d872d70bbeeeaed7" title=" " alt="" coords="505,552,653,595"/>
+<area shape="poly" id="edge73_Node000001_Node000011" title=" " alt="" coords="170,571,489,571,489,576,170,576"/>
+<area shape="rect" id="Node000012" href="$class_disconnect_manager.html#a34840bea7921cd8af213797f1143e356" title=" " alt="" coords="249,1292,394,1335"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="98,594,311,1276,306,1278,93,596"/>
+<area shape="rect" id="Node000037" href="$class_disconnect_manager.html#ad5864e955474d81c4061b1463527f959" title="returns true if the local player is next in line to be the packet router with all the players that ha..." alt="" coords="218,464,425,507"/>
+<area shape="poly" id="edge47_Node000001_Node000037" title=" " alt="" coords="146,549,248,510,249,515,148,554"/>
+<area shape="rect" id="Node000040" href="$class_disconnect_manager.html#a6eab31c8c4236e19f2878717143494ed" title=" " alt="" coords="492,700,667,743"/>
+<area shape="poly" id="edge55_Node000001_Node000040" title=" " alt="" coords="120,593,165,622,219,648,284,670,351,687,477,708,476,714,350,692,282,675,217,653,163,627,117,598"/>
+<area shape="rect" id="Node000044" href="$class_disconnect_manager.html#a924a3f3bc4ed6700d3d9ec904b201f3c" title="send a destruct player network message." alt="" coords="506,889,652,932"/>
+<area shape="poly" id="edge61_Node000001_Node000044" title=" " alt="" coords="108,594,156,647,219,706,296,760,376,808,516,880,514,885,373,812,293,764,216,710,152,651,104,597"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,314,460,307,537,308,576,313,615,322,652,335,687,354,699,364,706,375,713,399,719,422,725,433,735,443,1051,518,1050,523,732,448,720,436,714,424,708,400,701,378,695,368,684,358,650,340,613,327,575,318,536,314,461,313,395,319"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="352,306,407,271,472,236,619,171,738,129,862,101,1021,79,1096,73,1171,71,1305,75,1305,81,1171,76,1096,78,1022,84,863,106,740,134,621,176,474,241,410,276,355,311"/>
+<area shape="rect" id="Node000005" href="$class_disconnect_manager.html#a7f74f92477f7a6a19d46b17b93c7478b" title="returns true if the player has neither timed out or been voted out." alt="" coords="506,251,652,293"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="394,312,491,289,492,294,395,317"/>
+<area shape="poly" id="edge15_Node000002_Node000011" title=" " alt="" coords="344,351,401,414,475,487,538,540,535,545,471,491,397,417,340,354"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="653,290,687,310,704,330,711,350,719,368,735,386,766,405,795,416,822,421,849,423,906,426,938,431,975,443,1039,474,1095,508,1092,512,1036,479,973,448,937,436,905,431,849,428,821,426,793,421,764,410,732,390,714,371,706,352,699,333,684,314,651,294"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="653,279,796,294,972,306,1059,307,1139,304,1205,295,1254,279,1277,265,1297,247,1332,204,1358,160,1377,120,1381,122,1363,162,1336,208,1301,250,1280,269,1256,284,1206,300,1139,309,1059,313,972,311,796,299,652,284"/>
+<area shape="rect" id="Node000006" href="$class_disconnect_manager.html#a7ad7d6f4a2c312ad6945099ec5f8a97b" title="returns true if this player has timed out." alt="" coords="781,333,926,376"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="653,291,767,326,765,331,651,296"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="649,247,768,209,770,214,650,253"/>
+<area shape="rect" id="Node000010" href="$class_disconnect_manager.html#aac574b57d53518117f222fea5b954584" title=" " alt="" coords="1057,227,1220,269"/>
+<area shape="poly" id="edge14_Node000005_Node000010" title=" " alt="" coords="652,266,1041,249,1042,255,652,272"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="877,205,976,320,1053,420,1115,505,1111,508,1049,423,972,323,873,209"/>
+<area shape="rect" id="Node000008" href="$class_disconnect_manager.html#abf21fdfbf920c9355a5320414ad02c37" title="return the number of disconnect votes a player has." alt="" coords="1066,160,1211,203"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="927,182,1050,180,1050,185,927,187"/>
+<area shape="rect" id="Node000009" href="$class_connection_manager.html#afe0d6b86cdd530d4e2616b6001d1acc9" title=" " alt="" coords="1066,93,1211,136"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="926,165,1050,134,1051,139,927,170"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="927,199,1043,224,1041,230,926,204"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="1211,104,1305,93,1305,98,1212,109"/>
+<area shape="poly" id="edge25_Node000012_Node000003" title=" " alt="" coords="367,1289,527,1218,628,1178,733,1143,770,1134,804,1132,863,1133,890,1132,916,1127,943,1115,972,1093,988,1066,1008,1014,1053,865,1126,576,1131,577,1058,867,1013,1016,993,1068,976,1096,946,1119,918,1132,890,1137,863,1138,804,1137,771,1140,734,1148,630,1183,529,1223,370,1294"/>
+<area shape="poly" id="edge45_Node000012_Node000011" title=" " alt="" coords="321,1291,331,1192,355,1039,374,951,400,861,431,772,471,687,502,641,538,604,542,607,506,645,475,689,436,774,405,862,380,952,360,1040,336,1193,327,1292"/>
+<area shape="rect" id="Node000013" href="$class_connection_manager.html#af24cdd489299ca924ef19275ad5ff783" title="Disconnect this player immediately. This should only be called by the disconnect manager." alt="" coords="506,1485,652,1528"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="348,1333,405,1383,475,1439,528,1475,525,1479,471,1443,401,1387,344,1337"/>
+<area shape="rect" id="Node000016" href="$class_connection_manager.html#a584e302c25b7da4833c4c25bf6330ad3" title=" " alt="" coords="781,1427,926,1469"/>
+<area shape="poly" id="edge26_Node000012_Node000016" title=" " alt="" coords="395,1329,766,1423,765,1429,394,1334"/>
+<area shape="rect" id="Node000020" href="$class_game_slot.html#afd6fe66b1e8dca26a2cb088b6186a4fd" title=" " alt="" coords="473,1552,685,1579"/>
+<area shape="poly" id="edge27_Node000012_Node000020" title=" " alt="" coords="333,1334,352,1378,382,1433,423,1490,448,1516,475,1538,482,1543,480,1547,471,1542,444,1520,419,1494,378,1436,347,1380,328,1336"/>
+<area shape="rect" id="Node000021" href="$class_connection_manager.html#acc11757ad0288170c0f761f3c5853b46" title="Resend the pending commands to the packet router." alt="" coords="492,1292,666,1335"/>
+<area shape="poly" id="edge28_Node000012_Node000021" title=" " alt="" coords="394,1311,477,1311,477,1316,394,1316"/>
+<area shape="rect" id="Node000014" href="$class_unicode_string.html#a3e4b04de9bcc4e111e94f769404f2950" title=" " alt="" coords="769,1544,938,1571"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="653,1517,763,1538,762,1543,652,1523"/>
+<area shape="poly" id="edge20_Node000013_Node000016" title=" " alt="" coords="652,1489,765,1464,766,1469,653,1494"/>
+<area shape="rect" id="Node000017" href="$class_game_slot.html#abe61ae65a1f52a11d875339071d91399" title=" " alt="" coords="758,1645,949,1672"/>
+<area shape="poly" id="edge21_Node000013_Node000017" title=" " alt="" coords="653,1519,687,1538,705,1562,711,1587,718,1610,724,1621,735,1631,745,1638,742,1642,732,1635,720,1624,713,1612,706,1588,700,1564,684,1542,651,1523"/>
+<area shape="rect" id="Node000018" href="$class_game_slot.html#af50c1aa74730c6d03de6a6c8ed9bd3c9" title=" " alt="" coords="747,1493,960,1520"/>
+<area shape="poly" id="edge22_Node000013_Node000018" title=" " alt="" coords="652,1504,731,1504,731,1509,652,1509"/>
+<area shape="rect" id="Node000019" href="$class_unicode_string.html#ab80e621deccff2aa3abfaebc99c5c170" title=" " alt="" coords="790,1595,917,1621"/>
+<area shape="poly" id="edge23_Node000013_Node000019" title=" " alt="" coords="653,1523,687,1538,702,1549,711,1560,720,1571,735,1580,776,1595,774,1600,732,1585,717,1575,707,1564,698,1553,684,1542,651,1527"/>
+<area shape="rect" id="Node000015" href="$class_unicode_string.html#ad55fc5bd752b804f3e0d29ee79fd8cf3" title=" " alt="" coords="1069,1569,1208,1596"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="938,1562,1053,1572,1053,1578,938,1567"/>
+<area shape="poly" id="edge24_Node000019_Node000015" title=" " alt="" coords="917,1600,1053,1588,1054,1593,917,1605"/>
+<area shape="rect" id="Node000022" href="$class_net_command_ref.html#a89a04f01862b674037cbea003dcb1b31" title=" " alt="" coords="749,1275,958,1301"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="667,1303,734,1296,734,1302,667,1308"/>
+<area shape="rect" id="Node000023" href="$class_net_command_ref.html#ab274f6b5e024fb77c4fb863697b6ae3e" title=" " alt="" coords="765,1376,942,1403"/>
+<area shape="poly" id="edge30_Node000021_Node000023" title=" " alt="" coords="642,1333,734,1361,767,1370,765,1375,733,1367,641,1338"/>
+<area shape="rect" id="Node000025" href="$class_net_command_ref.html#a8b29a452df1c93badd6c4860dc1cdce3" title=" " alt="" coords="762,1325,945,1352"/>
+<area shape="poly" id="edge32_Node000021_Node000025" title=" " alt="" coords="667,1319,746,1326,746,1331,667,1324"/>
+<area shape="rect" id="Node000026" href="$class_connection_manager.html#aabf7b9289891c85d3aa980610410f10b" title="Send command to the players specified in the relay, goes through packet router." alt="" coords="781,1157,926,1200"/>
+<area shape="poly" id="edge33_Node000021_Node000026" title=" " alt="" coords="606,1289,662,1249,732,1210,765,1197,767,1202,734,1214,665,1254,609,1294"/>
+<area shape="rect" id="Node000024" href="$class_net_command_ref.html#af2449c52d554008dc43c531f57f70163" title=" " alt="" coords="1022,1388,1255,1415"/>
+<area shape="poly" id="edge31_Node000023_Node000024" title=" " alt="" coords="943,1390,1007,1393,1006,1398,942,1396"/>
+<area shape="rect" id="Node000027" href="$_network_util_8cpp.html#a285680bd8a83eb7473451f0bf483fc08" title=" " alt="" coords="1060,1103,1216,1129"/>
+<area shape="poly" id="edge34_Node000026_Node000027" title=" " alt="" coords="926,1160,1021,1139,1058,1131,1059,1136,1022,1144,927,1165"/>
+<area shape="rect" id="Node000028" href="$_network_util_8cpp.html#a459e2223f70a1054de94e47a3f385552" title=" " alt="" coords="1039,1153,1238,1180"/>
+<area shape="poly" id="edge35_Node000026_Node000028" title=" " alt="" coords="927,1173,1023,1169,1023,1174,927,1178"/>
+<area shape="rect" id="Node000029" href="$_network_util_8cpp.html#a1e7f498722cfab66b0b33627376e0918" title=" " alt="" coords="1303,1267,1483,1293"/>
+<area shape="poly" id="edge36_Node000026_Node000029" title=" " alt="" coords="927,1190,975,1210,990,1222,999,1235,1008,1246,1023,1256,1088,1278,1158,1289,1225,1292,1287,1290,1288,1296,1225,1298,1157,1294,1087,1283,1021,1261,1004,1250,995,1238,986,1226,972,1214,925,1195"/>
+<area shape="rect" id="Node000032" href="$class_connection_manager.html#ad97e5bbf5420d91b1cbe7d41f655392b" title="Send command directly to the players specified, doesn&#39;t go through packet router." alt="" coords="1051,1204,1226,1247"/>
+<area shape="poly" id="edge38_Node000026_Node000032" title=" " alt="" coords="927,1188,1035,1206,1035,1211,926,1193"/>
+<area shape="rect" id="Node000034" href="$class_ascii_string.html#a8c758f8373f92905ade4a5294866c52a" title=" " alt="" coords="1340,1081,1447,1108"/>
+<area shape="poly" id="edge44_Node000026_Node000034" title=" " alt="" coords="925,1162,950,1152,972,1137,982,1125,988,1112,993,1086,999,1061,1007,1049,1020,1038,1063,1018,1108,1010,1155,1009,1202,1016,1246,1027,1288,1042,1355,1071,1353,1076,1286,1047,1245,1032,1200,1021,1154,1015,1109,1015,1064,1024,1023,1042,1011,1052,1004,1063,999,1088,993,1114,987,1128,975,1141,953,1156,927,1167"/>
+<area shape="rect" id="Node000036" href="$class_net_command_ref.html#aade5d4794241f7eed950da7d546718e9" title=" " alt="" coords="1047,1052,1230,1079"/>
+<area shape="poly" id="edge43_Node000026_Node000036" title=" " alt="" coords="925,1158,972,1136,986,1125,995,1113,1005,1100,1020,1088,1033,1082,1036,1087,1023,1093,1008,1104,999,1116,990,1128,975,1141,927,1163"/>
+<area shape="rect" id="Node000030" href="$class_ascii_string.html#a9dfe04dc3a0bc8d7a1923193e90f146a" title=" " alt="" coords="1536,1267,1647,1293"/>
+<area shape="poly" id="edge37_Node000029_Node000030" title=" " alt="" coords="1484,1277,1521,1277,1521,1283,1484,1283"/>
+<area shape="poly" id="edge39_Node000032_Node000029" title=" " alt="" coords="1227,1242,1313,1260,1312,1265,1226,1247"/>
+<area shape="rect" id="Node000033" href="$_network_util_8cpp.html#a6557c1b69efaecc7274fff032b02c05d" title=" " alt="" coords="1308,1212,1479,1239"/>
+<area shape="poly" id="edge40_Node000032_Node000033" title=" " alt="" coords="1226,1223,1292,1223,1292,1228,1226,1228"/>
+<area shape="poly" id="edge41_Node000032_Node000034" title=" " alt="" coords="1226,1201,1254,1190,1314,1154,1363,1116,1366,1121,1317,1158,1256,1194,1228,1206"/>
+<area shape="rect" id="Node000035" href="$class_ascii_string.html#ad484802f71ab260dfae44026226c9b62" title=" " alt="" coords="1531,1081,1652,1108"/>
+<area shape="poly" id="edge42_Node000034_Node000035" title=" " alt="" coords="1447,1092,1516,1092,1516,1097,1447,1097"/>
+<area shape="poly" id="edge48_Node000037_Node000003" title=" " alt="" coords="426,490,1050,532,1050,537,425,495"/>
+<area shape="poly" id="edge51_Node000037_Node000005" title=" " alt="" coords="346,462,471,354,537,301,540,305,475,358,349,466"/>
+<area shape="poly" id="edge52_Node000037_Node000011" title=" " alt="" coords="387,505,501,544,499,549,386,510"/>
+<area shape="rect" id="Node000038" href="$class_connection_manager.html#af526d0ac0bf7deffa01abc406ff68b0b" title="returns the packet router player that comes after the given player." alt="" coords="494,435,664,477"/>
+<area shape="poly" id="edge49_Node000037_Node000038" title=" " alt="" coords="425,471,478,465,479,470,426,476"/>
+<area shape="rect" id="Node000039" href="$class_connection_manager.html#a70386c3bc01e1f8f59accb9346a7569d" title="Returns the current packet router&#39;s slot." alt="" coords="506,368,652,411"/>
+<area shape="poly" id="edge50_Node000037_Node000039" title=" " alt="" coords="371,461,472,420,491,413,493,419,474,425,373,466"/>
+<area shape="poly" id="edge58_Node000040_Node000003" title=" " alt="" coords="667,709,837,686,916,671,973,655,1009,637,1043,615,1101,570,1104,574,1047,619,1012,642,975,660,917,676,838,691,668,715"/>
+<area shape="poly" id="edge60_Node000040_Node000026" title=" " alt="" coords="601,741,645,800,668,837,688,876,699,909,704,938,706,989,711,1038,720,1064,736,1093,763,1123,795,1147,792,1151,759,1127,731,1096,715,1066,706,1039,701,989,699,938,694,910,683,878,663,840,640,803,597,745"/>
+<area shape="rect" id="Node000041" href="$_network_util_8cpp.html#a38a756450f5ef594b492bbc27d396aa4" title=" " alt="" coords="733,771,974,797"/>
+<area shape="poly" id="edge56_Node000040_Node000041" title=" " alt="" coords="668,740,734,756,771,764,769,769,733,761,667,746"/>
+<area shape="rect" id="Node000042" href="$_network_util_8cpp.html#a054140bce2228bff32bacc71f4be32f6" title=" " alt="" coords="765,720,942,747"/>
+<area shape="poly" id="edge57_Node000040_Node000042" title=" " alt="" coords="667,722,750,726,749,731,667,728"/>
+<area shape="rect" id="Node000043" href="$class_disconnect_manager.html#a8aa34059758477890150430fee7c7fab" title="returns the highest frame that people have got to." alt="" coords="770,603,937,645"/>
+<area shape="poly" id="edge59_Node000040_Node000043" title=" " alt="" coords="637,697,732,661,771,648,773,653,734,667,639,702"/>
+<area shape="poly" id="edge67_Node000044_Node000003" title=" " alt="" coords="641,886,733,857,770,850,803,846,859,845,886,843,913,837,941,826,972,807,1001,783,1027,755,1071,691,1102,628,1123,575,1128,577,1107,630,1075,694,1032,758,1005,787,975,812,943,831,914,842,887,848,860,850,803,852,771,855,734,863,642,891"/>
+<area shape="poly" id="edge68_Node000044_Node000026" title=" " alt="" coords="598,931,655,1006,694,1051,735,1093,770,1121,805,1146,802,1151,766,1125,732,1097,690,1054,651,1009,594,934"/>
+<area shape="poly" id="edge65_Node000044_Node000041" title=" " alt="" coords="609,886,664,849,732,814,771,800,773,805,734,818,667,854,612,891"/>
+<area shape="poly" id="edge66_Node000044_Node000042" title=" " alt="" coords="594,887,649,822,688,786,732,756,750,748,752,753,735,761,691,790,653,825,598,891"/>
+<area shape="rect" id="Node000045" href="$class_net_command_msg.html#a5baae38d381316a207a19476a09a1bef" title=" " alt="" coords="766,1224,941,1251"/>
+<area shape="poly" id="edge62_Node000044_Node000045" title=" " alt="" coords="587,932,602,989,630,1065,650,1105,674,1144,702,1179,735,1210,754,1221,751,1225,732,1214,698,1183,669,1147,645,1107,625,1067,597,990,582,933"/>
+<area shape="rect" id="Node000048" href="$class_net_command_msg.html#a1b92bf2bba02073cf5b9a307e2df7774" title=" " alt="" coords="748,1040,959,1083"/>
+<area shape="poly" id="edge69_Node000044_Node000048" title=" " alt="" coords="605,930,661,978,697,1004,735,1026,748,1032,746,1037,732,1030,694,1008,658,983,601,934"/>
+<area shape="rect" id="Node000049" href="$class_net_command_msg.html#a14c7fc4d87aa03077658092c0b323111" title=" " alt="" coords="770,872,937,899"/>
+<area shape="poly" id="edge70_Node000044_Node000049" title=" " alt="" coords="652,901,754,892,754,897,652,907"/>
+<area shape="rect" id="Node000050" href="$class_net_command_msg.html#a30663fecabcb4f3132e95478e9d1f949" title=" " alt="" coords="751,923,956,949"/>
+<area shape="poly" id="edge71_Node000044_Node000050" title=" " alt="" coords="652,915,736,922,735,928,652,920"/>
+<area shape="rect" id="Node000051" href="$class_net_destroy_player_command_msg.html#a441d2ce1f5ba8b7d4226855811aca891" title=" " alt="" coords="748,973,959,1016"/>
+<area shape="poly" id="edge72_Node000044_Node000051" title=" " alt="" coords="645,930,734,959,758,966,757,971,733,964,644,935"/>
+<area shape="rect" id="Node000046" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="1051,1321,1226,1364"/>
+<area shape="poly" id="edge63_Node000045_Node000046" title=" " alt="" coords="942,1248,975,1260,990,1270,1000,1280,1009,1290,1023,1300,1049,1313,1046,1318,1020,1305,1006,1294,996,1284,987,1274,972,1265,940,1253"/>
+<area shape="rect" id="Node000047" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="1323,1321,1463,1364"/>
+<area shape="poly" id="edge64_Node000046_Node000047" title=" " alt="" coords="1226,1340,1307,1340,1307,1345,1226,1345"/>
+</map>

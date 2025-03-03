@@ -1,0 +1,25 @@
+var class_mesh_builder_class_1_1_vert_class =
+[
+    [ "VertClass", "class_mesh_builder_class_1_1_vert_class.html#a86f8567b477b049ccaed841556f5bb1d", null ],
+    [ "VertClass", "class_mesh_builder_class_1_1_vert_class.html#a86f8567b477b049ccaed841556f5bb1d", null ],
+    [ "Reset", "class_mesh_builder_class_1_1_vert_class.html#a757caae779c1e32d37df28b88028c08d", null ],
+    [ "Reset", "class_mesh_builder_class_1_1_vert_class.html#a757caae779c1e32d37df28b88028c08d", null ],
+    [ "Alpha", "class_mesh_builder_class_1_1_vert_class.html#ad0367c1e17e8af712e8c75af9e8d8a8b", null ],
+    [ "Attribute0", "class_mesh_builder_class_1_1_vert_class.html#aa1615a7432a2759f302c5ebfc86b481d", null ],
+    [ "Attribute1", "class_mesh_builder_class_1_1_vert_class.html#a474f941611063cf4f48ec2e95d117d1a", null ],
+    [ "BoneIndex", "class_mesh_builder_class_1_1_vert_class.html#ae5167fbc9389fbe49c234ef6a616d65f", null ],
+    [ "DiffuseColor", "class_mesh_builder_class_1_1_vert_class.html#a7c5100be90a562364835537517c56f77", null ],
+    [ "DiffuseIllumination", "class_mesh_builder_class_1_1_vert_class.html#a64f7a91cd252573d98e6f6d13b7e3388", null ],
+    [ "Id", "class_mesh_builder_class_1_1_vert_class.html#aa53b629895d650e97c9d524d8e7f07cb", null ],
+    [ "MaxVertColIndex", "class_mesh_builder_class_1_1_vert_class.html#a88d4134d229cc2b96aed7d9448289b22", null ],
+    [ "NextHash", "class_mesh_builder_class_1_1_vert_class.html#a6e32622c1c4f647af02faeabc5c8e215", null ],
+    [ "Normal", "class_mesh_builder_class_1_1_vert_class.html#ab75d254745f565755a2325cb567a90d3", null ],
+    [ "Position", "class_mesh_builder_class_1_1_vert_class.html#afc03a89dbdbc9674b6c936280596d851", null ],
+    [ "ShadeIndex", "class_mesh_builder_class_1_1_vert_class.html#aebb69e8c64f91d91060bbfb048daf4f9", null ],
+    [ "SharedSmGroup", "class_mesh_builder_class_1_1_vert_class.html#a3761f0c0e0026955a00b6d0450135c93", null ],
+    [ "SmGroup", "class_mesh_builder_class_1_1_vert_class.html#add715a9fbe82fa76981fb2a908f6726b", null ],
+    [ "SpecularColor", "class_mesh_builder_class_1_1_vert_class.html#a07c0cf22c03476d9da9538bc60ede034", null ],
+    [ "TexCoord", "class_mesh_builder_class_1_1_vert_class.html#adb919398e6812273dc7d55f7527e0228", null ],
+    [ "UniqueIndex", "class_mesh_builder_class_1_1_vert_class.html#aeaf59b665794a88d908ff683e2e31094", null ],
+    [ "VertexMaterialIndex", "class_mesh_builder_class_1_1_vert_class.html#ac4570e004a54cbf3d05cd31a3ef37092", null ]
+];

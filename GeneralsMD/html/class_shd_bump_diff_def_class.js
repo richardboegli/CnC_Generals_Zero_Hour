@@ -1,0 +1,28 @@
+var class_shd_bump_diff_def_class =
+[
+    [ "ShdBumpDiffDefClass", "class_shd_bump_diff_def_class.html#ab930295ea32468675d1f9a93e7faa059", null ],
+    [ "ShdBumpDiffDefClass", "class_shd_bump_diff_def_class.html#a8cfaf92d4891fe780655f7eb9306a211", null ],
+    [ "~ShdBumpDiffDefClass", "class_shd_bump_diff_def_class.html#a4ec60515a6fed0f93b725d38618187a4", null ],
+    [ "Clone", "class_shd_bump_diff_def_class.html#a90dc69c8fca11fc7054e508a34cf05d0", null ],
+    [ "Create", "class_shd_bump_diff_def_class.html#af7a786d6e88a9a9231d9302950e7d2df", null ],
+    [ "DECLARE_EDITABLE", "class_shd_bump_diff_def_class.html#a2e100024298fe7d77786ebd86fc9287b", null ],
+    [ "Get_Ambient", "class_shd_bump_diff_def_class.html#a6019348cbd8c9364ac7630bd4a9058ef", null ],
+    [ "Get_Bump_Map_Name", "class_shd_bump_diff_def_class.html#a33cd81ab0dd82249ecd0e35c4f777fb3", null ],
+    [ "Get_Diffuse", "class_shd_bump_diff_def_class.html#ace18b8b3e575e3568b6aea76bb3e3bb4", null ],
+    [ "Get_Diffuse_Bumpiness", "class_shd_bump_diff_def_class.html#af980fefefd08a22146e18564a28980db", null ],
+    [ "Get_Texture_Name", "class_shd_bump_diff_def_class.html#ab3f77f1b862863bf1379c36edf19ccdf", null ],
+    [ "Init", "class_shd_bump_diff_def_class.html#a5645abe6eba17e88e504ae34884332dc", null ],
+    [ "Is_Valid_Config", "class_shd_bump_diff_def_class.html#ae03c01b86edc998a1df4ae5769487fc3", null ],
+    [ "Load", "class_shd_bump_diff_def_class.html#aed7247e1af64bc2c8003627a45dd4e16", null ],
+    [ "Requires_Normals", "class_shd_bump_diff_def_class.html#ac84a3d59e6c943561fe757ddf5a0b738", null ],
+    [ "Requires_Sorting", "class_shd_bump_diff_def_class.html#a140f3689e6bd7919649ac23a64fdcbfc", null ],
+    [ "Requires_Tangent_Space_Vectors", "class_shd_bump_diff_def_class.html#aec503498222a0af4a666c70c3588a724", null ],
+    [ "Save", "class_shd_bump_diff_def_class.html#a27460b7a36e2a9fe1260cb93b8f12576", null ],
+    [ "Set_Ambient", "class_shd_bump_diff_def_class.html#a6fc05e24a18b9d8b298c68cb3a0b6109", null ],
+    [ "Set_Bump_Map_Name", "class_shd_bump_diff_def_class.html#abb0ec249d5fba60bb8ab2fadf7c20790", null ],
+    [ "Set_Diffuse", "class_shd_bump_diff_def_class.html#a06156d0e8174ba334e63d1b445c1362c", null ],
+    [ "Set_Diffuse_Bumpiness", "class_shd_bump_diff_def_class.html#acb8a585445e0446ac701efdad015cba8", null ],
+    [ "Set_Texture_Name", "class_shd_bump_diff_def_class.html#a2d33c139e244bbb46f9593f72a700545", null ],
+    [ "Shutdown", "class_shd_bump_diff_def_class.html#a97bcdcc60ffed25cf69b1672f665e1d0", null ],
+    [ "Static_Sort_Index", "class_shd_bump_diff_def_class.html#a81adf6b5661fa8a00f83b591b992cbda", null ]
+];

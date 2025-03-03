@@ -1,0 +1,20 @@
+<map id="HeliAIStateMachine::HeliAIStateMachine" name="HeliAIStateMachine::HeliAIStateMachine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,151,141"/>
+<area shape="rect" id="Node000002" href="$class_a_i_state_machine.html#ad6636b6ffd1ca1728dff92af134d9c91" title=" " alt="" coords="199,132,414,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,125,183,129,183,134,150,131"/>
+<area shape="rect" id="Node000003" href="$class_state_machine.html#a6b5addc7bcd3d4211e8a26c281a236b3" title=" " alt="" coords="469,81,644,108"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="151,114,453,97,454,103,151,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,129,472,109,473,114,377,134"/>
+<area shape="rect" id="Node000008" href="$class_state_machine.html#a44f23be2893ccf426c5b8e4378f747c8" title=" " alt="" coords="474,132,639,159"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="414,143,458,143,458,148,414,148"/>
+<area shape="rect" id="Node000009" href="$class_state_machine.html#ae8ca52bb0f4cd3b484c403b39a6a78d3" title=" " alt="" coords="462,183,651,209"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="377,157,473,176,472,182,375,162"/>
+<area shape="rect" id="Node000004" href="$class_state.html#a0237236b8114c5fde8825169d5602041" title="define when to change state" alt="" coords="699,5,868,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="594,78,698,41,720,35,721,40,700,47,596,83"/>
+<area shape="rect" id="Node000005" href="$class_state.html#a8306963d83afbc405fe8b8006c54eb78" title="define which state to move to after failure" alt="" coords="707,56,860,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="644,82,691,77,692,82,645,88"/>
+<area shape="rect" id="Node000006" href="$class_state.html#a9df92aa99d64d67a26093a3d0a1ffb1b" title="define which state to move to after successful completion" alt="" coords="701,107,866,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="645,102,686,106,685,112,644,107"/>
+<area shape="rect" id="Node000007" href="$class_state.html#ab86ce5fae0d5de7d6c303eed6b8d268d" title="define this state&#39;s id (for use only by StateMachine class)" alt="" coords="718,157,849,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="618,106,652,118,700,143,718,150,716,155,698,148,650,122,616,111"/>
+</map>

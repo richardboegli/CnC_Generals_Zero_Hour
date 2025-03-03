@@ -1,0 +1,39 @@
+<map id="GameWindowManager::processDestroyList" name="GameWindowManager::processDestroyList">
+<area shape="rect" id="Node000001" title="process windows waiting to be killed" alt="" coords="5,232,167,275"/>
+<area shape="rect" id="Node000002" href="$class_memory_pool_object.html#a39991eb8d6e0a3ef336a1551005753b1" title=" " alt="" coords="215,23,390,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,230,147,168,179,132,213,98,248,72,251,76,216,102,182,135,151,171,104,233"/>
+<area shape="rect" id="Node000004" href="$class_game_window_manager.html#a0da85e6a20b1e9712258f28df26609f4" title=" " alt="" coords="712,283,874,325"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,257,438,277,697,295,697,300,438,283,167,262"/>
+<area shape="rect" id="Node000005" href="$class_game_window_manager.html#a250448dce51c1845c0001f27144af069" title="release mouse capture" alt="" coords="222,421,383,464"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="105,274,152,331,183,364,216,394,242,411,239,416,213,398,179,368,148,335,101,277"/>
+<area shape="rect" id="Node000006" href="$class_game_window_manager.html#aaab3e189da0439c92c4e2595f4d7f752" title="sends a system message to specified window" alt="" coords="462,72,624,115"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="112,229,158,197,214,167,272,145,333,127,447,104,448,109,335,132,274,150,216,172,161,202,116,234"/>
+<area shape="rect" id="Node000007" href="$class_game_window_manager.html#a6cf1ef4b8f0f04ac6a453fef2628bb3c" title="set this window as has focus" alt="" coords="222,181,383,224"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="166,232,206,223,207,228,168,237"/>
+<area shape="rect" id="Node000015" href="$class_game_window_manager.html#a30b5337853403268c299b5553f1583b4" title=" " alt="" coords="222,341,383,384"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="127,273,216,320,240,332,238,337,213,325,125,278"/>
+<area shape="rect" id="Node000003" href="$class_memory_pool_object.html#aada7cf1614db9a30c611cb8f2fd1c57e" title=" " alt="" coords="473,5,613,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,35,458,30,458,35,391,40"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="746,283,744,273,752,264,768,258,793,256,820,258,836,265,834,270,818,264,793,261,769,263,755,268,749,274,751,282"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="384,452,443,456,511,456,580,447,647,428,682,410,714,386,764,335,768,339,717,390,685,414,649,433,581,452,511,461,443,462,383,457"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="626,111,650,125,701,182,768,268,764,272,697,186,647,129,623,116"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="384,217,698,282,696,287,383,222"/>
+<area shape="poly" id="edge18_Node000007_Node000006" title=" " alt="" coords="336,179,383,151,437,124,452,118,454,123,439,129,386,156,339,183"/>
+<area shape="rect" id="Node000008" href="$class_game_window.html#a03078c90e02f8d61b14b86329160235a" title="get parent" alt="" coords="448,139,638,165"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="383,183,461,166,462,172,384,188"/>
+<area shape="rect" id="Node000014" href="$class_game_window.html#af42e976f36da5d02e156511cfafd95a3" title="get status bits" alt="" coords="448,189,638,216"/>
+<area shape="poly" id="edge17_Node000007_Node000014" title=" " alt="" coords="384,200,433,200,433,205,384,205"/>
+<area shape="rect" id="Node000009" href="$class_game_window.html#a93e649f970860d38ea63276dd71741cd" title=" " alt="" coords="696,139,890,165"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="639,149,681,149,681,155,639,155"/>
+<area shape="rect" id="Node000010" href="$class_game_window.html#ad57ae43a177a651a5585e64e827a64e0" title="set draw" alt="" coords="945,63,1156,89"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="829,136,937,99,967,91,968,96,938,104,831,141"/>
+<area shape="rect" id="Node000011" href="$class_game_window.html#ac8b8f3f0cf35809705e36fccecd51998" title="set input" alt="" coords="946,113,1155,140"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="890,140,930,136,930,141,891,145"/>
+<area shape="rect" id="Node000012" href="$class_game_window.html#a8e067d532ff5136e003d9f5c6289475a" title="set system" alt="" coords="938,164,1163,191"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="891,159,922,162,922,167,890,164"/>
+<area shape="rect" id="Node000013" href="$class_game_window.html#a485fecb44e7a91af0c1c974275911350" title="set tooltip" alt="" coords="941,215,1160,241"/>
+<area shape="poly" id="edge16_Node000009_Node000013" title=" " alt="" coords="831,163,938,200,968,208,967,213,937,205,829,168"/>
+<area shape="poly" id="edge20_Node000015_Node000004" title=" " alt="" coords="383,351,648,320,696,314,697,319,649,325,384,356"/>
+<area shape="rect" id="Node000016" href="$class_game_window.html#ad9bd69ab31c46d38e328110ed87f2393" title="return window id for this window" alt="" coords="438,392,648,419"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="384,374,449,386,449,391,383,380"/>
+</map>

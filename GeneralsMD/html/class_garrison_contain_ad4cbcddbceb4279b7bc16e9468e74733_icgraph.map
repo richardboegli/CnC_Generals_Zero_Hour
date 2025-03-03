@@ -1,0 +1,23 @@
+<map id="GarrisonContain::loadStationGarrisonPoints" name="GarrisonContain::loadStationGarrisonPoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="740,127,929,169"/>
+<area shape="rect" id="Node000002" href="$class_garrison_contain.html#ab0ce3bd582dd1b9879c3022396cc689d" title="enforce that everybody stays at their pre&#45;assigned space" alt="" coords="484,64,690,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="732,125,673,110,675,105,734,120"/>
+<area shape="rect" id="Node000006" href="$class_garrison_contain.html#a8a724e590830ea143cefba051e130f98" title=" " alt="" coords="482,160,692,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="725,165,693,170,693,164,725,160"/>
+<area shape="rect" id="Node000003" href="$class_garrison_contain.html#a348fc204b4aae2b8772670b1dd6f965d" title="Every frame, and whenever anyone enters or leaves." alt="" coords="230,35,434,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,74,434,70,435,65,469,69"/>
+<area shape="rect" id="Node000004" href="$class_garrison_contain.html#ae4a2e7522c44c16e41b4ec20e042e8a3" title="redeploy the occupants of us at all available garrison points" alt="" coords="7,5,180,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,44,180,40,180,35,214,39"/>
+<area shape="rect" id="Node000005" href="$class_garrison_contain.html#ad15825e284a8796b3e919ed506591d0c" title="called once per frame" alt="" coords="12,72,175,99"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="215,73,175,78,175,73,214,68"/>
+<area shape="rect" id="Node000007" href="$class_garrison_contain.html#a7e37b2784a12c3d8a45050afc933d731" title="exit one of our content items from us" alt="" coords="241,101,423,144"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="476,159,423,146,424,141,477,153"/>
+<area shape="rect" id="Node000008" href="$class_garrison_contain.html#a685cb6d7e7a736485c4e9fa3594d3341" title="object now contains &#39;obj&#39;" alt="" coords="232,168,432,195"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="466,184,432,184,432,179,466,179"/>
+<area shape="rect" id="Node000009" href="$class_garrison_contain.html#a9f5865af44baeac18bdaf423450317ff" title="object no longer contains &#39;obj&#39;" alt="" coords="234,219,430,245"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="467,208,403,221,402,215,466,203"/>
+<area shape="rect" id="Node000010" href="$class_garrison_contain.html#a7e6d58f98b69841bf01c61e3d12596ca" title="remove all contents of this open container" alt="" coords="241,269,422,312"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="534,213,435,260,405,271,403,266,433,255,531,208"/>
+<area shape="rect" id="Node000011" href="$class_garrison_contain.html#af7aa09ce352be78ed49f03e5691b4de6" title="Container is being sold. Open responds by kicking people out." alt="" coords="5,277,182,304"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="226,293,182,293,182,288,226,288"/>
+</map>

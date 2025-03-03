@@ -1,0 +1,41 @@
+<map id="DozerActionPickActionPosState::update" name="DozerActionPickActionPosState::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,416,185,459"/>
+<area shape="rect" id="Node000002" href="$class_a_i_command_interface.html#a05b962f5dd57bb2fe81d3d44d664e736" title=" " alt="" coords="261,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,415,104,347,125,251,143,200,166,149,195,101,231,58,245,47,249,51,235,62,199,104,170,151,148,202,131,253,109,348,100,416"/>
+<area shape="rect" id="Node000004" href="$class_dozer_a_i_interface.html#a17b52276cf9c3b8ed7833fee28e7f593" title="cancel this task from the queue, if it&#39;s the current task the dozer will stop working on it" alt="" coords="236,72,430,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,415,107,354,130,272,148,227,170,184,197,144,231,109,236,105,239,109,234,113,202,147,174,187,152,229,135,273,112,355,101,416"/>
+<area shape="rect" id="Node000005" href="$class_object.html#ad67789da3db49c3827e5a2abf8fe68a0" title=" " alt="" coords="238,123,429,149"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="98,415,112,363,137,293,155,257,176,221,201,188,231,159,237,155,240,159,234,163,205,191,180,224,159,259,142,295,117,364,103,416"/>
+<area shape="rect" id="Node000006" href="$class_geometry_info.html#a82ed0ab3866c6fac48a8a8251470a4ab" title=" " alt="" coords="243,173,424,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="102,414,120,374,148,324,185,271,231,226,237,222,240,226,234,230,189,275,153,327,125,377,107,417"/>
+<area shape="rect" id="Node000007" href="$class_dozer_a_i_interface.html#acaf4fc873464b61e906527584c86bba7" title=" " alt="" coords="245,240,422,283"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="109,414,159,354,193,321,231,292,239,288,242,292,234,297,197,325,163,358,114,418"/>
+<area shape="rect" id="Node000008" href="$class_a_i_update_interface.html#a35ed28a060ed28406c7dd8942a55459c" title=" " alt="" coords="264,307,402,349"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="130,413,177,386,232,359,248,352,250,357,234,364,180,391,133,418"/>
+<area shape="rect" id="Node000009" href="$class_object.html#a479266462a8ceb0be975d351f259bfa4" title=" " alt="" coords="251,373,416,400"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="185,416,252,401,253,406,186,421"/>
+<area shape="rect" id="Node000010" href="$class_state.html#abf4a7f10f97bb05f57a3d30d8c0bf0d8" title="return the machine this state is part of" alt="" coords="270,424,397,451"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="185,435,254,435,254,440,185,440"/>
+<area shape="rect" id="Node000011" href="$class_state_machine.html#a44f23be2893ccf426c5b8e4378f747c8" title=" " alt="" coords="251,475,416,501"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="186,454,253,468,252,474,185,459"/>
+<area shape="rect" id="Node000012" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="270,525,396,552"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="131,457,179,485,234,511,256,519,254,524,232,516,176,489,129,462"/>
+<area shape="rect" id="Node000013" href="$class_dozer_a_i_interface.html#ad7416e38736fd9a1ae41b4a102311463" title="get target of task" alt="" coords="246,576,420,619"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="116,457,166,509,199,537,234,562,243,567,241,572,231,566,196,542,163,513,113,461"/>
+<area shape="rect" id="Node000014" href="$class_a_i_update_interface.html#a7dde26d049d8c78f78b953901836ad00" title="tell the pathfinder to ignore the given object as an obstacle" alt="" coords="266,643,401,685"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="108,458,127,495,155,541,191,588,234,629,253,640,250,644,231,633,187,592,151,544,123,498,104,461"/>
+<area shape="rect" id="Node000016" href="$class_state_machine.html#aaf63ad6791bd0e9aded3386f83e52223" title=" " alt="" coords="237,709,430,736"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="104,458,118,508,144,572,182,639,206,669,234,695,241,700,237,704,231,699,202,673,178,642,139,574,113,509,99,460"/>
+<area shape="rect" id="Node000017" href="$class_state_machine.html#ae10786c3eea2fa8e763034b5f6c113e0" title=" " alt="" coords="233,760,434,787"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="102,459,113,517,137,595,155,636,176,676,203,714,234,746,240,750,236,754,231,750,199,717,172,679,150,638,132,596,108,518,97,460"/>
+<area shape="rect" id="Node000018" href="$struct_coord2_d.html#afff15a637a589ac2dbe9ae0c53be022d" title="turn 2D vector into angle (where angle 0 is down the +x axis)" alt="" coords="271,811,396,837"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="100,459,109,525,130,616,148,665,170,714,199,758,234,797,257,811,254,815,231,801,195,761,166,716,143,668,125,618,104,526,95,459"/>
+<area shape="rect" id="Node000003" href="$class_a_i_command_interface.html#a87fc2d58b97b5631161529bfd6c93e3a" title=" " alt="" coords="482,5,627,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,24,467,24,467,29,406,29"/>
+<area shape="rect" id="Node000015" href="$class_object.html#a6c17829820a29ded73578abd29906943" title="this object&#39;s unique ID" alt="" coords="505,651,604,677"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="401,661,489,661,489,667,401,667"/>
+<area shape="rect" id="Node000019" href="$_trig_8cpp.html#a94d85e51adad711059c06474e550fa5f" title=" " alt="" coords="528,785,582,812"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="396,814,512,801,513,806,396,820"/>
+<area shape="rect" id="Node000020" href="$struct_coord2_d.html#a2333608fa875c970100c2ee967d57872" title=" " alt="" coords="496,836,613,863"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="396,828,481,838,480,844,396,834"/>
+</map>

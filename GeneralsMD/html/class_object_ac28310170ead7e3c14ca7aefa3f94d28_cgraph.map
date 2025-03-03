@@ -1,0 +1,39 @@
+<map id="Object::addValue" name="Object::addValue">
+<area shape="rect" id="Node000001" title="value and threat functions are protected, and should only be called from handleValueMap" alt="" coords="5,224,126,251"/>
+<area shape="rect" id="Node000002" href="$class_thing_template.html#a8849ace22b5c1902919c4fef8206b82f" title="Used only by Skirmish AI. Everyone else should call calcCostToBuild." alt="" coords="193,5,339,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,223,82,190,104,146,134,99,172,58,177,54,181,58,175,62,138,102,108,148,87,192,74,225"/>
+<area shape="rect" id="Node000003" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="174,72,358,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,222,110,167,139,135,172,108,182,103,184,108,175,113,142,139,114,170,77,225"/>
+<area shape="rect" id="Node000006" href="$class_player.html#abc2ed87b6c05581e558b847857b6765d" title="return a bitmask that is unique to this player." alt="" coords="189,123,342,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="84,221,124,194,172,166,203,153,205,158,175,170,126,198,87,226"/>
+<area shape="rect" id="Node000007" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="433,157,559,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="120,221,173,209,302,190,417,176,418,181,302,195,174,215,122,226"/>
+<area shape="rect" id="Node000008" href="$class_object.html#abba21ee348a4a00b6f2be41301810905" title="How far do you clear shroud?" alt="" coords="179,275,353,317"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,249,177,267,175,272,113,254"/>
+<area shape="rect" id="Node000012" href="$class_object.html#ad954b5b3c896a02c32bc89799f24433b" title=" " alt="" coords="423,451,569,477"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="80,249,120,288,146,309,175,327,201,339,225,345,268,350,310,356,334,364,360,378,376,393,384,408,393,423,408,437,416,442,414,446,404,441,389,426,380,411,371,396,356,382,332,369,309,361,267,355,224,350,199,344,172,332,143,313,116,292,77,253"/>
+<area shape="rect" id="Node000014" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="200,392,332,419"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="76,250,114,308,142,342,175,371,197,383,194,388,172,376,138,346,109,311,72,252"/>
+<area shape="rect" id="Node000015" href="$class_object.html#a723fd8cadecd2ff0270087b34f266f61" title="How far can you see? This is dynamic so it is in Object." alt="" coords="186,224,346,251"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="126,235,171,235,171,240,126,240"/>
+<area shape="rect" id="Node000016" href="$class_object.html#a7bb38331366877b2590b90384c818368" title=" " alt="" coords="181,443,350,469"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="73,250,84,286,105,335,135,385,154,409,175,429,181,433,178,437,172,433,150,412,131,388,100,337,79,288,68,252"/>
+<area shape="rect" id="Node000004" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="407,39,585,65"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,69,391,64,392,70,359,75"/>
+<area shape="rect" id="Node000005" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="438,89,555,116"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="359,90,422,94,422,100,358,95"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="338,272,356,261,371,244,379,228,388,211,404,194,417,186,420,191,408,198,392,214,384,230,376,247,360,265,341,276"/>
+<area shape="rect" id="Node000009" href="$_a_i_8cpp.html#ad6318fbe4804bd5498a4aec60393cbc4" title=" " alt="" coords="462,208,530,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="325,272,405,244,447,232,448,237,407,249,327,277"/>
+<area shape="rect" id="Node000010" href="$class_geometry_info.html#a5a7e13df55a98aae108dbb55a3b5d791" title=" " alt="" coords="406,333,586,376"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="353,315,396,326,394,331,351,320"/>
+<area shape="rect" id="Node000011" href="$class_object.html#a479266462a8ceb0be975d351f259bfa4" title=" " alt="" coords="414,400,578,427"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="328,315,360,334,375,348,384,361,393,374,407,386,417,391,415,396,405,390,389,377,379,364,371,351,356,338,325,320"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="334,316,360,334,371,348,378,361,384,388,390,413,397,425,408,437,413,441,410,445,404,441,392,428,385,415,379,389,373,363,367,351,356,338,331,320"/>
+<area shape="rect" id="Node000013" href="$class_vector3.html#a0f56dec577319beb9439c525dc25124c" title=" " alt="" coords="432,283,560,309"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="353,293,417,293,417,299,353,299"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="457,284,450,274,455,264,471,258,496,256,524,259,538,265,536,270,523,264,496,261,472,263,459,268,456,273,462,281"/>
+<area shape="poly" id="edge19_Node000015_Node000007" title=" " alt="" coords="313,221,405,193,431,186,432,191,407,199,314,226"/>
+<area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="346,229,447,222,447,227,346,234"/>
+<area shape="poly" id="edge20_Node000015_Node000013" title=" " alt="" coords="322,249,427,276,426,281,320,254"/>
+</map>

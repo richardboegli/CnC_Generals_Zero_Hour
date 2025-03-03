@@ -1,0 +1,49 @@
+<map id="PlaneClass::Compute_Intersection" name="PlaneClass::Compute_Intersection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="988,276,1137,319"/>
+<area shape="rect" id="Node000002" href="$class_clip_poly_class.html#ab48a8c4672badb924ad0e5c6f8ba1dff" title=" " alt="" coords="767,104,902,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1032,266,990,219,938,173,903,151,869,134,871,129,906,146,941,169,994,215,1036,262"/>
+<area shape="rect" id="Node000007" href="$class_decal_poly_class.html#ad861503e0e3ce61875e81290943b6b07" title=" " alt="" coords="761,183,908,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1018,269,980,245,939,224,905,212,907,207,941,219,983,240,1021,264"/>
+<area shape="rect" id="Node000008" href="$class_vis_poly_class.html#a93a9f7d687829b9ea2554e0caf505688" title=" " alt="" coords="769,233,900,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="972,280,897,263,899,258,973,275"/>
+<area shape="rect" id="Node000009" href="$class_bridge.html#a1b2ece6ef088140593718ebe53cfac8c" title="Get the height for an object on bridge. Note &#45; assumes object is on bridge. Use isPointOnBridge to ch..." alt="" coords="755,284,914,311"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="972,300,915,300,915,295,972,295"/>
+<area shape="rect" id="Node000018" href="$class_base_height_map_render_obj_class.html#ac47b555c8ccbcdb4e9a9cd15bfe4e1f1" title="3d extent of visible terrain." alt="" coords="729,335,940,377"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="974,323,921,337,919,332,972,318"/>
+<area shape="rect" id="Node000019" href="$class_vertex_class.html#ac410cdc00de327d3dfc7a67d85681959" title=" " alt="" coords="759,408,910,451"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="1027,331,987,362,941,392,902,410,900,405,938,387,984,358,1023,327"/>
+<area shape="rect" id="Node000023" href="$class_bridge.html#a7c148f49131a466134ee3329b5776628" title=" " alt="" coords="771,489,898,516"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="1045,334,1003,400,974,434,941,465,916,480,890,491,888,486,914,475,938,461,971,431,999,396,1041,331"/>
+<area shape="rect" id="Node000003" href="$class_water_render_obj_class.html#afa9ac676f94a3020a744e45eb4408e71" title="bounding box of frustum clipped polygon plane" alt="" coords="509,68,667,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="751,111,667,101,668,96,752,105"/>
+<area shape="rect" id="Node000004" href="$class_water_render_obj_class.html#a867d9b63fe4a773e4c08b70fca260746" title=" " alt="" coords="273,5,424,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,67,424,49,426,44,495,62"/>
+<area shape="rect" id="Node000006" href="$class_water_render_obj_class.html#a94506f2a04b9daac67c59f3e2bc5c8e7" title="renders into any required textures." alt="" coords="251,72,447,115"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="494,94,448,94,448,89,494,88"/>
+<area shape="rect" id="Node000005" href="$class_water_render_obj_class.html#a41560080a4239251b63879e4f350d5a2" title=" " alt="" coords="28,5,180,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="258,29,180,29,180,24,258,24"/>
+<area shape="rect" id="Node000010" href="$class_pathfind_layer.html#a577b90d693c8fe00248f74aebf6499cd" title=" " alt="" coords="495,135,681,177"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="740,282,728,274,710,254,702,232,695,211,680,191,663,180,666,176,683,187,700,209,707,230,714,251,731,270,742,277"/>
+<area shape="rect" id="Node000013" href="$class_terrain_logic.html#a521099f15c6d2683598d7e00f1654e02" title=" " alt="" coords="504,201,672,244"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="756,282,729,275,649,247,651,242,730,269,758,277"/>
+<area shape="rect" id="Node000015" href="$class_w3_d_terrain_logic.html#a8c2797c1197e4200fcb1e53e73595bfa" title=" " alt="" coords="498,268,678,311"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="739,297,678,295,678,290,739,292"/>
+<area shape="rect" id="Node000016" href="$class_terrain_logic.html#ab1cf917c3262c80b6e3325e62eb0ea75" title="Returns true if the object is close to one or the other end of the bridge." alt="" coords="496,335,681,377"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="761,317,681,337,680,331,760,312"/>
+<area shape="rect" id="Node000017" href="$class_terrain_logic.html#a3dbb2d4ed0e271c17fa464cabf9d41c2" title="Returns true if the object is close enough to interact with the bridge for pathfinding." alt="" coords="496,401,681,444"/>
+<area shape="poly" id="edge16_Node000009_Node000017" title=" " alt="" coords="742,318,731,325,715,340,707,357,699,374,683,391,664,403,661,398,680,387,695,371,702,354,711,337,728,321,739,314"/>
+<area shape="rect" id="Node000011" href="$class_pathfind_layer.html#a75c977b4b520795e46a593133ef5bb0e" title=" " alt="" coords="257,143,441,169"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="480,159,441,159,441,153,480,153"/>
+<area shape="rect" id="Node000012" href="$class_pathfind_layer.html#a72783a654cac2429202596c5c4e5be51" title=" " alt="" coords="10,143,198,169"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="241,159,198,159,198,153,241,153"/>
+<area shape="rect" id="Node000014" href="$class_terrain_logic.html#ac2adaeb004ceafbf426f222ba0c11878" title=" " alt="" coords="258,209,440,236"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="488,225,440,225,440,220,488,220"/>
+<area shape="rect" id="Node000020" href="$class_polygon_class.html#a10af9817053343f3574f06613a853f8a" title=" " alt="" coords="520,468,656,495"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="745,451,655,470,654,465,743,446"/>
+<area shape="rect" id="Node000021" href="$class_b_s_p_class.html#a5c33599af8cf3e86b2a36de22e7a176a" title=" " alt="" coords="265,468,432,495"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="505,484,433,484,433,479,505,479"/>
+<area shape="rect" id="Node000022" href="$class_shatter_system.html#a9fb418cdafcdea02e3529a1a2d1f4336" title=" " alt="" coords="5,468,203,495"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="250,484,203,484,203,479,250,479"/>
+<area shape="rect" id="Node000024" href="$class_terrain_logic.html#a5607ed6309bf1079b7e4ee4b58dbeb3a" title=" " alt="" coords="508,519,668,545"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="756,515,669,525,668,520,755,509"/>
+</map>

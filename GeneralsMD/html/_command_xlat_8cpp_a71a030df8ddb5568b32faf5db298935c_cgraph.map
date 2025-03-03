@@ -1,0 +1,42 @@
+<map id="findCommandCenterOrMostExpensiveBuilding" name="findCommandCenterOrMostExpensiveBuilding">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,384,251,427"/>
+<area shape="rect" id="Node000002" href="$class_thing_template.html#a675c79d663af1067af1de935bde296e4" title="calculate how much money it will take the given player to build this unit" alt="" coords="301,149,481,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,382,352,201,356,205,155,386"/>
+<area shape="rect" id="Node000012" href="$class_object.html#a385c1cb6707129788e07e5e24568b6c4" title=" " alt="" coords="299,341,483,368"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="241,381,303,369,304,374,242,386"/>
+<area shape="rect" id="Node000015" href="$class_thing.html#a7120292125b19f38f560eb113fb79f72" title=" " alt="" coords="328,392,454,419"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="251,403,312,403,312,408,251,408"/>
+<area shape="rect" id="Node000016" href="$class_thing.html#a8028ae31000ce547b400838afe6eb335" title=" " alt="" coords="560,443,692,469"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="252,422,299,428,544,449,544,454,298,433,251,427"/>
+<area shape="rect" id="Node000017" href="$class_thing.html#a7978985fe2e1e1b1b91bb822f62df5e9" title=" " alt="" coords="335,493,446,520"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="182,425,300,472,335,485,334,490,298,477,180,430"/>
+<area shape="rect" id="Node000003" href="$class_thing_template.html#adcedf895f4bedfbe874315f728beb6cb" title=" " alt="" coords="531,5,720,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,147,459,94,493,66,530,42,542,36,545,40,532,46,496,70,463,98,412,151"/>
+<area shape="rect" id="Node000004" href="$class_handicap.html#a24130cdfd42356f404c131f7cb268501" title=" " alt="" coords="547,56,704,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,147,474,119,530,92,549,85,551,90,532,97,476,124,428,151"/>
+<area shape="rect" id="Node000005" href="$class_player.html#a2be00ff222f9fc64f821bda89e21aaae" title="return the Player&#39;s Handicap sub&#45;object" alt="" coords="556,107,695,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="481,149,545,135,546,140,482,154"/>
+<area shape="rect" id="Node000006" href="$class_thing_template.html#a508419e7bb9bdce6140782f2c241b6aa" title="return the name of this template" alt="" coords="542,157,709,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="481,168,527,168,527,173,481,173"/>
+<area shape="rect" id="Node000007" href="$class_player.html#a03bdcf939fb41ca334403e74d73feaab" title="Returns production cost change based on typeof (Used for upgrades)" alt="" coords="538,208,713,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="479,190,524,201,523,206,478,195"/>
+<area shape="rect" id="Node000010" href="$class_player.html#ac352633a32ffaa0813f398b9df2e9c4c" title=" " alt="" coords="538,275,713,317"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="422,190,472,225,532,260,544,266,542,271,530,265,470,230,419,195"/>
+<area shape="rect" id="Node000008" href="$_kind_of_8h.html#ad6b4981f3e03f450f0d1fa3310f363c7" title=" " alt="" coords="768,216,966,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="713,227,753,227,753,232,713,232"/>
+<area shape="rect" id="Node000009" href="$class_bit_flags.html#ab58cf93213b89755958ec75fbc6eded8" title=" " alt="" coords="1014,216,1187,243"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="966,227,998,227,998,232,966,232"/>
+<area shape="rect" id="Node000011" href="$_name_key_generator_8h.html#a0928e3a3f7bf4833b472cc839d35b1ae" title=" " alt="" coords="823,283,911,309"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="713,293,808,293,808,299,713,299"/>
+<area shape="rect" id="Node000013" href="$class_team.html#a37cf6b26ae07715818219e987054f880" title=" " alt="" coords="536,341,715,368"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="483,352,521,352,521,357,483,357"/>
+<area shape="rect" id="Node000014" href="$class_object.html#af4a784b792c59f2365032397c328cd85" title=" " alt="" coords="567,392,684,419"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="457,366,552,387,551,392,456,371"/>
+<area shape="poly" id="edge17_Node000017_Node000016" title=" " alt="" coords="446,492,545,471,546,476,447,497"/>
+<area shape="rect" id="Node000018" href="$class_thing_template.html#a3a76269a04cb28565f44d77af2cecebd" title="return true iff the template has the specified kindOf flag set." alt="" coords="544,493,708,520"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="447,504,528,504,528,509,447,509"/>
+<area shape="rect" id="Node000019" href="$_kind_of_8h.html#aaed3b7597902c6142ee9b7ad53f5bd50" title=" " alt="" coords="791,493,943,520"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="708,504,776,504,776,509,708,509"/>
+<area shape="rect" id="Node000020" href="$class_bit_flags.html#a1ffe72dbffed9a8bf8531331c43d5c46" title=" " alt="" coords="1051,493,1150,520"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="943,504,1035,504,1035,509,943,509"/>
+</map>

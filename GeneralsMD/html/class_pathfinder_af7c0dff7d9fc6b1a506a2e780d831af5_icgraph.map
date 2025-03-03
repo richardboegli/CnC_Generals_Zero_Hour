@@ -1,0 +1,36 @@
+<map id="Pathfinder::iterateCellsAlongLine" name="Pathfinder::iterateCellsAlongLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="773,257,928,300"/>
+<area shape="poly" id="edge10_Node000001_Node000001" title=" " alt="" coords="888,244,874,238,850,236,829,238,816,243,811,249,812,256,807,257,805,247,813,238,828,233,851,231,875,233,890,239"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#a5ba2f0a911ca1c5eaed30d51a287907e" title=" " alt="" coords="519,23,725,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="834,244,817,206,793,161,762,117,724,79,706,68,709,64,727,75,766,114,797,158,822,203,839,242"/>
+<area shape="rect" id="Node000005" href="$class_pathfinder.html#a137b68f45d1d96e0d842beb544f2d5de" title="Find a short, valid path of the desired width on the ground." alt="" coords="533,89,711,116"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="828,246,785,186,756,156,724,130,701,119,703,114,727,126,760,152,789,182,832,243"/>
+<area shape="rect" id="Node000006" href="$class_pathfinder.html#ad5d5e040e9fa2bec18e8091bc1606946" title="Return true if the straight line between the given points contains any obstacle, and thus blocks visi..." alt="" coords="540,140,705,183"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="804,251,724,204,684,186,686,181,727,199,807,247"/>
+<area shape="rect" id="Node000007" href="$class_pathfinder.html#a8aebc9536ee10274dfcc41f3658849b0" title="Return true if the straight line between the given points contains any obstacle, and thus blocks visi..." alt="" coords="270,169,444,212"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="758,256,725,248,577,222,444,203,445,198,577,216,726,243,759,250"/>
+<area shape="rect" id="Node000008" href="$class_pathfinder.html#ac0960ed3ddb3d97e18031074189296d4" title="Return true if the straight line between the given points is passable." alt="" coords="538,257,706,300"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="757,281,706,281,706,276,757,276"/>
+<area shape="rect" id="Node000009" href="$class_pathfinder.html#a71c14ce6902e551be4620463581719a5" title="Return true if the straight line between the given points is passable." alt="" coords="534,324,710,351"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="759,306,726,315,681,326,679,321,725,309,758,301"/>
+<area shape="rect" id="Node000010" href="$class_pathfinder.html#ac798a2f130a4759ee91a7954f8b58b0b" title=" " alt="" coords="530,375,715,417"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="811,312,771,339,727,365,699,377,697,372,724,360,769,335,808,307"/>
+<area shape="rect" id="Node000011" href="$class_pathfinder.html#a24f053bf23393ab4ebbe067c45b2ec7b" title="Return true if the straight line between the given points intersects a tall building." alt="" coords="524,441,720,484"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="831,315,788,374,759,405,727,432,706,443,704,438,724,427,756,401,784,371,827,312"/>
+<area shape="rect" id="Node000013" href="$class_pathfinder.html#a4a56d9cc97257f79832cdaf506d04199" title=" " alt="" coords="545,508,699,535"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="841,316,825,358,801,408,769,457,727,498,701,512,698,507,724,494,765,453,796,405,820,356,836,314"/>
+<area shape="rect" id="Node000003" href="$class_pathfinder.html#ac21829aeaa446d39d157d1ef8dd01d13" title=" " alt="" coords="243,5,471,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,35,471,32,472,27,504,30"/>
+<area shape="rect" id="Node000004" href="$class_pathfinder.html#ac99bc6649455c2bcf471b46099d7d29e" title="Find a short, valid path between given locations." alt="" coords="266,56,448,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="504,58,449,63,448,58,503,53"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="524,175,445,184,444,178,524,169"/>
+<area shape="rect" id="Node000012" href="$class_pathfinder.html#aa510c0ffa13ff098f48792073759836e" title=" " alt="" coords="269,449,444,476"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="508,465,445,465,445,460,508,460"/>
+<area shape="rect" id="Node000014" href="$class_pathfinder.html#ad65e0c1bd181eb4ef59fb98da473c27c" title=" " alt="" coords="267,508,446,535"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="529,524,447,524,447,519,529,519"/>
+<area shape="rect" id="Node000015" href="$class_pathfinder.html#a9aa5311f6a9129dd6141eb51d1453953" title=" " alt="" coords="5,483,195,509"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="251,514,195,508,195,503,252,508"/>
+<area shape="rect" id="Node000016" href="$class_pathfinder.html#a2993bb7b20db15460d180d0790b03aa5" title="Checks cost between given locations." alt="" coords="10,533,190,560"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="252,534,190,540,190,535,252,529"/>
+<area shape="poly" id="edge17_Node000015_Node000015" title=" " alt="" coords="145,470,130,464,100,461,73,463,58,468,55,473,61,480,57,484,49,474,55,464,72,458,100,456,131,459,147,465"/>
+</map>

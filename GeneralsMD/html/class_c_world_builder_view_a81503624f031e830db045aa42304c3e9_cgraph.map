@@ -1,0 +1,90 @@
+<map id="CWorldBuilderView::OnPaint" name="CWorldBuilderView::OnPaint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,762,147,804"/>
+<area shape="rect" id="Node000002" href="$class_c_world_builder_view.html#af62d607f89f8e5087149f07a78dc87f1" title=" " alt="" coords="477,762,618,804"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,780,462,780,462,786,147,786"/>
+<area shape="rect" id="Node000004" href="$class_world_height_map.html#aee13db31f1aefbb05ca395b1f0acb1e2" title="number of vertices in y" alt="" coords="970,492,1160,519"/>
+<area shape="poly" id="edge54_Node000001_Node000004" title=" " alt="" coords="77,761,90,651,113,492,129,409,148,333,169,269,192,224,220,190,246,165,272,145,300,130,362,108,441,86,578,40,637,21,693,7,748,3,803,10,861,31,923,69,968,111,1003,163,1029,220,1046,279,1058,338,1064,393,1067,477,1062,477,1059,393,1052,339,1041,281,1024,222,998,165,964,115,920,73,859,36,802,15,748,8,694,13,639,26,580,45,443,91,364,113,302,135,275,149,250,169,224,194,197,227,174,271,153,335,135,411,119,493,95,652,82,762"/>
+<area shape="rect" id="Node000007" href="$class_wb_view.html#a2550b73b9136be84d4399cf32de3185a" title=" " alt="" coords="1004,790,1126,816"/>
+<area shape="poly" id="edge55_Node000001_Node000007" title=" " alt="" coords="147,789,284,803,442,814,594,817,745,815,988,805,988,811,745,821,594,822,442,819,283,808,147,794"/>
+<area shape="rect" id="Node000008" href="$class_c_world_builder_view.html#a0b12c01b1ef67cac8482b41b097696cd" title="Draw the contours for the height map in the dc." alt="" coords="224,443,365,486"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="90,760,268,497,272,500,94,763"/>
+<area shape="rect" id="Node000009" href="$class_c_world_builder_view.html#aba8ea5ad3967b65e69e57dd49d124e69" title="Get a color for a height value." alt="" coords="477,100,618,143"/>
+<area shape="poly" id="edge43_Node000001_Node000009" title=" " alt="" coords="75,761,79,682,95,566,110,502,130,436,157,373,192,315,219,282,251,253,321,205,394,168,461,143,463,148,396,173,323,209,254,257,223,286,197,318,162,376,135,438,115,503,100,567,84,683,80,761"/>
+<area shape="rect" id="Node000013" href="$class_world_height_map.html#a7b734261e23dbb57c9afdbbb00fa2bd7" title="Get height in normal coordinates." alt="" coords="457,660,638,687"/>
+<area shape="poly" id="edge48_Node000001_Node000013" title=" " alt="" coords="122,759,194,731,322,701,441,683,442,688,323,707,195,736,124,764"/>
+<area shape="rect" id="Node000014" href="$class_wb_view.html#a43e516e58106f8a42cdd3758199e4883" title=" " alt="" coords="443,167,652,194"/>
+<area shape="poly" id="edge52_Node000001_Node000014" title=" " alt="" coords="78,761,89,700,111,615,145,520,167,473,192,430,247,354,299,301,359,257,441,210,470,197,472,202,443,215,362,262,302,305,251,357,197,433,171,476,150,522,116,617,95,701,83,762"/>
+<area shape="rect" id="Node000018" href="$class_world_height_map.html#a48ec74ccb436e57f980ecc1620ce5f38" title="number of vertices in x" alt="" coords="452,711,643,738"/>
+<area shape="poly" id="edge53_Node000001_Node000018" title=" " alt="" coords="146,769,194,762,437,733,438,738,195,767,147,774"/>
+<area shape="rect" id="Node000021" href="$class_c_world_builder_view.html#a3fb90461a42222a78776af8fafb3ca58" title="Draw a texture bitmap in a rectangle in the dc." alt="" coords="224,879,365,922"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="108,803,149,830,196,858,221,870,219,875,193,863,146,835,105,807"/>
+<area shape="rect" id="Node000022" href="$class_c_world_builder_view.html#a107d70b33b011e537a9a3d11fbc816a9" title="Draw the object&#39;s icon in the dc at a given point." alt="" coords="224,972,365,1015"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="93,803,136,865,165,900,196,932,238,962,235,966,193,936,161,903,131,868,89,807"/>
+<area shape="rect" id="Node000025" href="$class_map_object.html#a28c0b1eed74cc71be3e361444414a0bc" title="Get the center point." alt="" coords="732,1199,891,1226"/>
+<area shape="poly" id="edge49_Node000001_Node000025" title=" " alt="" coords="87,804,126,905,157,967,197,1025,254,1096,303,1148,330,1168,361,1187,443,1222,481,1233,520,1239,599,1243,675,1237,739,1227,740,1232,675,1242,599,1248,519,1245,479,1238,441,1227,358,1192,327,1173,300,1152,250,1100,193,1029,153,970,121,907,82,806"/>
+<area shape="rect" id="Node000029" href="$class_map_object.html#a828e198ddc383dc90586fdab44065575" title=" " alt="" coords="195,1351,394,1378"/>
+<area shape="poly" id="edge44_Node000001_Node000029" title=" " alt="" coords="82,805,92,916,114,1077,129,1159,148,1234,171,1296,183,1320,197,1337,200,1340,196,1344,193,1341,179,1322,166,1298,143,1236,124,1160,108,1078,87,917,76,805"/>
+<area shape="rect" id="Node000033" href="$class_map_object.html#ad84208bcfeba66aaf59e6412b282f235" title="Next map object in the list. Not a copy, don&#39;t delete it." alt="" coords="225,1300,364,1327"/>
+<area shape="poly" id="edge50_Node000001_Node000033" title=" " alt="" coords="82,805,95,906,118,1048,134,1121,153,1188,173,1243,197,1280,213,1293,210,1297,193,1283,169,1245,148,1190,129,1123,113,1049,90,906,77,805"/>
+<area shape="rect" id="Node000003" href="$class_c_world_builder_doc.html#a21ca7ec137f392a0147ff73637780f6d" title=" " alt="" coords="701,286,922,312"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="617,768,636,760,651,748,676,690,719,568,799,327,804,328,724,570,681,692,655,751,638,764,620,773"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="617,765,652,748,667,733,676,718,684,702,700,685,777,630,861,584,940,548,1006,522,1008,527,942,553,863,589,780,635,703,689,689,705,680,720,671,736,655,752,620,770"/>
+<area shape="rect" id="Node000005" href="$class_c_world_builder_view.html#ab70e09f616de1b2c2bf911c82ca10e74" title=" " alt="" coords="741,723,882,766"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="619,778,725,763,726,768,619,783"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="619,783,988,797,988,803,619,788"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="741,749,634,765,634,759,740,744"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="857,720,889,701,920,678,958,641,993,601,1045,530,1049,533,997,604,962,645,923,682,892,706,859,725"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="764,723,762,713,770,704,786,698,812,696,838,699,855,705,853,710,837,704,811,702,787,704,773,708,767,714,769,722"/>
+<area shape="rect" id="Node000006" href="$class_c_world_builder_view.html#abaf373a9592e673046be95ca70217371" title=" " alt="" coords="994,723,1136,766"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="883,742,979,742,979,747,883,747"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="883,758,990,783,989,788,882,763"/>
+<area shape="poly" id="edge25_Node000008_Node000004" title=" " alt="" coords="364,452,392,434,408,413,414,390,412,343,411,320,412,297,421,275,440,254,468,236,494,224,519,217,544,216,570,220,597,228,655,254,673,269,682,287,689,305,703,322,779,378,861,423,940,459,1006,484,1005,489,938,464,859,428,776,382,699,326,684,307,677,289,669,272,652,259,595,233,569,225,544,221,520,222,496,229,470,241,444,258,426,278,418,298,416,320,418,343,419,391,412,415,396,438,367,457"/>
+<area shape="poly" id="edge28_Node000008_Node000007" title=" " alt="" coords="314,484,368,541,404,571,443,595,512,621,575,632,633,632,689,628,744,625,801,630,860,648,891,664,923,685,935,696,942,708,949,731,955,754,961,765,971,776,991,787,988,792,968,780,957,768,950,756,944,733,937,710,931,699,920,689,888,668,858,653,800,635,744,630,689,633,633,637,574,637,510,627,441,600,400,575,364,545,311,488"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="297,442,311,384,338,307,357,265,380,225,408,186,440,153,461,139,464,144,444,157,412,190,385,227,362,268,343,309,317,386,302,443"/>
+<area shape="rect" id="Node000010" href="$class_contour_options.html#a71e35948982a95345b7b747790894d53" title="Returns width." alt="" coords="456,543,640,586"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="341,484,443,529,461,535,459,540,441,534,339,489"/>
+<area shape="rect" id="Node000011" href="$class_contour_options.html#a0ef4c5520fbbb8ddd1866e0edb3269ec" title="Returns offset." alt="" coords="442,268,653,295"/>
+<area shape="poly" id="edge14_Node000008_Node000011" title=" " alt="" coords="307,441,360,373,398,336,441,305,452,299,455,303,443,309,401,340,364,377,312,444"/>
+<area shape="rect" id="Node000012" href="$class_contour_options.html#aee7837f16e12188c0b9862fd463c0683" title=" " alt="" coords="456,343,640,386"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="339,440,441,395,459,389,461,394,443,400,341,445"/>
+<area shape="poly" id="edge17_Node000008_Node000013" title=" " alt="" coords="310,484,331,519,362,560,399,603,443,640,467,652,465,657,441,644,396,607,357,564,327,522,305,487"/>
+<area shape="poly" id="edge18_Node000008_Node000014" title=" " alt="" coords="309,441,348,382,392,310,404,281,411,257,420,234,440,210,458,198,461,203,444,214,424,237,416,259,409,283,396,312,352,385,313,444"/>
+<area shape="poly" id="edge24_Node000008_Node000018" title=" " alt="" coords="305,485,323,530,352,588,392,647,416,674,444,697,451,702,448,706,440,701,413,678,388,650,347,591,318,532,300,487"/>
+<area shape="rect" id="Node000019" href="$class_c_world_builder_view.html#a79d629698a39e050e4196d845c439560" title="Interpolate the point at a given height between 2 points." alt="" coords="477,410,618,452"/>
+<area shape="poly" id="edge26_Node000008_Node000019" title=" " alt="" coords="365,452,461,440,462,445,366,458"/>
+<area shape="rect" id="Node000020" href="$class_c_world_builder_view.html#a3d0a11386d6939246c79a87d0e4cda28" title="Compound boolean expression." alt="" coords="477,476,618,519"/>
+<area shape="poly" id="edge27_Node000008_Node000020" title=" " alt="" coords="366,471,462,484,461,489,365,476"/>
+<area shape="poly" id="edge16_Node000012_Node000012" title=" " alt="" coords="500,343,498,333,506,324,523,318,548,316,575,319,591,325,589,330,573,324,548,322,524,324,509,328,503,334,505,342"/>
+<area shape="poly" id="edge20_Node000014_Node000003" title=" " alt="" coords="615,192,655,210,670,224,680,238,688,252,703,265,728,278,726,282,700,269,684,255,675,241,666,228,652,215,613,197"/>
+<area shape="poly" id="edge23_Node000014_Node000007" title=" " alt="" coords="597,192,702,220,736,227,768,228,823,227,849,228,874,235,899,249,924,272,936,291,945,316,953,376,953,448,949,525,945,603,945,674,952,734,960,758,972,776,991,791,988,795,968,780,956,760,947,735,939,675,939,603,944,525,948,448,948,376,939,317,931,294,920,275,896,253,872,240,848,234,823,232,767,233,736,232,701,226,596,197"/>
+<area shape="rect" id="Node000015" href="$class_c_world_builder_app.html#a3b0e71e2e5982a1dda8f6903740fa842" title=" " alt="" coords="712,134,911,160"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="653,164,697,159,697,164,653,170"/>
+<area shape="rect" id="Node000016" href="$class_tool.html#af9b98967af2395ac890b62fc860d5c98" title=" " alt="" coords="744,184,879,211"/>
+<area shape="poly" id="edge21_Node000014_Node000016" title=" " alt="" coords="653,185,729,190,728,195,653,190"/>
+<area shape="rect" id="Node000017" href="$_world_builder_8h.html#a004e590242414409ae0f30845916b173" title=" " alt="" coords="779,83,844,110"/>
+<area shape="poly" id="edge22_Node000014_Node000017" title=" " alt="" coords="621,164,652,153,676,136,700,119,732,108,763,101,764,106,733,113,703,124,679,141,655,157,622,169"/>
+<area shape="poly" id="edge31_Node000022_Node000002" title=" " alt="" coords="338,969,366,952,392,932,407,915,416,900,425,884,440,865,501,812,505,816,444,869,430,887,421,902,411,918,396,936,369,957,341,974"/>
+<area shape="poly" id="edge42_Node000022_Node000007" title=" " alt="" coords="365,984,474,969,613,946,768,913,921,870,977,847,1026,822,1028,827,979,852,923,875,769,919,614,951,474,975,366,989"/>
+<area shape="rect" id="Node000023" href="$class_map_object.html#adbb94f89e42f756f52a2625e4ee3eb61" title="Get the angle." alt="" coords="740,1003,883,1030"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="366,994,725,1010,724,1015,365,999"/>
+<area shape="rect" id="Node000024" href="$class_map_object.html#ab4f7447053e57b06bd1221b96e589b53" title="Gets whatever ui color we set." alt="" coords="477,879,618,906"/>
+<area shape="poly" id="edge33_Node000022_Node000024" title=" " alt="" coords="337,969,441,922,481,908,482,913,443,927,339,974"/>
+<area shape="poly" id="edge34_Node000022_Node000025" title=" " alt="" coords="309,1014,329,1049,359,1092,398,1134,443,1167,510,1195,582,1210,653,1217,716,1217,716,1223,652,1222,581,1216,509,1200,441,1172,394,1138,355,1095,325,1052,304,1017"/>
+<area shape="rect" id="Node000026" href="$class_c_world_builder_doc.html#a3c141c644d5ddd5631d05f33aeae6664" title="Gets the arrow point location." alt="" coords="460,1031,635,1074"/>
+<area shape="poly" id="edge35_Node000022_Node000026" title=" " alt="" coords="366,1007,446,1026,445,1031,365,1013"/>
+<area shape="rect" id="Node000027" href="$class_vector3.html#a0f56dec577319beb9439c525dc25124c" title=" " alt="" coords="748,1124,875,1151"/>
+<area shape="poly" id="edge41_Node000022_Node000027" title=" " alt="" coords="312,1014,333,1043,364,1077,401,1110,443,1134,479,1146,517,1154,594,1161,668,1159,732,1151,733,1156,668,1164,594,1167,516,1160,478,1151,441,1139,397,1114,360,1081,329,1047,307,1017"/>
+<area shape="rect" id="Node000028" href="$class_map_object.html#aeaf362c8782c7e3916a4e100c4be6a69" title=" " alt="" coords="471,1098,624,1124"/>
+<area shape="poly" id="edge40_Node000022_Node000028" title=" " alt="" coords="325,1013,378,1049,443,1083,462,1090,460,1095,441,1088,376,1054,322,1018"/>
+<area shape="poly" id="edge36_Node000026_Node000023" title=" " alt="" coords="635,1038,724,1026,725,1031,636,1043"/>
+<area shape="poly" id="edge37_Node000026_Node000025" title=" " alt="" coords="637,1072,655,1084,672,1103,680,1123,688,1142,703,1161,726,1177,751,1190,749,1195,723,1182,699,1165,683,1145,675,1125,668,1106,652,1088,634,1077"/>
+<area shape="poly" id="edge38_Node000026_Node000027" title=" " alt="" coords="619,1072,654,1083,755,1117,754,1122,653,1088,617,1077"/>
+<area shape="poly" id="edge39_Node000027_Node000027" title=" " alt="" coords="769,1126,761,1116,767,1106,784,1100,812,1098,842,1100,858,1107,856,1112,841,1106,811,1103,785,1105,770,1110,767,1115,773,1122"/>
+<area shape="rect" id="Node000030" href="$class_map_object.html#aea273b2965d18e7928227fe1b1d685cf" title=" " alt="" coords="470,1327,625,1354"/>
+<area shape="poly" id="edge45_Node000029_Node000030" title=" " alt="" coords="394,1352,454,1347,455,1352,395,1358"/>
+<area shape="rect" id="Node000031" href="$_game_common_8cpp.html#a6b82567dea14f55d2df66aece04b0510" title=" " alt="" coords="756,1272,867,1299"/>
+<area shape="poly" id="edge46_Node000030_Node000031" title=" " alt="" coords="615,1324,741,1298,742,1303,616,1329"/>
+<area shape="rect" id="Node000032" href="$class_map_object.html#a95ff777b023ae2bbaa8d7f310c2e1c53" title=" " alt="" coords="717,1323,906,1366"/>
+<area shape="poly" id="edge47_Node000030_Node000032" title=" " alt="" coords="626,1339,701,1340,701,1345,626,1344"/>
+<area shape="poly" id="edge51_Node000033_Node000030" title=" " alt="" coords="364,1318,455,1328,454,1333,364,1324"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="Pathfinder::getClippedCell" name="Pathfinder::getClippedCell">
+<area shape="rect" id="Node000001" title="Given a position, return associated grid cell." alt="" coords="817,277,991,304"/>
+<area shape="rect" id="Node000002" href="$class_pathfinder.html#ac8bf0ff13761157835822458f84ba05e" title=" " alt="" coords="562,5,749,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="892,263,875,219,849,164,813,109,792,84,768,62,748,50,751,45,771,58,796,80,818,106,854,162,880,217,897,261"/>
+<area shape="rect" id="Node000003" href="$class_pathfinder.html#a1344fcfed05c378f63d134f2f1f73365" title=" " alt="" coords="566,72,744,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="888,264,869,229,842,188,808,147,768,113,743,101,746,96,771,108,812,143,847,185,874,226,893,262"/>
+<area shape="rect" id="Node000006" href="$class_pathfinder.html#a2993bb7b20db15460d180d0790b03aa5" title="Checks cost between given locations." alt="" coords="10,185,190,212"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="866,272,821,249,769,231,691,214,611,203,452,191,307,190,190,194,190,189,306,184,452,185,612,198,692,209,770,225,823,244,868,267"/>
+<area shape="rect" id="Node000007" href="$class_pathfinder.html#ab27d2b0717ee17d52320053522bf7567" title="Can we build any path at all between the locations (terrain &amp; buildings check &#45; fast)" alt="" coords="565,123,745,165"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="876,269,828,227,768,186,729,168,731,163,771,182,831,223,880,264"/>
+<area shape="rect" id="Node000008" href="$class_pathfinder.html#a5ddcf82b13665526c3b2d893cc2773c8" title="Can we build any path at all between the locations (terrain onlyk &#45; fast)" alt="" coords="565,240,745,283"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="802,281,745,275,746,269,802,276"/>
+<area shape="rect" id="Node000009" href="$class_pathfinder.html#accc6d6b14b0ec106cc2134589957c660" title=" " alt="" coords="562,307,749,333"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="802,305,750,312,749,306,802,300"/>
+<area shape="rect" id="Node000010" href="$class_pathfinder.html#a137b68f45d1d96e0d842beb544f2d5de" title="Find a short, valid path of the desired width on the ground." alt="" coords="279,373,457,400"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="863,314,819,332,770,348,688,365,605,376,458,387,457,382,604,371,687,360,769,343,817,327,861,309"/>
+<area shape="rect" id="Node000011" href="$class_pathfinder.html#ac21829aeaa446d39d157d1ef8dd01d13" title=" " alt="" coords="541,408,769,435"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="878,317,830,355,771,392,722,410,720,405,768,387,827,351,875,312"/>
+<area shape="rect" id="Node000012" href="$class_pathfinder.html#a4c84f53e2db7c30983d52223de9f7317" title=" " alt="" coords="582,459,728,501"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="889,319,842,384,809,419,771,449,730,468,727,463,768,444,805,415,838,380,885,315"/>
+<area shape="rect" id="Node000015" href="$class_pathfinder.html#ac99bc6649455c2bcf471b46099d7d29e" title="Find a short, valid path between given locations." alt="" coords="564,525,746,552"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="897,319,880,363,854,416,818,470,796,495,771,516,748,528,746,523,768,511,792,491,814,467,849,414,875,361,892,317"/>
+<area shape="rect" id="Node000004" href="$class_pathfinder.html#ad65e0c1bd181eb4ef59fb98da473c27c" title=" " alt="" coords="278,131,458,157"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="572,105,438,133,436,127,571,100"/>
+<area shape="rect" id="Node000005" href="$class_pathfinder.html#a9aa5311f6a9129dd6141eb51d1453953" title=" " alt="" coords="5,131,195,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="263,147,195,147,195,141,263,141"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="285,164,169,187,168,182,283,158"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="147,118,131,112,100,109,72,111,56,116,53,121,59,128,55,132,47,122,53,112,71,106,100,104,132,107,149,113"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="550,147,458,147,458,141,550,141"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="567,458,540,449,492,432,409,403,411,398,494,427,542,444,569,453"/>
+<area shape="rect" id="Node000013" href="$class_pathfinder.html#a6b38cb78949b167525f9aed5d2ac7e31" title=" " alt="" coords="243,441,493,468"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="567,475,493,468,494,463,567,470"/>
+<area shape="rect" id="Node000014" href="$class_pathfinder.html#aafb483da862b6ef6979a749696669a1a" title=" " alt="" coords="265,492,470,519"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="567,490,471,499,471,494,567,485"/>
+</map>

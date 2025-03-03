@@ -1,0 +1,41 @@
+<map id="TurretAI::getOwner" name="TurretAI::getOwner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="691,360,824,387"/>
+<area shape="rect" id="Node000002" href="$class_turret_a_i.html#aa7c2a1cee790931324fc30f7ca0a75aa" title=" " alt="" coords="222,172,392,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,347,728,315,706,279,677,244,642,217,612,203,581,193,515,181,450,179,392,182,392,177,450,173,516,176,582,187,614,198,645,212,681,240,710,275,732,312,748,344"/>
+<area shape="rect" id="Node000005" href="$class_turret_a_i.html#a32542db353d40f7e138c225a13b12da5" title=" " alt="" coords="226,105,388,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="746,346,733,307,711,261,681,215,663,195,642,178,612,161,581,148,514,130,448,123,388,122,388,117,448,118,515,125,583,143,615,156,645,174,666,191,685,212,716,258,738,305,751,344"/>
+<area shape="rect" id="Node000008" href="$class_turret_a_i.html#acc8d60d1e29873412393c194cc070b2b" title=" " alt="" coords="448,293,643,336"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="692,358,625,339,626,334,693,353"/>
+<area shape="rect" id="Node000009" href="$class_turret_a_i_aim_turret_state.html#aba04e8a61b792a7ecf0e095803c09a97" title=" " alt="" coords="229,327,385,369"/>
+<area shape="poly" id="edge22_Node000001_Node000009" title=" " alt="" coords="676,371,385,355,386,350,676,366"/>
+<area shape="rect" id="Node000010" href="$class_turret_a_i.html#a1b5c663dc277d8d6c3ac157ddd5c98cf" title=" " alt="" coords="452,544,639,587"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="746,402,707,468,678,503,645,534,626,546,623,541,642,530,674,500,702,465,741,399"/>
+<area shape="rect" id="Node000013" href="$class_turret_a_i.html#ad0f2ba7bf5772e33736df5061671fac6" title=" " alt="" coords="459,411,632,453"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="693,394,626,413,625,407,692,389"/>
+<area shape="rect" id="Node000014" href="$class_turret_a_i.html#a2637509860e97383d3eb903b9fc994dd" title=" " alt="" coords="459,477,632,520"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="733,400,693,434,645,468,620,479,618,474,642,463,690,430,730,396"/>
+<area shape="rect" id="Node000015" href="$class_turret_a_i.html#a66dc48b94b2410f67a70756a02c86529" title=" " alt="" coords="464,227,628,269"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="730,351,690,317,642,284,618,272,620,267,645,279,693,312,733,347"/>
+<area shape="rect" id="Node000017" href="$class_turret_a_i.html#a7321dfbcbdf1c29116b7d0e0c8c645ce" title=" " alt="" coords="464,611,628,653"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="752,403,739,446,717,499,686,553,667,578,645,601,629,612,626,608,642,597,663,575,682,550,712,497,734,444,747,401"/>
+<area shape="rect" id="Node000003" href="$class_turret_a_i_hold_turret_state.html#a5871041ad14ed36bf3bdc1532de41cb2" title=" " alt="" coords="5,205,166,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,211,167,217,166,212,206,206"/>
+<area shape="rect" id="Node000004" href="$class_turret_a_i_idle_state.html#ac9fb0f89599e632019729c9c0114543a" title="implements this state&#39;s behavior, decides when to change state" alt="" coords="21,139,150,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="207,181,150,172,151,167,207,176"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="226,157,215,162,191,179,167,196,144,207,141,202,164,191,188,174,212,158,224,152"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="212,144,151,153,150,148,211,138"/>
+<area shape="rect" id="Node000006" href="$class_turret_a_i_hold_turret_state.html#a8655a85fdf4bda31afac071dd54b8cb3" title="executed once when entering state" alt="" coords="5,5,166,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="246,101,165,62,138,51,141,46,167,58,248,96"/>
+<area shape="rect" id="Node000007" href="$class_turret_a_i_idle_state.html#a97a0ecbe1adca77e08944c94c8ee2ad9" title="executed once when entering state" alt="" coords="21,72,150,115"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="211,115,150,106,151,100,212,110"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="433,333,386,340,385,334,432,328"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="453,539,446,534,403,495,366,450,337,406,317,371,321,368,341,403,370,447,407,491,450,530,456,534"/>
+<area shape="rect" id="Node000011" href="$class_turret_a_i_idle_scan_state.html#a2b317055ad47b0c9b602fdbc908e5c54" title=" " alt="" coords="232,511,382,553"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="437,553,382,545,383,540,438,548"/>
+<area shape="rect" id="Node000012" href="$class_turret_a_i_recenter_turret_state.html#a32c25d7ea0fd0856cf6b7f24870c5a5b" title=" " alt="" coords="214,577,400,620"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="438,583,401,588,400,583,437,578"/>
+<area shape="poly" id="edge18_Node000015_Node000002" title=" " alt="" coords="448,228,391,215,393,210,449,223"/>
+<area shape="poly" id="edge20_Node000015_Node000009" title=" " alt="" coords="465,278,449,284,352,328,350,324,447,279,463,273"/>
+<area shape="rect" id="Node000016" href="$class_turret_a_i.html#a2ce85cd5c550878b49d940c7ade39553" title=" " alt="" coords="221,239,393,281"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="448,256,394,258,393,253,448,250"/>
+</map>

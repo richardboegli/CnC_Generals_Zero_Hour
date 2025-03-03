@@ -1,0 +1,20 @@
+<map id="Pathfinder::lineBlockedByObstacleCallback" name="Pathfinder::lineBlockedByObstacleCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,177,149"/>
+<area shape="rect" id="Node000002" href="$class_object.html#a6c17829820a29ded73578abd29906943" title="this object&#39;s unique ID" alt="" coords="256,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,104,223,48,252,36,254,40,226,53,128,109"/>
+<area shape="rect" id="Node000003" href="$class_pathfind_cell.html#a2f580b553cecee9838a8695af4f510f6" title="get the cell type" alt="" coords="446,85,592,112"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,103,224,92,331,86,430,89,430,94,331,91,225,97,166,109"/>
+<area shape="rect" id="Node000004" href="$class_pathfind_cell.html#a08192ce5cb6e0b952cc7c547c19a169d" title="return true if the given object ID is registered as an obstacle in this cell" alt="" coords="225,107,387,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,125,209,125,209,131,177,131"/>
+<area shape="rect" id="Node000005" href="$class_pathfind_cell.html#aa0d95e1704cc036f23913d9c88195875" title="return true if the obstacle in the cell is KINDOF_CAN_SEE_THROUGHT_STRUCTURE" alt="" coords="225,173,387,216"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="163,147,221,166,219,171,161,152"/>
+<area shape="rect" id="Node000006" href="$class_pathfinder.html#a3c9bb32a29041e93e4dfc729661f15f8" title=" " alt="" coords="232,240,380,267"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="118,148,166,187,226,226,239,232,237,237,223,230,163,191,114,152"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="387,114,430,108,430,114,388,119"/>
+<area shape="rect" id="Node000007" href="$class_pathfind_cell_info.html#a590b291ca0654ad8af4b39a4b9daa490" title=" " alt="" coords="435,203,602,245"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="380,241,419,235,420,240,380,246"/>
+<area shape="rect" id="Node000009" href="$class_pathfinder.html#ae7b96c62cd929a03247ca0e920782cb4" title="Reset system in preparation for new map." alt="" coords="460,269,577,296"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="380,261,445,270,444,275,380,266"/>
+<area shape="rect" id="Node000008" href="$class_pathfind_cell_info.html#a31ab41557f67eb3b9b3f13b30982e9d3" title=" " alt="" coords="650,203,815,245"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="603,221,635,221,635,227,603,227"/>
+</map>
