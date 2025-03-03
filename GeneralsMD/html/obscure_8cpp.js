@@ -1,4 +1,0 @@
-var obscure_8cpp =
-[
-    [ "Obfuscate", "obscure_8cpp.html#a4ea1a5575a52fa44d3b9b08d0bd49bab", null ]
-];
