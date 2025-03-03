@@ -1,10 +1,8 @@
-# Command & Conquer Generals (inc. Zero Hour) Source Code
+# Command & Conquer Generals (inc. Zero Hour) Source Code - Only Zero Hour compiles
 
 This repository includes source code for Command & Conquer Generals, and its expansion pack Zero Hour. This release provides support to the Steam Workshop for both games ([C&C Generals](https://steamcommunity.com/workshop/browse/?appid=2229870) and [C&C Generals - Zero Hour](https://steamcommunity.com/workshop/browse/?appid=2732960)).
 
-This is a clean up of @Omniblade commit: https://github.com/electronicarts/CnC_Generals_Zero_Hour/commit/3b1a5d970f7c107b2173528458c037d309d49391 utilsing help from the AWESOME Thyme community @xezon @tomsons26 @disarray @hanfield @v @Irwon @TheAuthir
-
-**Note: Only Zero Hour compiles**
+This is a clean up of @Omniblade [commit](https://github.com/electronicarts/CnC_Generals_Zero_Hour/commit/3b1a5d970f7c107b2173528458c037d309d49391) utilsing help from the AWESOME Thyme community @xezon @tomsons26 @disarray @hanfield @v @Irwon @TheAuthir
 
 ## Dependencies
 
@@ -37,5 +35,11 @@ This repository and its contents are licensed under the GPL v3 license, with add
 Find other forks here
 https://github.com/electronicarts/CnC_Generals_Zero_Hour/forks
 
+## Documentation
+[Documentation on source code](https://richardboegli.github.io/)
+
+## Known Issues
+1. SoundFX are not working correctly
+2. Only Zero Hour compiles
 
 
