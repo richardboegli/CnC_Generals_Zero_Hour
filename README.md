@@ -18,12 +18,12 @@ To use the compiled binaries, you must own the game. The C&C Ultimate Collection
 
 1. Install VS6 SP6
 2. Install CMake
-3. Copy DX8SDK into Dependencies folder
-4. Copy dbghelp.lib into DX8SDK
-5. Clone code in this repo
-6. cmake --preset vc6
-7. cd build\vc6
-8. nmake
+3. Clone code in this repo
+4. Copy DX8SDK into Dependencies folder
+5. Copy dbghelp.lib into DX8SDK
+7. cmake --preset vc6
+8. cd build\vc6
+9. nmake
 
 When the workspace has finished building, the compiled binary will be called zerohour.exe
 
